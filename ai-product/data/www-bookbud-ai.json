@@ -1,0 +1,40 @@
+{
+  "description": "BookBud.ai transforms aspiring writers into global publishers with rapid, all-inclusive tools, anchored by over a decade of industry expertise, by creating ebooks, print books, and audiobooks for publication.",
+  "title": "BookBud.ai: Create Books with AI for Publication",
+  "keywords": "AI book creation, Self-publishing AI, AI for authors, Ebook creation AI, Print book publishing AI, Audiobook production AI, Automated book writing, AI writing assistant for books, Non-fiction writing AI, Fiction writing AI",
+  "introduction": "Our product is a cutting-edge AI-powered writing assistant designed to help users create high-quality content quickly and efficiently. Whether you're a professional writer, a student, or a business owner, our tool can help you generate ideas, improve your writing, and save time.",
+  "category": "Text&Writing",
+  "features": [
+    "AI-powered content generation",
+    "Grammar and spell check",
+    "Plagiarism detection",
+    "Style and tone suggestions",
+    "Customizable templates"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professional writers, students, business owners",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a 7-day free trial for new users."
+    },
+    {
+      "question": "Can I customize the writing templates?",
+      "answer": "Yes, our tool offers customizable templates to suit your specific needs."
+    },
+    {
+      "question": "Does the tool check for plagiarism?",
+      "answer": "Yes, our writing assistant includes a plagiarism detection feature."
+    },
+    {
+      "question": "What types of content can I generate with this tool?",
+      "answer": "You can generate a wide range of content including articles, blog posts, essays, and more."
+    },
+    {
+      "question": "Is the tool suitable for non-native English speakers?",
+      "answer": "Yes, our tool is designed to help both native and non-native English speakers improve their writing."
+    }
+  ],
+  "url": "https://www.bookbud.ai/"
+}

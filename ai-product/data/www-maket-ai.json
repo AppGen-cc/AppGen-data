@@ -1,0 +1,41 @@
+{
+  "description": "Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.",
+  "title": "Generative Design | Architecture Design Software | Maket",
+  "introduction": "Maket is a generative architecture platform that revolutionizes residential planning by empowering users to automate floorplans, 3D renders, and explore limitless styles. It offers features like design freedom, informed decisions, and regulatory confidence.",
+  "category": "Design&Art",
+  "features": [
+    "Generative Design for Residential Planning",
+    "Design Freedom",
+    "Informed Decisions",
+    "Regulatory Confidence",
+    "Unlimited Designs",
+    "Real-Time Collaboration",
+    "Enhance Workflow"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Architects, Designers, and Real Estate Developers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Maket's Plan Generator, and how does it work?",
+      "answer": "Maket's Plan Generator allows users to input constraints through parameters or natural language to generate hundreds of residential floorplan variations instantly."
+    },
+    {
+      "question": "Can Maket's platform help me explore different interior and exterior design styles?",
+      "answer": "Yes, Maket's platform enables users to visualize different design styles with a single text prompt and transition between styles effortlessly."
+    },
+    {
+      "question": "How can I use Maket to get information about materials, costs, and design options?",
+      "answer": "Maket provides a virtual assistant that offers expert guidance on materials, costs, and design options, helping users make informed decisions."
+    },
+    {
+      "question": "What is Maket's Regulatory Assistant, and how can it help me navigate zoning codes?",
+      "answer": "Maket's Regulatory Assistant simplifies compliance by allowing users to upload zoning codes, ask questions in plain language, and receive instant answers for compliant designs."
+    },
+    {
+      "question": "Can Maket help me with both the design and regulatory aspects of my architectural project?",
+      "answer": "Yes, Maket offers tools for both design tasks and regulatory compliance, ensuring projects align with zoning codes and regulations."
+    }
+  ],
+  "url": "https://www.maket.ai/"
+}

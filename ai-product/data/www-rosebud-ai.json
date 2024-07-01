@@ -1,0 +1,26 @@
+{
+  "description": "Use AI to create, share and play games. AI-driven tools for game assets, developer platform, avatar animation, AI-generated skyboxes, textures, and more.",
+  "title": "Rosebud AI: Build Games at the Speed of Thought. AI Powered Game Development",
+  "keywords": "ai generated game assets",
+  "introduction": "Rosebud AI Game Maker allows users to create games by generating AI-powered content from text descriptions. Users can prompt, publish, and play games developed through creative conversations with AI characters. The platform enables students to craft interactive stories and explore games built with AI assistance.",
+  "features": [
+    "Engage in conversations with AI characters",
+    "Enable students to craft captivating games",
+    "Create assets and code with the help of Rosie, the AI assistant"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Rosebud AI Game Maker?",
+      "answer": "Rosebud AI Game Maker is a platform that allows users to create games by generating AI-powered content from text descriptions."
+    },
+    {
+      "question": "How can students benefit from Rosebud AI Game Maker?",
+      "answer": "Students can use Rosebud AI Game Maker to craft captivating games through creative conversations and explore games built with AI assistance."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in creating games with AI technology",
+  "url": "https://www.rosebud.ai/"
+}

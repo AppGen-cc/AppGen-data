@@ -1,0 +1,33 @@
+{
+  "description": "With AssemblyAI's industry-leading Speech AI models, transcribe speech to text and extract insights from your voice data.",
+  "title": "AssemblyAI | AI models to transcribe and understand speech",
+  "introduction": "AssemblyAI offers Speech AI models for accurate speech-to-text conversion, speaker detection, sentiment analysis, chapter detection, and PII redaction. Their most powerful model, Universal-1, is trained on 12.5M hours of multilingual audio data. Leading companies use AssemblyAI for innovative AI products with voice data.",
+  "features": [
+    "Automatic Language Detection",
+    "Auto Punctuation and Casing",
+    "Export Paragraphs/Sentences",
+    "End of Utterance Detection",
+    "LeMUR - Apply LLMs to voice data and explore various LLM capabilities",
+    "Audio Intelligence - Analyze and extract insights from voice data",
+    "PII Audio Redaction"
+  ],
+  "pricing": "Pricing scales based on usage, with options for different AI models and volume-based discounts.",
+  "faqs": [
+    {
+      "question": "What is Universal-1?",
+      "answer": "Universal-1 is AssemblyAI's most powerful and accurate Speech AI model, trained on 12.5M hours of multilingual audio data."
+    },
+    {
+      "question": "What features does AssemblyAI offer?",
+      "answer": "AssemblyAI offers features like automatic language detection, punctuation and casing, paragraph/sentence export, end of utterance detection, LeMUR for applying LLMs to voice data, audio intelligence for insights extraction, and PII audio redaction."
+    },
+    {
+      "question": "How does the pricing work?",
+      "answer": "Pricing is based on usage, allowing users to choose AI models for their specific use cases and offering discounts for higher volumes."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Free",
+  "targetPeople": "Developers",
+  "url": "https://www.assemblyai.com/"
+}

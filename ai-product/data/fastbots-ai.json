@@ -1,0 +1,107 @@
+{
+  "description": "Use the power of ChatGPT to create ai chatbots powered by your own custom business data. Install on your Website for customer support.",
+  "title": "Ai Customer Service ChatBots Trained On Your Custom Data",
+  "introduction": "FastBots.ai is an intuitive AI chatbot builder that allows you to create a fully automated AI chatbot like ChatGPT to help you or your customers get fast answers about your business with zero coding. The platform supports importing various types of data and offers extensive customization options.",
+  "category": "Chatbot",
+  "features": [
+    "Import data from websites, DOCX, TXT, PDF files, and YouTube videos",
+    "Customizable welcome message, chat icon, and color scheme",
+    "Embed chatbot on any website",
+    "Chat history and insights",
+    "Bot personas for different purposes",
+    "Supports multiple GPT models including OpenAI's GPT-3.5, GPT-4, and Claude 3",
+    "Military-grade encryption for data security",
+    "No-code platform",
+    "Supports around 95 languages",
+    "Zapier integration for connecting to over 5000 apps",
+    "Automated retraining for frequently updated websites",
+    "Automatic lead collection",
+    "Custom domain name option"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Business owners, customer support teams, sales teams, and individuals looking to automate interactions and improve productivity",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is FastBots?",
+      "answer": "FastBots is an intuitive AI chatbot builder. It allows you to create a chatbot trained on the content of your webpages, documents, and more. This chatbot can then be integrated into your website to function as a question-answer bot, enhancing customer interaction and support."
+    },
+    {
+      "question": "How secure is my data when using Fastbots?",
+      "answer": "We use all the best security practices, such as including no credentials directly in code, secure OAuth2 mechanisms, and both platforms used to store your data are SOC2 compliant."
+    },
+    {
+      "question": "How can I customise my chatbot?",
+      "answer": "Yes, FastBots offers extensive customisation options for your chatbot. You can personalise the welcome message, bot avatar, colours, and more. We also provide the option to customise the personality and tone of the bot to match your brand's voice."
+    },
+    {
+      "question": "Does FastBots.ai store chat history for me?",
+      "answer": "Yes, we securely store your chat history. You can access all chat interactions in the History section of your bot control panel. We are also developing features to provide valuable insights based on this history."
+    },
+    {
+      "question": "What type of content can I use to train my chatbot?",
+      "answer": "FastBots.ai supports a wide range of content types. Our built-in crawler can quickly navigate through your entire website and extract all text content. We currently support importing of text, sitemaps, PDF, DOC, DOCX, CSV, XLS files, Google Sheets and YouTube video URLs."
+    },
+    {
+      "question": "Can I create different Chatbots for different purposes such as Support, Sales, Research etc?",
+      "answer": "Yes you can. We give you the ability to create a prompt for each chatbot to fine tune it for your specific needs and requirements. You can effectively create bots with different personas."
+    },
+    {
+      "question": "Can I add more Chatbots to my account if I need to?",
+      "answer": "Yes, you can. Your two choices are either to upgrade to a higher plan that includes more chatbots or just add as many extra bots as you need by going to 'Account' and selecting your chosen number of extra Chatbots."
+    },
+    {
+      "question": "How do I install the chatbot on my Website?",
+      "answer": "It's super simple. All you do is take a code snippet that we provide you and add it in the head section of your website. We have full instructions on how to do that here. If you are on one of our paid plans and are concerned about doing that yourself, one of our team members will even do it for you. Just go to our installation request form, and it will be done within 24 hours."
+    },
+    {
+      "question": "What platforms does FastBots you integrate with?",
+      "answer": "We work with over 5000+ different apps by utilising our Zapier integration. We also have our own WordPress plugin."
+    },
+    {
+      "question": "What is a message credit?",
+      "answer": "Each individual response that the AI chatbot provides consumes a message credit. However, each language model uses a different amount of message credit per response: GPT-3.5 & Claude Haiku = 1 Message Credit, GPT-4o = 5 Message Credits, GPT-4 Turbo & Claude 3 Sonnet = 10 Message Credits, GPT-4 = 30 Message Credits, Claude 3 Opus = 30 Message Credits."
+    },
+    {
+      "question": "Do you have a free trial?",
+      "answer": "Yes we do! In fact, we have a free plan (Free) that allows up to 50 messages a month."
+    },
+    {
+      "question": "What LLMs models does FastBots.ai use?",
+      "answer": "We currently utilise OpenAI's GPT 3.5, GPT-4 Turbo, GPT-4o, GPT-4, Claude Haiku , Claude 3 Sonnet, and Claude 3 Opus, depending on your plan and settings."
+    },
+    {
+      "question": "Can I use my customer chatbot in a language other than English?",
+      "answer": "Yes, our platform supports around 95 languages. You can train your bot in any language, and your users can interact with it in any language."
+    },
+    {
+      "question": "How quickly can I get my AI chatbot up and running?",
+      "answer": "In most cases, you can go from signup to a working bot on your website in just 5 minutes. No coding is needed."
+    },
+    {
+      "question": "Do you provide ongoing support?",
+      "answer": "Absolutely. Although our platform is very easy to use we understand there will be times when you may need to speak to our team. For any support requests, simply email support@fastbots.ai."
+    },
+    {
+      "question": "What happens if I run out of message credits?",
+      "answer": "Don't worry, you can easily buy more credits to add to your account. Just go to 'Account' and purchase however many you need. If you don't want to add more, your ChatBot will start collecting their name, email, and message from your users so you don't miss any potential sales."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "We find that most subscribers love the time and money savings of having an AI Chatbot but you can cancel your subscription at any time if you wish to."
+    },
+    {
+      "question": "Why do you delete the chatbots in the free starter plan after 14 days of inactivity?",
+      "answer": "If a free chatbot has been created and is not being used, it still consumes data storage space, which costs us money. Rather than pass on these unnecessary costs to our paid users, it makes sense to remove them. It also allows us to continue offering free chatbots to those who are actively using them."
+    },
+    {
+      "question": "Is FastBots.ai GDPR compliant?",
+      "answer": "Privacy and security are paramount to our business and as such we have ensured that both our systems and that of our partner providers are GDPR compliant and secure. For more information on what it means to be GDPR compliant, click here."
+    },
+    {
+      "question": "Is my private uploaded data being used to train Open AI?",
+      "answer": "No, it is not. We connect to Open AI via it's API service, and as such, your data is not being used to train the Large Language Model. Read more about it here."
+    }
+  ],
+  "url": "https://fastbots.ai/"
+}

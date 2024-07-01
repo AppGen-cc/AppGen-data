@@ -1,0 +1,44 @@
+{
+  "description": "Lumen5 is a video creation platform powered by AI that enables anyone without training or experience to easily create engaging video content within minutes.",
+  "title": "Lumen5 - Video Maker | Create Videos Online in Minutes ",
+  "introduction": "Lumen5 is an online AI video creator that revolutionizes the way video content is created and shared. It offers a range of plans for different user needs, from casual video enthusiasts to professional video storytellers and marketing teams. With features like AI voiceover, custom templates, and team management, Lumen5 aims to simplify the video creation process.",
+  "features": [
+    "Advanced AI Script Composer features",
+    "Longer AI Voiceover videos and more voices",
+    "1080p video resolution",
+    "50M+ stock photos & videos",
+    "Custom colors",
+    "Custom watermarks",
+    "Upload your own fonts",
+    "Multiple saved templates",
+    "Multiple brand kits",
+    "Lumen5 design team",
+    "Bespoke branded templates",
+    "Dedicated customer success",
+    "Teams & collaboration",
+    "Enterprise-level security"
+  ],
+  "pricing": "Lumen5 offers a range of plans starting from Basic at $29 USD/month to Enterprise with custom pricing. Users can save 25% by opting for annual billing. The Enterprise plan includes features like Lumen5 design team, bespoke branded templates, and dedicated customer success.",
+  "hasFreeTrial": "No",
+  "targetPeople": "Individual content creators, professional video storytellers, video marketing teams",
+  "faqs": [
+    {
+      "question": "What happens to my videos if I cancel?",
+      "answer": "All the videos you create are yours to keep forever and ever."
+    },
+    {
+      "question": "How do I pay for my plan?",
+      "answer": "You can pay with Visa, Mastercard, and American Express. All prices are in USD. Invoiced billing is available on the Enterprise plan."
+    },
+    {
+      "question": "Do you have a non-profit discount?",
+      "answer": "Yes, contact us for more information."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Monthly plans allow for cancellation anytime."
+    }
+  ],
+  "category": "The website \"Lumen5\" falls under the category of \"Video\".",
+  "url": "https://lumen5.com/"
+}

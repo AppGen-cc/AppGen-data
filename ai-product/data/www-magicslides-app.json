@@ -1,0 +1,28 @@
+{
+  "description": "MagicSlides.app is AI-Powered Text To Presentation app that creates presentation slides from any piece of text.",
+  "title": "AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI",
+  "keywords": "ai presentation maker,ai presentation software,auto generate presentation,free ai presentation generator,free ai presentation maker,ai ppt maker,ai slides,PowerPoint presentation ai,text to ppt ai,ai PowerPoint presentation,ai slide generator",
+  "introduction": "Professional Presentations in Seconds with AI. Just Enter Topic, Youtube URL, PDF, or Text to get a beautiful PPT in seconds. Use the bulb for AI suggestions. 2878+ presentations created in the last 24 hours.",
+  "category": "AI Detector",
+  "features": [
+    "Convert YouTube videos, PDFs, and text to PPT presentations",
+    "Supports all languages",
+    "Access to AskPPT for chat",
+    "Wikipedia Integration",
+    "Different presentation limits based on the plan"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who need to create professional presentations quickly",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is AskPPT?",
+      "answer": "AskPPT is a feature that allows users to chat and get assistance while creating presentations."
+    },
+    {
+      "question": "How many presentations can I create with the Premium plan?",
+      "answer": "The Premium plan allows for unlimited standard presentations with a 12,000 character limit and up to 10 slides, as well as 600 premium presentations per year with a 50,000 character limit and up to 50 slides."
+    }
+  ],
+  "url": "https://www.magicslides.app/"
+}

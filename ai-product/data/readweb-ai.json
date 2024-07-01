@@ -1,0 +1,30 @@
+{
+  "description": "Explore ReadWeb.ai for swift, free website translation in 10 languages with convenient bilingual comparison.",
+  "title": "ReadWeb.ai : Free Instant Multi-Language Web Page Translation & Bilingual Viewing for Everyone",
+  "introduction": "ReadWeb.ai is a web tool that allows users to translate any webpage into up to 10 languages and share the content globally. It offers effortless web page translation with one-click language conversion and a unique bilingual reading experience.",
+  "category": "AI Detector",
+  "features": [
+    "Effortless Web Page Translation",
+    "One-Click Language Conversion",
+    "Top-and-Bottom Bilingual Display",
+    "Dual-Language Understanding",
+    "Quick Sharing of Translated Pages",
+    "Global Knowledge Sharing Made Simple",
+    "Site-Wide Translation Capability",
+    "All-Encompassing Website Translation"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Global users who need to access information in multiple languages",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What languages are supported for translation?",
+      "answer": "ReadWeb.ai supports translation into up to 10 languages."
+    },
+    {
+      "question": "Can I translate entire websites with ReadWeb.ai?",
+      "answer": "Yes, ReadWeb.ai allows users to instantly translate entire websites."
+    }
+  ],
+  "url": "https://readweb.ai/"
+}

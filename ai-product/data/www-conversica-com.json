@@ -1,0 +1,25 @@
+{
+  "description": "Conversica is the leading provider of Conversational AI for revenue teams. Unlock revenue throughout the lifecycle with Revenue Digital Assistants.",
+  "title": "Conversica | AI-Powered Conversations to Unlock Revenue",
+  "introduction": "Conversica is a leader in Generative AI optimized for the enterprise, offering Revenue Digital Assistants powered by a multi-model Conversational AI platform. These assistants engage contacts in human-like conversations to drive pipeline and convert customers effectively. Conversica's technology provides natural dialogue flow, uncovers hidden revenue opportunities, and automates critical tasks.",
+  "category": "AI Detector",
+  "features": [
+    "Powerfully Human technology for natural conversations",
+    "Revenue Digital Assistants to uncover hidden revenue",
+    "Autonomous task handling by assistants"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Enterprise companies",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Conversica's technology based on?",
+      "answer": "Conversica's technology is based on Generative AI optimized for the enterprise, utilizing Large Language Models like GPT for engaging conversations."
+    },
+    {
+      "question": "Can Conversica's assistants handle critical tasks autonomously?",
+      "answer": "Yes, Conversica's Revenue Digital Assistants can be trusted to handle critical and time-consuming tasks autonomously."
+    }
+  ],
+  "url": "https://www.conversica.com/"
+}

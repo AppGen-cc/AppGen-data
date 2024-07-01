@@ -1,0 +1,25 @@
+{
+  "description": "Quickly get color inspiration with our AI color palette generator",
+  "title": "Color Wheel - get color ideas for your logo, illustration or web design",
+  "introduction": "Colorgraph is a tool for image processing that provides functions for quantizing, getting connectivity matrix, and colorizing images.",
+  "category": "Code&IT",
+  "features": [
+    "Quantize images to reduce the number of colors",
+    "Get connectivity matrix for quantized images",
+    "Colorize images using quantized palette"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Image processing enthusiasts, developers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is colorgraph?",
+      "answer": "Colorgraph is a tool for image processing that provides functions for quantizing, getting connectivity matrix, and colorizing images."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for Colorgraph."
+    }
+  ],
+  "url": "https://brandmark.io/color-wheel/"
+}

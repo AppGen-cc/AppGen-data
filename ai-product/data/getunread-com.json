@@ -1,0 +1,29 @@
+{
+  "description": "The Front Page of your life",
+  "title": "UnreadAI  ",
+  "introduction": "Your personal AI reads for you, saving you time. Forget about clickbait, focus on what matters. You choose what it reads: your emails, chats, news, podcasts. Get a daily digest tailored to your life, never miss a thing.",
+  "features": [
+    "Reads 180 personal messages",
+    "Reads 75 work emails",
+    "Reads 128 personal emails",
+    "Reads 120 social media updates",
+    "Reads 40 Reddit threads",
+    "Reads 30 News articles",
+    "Reads 25 GitHub notifications",
+    "Reads 5 Trello boards",
+    "Reads 12 Podcasts"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What types of content can the AI read?",
+      "answer": "The AI can read personal messages, work emails, personal emails, social media updates, Reddit threads, News articles, GitHub notifications, Trello boards, and Podcasts."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available."
+    }
+  ],
+  "category": "Life Assistant",
+  "url": "https://getunread.com/"
+}

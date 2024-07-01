@@ -1,0 +1,29 @@
+{
+  "title": "",
+  "introduction": "The End is a platform that offers a unique and interactive way to create personalized digital stories.",
+  "category": "Design&Art",
+  "features": [
+    "Customizable templates for creating digital stories",
+    "Interactive elements such as animations and sound effects",
+    "Collaboration tools for working on stories with others",
+    "Ability to share stories online or download them for offline use"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, storytellers, educators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can I collaborate with others on a story?",
+      "answer": "Yes, The End provides collaboration tools for working on stories with others."
+    },
+    {
+      "question": "Can I download the stories I create?",
+      "answer": "Yes, you can download the stories for offline use."
+    },
+    {
+      "question": "Are there pre-made templates available?",
+      "answer": "Yes, The End offers customizable templates for creating digital stories."
+    }
+  ],
+  "url": "https://www.wizdom.ai/"
+}

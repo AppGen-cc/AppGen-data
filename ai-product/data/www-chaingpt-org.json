@@ -1,0 +1,49 @@
+{
+  "description": "ChainGPT offers the fastest growing AI technology for all Crypto and Blockchain related topics. Access unlimited solutions and use-cases using our advanced AI model: Blockchain analytics, AI NFT Generator, AI trading, smart-contract development, AI auditing, risk management, source of crypto news, and much more. Visit ChainGPT.org today. Chain GPT Crypto AI Tools.",
+  "title": "ChainGPT - Unleash The Power of Blockchain AI",
+  "introduction": "ChainGPT is a cutting-edge AI infrastructure focused on developing AI-enhanced solutions for the Web3, Blockchain, and Cryptocurrency sectors. It aims to make the decentralized digital space more accessible and efficient for users and startups by offering a suite of AI-powered tools and applications tailored for the evolving digital landscape.",
+  "features": [
+    "ChainGPT AI Chatbot",
+    "AI-Generated News",
+    "Smart-Contracts Generator",
+    "Smart-Contracts Auditor",
+    "AI NFT Generator",
+    "AI Trading Assistant",
+    "AI-Powered Security Extension",
+    "AI Blockchain Analytics",
+    "ChainGPT Pad",
+    "ChainGPT Labs (investment in AI)",
+    "Incubation Program for AI Startups"
+  ],
+  "pricing": "ChainGPT offers a Free Plan, PPP (Pay-Per-Prompt) Plan, and Freemium Plan for users to access AI tools with different levels of commitment and features. Users can also stake CGPT tokens to access enhanced AI tools at no additional cost.",
+  "faqs": [
+    {
+      "question": "Are ChainGPT AI products already available?",
+      "answer": "Yes, ChainGPT offers a range of AI tools and solutions for Web3, Blockchain, and Cryptocurrency sectors."
+    },
+    {
+      "question": "What is the cost to use ChainGPT?",
+      "answer": "ChainGPT offers a Free Plan, PPP (Pay-Per-Prompt) Plan, and Freemium Plan with different pricing structures and features."
+    },
+    {
+      "question": "Are the LLMs (AI-Models) developed by ChainGPT Open-Sourced?",
+      "answer": "No, the LLMs developed by ChainGPT are not open-sourced, but access is provided through SDK & API."
+    },
+    {
+      "question": "What blockchain network is $CGPT deployed on?",
+      "answer": "$CGPT is deployed on the Binance Smart Chain as a BEP-20 token and on the Ethereum network as an ERC-20 token."
+    },
+    {
+      "question": "Can I use ChainGPT without spending $CGPT?",
+      "answer": "Yes, users can access ChainGPT utilities without spending $CGPT through the Freemium model or explore free AI tools on the platform."
+    },
+    {
+      "question": "What is the ChainGPT DAO and why should I join?",
+      "answer": "The ChainGPT DAO is a digital social organization for community governance and development involvement, offering voting rights and access to the $CGPT treasury fund."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals, startups, and established entities in the decentralized web sphere",
+  "url": "https://www.chaingpt.org/"
+}

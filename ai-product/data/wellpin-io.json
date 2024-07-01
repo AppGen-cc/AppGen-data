@@ -1,0 +1,38 @@
+{
+  "description": "Appointment Scheduling Software: Forget about the question \"when to meet\". Send a link and get more done with Wellpin. Try it now for free.",
+  "title": "Free Scheduling Assistant For Everyone | Wellpin",
+  "introduction": "Wellpin is a cutting-edge scheduling software designed for individuals and teams to streamline their meeting scheduling process. It offers features like sharing meeting availability, syncing with calendars and video apps, choosing meeting durations, and setting all meetings within one link.",
+  "category": "[\"Productivity\"]",
+  "features": [
+    "Share meeting availability",
+    "Sync with calendars and video apps",
+    "Choose meeting durations",
+    "Set all meetings within one link"
+  ],
+  "hasFreeTrial": "freely available to all users",
+  "targetPeople": "individuals and teams",
+  "pricing": "freely available",
+  "faqs": [
+    {
+      "question": "How much should I pay for Wellpin?",
+      "answer": "Wellpin is freely available to all users, and useful settings and integrations are not locked behind a paywall."
+    },
+    {
+      "question": "Is Wellpin suitable for small business?",
+      "answer": ""
+    },
+    {
+      "question": "Can I schedule a Zoom meeting with Wellpin?",
+      "answer": ""
+    },
+    {
+      "question": "How can I sync my Google Calendar with Wellpin?",
+      "answer": ""
+    },
+    {
+      "question": "How many calendar connections can I have?",
+      "answer": ""
+    }
+  ],
+  "url": "https://wellpin.io/"
+}

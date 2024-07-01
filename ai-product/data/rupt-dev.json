@@ -1,0 +1,48 @@
+{
+  "description": "Detect and prevent account sharing with the highest accuracy and lowest effort while keeping customer satisfaction high.",
+  "title": "| Rupt - Detect and prevent account sharing.",
+  "keywords": "rupt,account sharing prevention,monitor account sharing,account sharing, account sharing prevention,account sharing detection, detect account sharing,device limits,device id,limit user devices",
+  "introduction": "Rupt is an end-to-end account sharing growth engine that helps detect and prevent account sharing with high accuracy and minimal effort. It offers insights and controls to convert sharers into paying customers effectively. The product is designed to provide a no-brainer pricing strategy that pays for itself many times over, with a focus on increasing revenue and preventing account sharing.",
+  "features": [
+    "Advanced algorithms for accurate detection of shared accounts",
+    "Proprietary people detection technology",
+    "Fine-grained device limits",
+    "Group and plan targeting",
+    "Next-gen device fingerprinting",
+    "PLG conversion journeys",
+    "Leniency and strictness settings",
+    "Allow postponing challenges",
+    "Detailed analytics and insights for optimization"
+  ],
+  "pricing": "Subscription-based pricing with a free plan for limited preview, Premium plan at $299 per month plus $0.15 per additional MTU, and Enterprise plan with custom pricing and volume discounts available.",
+  "faqs": [
+    {
+      "question": "Do you offer annual billing and discounts?",
+      "answer": "Yes, annual billing and discounts are available. Contact the support team for further details."
+    },
+    {
+      "question": "How much time does it take to integrate Rupt?",
+      "answer": "Most companies integrate Rupt in a single day or less, similar to adding basic Google Analytics. Support is available for integration assistance."
+    },
+    {
+      "question": "What is a monthly active user?",
+      "answer": "A monthly active user is a user included in at least one API call to Rupt in a given month."
+    },
+    {
+      "question": "How many users/devices can Rupt handle?",
+      "answer": "Rupt's infrastructure is fully auto-scalable and can handle hundreds of millions of users and devices with guaranteed API response time under 100ms."
+    },
+    {
+      "question": "What are the rate limits for API usage?",
+      "answer": "In production mode, the rate limit is 100 requests per second, which can increase based on project needs. Contact support for larger limits. Development mode keys have lower rates."
+    },
+    {
+      "question": "Can you provide support for integrating Rupt?",
+      "answer": "Yes, support is available for integrating Rupt. Contact the team to schedule a live call with an engineer for guidance."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Companies and businesses looking to prevent account sharing and increase revenue",
+  "url": "https://rupt.dev/"
+}

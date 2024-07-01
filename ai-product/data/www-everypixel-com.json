@@ -1,0 +1,26 @@
+{
+  "description": "Stock image finder for all who hate bad stock photos. Use it to find the best licensed images for the lowest price. More than 50 image sources.",
+  "title": "Stock Image Search Engine - More Than 50 Best Sources | Everypixel",
+  "keywords": "stock image search engine find source photo url licensing compare price site",
+  "introduction": "Stock image search engine powered by AI.",
+  "category": "Image",
+  "features": [
+    "AI-powered image search",
+    "Image URL search",
+    "Drag and drop image upload"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users looking for high-quality stock images",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does the image search work?",
+      "answer": "The image search engine uses AI algorithms to analyze and categorize images for accurate search results."
+    },
+    {
+      "question": "Can I upload images for search?",
+      "answer": "Yes, you can drag and drop images or paste image URLs for search."
+    }
+  ],
+  "url": "https://www.everypixel.com/"
+}

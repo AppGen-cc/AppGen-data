@@ -1,0 +1,25 @@
+{
+  "description": "Font finder that helps you to identify fonts from any image. 🔎 Upload the image and choose what the font you need. 990,000 fonts indexed free or commercial.",
+  "title": "Font Finder 🔎 by What Font Is",
+  "introduction": "What Font Is is a font finder tool that helps users identify fonts from images. Users can upload an image of the text containing the font they need to identify, and the system uses advanced AI to find the font in 90% of cases.",
+  "features": [
+    "Upload images of text to identify fonts",
+    "Advanced AI technology for font identification",
+    "Shows over 60 similar fonts with download or purchase links"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What types of images work best for font identification?",
+      "answer": "Clean images with clear text work best for font identification. Low quality images may result in inaccuracies."
+    },
+    {
+      "question": "How many fonts are shown for identification?",
+      "answer": "Over 60 fonts similar to the one in the uploaded image are shown for identification."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Designers, Clients, Font Enthusiasts",
+  "url": "https://www.whatfontis.com/"
+}

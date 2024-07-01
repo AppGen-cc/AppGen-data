@@ -1,0 +1,37 @@
+{
+  "description": "Bertha AI - Utilizing the power of ChatGPT and Open AI plus Stable Diffusion in an easy to use interface for WordPress and now, Chrome so you can use her anywhere there is a web interface. Bertha AI is compatible with the most popular Page Builders",
+  "title": "Bertha AI - Bertha AI Co Pilot",
+  "introduction": "Bertha AI is an AI writing assistant that helps users generate engaging and converting copy for websites, presentations, and social media in minutes. It can automatically generate WooCommerce and EDD product descriptions, as well as alternative text for images, directly in WordPress. Bertha AI offers different pricing options including monthly, annual, and pay-as-you-go plans.",
+  "features": [
+    "Automatic Image Alt text generation",
+    "Unlimited Users",
+    "Unlimited Websites and Access to Chrome Extension",
+    "1,000,000 Words Per Month",
+    "50 Image Generations Per Month",
+    "Priority Support",
+    "7 Days Money Back Guarantee"
+  ],
+  "hasFreeTrial": "Bertha AI free version is limited to 500 words a month and 5 image generations. It does not have access to Chat or Write tools, which are available in the paid plans.",
+  "targetPeople": "Website owners, content creators, and marketers",
+  "pricing": "Monthly, Annual, and Pay As You Go options available",
+  "faqs": [
+    {
+      "question": "Is there a free trial for Bertha AI?",
+      "answer": "Bertha AI free version is limited to 500 words a month and 5 image generations. It does not have access to Chat or Write tools, which are available in the paid plans."
+    },
+    {
+      "question": "Can Bertha AI work with any theme or page builder?",
+      "answer": "Yes, Bertha AI is designed to work with any theme or page builder available on the market, including native integration in Gutenberg."
+    },
+    {
+      "question": "What languages does Bertha AI support?",
+      "answer": "Bertha AI currently supports English, French, German, Dutch, Spanish, Hebrew, Italian, Portuguese, Bulgarian, Croatian, Czech, Danish, Estonian, Finnish, Greek, Hungarian, Irish, Latvian, Lithuanian, Maltese, Polish, Romanian, Slovak, Slovenian, and Swedish."
+    },
+    {
+      "question": "How can I upgrade my plan with Bertha AI?",
+      "answer": "You can upgrade your plan at any time to access more features and benefits with Bertha AI."
+    }
+  ],
+  "category": "Marketing",
+  "url": "https://bertha.ai/"
+}

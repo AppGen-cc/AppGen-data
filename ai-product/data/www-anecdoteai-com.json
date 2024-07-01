@@ -1,0 +1,32 @@
+{
+  "description": "Anecdote sets the gold standard for precision in customer feedback analysis and discovery. With near real-time alerts, unified sources, bug analysis and custom taxonomy, we empower high-performance CX.",
+  "title": "Anecdote | Uncover Product Insights With #1 Customer Feedback Analytics Hub",
+  "introduction": "Anecdote offers secure and reliable feedback analysis with features like ML model training, custom taxonomy, and seamless integration with various sources. It provides actionable insights with acute accuracy and is strong in multiple languages. The platform ensures data security with SOC 2 certification and offers additional insights using AI to prevent churn and improve NPS.",
+  "features": [
+    "Uncover bugs and UX issues from reviews",
+    "Receive instant Slack alerts for feedback topics",
+    "Analyze and tag customer feedback sources with NLP",
+    "Enable real-time notifications for key insights",
+    "Search through all customer feedback data instantly",
+    "Cluster and analyze NPS, CSAT, and survey responses"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What insights can Anecdote provide?",
+      "answer": "Anecdote can pinpoint insights with acute accuracy, provide custom taxonomy, and train models on user data."
+    },
+    {
+      "question": "Is data security ensured on Anecdote?",
+      "answer": "Anecdote is SOC 2 certified, encrypts data in transit and at rest, and follows strict security practices."
+    },
+    {
+      "question": "How does Anecdote complement existing platforms?",
+      "answer": "Anecdote extracts 10-20% more actionable insights using AI, helping prevent churn and quantify emotional sentiment."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Product and CX teams",
+  "url": "https://www.anecdoteai.com/"
+}

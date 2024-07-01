@@ -1,0 +1,26 @@
+{
+  "description": "Discover MoodBoardly, the ultimate AI mood board generator and maker. Effortlessly create, customize, and perfect your mood boards with our user-friendly tools and innovative AI-powered moodboard creator.",
+  "title": "Moodboard Generator: Create Stunning Mood Boards in Minutes",
+  "introduction": "MoodBoardly is an AI-Powered Mood Board Creator that simplifies the design process by generating professional and stunning mood boards. Users can easily import their favorite furniture pieces, remove backgrounds with AI, and share their designs effortlessly.",
+  "category": "Design&Art",
+  "features": [
+    "One-click background removal",
+    "Clever Artificial Intelligence for image background removal",
+    "Rich furniture database",
+    "Easy product import"
+  ],
+  "hasFreeTrial": "yes",
+  "targetPeople": "Designers, decorators, and individuals looking to create visually appealing mood boards",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, users can start a free trial with no credit card required."
+    },
+    {
+      "question": "What are the AI generation features available with subscription?",
+      "answer": "The subscription includes AI generation features for creating professional and stunning mood boards."
+    }
+  ],
+  "url": "https://moodboardai.com/"
+}

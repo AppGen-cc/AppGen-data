@@ -1,0 +1,36 @@
+{
+  "description": "AI website builder. From curated images to AI-written content, get the professional site your business needs with none of the work. Starting at $12 per month.",
+  "title": "AI Website Builder: Create a Website in 30 Seconds",
+  "introduction": "Durable is a website builder platform that offers a 'no code' solution for building websites. It includes features like AI Assistant, Invoicing, an AI-powered CRM, and more. Users can create and publish multiple websites from one account with Durable Pro.",
+  "features": [
+    "Custom domains included depending on the plan",
+    "Affiliate program available on a case by case basis",
+    "30-day money back guarantee",
+    "Support for switching from other website builders",
+    "Ability to cancel subscription without deleting account",
+    "Ability to add additional users to websites"
+  ],
+  "pricing": "Starter subscription starts at $12 per month, Business subscription starts at $20 per month. Custom domains are free with every subscription.",
+  "faqs": [
+    {
+      "question": "Are custom domains included in the subscription?",
+      "answer": "Nope! Custom domains are free with every Durable subscription and take seconds to create."
+    },
+    {
+      "question": "Can I cancel my subscription without deleting my account?",
+      "answer": "Of course. To cancel your current subscription but **_not_** delete your account, go to **Business** → **Manage**"
+    },
+    {
+      "question": "Is there a money back guarantee?",
+      "answer": "If you aren’t satisfied with Durable, we offer a 30 day money back guarantee. Contact [support@durable.co](mailto:support@durable.co) to request a refund."
+    },
+    {
+      "question": "Can I transfer my custom domain when cancelling my account?",
+      "answer": "Yes! When cancelling your account, simply get in touch with us and we’ll arrange to have your custom domain transferred to you. Note that it takes a couple of weeks to transfer over."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "No",
+  "targetPeople": "Business owners",
+  "url": "https://durable.co/ai-website-builder"
+}

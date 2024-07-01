@@ -1,0 +1,58 @@
+{
+  "description": "",
+  "title": "Convert text to calendar events | Agenda Hero",
+  "introduction": "Agenda Hero Magic is an AI tool that converts natural language text and images into structured calendar-ready events, helping people save time and clicks.",
+  "category": "Productivity",
+  "features": [
+    "Convert natural language text and images into calendar events",
+    "Supports various types of events like meetings, appointments, travel, etc.",
+    "Compatible with Google Calendar, Apple, Outlook, Office 365, Yahoo, and more",
+    "Chrome extension for easy text and image conversion",
+    "Supports recurring events and different time zones",
+    "Ability to invite people to events",
+    "Shareable event links",
+    "Modify event details including title, date, time, location, and description"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking to streamline the process of adding events to their calendars",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How do I ask for event duration?",
+      "answer": "Ask in whatever way feels natural to you. You can ask for specific start and end times, such as 11 am to 1 pm. Or you can include a start time with a duration, such as 2pm for 90 minutes."
+    },
+    {
+      "question": "How about time zones?",
+      "answer": "If the event you’re creating is in a different time zone than the one you’re in, simply include the event time zone in your prompt. We’ll convert it for you."
+    },
+    {
+      "question": "What about recurring events?",
+      "answer": "Daily, weekly, every-other-week, monthly, and annual recurrence events are supported. Some calendar platforms only copy the first date of the recurrence, but you can modify it on your calendar platform before saving the event."
+    },
+    {
+      "question": "Can I invite people to events?",
+      "answer": "When you add the event to your calendar, you have the full functionality of your calendar, including the ability to invite people."
+    },
+    {
+      "question": "Can I share the results?",
+      "answer": "If you know someone who would like to add the same events to their calendars, you can generate a link to the results and share that link with them. You’ll find this option at the bottom of your results."
+    },
+    {
+      "question": "Can I create more than one event?",
+      "answer": "You can create multiple events from a single prompt request (text or image) or by selecting multiple events at once, such as in a newsletter."
+    },
+    {
+      "question": "Can I create events from images?",
+      "answer": "You can create events from images, including screenshots. Open the side panel by clicking on the extension, select the image. Upload or drag a photo into the image area, click Create."
+    },
+    {
+      "question": "Can I include hyperlinks?",
+      "answer": "If you select or add text with URLs, the URLs will be included in the description. This lets you have everything you need for your event in one place."
+    },
+    {
+      "question": "Can results be modified?",
+      "answer": "You can modify any results field, including the title, date, time, location, description, and emoji. We encourage you to review the results, as AI can make mistakes."
+    }
+  ],
+  "url": "https://agendahero.com/magic"
+}

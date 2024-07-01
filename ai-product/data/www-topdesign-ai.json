@@ -1,0 +1,22 @@
+{
+  "description": "Unlock the power of AI with TopDesign AI – your go-to design framework for effortlessly creating stunning websites. Empower your creativity and streamline your web design process with our innovative platform. Get started today!",
+  "title": "TopDesign AI",
+  "introduction": "TopDesign AI is an AI Design Agency that offers design subscriptions for business scaling. They provide designs based on prompting and users can receive their designs instantly after requesting.",
+  "features": [
+    "Designs based on prompting",
+    "Instant design delivery",
+    "Subscription plans for unlimited designs",
+    "Access to new features"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is TopDesign AI for me?",
+      "answer": "Yes, TopDesign AI is suitable for anyone looking for design solutions with AI technology."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "No",
+  "targetPeople": "Businesses scaling their design needs",
+  "url": "https://www.topdesign.ai/"
+}

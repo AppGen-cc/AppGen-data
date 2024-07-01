@@ -1,0 +1,42 @@
+{
+  "description": "Cody is your personal career companion, aiding in navigating your professional odyssey. Capture achievements, learn from challenges, and gain insights from your own reflections. Start your empowering journey with Cody today!",
+  "title": "Your Career Reflections",
+  "introduction": "Cody is a career journaling app designed to help users capture and elevate their career by logging daily achievements, goals, and learning experiences. It leverages AI to provide personalized feedback and insights for career growth.",
+  "category": "Productivity",
+  "features": [
+    "Effortless career tracking",
+    "Centralized career management",
+    "AI-powered insights and feedback",
+    "Goal-setting features",
+    "Customizable tags for organization",
+    "Mobile-optimized web version",
+    "Handpicked motivational quotes",
+    "Timely email reminders"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professionals looking to track and improve their career progress",
+  "pricing": "Free during beta",
+  "faqs": [
+    {
+      "question": "Can others see my entries?",
+      "answer": "No, your entries are private."
+    },
+    {
+      "question": "What can I track with Cody?",
+      "answer": "You can track daily achievements, goals, learning experiences, and freeform reflections."
+    },
+    {
+      "question": "Does Cody work on mobile devices?",
+      "answer": "Yes, Cody is optimized for mobile devices."
+    },
+    {
+      "question": "Can I delete entries or my entire account?",
+      "answer": "Yes, you can delete individual entries or your entire account."
+    },
+    {
+      "question": "Is my data private and secure with Cody?",
+      "answer": "Yes, your data is private and secure."
+    }
+  ],
+  "url": "https://www.mycody.io/"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Boost your SEO with Automated Internal Links | SEOJuice ",
+  "introduction": "Save yourself hundreds of hours of manual work with a tool that uses AI to find internal link opportunities, and then adds them for you! SEOJuice is a simple but powerful tool that helps you create your internal links with a single click. It is built for scale and can serve sites with many thousands of pages.",
+  "category": "Marketing",
+  "features": [
+    "AI-driven internal linking",
+    "Setup in 10 minutes",
+    "No credit card required for trial",
+    "Supports multiple platforms (WordPress, Ghost, Squarespace, Wix, Weebly, NextJS, React)",
+    "Proprietary algorithms for contextual keyword extraction",
+    "Automated SEO manual work",
+    "Unlimited contextual links",
+    "Full flexibility in managing keywords and pages",
+    "Increase in organic traffic and sales conversions",
+    "Helps bots find content and improves page views and conversions"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Website owners, SEO agencies, indie blogs, startups",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What features do you have?",
+      "answer": "SEOJuice is under active development. Latest features that were added in May 2024 — Clustering of pages based on Topic and Broken Link Reporting. We use AI to find links that are broken and fix them automagically."
+    },
+    {
+      "question": "Is this tool useful to SEO Agencies?",
+      "answer": "Absolutely! You can add your client websites and insert the JS snippet to offload your manual work of finding keywords and building internal links for the articles. It will save you hundreds of hours."
+    },
+    {
+      "question": "Will this tool help me rank better in SEO?",
+      "answer": "Absolutely yes, internal linking is known as one if the most important parts of SEO. To be fair, SEO optimization is much more complex than just creating internal backlinks, but if you haven't done anything, and just install SEOJuice — it will boost your SEO."
+    },
+    {
+      "question": "Does Google (or any other Search Engine) support Links inserted with Javascript?",
+      "answer": "Yes it does! In general on-page SEO is the easiest way to boost your website for long-tail keywords and it works for all platforms. Otherwise all of React / Next.JS / Angular SPAs would get penalized, but they're growing like crazy instead."
+    },
+    {
+      "question": "I found a bug who should I contact?",
+      "answer": "There's probably a lot of stuff that I missed, so drop me an email at hi@vadimkravcenko.com or write me in Twitter @vadim_kravcenko and I will add it to the backlog to fix. I'm planning on building a lot of features in the next months."
+    },
+    {
+      "question": "What Hosting / Platforms does it work with?",
+      "answer": "You can integrate SEOJuice into all platforms — Wordpress, Shopify, WebFlow, Ghost, or any other web platform that you use. We render JS, so we work with NextJS as well. The only thing that you need to do - add your website in the dashboard and copy paste the provided JS script into the footer of your website. The tool will generate automated SEO internal links for you. Automagically."
+    },
+    {
+      "question": "Can I pay annually?",
+      "answer": "Yes you can pay annually. You get 25% discount if you pay yearly."
+    },
+    {
+      "question": "Do you need my credit card data for the free trial?",
+      "answer": "No, the free trial, is, well, free. 🤷 You can start using the service without entering your credit card data. You will get a 7 days trial and 100 Pages for the start, after that you will have to choose a subscription plan to add more pages or continue using the tool. 7 days and 100 pages will be enough to showcase to you that the tool is useful."
+    },
+    {
+      "question": "How can I cancel?",
+      "answer": "You can cancel any time from the dashboard or drop me an email at hi@vadimkravcenko.com."
+    }
+  ],
+  "url": "https://seojuice.io/"
+}

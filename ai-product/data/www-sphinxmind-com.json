@@ -1,0 +1,28 @@
+{
+  "description": "Simplify marketing with Sphinx Mind, your AI assistant. Integrate with leading platforms, get automated reports, insightful analysis, and optimize performance.",
+  "title": "Sphinx Mind - Your AI Marketing Assistant",
+  "introduction": "Revolutionize your marketing with AI and Sphinx Mind. Seamlessly integrate with various marketing platforms and leverage tools for reporting, charts, website analytics, tag inspections, link checks, and more.",
+  "category": "AI Detector",
+  "features": [
+    "One-Click Integrations",
+    "One Chat, Multiple Platforms",
+    "Unlimited Possibilities",
+    "Personalized Experience",
+    "Tailored Pricing Plans",
+    "Privacy-First Approach"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Marketers, individuals, small teams, growing businesses, large enterprises",
+  "pricing": "Monthly and annual billing options available",
+  "faqs": [
+    {
+      "question": "What is the advantage of Sphinx Mind?",
+      "answer": "Sphinx Mind offers seamless integration with various marketing platforms, personalized experiences, and a privacy-first approach to data processing."
+    },
+    {
+      "question": "What pricing plans are available for Sphinx Mind?",
+      "answer": "Sphinx Mind offers Starter, Premium, and Elite plans with varying features and capabilities to cater to the needs of individuals, small teams, growing businesses, and large enterprises."
+    }
+  ],
+  "url": "https://www.sphinxmind.com/"
+}

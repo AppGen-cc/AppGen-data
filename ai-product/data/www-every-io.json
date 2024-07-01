@@ -1,0 +1,29 @@
+{
+  "description": "We run your finance and HR so you can run your startup.",
+  "title": "Every.io - Banking, Accounting, and HR for Startups",
+  "introduction": "Every.io is a platform that offers comprehensive financial and HR services for tech startups. It provides banking and treasury services, bookkeeping and tax assistance, as well as HR, payroll, and benefits management. The platform aims to simplify back-office operations for startups, allowing founders to focus on their core business.",
+  "features": [
+    "Banking & Treasury services with $850 cashback offer, including BNY Mellon Pershing Account, Thread Bank Account, FDIC Insurance, U.S. Treasuries, and more",
+    "Bookkeeping & Tax services starting at $150/month, with features like Dedicated Bookkeeper, Annual Taxes, R&D Tax Credit, and more",
+    "HR, Payroll & Benefits services free for 3 users, then $25/user/month, offering services like Dedicated HR Resource, Payroll in 50 U.S. States, Health Benefits, and more"
+  ],
+  "pricing": "Subscription based with different pricing tiers based on monthly expenses",
+  "hasFreeTrial": "No",
+  "targetPeople": "Tech startup founders",
+  "faqs": [
+    {
+      "question": "What services does Every.io offer?",
+      "answer": "Every.io offers banking and treasury services, bookkeeping and tax assistance, as well as HR, payroll, and benefits management for tech startups."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, Every.io does not offer a free trial."
+    },
+    {
+      "question": "What is the pricing model of Every.io?",
+      "answer": "Every.io operates on a subscription-based pricing model with different tiers based on monthly expenses."
+    }
+  ],
+  "category": "Business",
+  "url": "https://www.every.io/"
+}

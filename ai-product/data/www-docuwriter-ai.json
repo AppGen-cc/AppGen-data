@@ -1,0 +1,34 @@
+{
+  "description": "Automated AI-powered tools to generate Code & Api documentation from your source code files.",
+  "title": "DocuWriter.ai - #1 AI Code documentation tools",
+  "introduction": "DocuWriter.ai is an automatic code documentation tool that uses AI technology to generate accurate documentation for code. It also offers features like API documentation, code refactoring, code language conversion, UML diagram generation, and code tests suite generation.",
+  "category": "Code&IT",
+  "features": [
+    "Fast AI-generated content",
+    "Continuous code documentation refresh",
+    "Consistent code documentation",
+    "Swagger-compliant JSON documentation generation",
+    "AI-powered test suite generation",
+    "Intelligent code refactoring",
+    "Code language conversion",
+    "UML diagram generation"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals, freelancers, small businesses, enterprises, students, teachers, educational institutions",
+  "pricing": "Monthly billing with three plans: Starter for $29, Professional for $49, and Enterprise for $129",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available for all plans."
+    },
+    {
+      "question": "What is the pricing structure?",
+      "answer": "The pricing is based on monthly billing with three plans: Starter for $29, Professional for $49, and Enterprise for $129."
+    },
+    {
+      "question": "Who can avail the educational discount?",
+      "answer": "Students, teachers, and employees of educational institutions are eligible for an educational discount. Reach out to support@docuwriter.ai for more information."
+    }
+  ],
+  "url": "https://www.docuwriter.ai/"
+}

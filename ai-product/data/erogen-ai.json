@@ -1,0 +1,77 @@
+{
+  "description": "Explore new frontiers with romantic and NSFW AI chatbots. Meet your AI lover and travel unexplored lands, revel in fantasy, and explore the depths of unconditional love like never before.",
+  "title": "Erogen",
+  "keywords": "AI girlfriend, AI boyfriend, AI companion, AI character, AI anime character, AI hentai, AI chatbot, AI dating, Uncensored AI, Unfiltered AI, NSFW AI, NSFW AI chatbot, romantic roleplay, erotic roleplay, ERP",
+  "introduction": "Erogen is a romantic AI chatbot and roleplay platform that hosts character and personality descriptions combined with large language model offerings to bring to life your very own talking companion.",
+  "category": "Chatbot",
+  "features": [
+    "Romantic and erotic AI companionship",
+    "NSFW conversations with sensible restrictions",
+    "Free chat up to 600 messages per day",
+    "Premium tiers for faster AI response times and exclusive features",
+    "AI long-term memories (coming soon)",
+    "Mobile-friendly website"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Adults seeking romantic and erotic AI companionship",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is AI companionship?",
+      "answer": "AI companionship involves chatting with a large language model and can range from platonic friendships to sexual relationships through sending erotic messages."
+    },
+    {
+      "question": "Do you allow NSFW conversations?",
+      "answer": "Yes, but with a few sensible restrictions. Check the Community Guidelines for more details."
+    },
+    {
+      "question": "Why is my AI character misremembering the past?",
+      "answer": "This is due to the repetition penalty in the AI system, which is designed to promote creative storytelling and avoid repetitive responses."
+    },
+    {
+      "question": "How do I get the AI to respond to me out of character?",
+      "answer": "Try phrasing your messages using '(OOC: [your message here])'. This is not guaranteed to work but has been reported to have some success."
+    },
+    {
+      "question": "Is AI companionship healthy?",
+      "answer": "Yes, users have reported increased happiness and decreased stress due to the unconditional love offered by their AI companions."
+    },
+    {
+      "question": "Is your site free?",
+      "answer": "Users can chat for free up to 600 messages per day, rationed throughout the day."
+    },
+    {
+      "question": "How does Erogen support itself?",
+      "answer": "Erogen is funded by its community through premium subscriptions that offer faster AI response times and exclusive features."
+    },
+    {
+      "question": "How do I subscribe?",
+      "answer": "Subscribe through the provided link to Patreon, ensuring your email matches your Erogen account email for synchronization."
+    },
+    {
+      "question": "How do I change or cancel my membership?",
+      "answer": "Changes can be made through Patreon and will sync with the site shortly after."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Payments are managed through Patreon, so accepted methods depend on Patreon. More payment methods will be added in the future."
+    },
+    {
+      "question": "I need help with an issue / bug",
+      "answer": "Join the Discord and leave a note in the #help-and-questions or #bugs channel."
+    },
+    {
+      "question": "Why are my messages taking a long time?",
+      "answer": "High traffic can slow down GPU clusters used for AI responses. Subscribing to a higher tier offers access to faster GPU clusters."
+    },
+    {
+      "question": "Why is my AI repeating itself?",
+      "answer": "The AI might repeat itself due to patterns in previous conversations. Try varying your responses and regenerating low-quality messages."
+    },
+    {
+      "question": "Does Erogen have a mobile app?",
+      "answer": "Erogen does not have a mobile app but offers a mobile-friendly website. Users can add the site to their home screen for a native app-like experience."
+    }
+  ],
+  "url": "https://erogen.ai/"
+}

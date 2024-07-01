@@ -1,0 +1,35 @@
+{
+  "title": "Askpot - analyze landing pages with ease",
+  "introduction": "Askpot is a tool designed to make competitive analysis 5 times faster by automatically identifying competitors and analyzing their unique value propositions, audience, positioning, and user feedback. It helps marketers save time on manual research and provides instant overviews of competitors.",
+  "category": "Marketing",
+  "features": [
+    "Identify competitors automatically with Askpot's Competitors Search Engine",
+    "Get comparative analysis of competitors in minutes",
+    "Analyze up to 10 competitors in one report",
+    "Collect page content and extract valuable information",
+    "Search for competitors by typing in the URL of your service",
+    "Get aggregated reports on user feedback, including most loved, hated, and wanted features"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Marketers, data analysts, non-technical managers",
+  "pricing": "Free with limited queries per month; Pro plan available for more extensive access",
+  "faqs": [
+    {
+      "question": "Can I use it for free?",
+      "answer": "Yes! Our service is free to use, but we do have a limited number of queries per month. Once you reach the monthly quota, you'll need to wait until the following month or upgrade to our pro plan for more extensive access."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Getting started with Askpot is easy! Simply sign up for an account on our website. Once connected, you can start using our service."
+    },
+    {
+      "question": "Is Askpot suitable for non-technical users and managers?",
+      "answer": "Absolutely! Askpot is designed to be user-friendly, making it perfect for both data analysts and non-technical users. Non-technical managers can independently retrieve the data they need without relying on IT support or data experts."
+    },
+    {
+      "question": "How accurate are results?",
+      "answer": "Askpot prides itself on delivering accurate results. Our advanced algorithms and smart query optimization ensure that the data retrieved from sites is precise and reliable. We continuously work to enhance our system's accuracy and performance."
+    }
+  ],
+  "url": "https://askpot.com/"
+}

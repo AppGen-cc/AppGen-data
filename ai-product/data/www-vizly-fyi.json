@@ -1,0 +1,34 @@
+{
+  "description": "Analyze and visualize your data in seconds. Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.",
+  "title": "Vizly: AI-powered data analysis",
+  "keywords": "ai data analysis, data science, data visualization, data analysis, excel ai, google sheets ai",
+  "introduction": "Vizly is an AI-powered data scientist that allows users to chat with their data, visualize insights, and perform analysis by simply uploading their data.",
+  "category": "AI Detector",
+  "features": [
+    "Chat with data",
+    "Visualize insights",
+    "Perform analysis"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Data analysts, researchers, students",
+  "pricing": "Free with limitations, upgrade available",
+  "faqs": [
+    {
+      "question": "Is Vizly free to use?",
+      "answer": "Yes! All users can send up to 10 messages a month for free. After reaching the limit, you can upgrade your plan on your Profile page."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Sign up to Vizly and immediately start asking questions and creating visualizations from your data. For more instructions on how to get started, check out our Getting Started guide."
+    },
+    {
+      "question": "What data sources are supported?",
+      "answer": "Vizly currently supports CSV, Excel, and JSON file formats, with more on the way. Want to use Vizly with another datasource? Request it here."
+    },
+    {
+      "question": "Does Vizly have a student discount?",
+      "answer": "Yes! Vizly offers a 50% discount to all students and academics. Sign up with your academic email to have the discount automatically applied or send an email to founders@vizlylabs.com for a discount code."
+    }
+  ],
+  "url": "https://www.vizly.fyi/"
+}

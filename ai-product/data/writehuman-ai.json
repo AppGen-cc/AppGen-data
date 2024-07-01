@@ -1,0 +1,44 @@
+{
+  "description": "Humanize AI text into undetectable AI. Bypass AI detection with the world's best AI detection remover and AI Humanizer. Free AI detector works with GPTZero, Turnitin, Originality AI, and more.",
+  "title": "WriteHuman: Undetectable AI and AI Humanizer",
+  "introduction": "WriteHuman is an AI-powered content generation tool that focuses on creating undetectable AI text by mimicking human writing patterns. It works with major AI detectors to ensure content integrity and privacy protection. Users can humanize AI text in three easy steps and bypass AI detection with WriteHuman's advanced natural language processing capabilities.",
+  "features": [
+    "Advanced natural language processing techniques",
+    "Works with major AI detectors",
+    "Humanize AI text in three steps",
+    "Bypass AI detection",
+    "Maintain anonymity and privacy",
+    "Supports multiple languages"
+  ],
+  "pricing": "WriteHuman offers two subscription plans: Basic and Ultra. The Basic plan is $9 per month billed annually and includes 80 humanizer requests/month, while the Ultra plan offers unlimited requests per month. Both plans provide access to the Enhanced Model and priority customer support. Users can also submit 3 requests per month for free, up to 200 words each.",
+  "hasFreeTrial": "No",
+  "targetPeople": "Marketers, Writers, SEO Specialists",
+  "faqs": [
+    {
+      "question": "Will my AI writing lose its original meaning after using WriteHuman?",
+      "answer": "WriteHuman ensures that AI writing retains its original meaning while humanizing the text."
+    },
+    {
+      "question": "How does WriteHuman differentiate from other AI humanizer tools?",
+      "answer": "WriteHuman stands out with its advanced natural language processing capabilities and ability to bypass major AI detectors."
+    },
+    {
+      "question": "I noticed there's a limit on words per credit. What if my content exceeds this limit?",
+      "answer": "If your content exceeds the word limit, you can contact WriteHuman support for assistance."
+    },
+    {
+      "question": "How does WriteHuman handle technical or industry terms in AI-generated content?",
+      "answer": "WriteHuman's algorithms are designed to handle technical and industry terms effectively in AI-generated content."
+    },
+    {
+      "question": "Can I use WriteHuman for non-AI writing?",
+      "answer": "WriteHuman is primarily designed for humanizing AI text, but it can also be used for non-AI writing tasks."
+    },
+    {
+      "question": "What platforms and detectors are compatible with WriteHuman?",
+      "answer": "WriteHuman is compatible with platforms like Turnitin, ZeroGPT, Content at Scale, GPTZero, and detectors from major AI tools."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://writehuman.ai/"
+}

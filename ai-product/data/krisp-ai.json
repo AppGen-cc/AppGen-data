@@ -1,0 +1,34 @@
+{
+  "description": "Krisp cancels background noise, records, transcribes, and summarizes meetings and calls.",
+  "title": "World’s #1 Noise Cancelling App and AI Meeting Assistant",
+  "introduction": "Krisp is an AI-powered assistant for meetings and calls that offers noise cancellation, transcriptions, meeting notes, and recording features. It is designed for individuals, small teams, enterprises, and call centers to enhance online meeting productivity and engagement. Krisp works with various communication apps like Zoom, Meet, and Teams, providing a seamless experience for users.",
+  "category": "AI Detector",
+  "features": [
+    "Noise Cancellation",
+    "Transcriptions",
+    "Meeting Notes",
+    "Recording"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals, Small Teams, Enterprises, Call Centers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Currently, Krisp accepts credit/debit cards such as Visa, MasterCard, Discover, JCB, and American Express."
+    },
+    {
+      "question": "What currency will I be charged with?",
+      "answer": "The accepted payment currency is USD. You may pay via Card in your currency, but the price will depend on the exchange rate of your bank."
+    },
+    {
+      "question": "Can I change my plan later?",
+      "answer": "You can change your plan whenever you want, including changing your payment cycle (monthly/yearly)."
+    },
+    {
+      "question": "Do I need to change my plan if I want to add a member?",
+      "answer": "To invite a team member, you need to upgrade to the Pro plan."
+    }
+  ],
+  "url": "https://krisp.ai/"
+}

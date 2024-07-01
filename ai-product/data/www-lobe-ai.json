@@ -1,0 +1,31 @@
+{
+  "description": "Download the free, easy to use app that helps you train custom machine learning models and ship them in your app.",
+  "title": "Lobe  | Machine Learning Made EasyWatch TourSee MorechevronLobe RedditLobe YouTubeLobe RedditLobe YouTube",
+  "keywords": "machine learning, ai, artificial intelligence, ML, free, easy to use, lobe, Lobe, learn, model, neural network, computer vision, image classification, tool, visual programming, visualization, bounding boxes, object detection, data classification, tabular data, regression, convolution, education, design, developer, development, labeling, training, evaluate, tryout, models, TensorFlow, CoreML, ONNX TF.js, TFLite, Tensor Flow, drag and drop",
+  "introduction": "Lobe is a free and easy-to-use tool that helps users train machine learning models for various applications. It simplifies the process of machine learning into three easy steps: collecting and labeling images, training the model, and exporting it for use.",
+  "features": [
+    "Easy-to-use interface with no code or experience required",
+    "Free and private training on your own computer without uploading data to the cloud",
+    "Automatic selection of the right machine learning architecture for projects",
+    "Image classification available with more templates coming soon",
+    "Three-step process of collecting and labeling images, training the model, and exporting it",
+    "Ability to label images, locate objects in images, and label data in tables"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Is Lobe easy to use for beginners?",
+      "answer": "Yes, Lobe is designed to be easy enough for anyone to use without the need for coding or prior experience."
+    },
+    {
+      "question": "Can I train my model for free without uploading data to the cloud?",
+      "answer": "Yes, you can train your model for free on your own computer without the need to upload your data to the cloud."
+    },
+    {
+      "question": "What types of machine learning tasks can I perform with Lobe?",
+      "answer": "Lobe currently supports image classification and will soon offer object detection and data classification templates."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.lobe.ai/"
+}

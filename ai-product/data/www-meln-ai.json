@@ -1,0 +1,35 @@
+{
+  "title": "Home | Melon",
+  "introduction": "Melon is an AI-driven platform designed to help users connect the dots across their learnings and boost their thinking. It allows users to save, organize, and visualize everything they are learning from various sources, making it a trusted and reliable thought partner.",
+  "category": "Education",
+  "features": [
+    "Save, organize, and visualize learnings from apps or web browser",
+    "Engage in discussions on specific content pieces or broad topics with AI brain",
+    "Create newsletters, LinkedIn posts, and consolidate ideas",
+    "Identify trends and connect the dots across entire knowledge base",
+    "Smart, AI-driven semantic search",
+    "Retrieve, summarize, and connect insights from various sources"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Lifelong learners, professionals, and individuals looking to organize and enhance their knowledge base",
+  "pricing": "Free (Service concluded)",
+  "faqs": [
+    {
+      "question": "How does Melon help users make smarter use of their online content?",
+      "answer": "Melon helps users by retrieving, summarizing, and connecting insights from various sources. It can show all content related to a specific topic, summarize content, and identify patterns and correlations to push thinking forward."
+    },
+    {
+      "question": "What are collections in Melon?",
+      "answer": "Collections are a way to group saved content based on topic, focus, or area of interest. They are for personal organization and do not affect how the AI understands the saved content."
+    },
+    {
+      "question": "What types of content can Melon process?",
+      "answer": "Melon can process various types of content including articles, LinkedIn posts, tweets, and YouTube videos."
+    },
+    {
+      "question": "How can users save content to Melon?",
+      "answer": "On mobile, users can use the sharing extension or copy and paste links into the Melon app. On desktop, users can use the Chrome extension or copy and paste links."
+    }
+  ],
+  "url": "https://www.meln.ai/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Guider – Discover the WorldCloseClose IconMoonMoon IconShadowShadow IconMap Marker IconGlobe IconCurrency Dollar IconInfo IconRotate Right IconUnlock IconDownloadDownload IconChevron UpChevron Up Icon",
+  "introduction": "Guider is a mobile app currently exclusive to iPhone users, available for download on the App Store. It requires a minimum iOS version of 17 to operate. Plans for versions for iPad and Android are in progress.",
+  "features": [
+    "Tours available for over 100 cities worldwide",
+    "Regular addition of new destinations"
+  ],
+  "pricing": "Free to download",
+  "faqs": [
+    {
+      "question": "Which devices are compatible with Guider?",
+      "answer": "Guider is currently exclusive to iPhone and can be downloaded from the App Store. Plans for versions for iPad and Android are in progress."
+    },
+    {
+      "question": "How many cities are available on Guider?",
+      "answer": "Guider offers tours for over 100 cities worldwide with new destinations being added regularly."
+    },
+    {
+      "question": "Which cities are currently available on Guider?",
+      "answer": "Guider currently offers tours for cities across Africa, Asia, Europe, North America, Oceania, South America, and Middle America. Some of the cities include Cairo, Cape Town, Dubai, Tokyo, London, New York City, Sydney, and Buenos Aires."
+    }
+  ],
+  "category": "Category: Business",
+  "url": "https://www.guiderapp.de/"
+}

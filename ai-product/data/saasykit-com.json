@@ -1,0 +1,67 @@
+{
+  "description": "SaaSykit is a SaaS starter kit (boilerplate) that helps you build and launch your SaaS product faster.",
+  "title": "\n            SaaSykit - Laravel SaaS Starter Kit | SaaSykit\n    facebook-round-colorlinkedin-appfile_type_gitlab",
+  "introduction": "SaaSykit is a Laravel-based boilerplate that provides everything needed to build a modern SaaS application. It includes features like subscription management, customizable styles, user authentication, an admin panel, and more. With SaaSykit, users can save months of development time and launch their SaaS quickly and efficiently.",
+  "category": "Code&IT",
+  "features": [
+    "Subscription & one-time purchase products",
+    "Customizable colors and themes",
+    "Products, plans & pricing management",
+    "Beautiful checkout process",
+    "SaaS stats dashboard",
+    "Email communication with customizable templates",
+    "Built-in blog system",
+    "User authentication with social login options",
+    "Admin panel with user dashboard",
+    "Built-in roadmap for feedback",
+    "1-press deployment & server provisioning",
+    "Users & roles management",
+    "Fully translatable application",
+    "Auto-generated sitemap and SEO optimization",
+    "User dashboard for subscription management",
+    "Highly customizable settings",
+    "Developer-friendly with best coding practices"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Developers and entrepreneurs looking to start a SaaS business",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "What is SaaSykit?",
+      "answer": "SaaSykit is a complete SaaS starter kit that includes everything needed to start a SaaS business, such as reusable components, admin panel, user dashboard, user authentication, plans & pricing, subscriptions, payments, and more."
+    },
+    {
+      "question": "What happens when I purchase SaaSykit?",
+      "answer": "Upon purchase, you will gain access to the SaaSykit repository after entering your Github username."
+    },
+    {
+      "question": "Which payment providers are supported?",
+      "answer": "SaaSykit supports Stripe, Paddle & Lemon Squeezy by default, with the option to extend for more providers."
+    },
+    {
+      "question": "Do you offer support?",
+      "answer": "Yes, email and discord support are provided for assistance with any issues or questions."
+    },
+    {
+      "question": "How often is SaaSykit updated?",
+      "answer": "SaaSykit is regularly updated to stay current with Laravel and Filament versions, and to introduce new features and enhancements."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "Refunds are not typically offered due to the digital nature of the product, but SaaSykit is designed for continuous evolution and improvement."
+    },
+    {
+      "question": "Is there a demo available?",
+      "answer": "Yes, a demo is available at https://demo.saasykit.com/ to experience SaaSykit."
+    },
+    {
+      "question": "Is there documentation available?",
+      "answer": "Extensive documentation is available at https://saasykit.com/docs to help users get started with SaaSykit."
+    },
+    {
+      "question": "How is SaaSykit different from using Laravel directly?",
+      "answer": "SaaSykit builds on top of Laravel to provide pre-built features like payment integration, subscription management, user authentication, admin panel, and more, saving time and effort in SaaS development."
+    }
+  ],
+  "url": "https://saasykit.com/"
+}

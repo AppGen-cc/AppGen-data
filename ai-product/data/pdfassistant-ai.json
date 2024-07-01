@@ -1,0 +1,33 @@
+{
+  "description": "pdfAssistant is a powerful AI chatbot, available 24/7 to perform all of your PDF processing tasks.",
+  "title": "pdfAssistant.ai | Your Personal PDF Assistant",
+  "introduction": "pdfAssistant is a powerful AI chatbot, available 24/7 to perform all of your PDF processing tasks. Convert, watermark, merge, and more — whatever you need, all you have to do is ask.",
+  "category": "Chatbot",
+  "features": [
+    "Convert PDFs",
+    "Watermark PDFs",
+    "Merge PDFs",
+    "Compress files",
+    "Convert between file formats",
+    "24/7 availability",
+    "Natural language commands"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Anyone who needs to process digital documents, including PDFs, using simple, natural language commands.",
+  "pricing": "Free starter credits upon sign-up",
+  "faqs": [
+    {
+      "question": "What is pdfAssistant?",
+      "answer": "pdfAssistant is a revolutionary service that lets you generate and process digital documents, including PDFs and many other file formats, using simple, natural language commands."
+    },
+    {
+      "question": "How do I use pdfAssistant?",
+      "answer": "Just chat with our friendly AI assistant to create, update, and optimize your documents or perform a broad range of processing tasks, like merging documents, compressing files, converting between file formats, and more."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, you can sign up with just your email and receive free starter credits to explore all the features."
+    }
+  ],
+  "url": "https://pdfassistant.ai/"
+}

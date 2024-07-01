@@ -1,0 +1,24 @@
+{
+  "description": "AI Dungeon, an infinitely generated text adventure powered by deep learning",
+  "title": "AI Dungeon",
+  "introduction": "AI Dungeon is an AI-powered text adventure game that allows users to create and play through interactive stories.",
+  "category": "AI Detector",
+  "features": [
+    "Create and play through interactive stories",
+    "AI-powered text adventure game"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Gamers, Storytellers, Writers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for AI Dungeon."
+    },
+    {
+      "question": "Who is AI Dungeon for?",
+      "answer": "AI Dungeon is suitable for gamers, storytellers, and writers who enjoy interactive storytelling experiences."
+    }
+  ],
+  "url": "https://play.aidungeon.io/"
+}

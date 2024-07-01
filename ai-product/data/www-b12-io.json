@@ -1,0 +1,29 @@
+{
+  "description": "Instantly generate a personalized website using AI. Launch for free with the tools you need to grow.",
+  "title": "B12 | The easiest AI website builder",
+  "introduction": "B12 is an AI website builder designed to help businesses attract, win, and serve clients online. It offers different packages tailored to businesses at various stages, from basic to advanced levels. The platform provides AI-generated content, website building tools, client engagement features, and online business tools.",
+  "features": [
+    "AI-powered website creation",
+    "Team collaboration",
+    "High security standards"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Professional service providers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can I make changes to my website on my own?",
+      "answer": "Yes, B12 includes an easy-to-use website editor that allows you to make adjustments and changes easily. You can also access tools for client relationships, payments, and business management."
+    },
+    {
+      "question": "What is included in the pricing packages?",
+      "answer": "Each package offers a different set of features. The Starter package allows you to build a basic website for free, while the Professional and Advanced packages include more advanced tools like email marketing, contact management, and team collaboration."
+    },
+    {
+      "question": "Can I switch between subscription levels?",
+      "answer": "Customers on Starter or Basic subscriptions can upgrade to Professional or Advanced. Customers paying a setup fee can choose between Professional or Advanced. However, customers on Professional or Advanced subscriptions cannot downgrade to Starter or Basic."
+    }
+  ],
+  "category": "Business",
+  "url": "http://www.b12.io/"
+}

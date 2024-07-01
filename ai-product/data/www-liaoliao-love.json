@@ -1,0 +1,24 @@
+{
+  "description": "Treasure Box - Discover the power of a free, OpenAI-based Chatbot, equipped with a vast array of assistants and plugins. Enhance your productivity and content quality with features like free drawing, translation, and voice support. Experience the future of AI-driven assistance today!",
+  "title": "Treasure Box",
+  "keywords": "Text&Writing,Image,Code&IT,Voice,Translate,Business,Chatbot,Marketing,ChatGPT,Free AI,Chat",
+  "introduction": "Treasure Box is a chat-based platform that offers a unique way to discover and share hidden gems, treasures, and valuable information with other users. It provides a fun and interactive experience for users to explore and exchange interesting content.",
+  "features": [
+    "Discover hidden gems",
+    "Share valuable information",
+    "Interactive chat-based platform"
+  ],
+  "pricing": "Free to use with in-app purchases available",
+  "faqs": [
+    {
+      "question": "Is Treasure Box available on mobile devices?",
+      "answer": "Yes, Treasure Box is available on both iOS and Android devices."
+    },
+    {
+      "question": "Can I customize my profile on Treasure Box?",
+      "answer": "Yes, users can customize their profiles with unique usernames and profile pictures."
+    }
+  ],
+  "category": "Chatbot",
+  "url": "http://www.liaoliao.love/"
+}

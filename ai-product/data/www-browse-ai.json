@@ -1,0 +1,60 @@
+{
+  "description": "Monitor any webpage for changes. Download any data on the web as a spreadsheet. Turn any website into an API.",
+  "title": "Scrape and Monitor Data from Any Website with No CodeCanada",
+  "introduction": "Browse AI is a data extraction tool that provides various functionalities to easily gather data from the internet without the need for coding. It offers features like scraping lists, data, and screenshots, extracting data at scale with Bulk Run, handling data behind logins, pagination, and scroll, integrating with other tools, scheduling data extraction, solving captchas, adapting to layout changes, chaining robots with Workflows, and more.",
+  "features": [
+    "Scraping Lists, data, and screenshots with no code",
+    "Extract data at scale with Bulk Run",
+    "Extract data behind logins",
+    "Pagination & scroll handling",
+    "Integrations with various tools",
+    "Extract data on a specific schedule",
+    "Captcha Solving",
+    "Global location-based data",
+    "Automatic adoption to Layout changes",
+    "Chain 2 robots together with Workflows"
+  ],
+  "pricing": "Start extracting and monitoring data on the web for free. Upgrade only when Browse AI is saving you hours of time and helping you make better decisions. There is a free plan with 50 credits per month, and paid plans include Starter, Professional, and Team with different features and pricing.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users who need to extract data from websites without coding",
+  "faqs": [
+    {
+      "question": "How can I get started?",
+      "answer": "You can get started by signing up on the Browse AI website and exploring the features available."
+    },
+    {
+      "question": "Do I need to know how to code?",
+      "answer": "No, Browse AI allows you to extract data without the need for coding."
+    },
+    {
+      "question": "What is a Credit?",
+      "answer": "Credits are used to perform data extraction tasks on Browse AI. Each plan comes with a certain number of credits."
+    },
+    {
+      "question": "Which sites does Browse AI support?",
+      "answer": "Browse AI supports data extraction from various websites on the internet."
+    },
+    {
+      "question": "How do you make sure my data is secure?",
+      "answer": "Browse AI ensures data security through encryption and secure data handling practices."
+    },
+    {
+      "question": "Can you charge me in my local currency?",
+      "answer": "Browse AI charges in USD, but you can check for currency conversion options."
+    },
+    {
+      "question": "Do you offer any discounts?",
+      "answer": "Browse AI may offer discounts or promotions, check the website for current offers."
+    },
+    {
+      "question": "What is the refund policy?",
+      "answer": "Refund policies may vary, check the terms and conditions on the Browse AI website."
+    },
+    {
+      "question": "What if I have more questions?",
+      "answer": "You can reach out to the Browse AI support team for any additional questions or assistance."
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://www.browse.ai/"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "BasedLabs is your go to source for AI video and tools. Join our community of thousands of AI enthusiasts and creators.",
+  "title": "BasedLabs.ai | <!-- -->Face Swap",
+  "introduction": "BasedLabs Apps offers a suite of AI-powered tools, including a free and secure AI Face Swap tool that allows users to upload photos and swap faces seamlessly. The platform ensures privacy and provides high-quality, natural results quickly and easily.",
+  "category": "Image",
+  "features": [
+    "Upload base and target images for face swapping",
+    "AI-powered face swap for high-quality results",
+    "Preview, download, and share the final image",
+    "Completely free with no hidden costs",
+    "Ensures privacy by not storing face information",
+    "Natural and seamless face swap results",
+    "Swift and user-friendly process"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals looking to create memes, funny content, or engage in creative photo editing",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Is the face swap tool free to use?",
+      "answer": "Yes, BasedLabs AI Face Swap is completely free with no hidden costs."
+    },
+    {
+      "question": "How does BasedLabs ensure privacy?",
+      "answer": "BasedLabs does not store any face information, ensuring your privacy and security."
+    },
+    {
+      "question": "How long does the face swap process take?",
+      "answer": "The entire process takes only seconds, allowing you to generate face swap photos quickly."
+    },
+    {
+      "question": "Can I download and share the swapped images?",
+      "answer": "Yes, you can preview the final result, download it to your device, and share it."
+    }
+  ],
+  "url": "https://www.basedlabs.ai/apps/face-swap"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Chat BI – 使用AI 设计大屏和报表免费工具",
+  "introduction": "Chat BI is a next-generation AI BI big screen tool that helps users design large-screen reports through natural language descriptions. It offers advanced analytics tools, AI low code customization, collaboration features, and seamless integration with legacy systems.",
+  "category": "AI Detector",
+  "features": [
+    "AI analysis for valuable insights",
+    "AI Low Code customization",
+    "Collaboration platform for growth",
+    "AI assistant for achieving goals",
+    "Seamless integration with legacy systems"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Business professionals",
+  "pricing": "Free to download and use, paid online remote support available at $50 per hour",
+  "faqs": [
+    {
+      "question": "Is the software free?",
+      "answer": "The software is free to download and use, with paid online remote support available at $50 per hour."
+    },
+    {
+      "question": "Are there any best practices to use?",
+      "answer": "Clear and unambiguous table and field descriptions are recommended when initializing the database. Corresponding problem and table structure descriptions are advised when asking AI questions."
+    },
+    {
+      "question": "How do you describe the structure of table associations for multiple tables?",
+      "answer": "Refer to provided examples for describing table associations for multiple tables."
+    },
+    {
+      "question": "Which platforms are currently supported?",
+      "answer": "The server supports Windows system, and the client supports any system."
+    },
+    {
+      "question": "Is there a user exchange group?",
+      "answer": "A WeChat communication group is provided for user interaction."
+    },
+    {
+      "question": "Is my database secure?",
+      "answer": "Customer database table structures are encoded and escaped before being sent to the model, ensuring user data security."
+    },
+    {
+      "question": "How do I get the OpenAI key?",
+      "answer": "Domestic users can register and purchase services through wildcard for the OpenAI key."
+    },
+    {
+      "question": "How do I get AI to generate charts in a specified format?",
+      "answer": "Instruct AI during dialogue to render charts in specified formats, such as requesting pie chart display for today's purchase receipt situation."
+    }
+  ],
+  "url": "http://chatbi.site/"
+}

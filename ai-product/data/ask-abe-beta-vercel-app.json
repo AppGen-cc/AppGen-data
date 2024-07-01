@@ -1,0 +1,40 @@
+{
+  "description": "AI Powered Legal Education and Research. Ask Abe is a legal research and education tool that uses AI to help you better understand the complexities of the law.",
+  "title": "Ask Abe",
+  "introduction": "Ask Abe is an educational tool that helps users navigate complex legal frameworks and provides detailed legal information. It is a conversational AI that users can ask legal questions to and receive legal information with direct citations to primary source legislation.",
+  "category": "Education",
+  "features": [
+    "Provides detailed legal information with direct citations to primary source legislation",
+    "Expandable citations for user preference",
+    "Clarification question answer options with multiple choice",
+    "Chat options to skip clarifications",
+    "Jurisdiction selection for focused answers",
+    "Ability to ask follow-up questions"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals seeking to understand legal frameworks and obtain legal information",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Ask Abe?",
+      "answer": "Ask Abe is an educational tool that helps users navigate complex legal frameworks and provides detailed legal information. It is a conversational AI that users can ask legal questions to and receive legal information with direct citations to primary source legislation."
+    },
+    {
+      "question": "Is Ask Abe free to use?",
+      "answer": "Yes, Ask Abe is committed to keeping this invaluable tool free forever."
+    },
+    {
+      "question": "Can I choose the jurisdiction for the legal information?",
+      "answer": "Yes, you can select from which jurisdiction you would like Abe to focus his answer. More jurisdictions are coming soon."
+    },
+    {
+      "question": "Can I ask follow-up questions?",
+      "answer": "Yes, when Abe gives you an answer to your original query, you can ask a follow-up question if you have more questions."
+    },
+    {
+      "question": "What if the clarifying question doesn't apply to me?",
+      "answer": "If the clarifying question doesn't apply, you can click 'not applicable', or if none of the answers suit your needs, you can write your own custom response."
+    }
+  ],
+  "url": "https://ask-abe-beta.vercel.app/"
+}

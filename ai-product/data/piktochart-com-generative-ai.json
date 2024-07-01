@@ -1,0 +1,52 @@
+{
+  "description": "Piktochart AI’s free infographic maker crafts custom infographics from any topic in seconds. Vivid visuals and swift creation— try it now for free.",
+  "title": "Free AI Infographic Maker—Piktochart AI - Piktochart",
+  "introduction": "Piktochart Video is an online video editor that allows users to record brief video updates, transcribe videos to text, and repurpose video content for social media. It simplifies video creation and editing, making it as easy as editing text.",
+  "category": "Video",
+  "features": [
+    "Edit videos by editing the transcript of the audio",
+    "Automatically generate subtitles in over 60 languages",
+    "Quickly capture your video, screen + video, or just screen",
+    "Crop your video to the desired aspect ratio with one click",
+    "Repurpose existing video content for social media",
+    "Add logos, match video background to brand colors"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses, content creators, educators, and anyone looking to create and edit videos easily",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Piktochart Video?",
+      "answer": "Piktochart Video is an online video editor that allows users to record brief video updates, transcribe videos to text, and repurpose video content for social media."
+    },
+    {
+      "question": "How does Piktochart Video handle subtitles?",
+      "answer": "Piktochart Video automatically transcribes your videos and generates subtitles in over 60 languages. You can export subtitles as .srt, .vtt, or .txt files."
+    },
+    {
+      "question": "What are the pricing plans for Piktochart Video?",
+      "answer": "Piktochart Video offers a Free plan, a Pro plan at $14 per member/month billed annually, and a Business plan at $24 per member/month billed annually. There is also an Enterprise plan with custom pricing."
+    },
+    {
+      "question": "Can I cancel my subscription at any time?",
+      "answer": "Yes, you can cancel your subscription at any time from your Account Settings."
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "Piktochart accepts Visa, MasterCard, or PayPal. For purchases of $168 or more, direct bank deposits are also accepted."
+    },
+    {
+      "question": "Is there a free version of Piktochart Video?",
+      "answer": "Yes, Piktochart offers a free version of the platform, available to everyone."
+    },
+    {
+      "question": "How many team members can share the workspace in the Free plan?",
+      "answer": "The team workspace in the Free plan can be shared among a maximum of 4 members (1 owner plus 3 additional members)."
+    },
+    {
+      "question": "What additional features does the Business plan include?",
+      "answer": "In addition to all Pro features, Piktochart Business includes dedicated and unlimited access to branding features (colors, fonts, logos) to help your team create beautiful branded content quickly."
+    }
+  ],
+  "url": "https://piktochart.com/generative-ai/"
+}

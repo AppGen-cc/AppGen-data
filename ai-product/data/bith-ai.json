@@ -1,0 +1,35 @@
+{
+  "description": "BithAI is an all-in-one free video editor to take your content to the next level. Create, edit, and publish videos in minutes.",
+  "title": "Bith.ai  | Content Creation Made Easy",
+  "introduction": "BithAI is an all-in-one free video editor designed to elevate your content creation. It offers a range of features to convert, edit, and enhance videos for various social media platforms.",
+  "category": "Video",
+  "features": [
+    "Magic resizer to convert videos to different formats",
+    "Add text/images/videos to enhance content",
+    "Generate stunning images through text using AI",
+    "No watermark on exported videos",
+    "Cloud-based for easy access and processing"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, both newbies and professionals",
+  "pricing": "Subscription with monthly and annual billing options",
+  "faqs": [
+    {
+      "question": "Can I cancel my pro plan at anytime I want?",
+      "answer": "Yes, you can cancel your pro plan at any time. You can also switch to a different plan or downgrade to a free plan from within your Billing Settings. No refunds are offered for paid plans."
+    },
+    {
+      "question": "What are my payment options?",
+      "answer": "Payment can be made by credit/debit card or PayPal. For any questions about payment options, contact the support team."
+    },
+    {
+      "question": "Do you have an annual/yearly billing option?",
+      "answer": "Yes, an annual billing option is available, offering up to 17% savings compared to monthly payments."
+    },
+    {
+      "question": "Can I have a free trial for Pro Plan?",
+      "answer": "No, a free trial for the Pro Plan is not available at this time."
+    }
+  ],
+  "url": "https://bith.ai/"
+}

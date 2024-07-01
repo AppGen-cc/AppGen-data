@@ -1,0 +1,37 @@
+{
+  "description": "Instantly get hundreds of beautiful designs. Create perfect profile pictures for all your social media profiles. Customize and download for free",
+  "title": "Free Profile Picture Maker - Generate your PFP with AI",
+  "introduction": "PFPMaker is a tool that helps users create professional profile pictures for various online platforms such as LinkedIn, CV, Resume, Instagram, and messengers. It offers features like background removal, background replacement, AI portrait enhancer, and professional templates. Users can fine-tune every detail of their profile picture to perfection using a selection of tools and AI technology. PFPMaker has been used by millions of users worldwide to create engaging and professional profile pictures.",
+  "features": [
+    "Get 36x times more interactions with a professional profile picture",
+    "Get 146% more engagement and drive more leads",
+    "Fine-tune profile picture details with AI, filters, backgrounds, and templates"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can the background be removed more precisely?",
+      "answer": "We are working on making our background remover better. However, better processing results may be achieved by uploading a higher quality, contrast photo with good lighting and ensuring your headshot is fully visible without being cut by image boundaries."
+    },
+    {
+      "question": "Where can generated profile pics be used?",
+      "answer": "Generated profile pictures can be used as profile pictures on social media, display/chat pictures on messengers, headshots for email signatures or resume/CV, dating apps, and in various other ways."
+    },
+    {
+      "question": "How can the generated profile pics be used?",
+      "answer": "Users can use the generated profile pictures in any way they like, as long as it does not violate the usage agreement. The photos cannot be used for illegal activities."
+    },
+    {
+      "question": "What happens with my photo after upload?",
+      "answer": "Uploaded photos are processed on the backend to remove the background only. The original photos are automatically deleted every 24 hours."
+    },
+    {
+      "question": "What photo formats are supported?",
+      "answer": "JPG/PNG formats up to 5mb are supported."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals and professionals",
+  "url": "https://pfpmaker.com/"
+}

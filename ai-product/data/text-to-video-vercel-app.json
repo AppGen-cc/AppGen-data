@@ -1,0 +1,24 @@
+{
+  "title": "TextToVideo | Create videos from text",
+  "introduction": "The website offers a platform for generating video prompts for creative projects. Users can input specific prompts or criteria to generate unique video ideas.",
+  "features": [
+    "Customizable prompts for video creation",
+    "Option to specify size, temperature, and level of imagination for the video",
+    "Ability to set a random seed for varied results"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "How can I use the website to generate video prompts?",
+      "answer": "Simply input your desired criteria or prompts, such as size, temperature, and level of imagination, and the website will generate unique video ideas based on your inputs."
+    },
+    {
+      "question": "Is there a cost for using the video prompt generation service?",
+      "answer": "No, the service is completely free to use."
+    }
+  ],
+  "category": "Category: \"Video\"",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Creative individuals and artists",
+  "url": "https://text-to-video.vercel.app/"
+}

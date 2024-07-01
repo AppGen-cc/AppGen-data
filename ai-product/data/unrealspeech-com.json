@@ -1,0 +1,55 @@
+{
+  "description": "Slash Text-to-Speech Costs by up to 90%. Up to 10x cheaper than Eleven Labs and Play.ht. Up to 2x cheaper than Amazon, Microsoft, and Google.",
+  "title": "Text-to-Speech API - Unreal Speech",
+  "keywords": "text-to-speech, TTS, API, AI",
+  "introduction": "Unreal Speech offers a text-to-speech API that allows users to convert text into high-quality audio. It is designed to be cost-effective, providing significant savings compared to other services.",
+  "category": "Voice",
+  "features": [
+    "High-quality text-to-speech conversion",
+    "Cost-effective pricing",
+    "Volume discounts",
+    "Live demo available",
+    "Supports multiple voice options",
+    "API access for integration",
+    "Customizable audio settings",
+    "Commercial usage allowed"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and developers needing high-volume text-to-speech conversion",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Do you offer voices in other languages?",
+      "answer": "We currently only have English speaking voices. But we're working on multilingual voice support, expected to be available in 3-6 months."
+    },
+    {
+      "question": "Can I create custom voices (voice cloning)?",
+      "answer": "Not right now, but we're working on it!"
+    },
+    {
+      "question": "What happens if I use all of my monthly characters?",
+      "answer": "Additional usage over the monthly allowance will be charged daily at the rate of your current plan: Basic – $16 per 1M characters, Plus – $12 per 1M characters, Pro – $10 per 1M characters, Enterprise – $8 per 1M characters."
+    },
+    {
+      "question": "What happens to unused characters at the end of the month?",
+      "answer": "Free plan – Characters are reset on the 1st of every month. Paid plan – Unused characters roll over to the next billing cycle."
+    },
+    {
+      "question": "Can I use generated audio commercially?",
+      "answer": "Yes, audio generated with Unreal Speech can be used commercially. The following terms apply, based on your subscription plan: Free plan – You must attribute Unreal Speech when publishing audio by including a link to 'unrealspeech.com' in the description. Paid plan – You do not need to include any attribution."
+    },
+    {
+      "question": "How do I update my payment method?",
+      "answer": "Go to your Dashboard and choose 'Manage Subscription'."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "You can cancel your subscription at any time. Go to your Dashboard and choose 'Manage Subscription'."
+    },
+    {
+      "question": "Do you have an affiliate program?",
+      "answer": "Yes! You can earn 15% recurring on all paid referrals. Click here to sign up."
+    }
+  ],
+  "url": "https://unrealspeech.com/"
+}

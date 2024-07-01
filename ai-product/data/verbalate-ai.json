@@ -1,0 +1,45 @@
+{
+  "description": "Reach a global audience, unlock new revenue, & scale your video & audio content production with verbalate.ai universal audio/video translation & lip-sync software.",
+  "title": "Verbalate™ Video & Audio Translation, Voice Clone & Lip Sync Software",
+  "introduction": "Verbalate offers fast, accurate, and secure video transcription and translation services for various industries, including medical, legal, tech, marketing, and video production. Their advanced software features voice cloning and lip-sync capabilities, making it ideal for globalizing content.",
+  "category": "Voice",
+  "features": [
+    "Fast, accurate, and secure video transcription services",
+    "Advanced video translation software with voice cloning and lip-sync",
+    "Supports over 230 languages and more than 800 language pairs",
+    "Compatible with all major video and audio file formats",
+    "Create subtitles in multiple languages",
+    "API for seamless integration into products or services",
+    "Human-in-the-loop translation for enterprise",
+    "AI voice clone with just a minute of audio",
+    "Phonetic pronunciation for natural sound",
+    "Preserve or remove background sound",
+    "Edit SRT files for superior translation accuracy"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "YouTubers, companies with product marketing videos, educational institutions, medical, legal, tech, marketing, and video production firms",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What industries does Verbalate serve?",
+      "answer": "Verbalate serves various industries, including medical, legal, tech, marketing, and video production."
+    },
+    {
+      "question": "How many languages does Verbalate support?",
+      "answer": "Verbalate supports over 230 languages and more than 800 language pairs."
+    },
+    {
+      "question": "What features does Verbalate's software offer?",
+      "answer": "Verbalate's software offers video transcription, advanced video translation with voice cloning and lip-sync, subtitle creation, API integration, and phonetic pronunciation for natural sound."
+    },
+    {
+      "question": "Is there a human-in-the-loop translation option?",
+      "answer": "Yes, Verbalate offers human-in-the-loop translation for enterprise to ensure optimal accuracy."
+    },
+    {
+      "question": "Can Verbalate's software handle both audio and video formats?",
+      "answer": "Yes, Verbalate's software is compatible with all major video and audio file formats."
+    }
+  ],
+  "url": "https://verbalate.ai/"
+}

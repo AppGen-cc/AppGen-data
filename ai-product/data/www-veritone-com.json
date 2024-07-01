@@ -1,0 +1,29 @@
+{
+  "description": "Transform your workflows and superpower your teams with innovative, custom AI solutions, AI services, and a powerful enterprise AI platform.",
+  "title": "Veritone | AI that makes you even better",
+  "introduction": "Veritone offers custom AI solutions for various industries, empowering organizations to unlock new revenue streams, enhance media content, and optimize team performance. Their aiWARE platform is designed to meet unique organizational needs and turn data into intelligence efficiently. Veritone is committed to ethical AI practices and aims to use AI for the betterment of society.",
+  "category": "AI Detector",
+  "features": [
+    "Custom AI solutions tailored to organizational needs",
+    "aiWARE platform for data intelligence",
+    "Commitment to ethical AI practices"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Organizations looking to leverage AI technology",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What industries does Veritone cater to?",
+      "answer": "Veritone caters to industries such as Media + Entertainment, Public Sector, Talent Acquisition, and others."
+    },
+    {
+      "question": "What is aiWARE?",
+      "answer": "aiWARE is a customizable platform designed to meet unique organizational needs and efficiently turn data into intelligence."
+    },
+    {
+      "question": "What is Veritone's mission?",
+      "answer": "Veritone's mission is to advance and democratize the capabilities of AI and empower people to achieve greater potential."
+    }
+  ],
+  "url": "https://www.veritone.com/"
+}

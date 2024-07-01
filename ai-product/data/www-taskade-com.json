@@ -1,0 +1,59 @@
+{
+  "description": "Taskade supercharges your productivity with AI! Build an AI Agent Workforce that writes, researches, and manages tasks, turning insights into action. Enjoy timeless productivity with automated workflows and real-time collaboration, all in one unified workspace. Work faster and smarter—chat with your tasks, notes, mind maps, and more. Accessible on all devices.",
+  "title": "AI-Powered Productivity — Build Your AI Agent Workforce | Taskade",
+  "introduction": "Taskade AI is an AI-powered productivity platform that offers a range of features such as AI Workflow Generator, Custom AI Agents, AI Automations & Flows, AI Writing and Task Assistant, Autonomous AI Agents, and more. It allows users to automate tasks, collaborate in real-time, and streamline workflows using AI technology. Taskade is designed for teams and individuals looking to enhance their productivity and efficiency through AI-powered tools.",
+  "features": [
+    "AI Workflow Generator",
+    "Custom AI Agents",
+    "AI Automations & Flows",
+    "AI Writing and Task Assistant",
+    "Autonomous AI Agents"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Teams and individuals looking to enhance productivity with AI technology",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can I use Taskade to create mind maps?",
+      "answer": "Yes, Taskade offers a powerful Mind Map view for mapping out tasks and visualizing work."
+    },
+    {
+      "question": "How can I better organize my life and work with Taskade?",
+      "answer": "Taskade is a structured task list and note-taking app that helps you stay organized and collaborate with your team."
+    },
+    {
+      "question": "Can I make my calendar shared and collaborative?",
+      "answer": "Yes, Taskade integrates with top calendar services for shared project calendars and workspaces."
+    },
+    {
+      "question": "Are my to-do lists and task lists cross-platform in Taskade?",
+      "answer": "Yes, Taskade is fully cross-platform, allowing access from mobile devices, desktop, and web browsers."
+    },
+    {
+      "question": "Can I share a direct read-only link to my online calendar planner and weekly to-do list?",
+      "answer": "Yes, Taskade allows easy sharing of task lists and calendars through shareable links."
+    },
+    {
+      "question": "Can I use Taskade for task management on a project?",
+      "answer": "Yes, Taskade is designed for task management across multiple teams and workspaces."
+    },
+    {
+      "question": "Does Taskade have Templates?",
+      "answer": "Yes, Taskade offers a library of over 500+ customizable templates for various categories."
+    },
+    {
+      "question": "Are Taskade’s to-do lists printable?",
+      "answer": "Yes, Taskade allows easy printing and exporting of to-do lists in various formats."
+    },
+    {
+      "question": "Can I use Taskade as just a to-do list app?",
+      "answer": "Yes, Taskade can be used for both personal to-do lists and team projects."
+    },
+    {
+      "question": "Is there subtask and checklist functionality in Taskade?",
+      "answer": "Yes, Taskade offers the ability to create unlimited levels of subtasks and checklists for project organization."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.taskade.com/"
+}

@@ -1,0 +1,29 @@
+{
+  "description": "Research and write in-depth articles on any topic using AI. Ideal for bloggers, freelance writers and content marketers. Try it for free.",
+  "title": "\n    AI Research and Writing Tool • Lede\n  ",
+  "introduction": "Lede is engineered to write like humans do. Unlike most AI writers, we conduct real-time research to capture the latest information, followed by distilling this data into key insights. We then craft your article based on the summarized research notes. This method allows you to tackle any subject matter confidently — even those outside your expertise — with links to the original sources.",
+  "category": "Text&Writing",
+  "features": [
+    "Conducts real-time research to capture the latest information",
+    "Distills data into key insights",
+    "Crafts articles based on summarized research notes",
+    "Optimized for SEO and AI",
+    "Allows targeting of keywords",
+    "Defines reading level",
+    "Adjusts writing style"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Content creators, bloggers, marketers, businesses",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What makes Lede different from other AI writers?",
+      "answer": "Lede conducts real-time research to capture the latest information and distills this data into key insights before crafting your article."
+    },
+    {
+      "question": "How does Lede optimize content for SEO and AI?",
+      "answer": "Lede focuses on structuring content in a way that is easy to consume for both humans and machines, and allows for targeting keywords, defining reading levels, and adjusting writing styles."
+    }
+  ],
+  "url": "https://thelede.ai/"
+}

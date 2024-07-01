@@ -1,0 +1,33 @@
+{
+  "description": "HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process. Unleash your creativity with HeyGen - the future of video production.",
+  "title": "HeyGen - AI Video Generator",
+  "introduction": "HeyGen is an AI-powered video creation platform that allows users to effortlessly produce studio-quality videos with AI-generated avatars and voices. It offers a range of features for creating engaging and entertaining videos for various purposes, including sales outreach, content marketing, product marketing, and learning & development.",
+  "features": [
+    "Create or choose an avatar from over 100+ AI avatars",
+    "Record or choose a voice from a collection of high-quality voices",
+    "Start with a template or from scratch",
+    "Select from a variety of avatars spanning different ethnicities, ages, and styles",
+    "Choose from 300+ voices in 40+ languages",
+    "Video translation with one-click solution for seamless delivery in other languages",
+    "API integration for programmatically creating avatar videos",
+    "ChatGPT script writer for accelerating video creation",
+    "AI outfits for customizable clothing options",
+    "Integrations with favorite platforms",
+    "Templates for various scenarios"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, users can get started for free on the HeyGen platform."
+    },
+    {
+      "question": "Who is the target user of HeyGen?",
+      "answer": "HeyGen is suitable for professionals and beginners who want to create stunning videos in minutes instead of hours."
+    }
+  ],
+  "category": "The website belongs to the \"Video\" category.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professionals and beginners",
+  "url": "https://www.movio.la/"
+}

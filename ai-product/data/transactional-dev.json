@@ -1,0 +1,23 @@
+{
+  "description": "Create your PDF template and generate your documents for your customers on the fly !",
+  "title": "Transactional: Next-Level PDF Generation for Developers",
+  "introduction": "Transactional is a next-generation PDF generation tool for developers. It simplifies the process of creating PDF documents by using a transactional email system adapted for PDF generation.",
+  "features": [
+    "Generation API",
+    "All Google-Fonts fonts",
+    "Tailwind / Bootstrap",
+    "Multiples team member (Soon)",
+    "Zapier integration (Soon)"
+  ],
+  "pricing": "Start for free with 100 credits, Pro plan at $25 per month with 5,000 credits per month, and Enterprise plan available for custom needs.",
+  "faqs": [
+    {
+      "question": "What is transactional used for?",
+      "answer": "Transactional is a new generation way to generate PDF documents. It adapts a transactional email system for PDF generation, allowing users to create templates and generate PDFs quickly and efficiently without manual effort."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers",
+  "url": "https://transactional.dev/"
+}

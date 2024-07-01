@@ -1,0 +1,32 @@
+{
+  "description": "The AI-powered platform revolutionizing pre-production for filmmakers. Effortlessly manage script breakdowns, coverage reports, scheduling, and budget estimates in one integrated solution.",
+  "title": "RivetAI",
+  "keywords": "Automated script breakdown, AI script analysis, Automated screenplay coverage, film budgeting, character breakdown, film scheduling, preproduction scheduling, preproduction budgeting, AI for film preproduction, AI in film production, artificial intelligence, AI, preproduction workflow, TV & film production management software",
+  "introduction": "RivetAI offers AI-powered tools for script breakdown, analysis, character breakdown, budgeting, and shooting schedule creation. It also provides team collaboration features, advanced security measures, and multilingual support. The platform aims to streamline the pre-production process for screenwriters and filmmakers, allowing them to focus on their creative vision.",
+  "features": [
+    "AI Script Breakdown",
+    "AI Script Coverage",
+    "AI Script Summary",
+    "AI Character Breakdown",
+    "AI Budget Sheet",
+    "AI Shooting Schedule",
+    "Team Collaboration",
+    "Advanced Security",
+    "Multilingual Support"
+  ],
+  "pricing": "RivetAI offers flexible plans including a Free plan with limited features, an Indie plan for $49/month, a Studio plan for $199/month, and an Enterprise plan with customizable options.",
+  "faqs": [
+    {
+      "question": "What is included in the Free plan?",
+      "answer": "The Free plan includes AI-powered features, manual edits, and summary reports for 1 project with a maximum duration of 7 days."
+    },
+    {
+      "question": "What features are included in the Studio plan?",
+      "answer": "The Studio plan includes AI-powered features, team access with 4 free seats, summary reports, regeneration, real-time collaboration, manual edits, and various export options."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Screenwriters and filmmakers",
+  "url": "https://www.rivetai.com/"
+}

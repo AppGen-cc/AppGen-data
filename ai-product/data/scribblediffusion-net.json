@@ -1,0 +1,22 @@
+{
+  "description": "Discover Scribble Diffusion on Replicate: Transform your scribbles into custom AI images effortlessly. Enjoy quick, fun image creation with our innovative AI model!",
+  "title": "\n        Scribble Diffusion, a Replicate opensource project that easily transforms your scribble into AI images. |\n      Scribble Diffusion\n    Menu",
+  "introduction": "Transform your favorite photos into personalized stickers with our AI-driven service. Easily create unique AI images from your sketches or uploaded photos in seconds. Unleash your creativity and enjoy vibrant, high-quality results.",
+  "category": "Design&Art",
+  "features": [
+    "Simple to use interface for quick image generation",
+    "Fast AI image generation in 20-30 seconds",
+    "High-quality images with vibrant colors and sharp details",
+    "User-friendly interface for creating artistic AI images"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who want to personalize their photos and sketches with AI-generated stickers",
+  "pricing": "One-time payment with credit purchase options",
+  "faqs": [
+    {
+      "question": "Can I download generated images to my computer?",
+      "answer": "Yes, you can download the generated images to your computer and share them on social media platforms like Facebook, Twitter, and Instagram."
+    }
+  ],
+  "url": "https://scribblediffusion.net/"
+}

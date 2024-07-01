@@ -1,0 +1,19 @@
+{
+  "description": "NoAGI is a chat assistant that can use and combine the most advanced AI technologies with natural language requests to assist you. Give it the 'what', it will figure out the 'how'.",
+  "title": "NoAGI",
+  "introduction": "NoAGI is a platform designed to provide advanced notification and alert systems for websites and applications. It offers customizable toast notifications that can be styled and positioned according to user preferences.",
+  "category": "Productivity",
+  "features": [
+    "Customizable toast notifications",
+    "Support for light and dark themes",
+    "Responsive design for mobile and desktop",
+    "Rich color options for different notification types",
+    "Animation support for showing and hiding notifications",
+    "Accessibility features like focus-visible and reduced motion support"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Web developers, UI/UX designers, and application developers",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://chat.noagi.ai/login"
+}

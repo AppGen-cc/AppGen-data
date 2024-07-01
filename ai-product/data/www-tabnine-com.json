@@ -1,0 +1,32 @@
+{
+  "description": "Tabnine is the AI code assistant that accelerates and simplifies software development while keeping your code private, secure, and compliant.",
+  "title": "Tabnine AI code assistant | Private, personalized, protected",
+  "introduction": "Tabnine is an AI code assistant trusted by millions of developers and thousands of companies. It offers AI-powered development platforms for individuals, small teams, and businesses, with features like code completions, AI chat agents, and enterprise-grade security. Tabnine provides personalized AI agents tailored to the user's code and company standards.",
+  "features": [
+    "Powered by best-in-class AI models",
+    "AI chat agents in the IDE for code generation, testing, and documentation",
+    "Switchable AI chat models from Tabnine and third-party providers",
+    "Security vulnerability filtering",
+    "Fully private deployment for businesses",
+    "Fine-tuned AI models for codebase",
+    "Integration with Atlassian Jira and Confluence",
+    "User and policy management tools",
+    "Enterprise-grade security and privacy",
+    "Ticket-based support and training on AI-enabled software development"
+  ],
+  "pricing": "Tabnine offers three plans: Basic (free), Pro ($12 per user per month with a 90-day free trial), and Enterprise ($39 per user per month with a 1-year commitment).",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a 90-day free trial for the Pro plan."
+    },
+    {
+      "question": "What is the pricing for the Enterprise plan?",
+      "answer": "The Enterprise plan costs $39 per user per month with a 1-year commitment."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers and software development teams",
+  "url": "https://www.tabnine.com/"
+}

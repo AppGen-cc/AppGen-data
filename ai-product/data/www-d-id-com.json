@@ -1,0 +1,53 @@
+{
+  "description": "Introducing NUI the Natural User Interface, aimed at revolutionizing how people interact with anything digital leveraging the power of AI",
+  "title": "D-ID | The #1 Choice for AI Generated Video Creation Platform",
+  "introduction": "D-ID offers a Creative Reality™ Studio for creating AI videos with interactive agents. The platform provides various plans for different usage needs, including a free trial and commercial options. Users can create digital avatars, control voice pitch and rate, and access premium presenters. The platform also offers AI watermarking and supports multiple languages.",
+  "features": [
+    "Create interactive Agents and real-time AI videos",
+    "Up to 135 mins of video or 270 mins of streaming video",
+    "Voice Pitch & Rate Control",
+    "Premium & Standard Presenters",
+    "AI Watermark",
+    "Access to Canva add-in",
+    "Subtitles",
+    "Access to AI Presenter PowerPoint add-in",
+    "Custom Premium Presenters",
+    "Voice Cloning",
+    "Embedded Agents",
+    "Text to Video Generator",
+    "Upload Your Own Presenter",
+    "Audio to Video",
+    "Emotion & Expression Control",
+    "Access to Canva add-in",
+    "Account Seats",
+    "Custom Premium Presenters",
+    "Voice Cloning"
+  ],
+  "pricing": "Subscription based with plans ranging from $35/month to $207.9/month, with annual billing options and discounts up to 30%. Credits are used for video creation, with different credit packages available based on the plan chosen.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and individual content creators",
+  "faqs": [
+    {
+      "question": "What are credits?",
+      "answer": "Each credit is worth up to 15 seconds of video. Longer videos consume more credits based on the video length."
+    },
+    {
+      "question": "What are Agent sessions?",
+      "answer": "An Agent session includes up to 5 messages from an agent. Additional messages count as new sessions."
+    },
+    {
+      "question": "Do unused credits carry over to the next month?",
+      "answer": "No, unused credits do not carry over and become void at the end of the month."
+    },
+    {
+      "question": "How can I change my credit card details?",
+      "answer": "Navigate to the 'Billing' section in the menu and update your credit card details."
+    },
+    {
+      "question": "Why do all videos have a watermark?",
+      "answer": "To maintain transparency about the synthetic nature of the videos and adhere to ethical guidelines."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.d-id.com/"
+}

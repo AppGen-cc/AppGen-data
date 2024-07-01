@@ -1,0 +1,24 @@
+{
+  "description": "Fineshare FineCam is an AI virtual camera software for video recording and video conferencing. It can help you quickly create HD webcam videos and provide highly engaging video conferences wherever you are. (FineCam is originally named VibeCam)",
+  "title": "[Official] Fineshare FineCam | AI Virtual Camera Software for Windows & Mac",
+  "introduction": "FineCam is a versatile tool that can be used for online teaching, online meetings, product demos, telemedicine, content creation, and live streaming. It offers features like screen sharing, overlay capabilities, high-quality video and audio, and real-time engagement to enhance various activities.",
+  "features": [
+    "Screen sharing for collaboration",
+    "Overlay features for highlighting key points",
+    "High-quality video and audio",
+    "Real-time engagement with audience"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, FineCam offers a free trial period for users to explore its features before committing to a subscription."
+    },
+    {
+      "question": "Who is the target user of FineCam?",
+      "answer": "FineCam is designed for teachers, remote teams, salespersons, doctors, influencers, content creators, and streamers who want to enhance their online activities with interactive and engaging features."
+    }
+  ],
+  "category": "[Video]",
+  "url": "https://www.fineshare.com/finecam/"
+}

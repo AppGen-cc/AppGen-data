@@ -1,0 +1,23 @@
+{
+  "description": "AI Prompt generator to help get optimized AI responses. Promptly Generated employs an AI-Powered prompt engineer to generate and optimize AI prompts. We offer a powerful, simpler, cheaper and faster alternative to traditional prompt engineering, without compromising on quality. Our platform is perfect for AI hobbyists, independent developers, small businesses, and educators who are seeking to take advantage of the ever-growing opportunities in AI and humanity. With Promptly Generated, achieving superior AI communication and output quality has never been easier and more accessible. We help you drastically accelerate the prompt optimization and generation at a fraction of the cost of traditional prompt engineering. Anyone can get the best out of AI with our AI prompt engineer. AI-Powered Prompt Engineering with Promptly Generated | Affordable, Efficient AI Solutions for Enhanced Natural Language Interactions | AI prompt Engineer, AI text prompt generator, prompt generator, ai image prompt generator, midjourney prompt generator. AI prompt Generator, GPT-4 prompt engineer, ChatGPT prompt generator. AI Text prompt Generator - Promptly Generated: Effortless Prompt Engineering for All. AI prompt generator free.",
+  "title": "AI Prompt Generator ",
+  "introduction": "Promptly Generated democratizes prompt engineering, allowing users to enhance AI responses with targeted and insightful instructions. It caters to developers, business owners, and students, offering a realm of limitless creation and automation.",
+  "category": "AI Detector",
+  "features": [
+    "AI Prompt Engineer for tailoring LLM",
+    "Zero-Shot, Few-Shot, Template-Based Prompting",
+    "Consulting in various fields like law, copywriting, SEO writing, etc.",
+    "Master AI effortlessly without expertise",
+    "Industry techniques applied in prompt crafting"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Developers, business owners, students",
+  "pricing": "Affordable alternative to hiring prompt engineers, cost-saving benefits, democratizing prompt engineering",
+  "faqs": [
+    {
+      "question": "Can Promptly Generated handle queries outside an AI's predefined capabilities?",
+      "answer": "Through prompt engineering, Promptly Generated can break down requests into manageable components for the AI to handle, guiding it to provide the desired information."
+    }
+  ],
+  "url": "https://promptlygenerated.com/"
+}

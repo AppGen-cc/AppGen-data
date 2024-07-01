@@ -1,0 +1,31 @@
+{
+  "description": "MathGPT is an interactive AI math problem solver empowering over 2M+ students. Just snap math problems with photo math and our advanced math solver will give instant solutions.",
+  "title": "MathGPT | Math AI Solver",
+  "keywords": "math,gpt,mathgpt,ai math,math ai,math solver,ai math solver,math problem solver,photo math,ai homework,ai homework helper,ai",
+  "introduction": "This website offers a comprehensive platform for online project management. It provides tools for task management, team collaboration, file sharing, and progress tracking.",
+  "category": "Business",
+  "features": [
+    "Task management",
+    "Team collaboration",
+    "File sharing",
+    "Progress tracking"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Project managers, team leaders, and business professionals",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a free trial for new users to experience the platform before subscribing."
+    },
+    {
+      "question": "What are the key features of the platform?",
+      "answer": "The platform includes tools for task management, team collaboration, file sharing, and progress tracking to help streamline project workflows."
+    },
+    {
+      "question": "How can I track the progress of my projects?",
+      "answer": "You can use the progress tracking feature on the platform to monitor the status of tasks and projects in real-time."
+    }
+  ],
+  "url": "https://mathgptpro.com/"
+}

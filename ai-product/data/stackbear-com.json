@@ -1,0 +1,84 @@
+{
+  "description": "Stackbear lets you build, run, and share AI chatbots tailored to your needs, all without a single line of code",
+  "title": " - Stackbear",
+  "introduction": "Stackbear allows you to build AI-powered chatbots based on your own content. These chatbots are fully customizable and can be added to your website or shared with your team. By using your own OpenAI API key, you can keep costs low.",
+  "category": "Chatbot",
+  "features": [
+    "Upload content from your website or import documents",
+    "Human escalation to seamlessly hand over conversations to a human",
+    "Customize the personality and behavior of your bot",
+    "Simple setup with just a URL",
+    "Multilingual support",
+    "Lead capturing through interactive conversations",
+    "Support for answering common questions instantly",
+    "Marketing engagement with personalized conversations",
+    "Sales productivity by automating lead qualification",
+    "Internal tools integration to help your team find information faster"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses, website owners, customer support teams, sales teams, marketing teams",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Why do I need to provide my own OpenAI API key?",
+      "answer": "To keep the costs low on both ends and to give you more control over your usage, we ask you to provide your own OpenAI API key. This way, you can use your own OpenAI API key and you will be billed directly by OpenAI."
+    },
+    {
+      "question": "How do I get my OpenAI API key?",
+      "answer": "You can get your OpenAI API key by signing up on the OpenAI website. Once you have your API key, you can enter it in the settings page."
+    },
+    {
+      "question": "What model does the chatbot use?",
+      "answer": "By default the chatbots use GPT 3.5. You can change the model in the settings page and take advantage of GPT-4."
+    },
+    {
+      "question": "Are there any other costs?",
+      "answer": "To train your chatbot and search over the provided content, we make use of OpenAI's embeddings. By providing your own API key, you will be billed directly by OpenAI. This is really cheap and probably costs you a couple of cents."
+    },
+    {
+      "question": "What happens if I run out of funds on my OpenAI account?",
+      "answer": "If you run out of funds on your OpenAI account, your chatbot will stop working. You will need to top up your OpenAI account to continue using the chatbot."
+    },
+    {
+      "question": "Why is there a character limit?",
+      "answer": "We spent a lot of time optimizing the chatbot to be as efficient as possible. We found that there is a certain limit where the chatbot starts to become less efficient. The free plan has a lower character limit than the paid plans."
+    },
+    {
+      "question": "What does human escalation mean?",
+      "answer": "Human escalation means that the chatbot will detect when the user wants to speak to a human and will seamlessly hand over the conversation to your support agents. This is useful for customer support. You can enable human escalation in the settings page on any paid plan."
+    },
+    {
+      "question": "What is a private bot?",
+      "answer": "A private bot is a chatbot that is only accessible to you on stackbear.com. This is useful if you want to use the chatbot for internal purposes or to test things out. Bots are private by default and you can make them public in the settings page if you are on a paid plan."
+    },
+    {
+      "question": "What is a public bot?",
+      "answer": "A public bot is a chatbot that is accessible to anyone on the internet. This is useful if you want to use the chatbot for your website or blog. You can make your bot public in the settings page if you are on a paid plan and embed it on your website as a widget or iframe. Or simply share the link to your bot."
+    },
+    {
+      "question": "What does the email integration do?",
+      "answer": "The email integration allows you to respond to a user when the conversation got escalated to a human and you follow up when the user is not online. This is useful for customer support. You can enable the email integration in the settings page. Only available on the unlimited plan."
+    },
+    {
+      "question": "What type of content can I upload?",
+      "answer": "The chatbot is versatile, trained to engage with FAQs, product details, or any text data you have on your site."
+    },
+    {
+      "question": "Does it use ChatGPT?",
+      "answer": "Yes, our solution leverages the same ChatGPT technology to ensure high-quality, contextually relevant responses for your website visitors."
+    },
+    {
+      "question": "Can I cancel at anytime?",
+      "answer": "Yes, you can cancel your subscription at any time. If you cancel before the end of a billing period, you will retain access to your subscription until the end of that billing period."
+    },
+    {
+      "question": "What can I use it for?",
+      "answer": "Utilizing ChatGPT, our chatbot excels in customer service, sales support, and gathering user data, among other applications. Some users also use it for fun, like a chatbot for their personal blog. The possibilities are endless."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Simply sign up and you can start building your chatbot in minutes."
+    }
+  ],
+  "url": "https://stackbear.com/"
+}

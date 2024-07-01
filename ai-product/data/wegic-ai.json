@@ -1,0 +1,20 @@
+{
+  "description": "Hi, I'm Wegic. I can help you create and modify websites by simple conversations.\n  Let's chat in your preferred language and bring your ideas to life!",
+  "title": "Wegic | The first AI web designer & developer by your side.",
+  "keywords": "AI web designer,AI web developer,AI Web Designer & Developer,Wegic,website development,ideal website,web design assistants,web development assistants,chat with Wegic,web design AI,web development AI",
+  "introduction": "Wegic is an AI-powered tool that allows users to build multi-page websites in as little as 90 seconds using the latest GPT-4o model from OpenAI. It is designed to simplify the web design and development process, making it accessible to everyone, even those without coding skills.",
+  "category": "Design&Art",
+  "features": [
+    "Build multi-page websites in 90 seconds",
+    "Uses OpenAI's latest GPT-4o model",
+    "No coding skills required",
+    "High-quality website generation",
+    "Easy text-based modifications",
+    "User-friendly for beginners"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Individuals and businesses looking to create websites quickly and easily without coding skills",
+  "pricing": "Not specified",
+  "faqs": [],
+  "url": "https://wegic.ai/"
+}

@@ -1,0 +1,34 @@
+{
+  "description": "Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism",
+  "title": "Free Paraphrasing For All Languages",
+  "keywords": "Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism",
+  "introduction": "The website offers a Paraphrase Tool with 20 modes, including a summarize tool, a free grammar checker, a mode to simplify text, and a sentence shortener. It also provides a paragraph generator that can create sensible and unique paragraphs based on keywords. Additionally, there is a free plagiarism checker available for users. The tools aim to help writers with paraphrasing, generating paragraphs, and checking for plagiarism.",
+  "category": "Text&Writing",
+  "features": [
+    "Paraphrase Tool with 20 modes",
+    "Summarize tool",
+    "Free grammar checker",
+    "Text simplification mode",
+    "Sentence shortener",
+    "Paragraph generator",
+    "Plagiarism checker"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Writers, students, professionals",
+  "pricing": "Free trial available",
+  "faqs": [
+    {
+      "question": "Is the essay generator free?",
+      "answer": "Everything on the site is free within a 3-day trial period."
+    },
+    {
+      "question": "How does the paragraph generator work?",
+      "answer": "The paragraph generator creates links between keywords to generate sensible and unique paragraphs."
+    },
+    {
+      "question": "Is the plagiarism checker easy to use?",
+      "answer": "The plagiarism checker highlights areas of similarity between texts to help users check for plagiarism."
+    }
+  ],
+  "url": "https://paraphrasetool.com/"
+}

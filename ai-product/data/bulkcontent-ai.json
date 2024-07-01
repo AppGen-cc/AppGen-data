@@ -1,0 +1,61 @@
+{
+  "title": "- BulkContent.ai",
+  "introduction": "BulkContent.ai is at the forefront of AI-driven content creation, expertly merging advanced AI technology with skilled human oversight. This platform takes your keywords as input and is finely tuned to produce superior, SEO-optimized content. Featuring a diverse array of content styles like ‘Factual Framework’, ‘Creative Canvas’, and ‘Balanced Blend’, BulkContent.ai also offers versatile formatting options, including listicles and FAQs, supported by a rich selection of AI Personas ranging from Copywriter to Website Developer.",
+  "category": "Text&Writing",
+  "features": [
+    "Dynamic Title Generator tool",
+    "SEO-optimized content",
+    "Diverse content styles: Factual Framework, Creative Canvas, Balanced Blend",
+    "Versatile formatting options: listicles, FAQs",
+    "AI Personas for tailored content",
+    "Multilingual language support",
+    "CSV output for easy integration",
+    "Human oversight for quality assurance"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and content creators looking for bulk, SEO-optimized content",
+  "pricing": "Pay-as-you-go",
+  "faqs": [
+    {
+      "question": "Do you offer a subscription model?",
+      "answer": "No, our service operates on a pay-as-you-go model. You can order bulk packs at your convenience without monthly commitments."
+    },
+    {
+      "question": "What is the Title Generator tool?",
+      "answer": "The Title Generator tool swiftly generates a range of creative titles for each keyword, saving time and enriching content with creative diversity and secondary keywords."
+    },
+    {
+      "question": "How does the SEO optimization work?",
+      "answer": "Enter your top competitive keywords into our Title Generator, which blends long-tail concepts into captivating titles. These titles guide our AI in creating compelling, keyword-optimized articles."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer 5 free articles to prospective clients to evaluate our service."
+    },
+    {
+      "question": "Can I use the service with platforms other than WordPress?",
+      "answer": "Yes, our content is delivered in a versatile CSV format that can be easily integrated into any platform compatible with HTML, including Shopify."
+    },
+    {
+      "question": "Do you provide references in the articles?",
+      "answer": "Yes, each article includes a ‘References’ section by default, citing the sources and information used during content creation."
+    },
+    {
+      "question": "How long does it take to complete an order?",
+      "answer": "Please allow up to 7 days from the submission of your titles CSV for your order to be completed, depending on current order volume and team availability."
+    },
+    {
+      "question": "Can I provide additional instructions for the AI?",
+      "answer": "Yes, our order form allows you to paste in additional information you wish the AI model to know about when generating the articles."
+    },
+    {
+      "question": "What AI model do you use?",
+      "answer": "We leverage the latest best version of the OpenAI model behind ChatGPT for our services, which at time of writing is GPT-4 Turbo."
+    },
+    {
+      "question": "Do I need to provide OpenAI credentials?",
+      "answer": "No, we use our own accounts to generate the articles. You don’t need to provide any OpenAI credentials."
+    }
+  ],
+  "url": "https://bulkcontent.ai/"
+}

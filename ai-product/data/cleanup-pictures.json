@@ -1,0 +1,39 @@
+{
+  "description": "Remove unwanted objects from photos, people, text, and defects from any picture for free. It's extremely easy in just a few clicks with our creative editing tool.",
+  "title": "Cleanup.pictures - Remove objects, people, text and defects from any picture for free",
+  "introduction": "Cleanup.pictures is an advanced image retouching tool based on Artificial Intelligence that allows users to remove unwanted objects, people, text, logos, watermarks, and more from images with incredible quality and speed. It is ideal for photographers, creative agencies, real estate professionals, e-commerce businesses, and developers looking to enhance their images.",
+  "category": "Image",
+  "features": [
+    "Remove unwanted objects from photos",
+    "Remove people from photos",
+    "Remove text, logos, and watermarks from images",
+    "Remove blemishes and wrinkles",
+    "Remove background from images"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Photographers, Creative Agencies, Real Estate Professionals, E-commerce Businesses, Developers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Inpainting?",
+      "answer": "Inpainting is a retouch technology used to remove any unwanted objects from photos, such as removing unwanted people or text. Cleanup.pictures uses Artificial Intelligence for better results."
+    },
+    {
+      "question": "Why is Cleanup.Pictures better than other inpainting apps?",
+      "answer": "Cleanup.pictures is an advanced editing tool based on AI, providing better results than traditional clone stamp tools like Adobe Photoshop. It can guess what was behind unwanted elements with high accuracy."
+    },
+    {
+      "question": "What image resolutions can cleanup.pictures handle?",
+      "answer": "Cleanup.pictures can import and edit images of any size. The free version limits export to 720px, while the Pro version has no size limit."
+    },
+    {
+      "question": "How much does Cleanup.pictures cost?",
+      "answer": "Cleanup.pictures is free for basic use. For high-resolution image processing, the price is $5 per month or $36 per year. A free trial is available for testing HD quality."
+    },
+    {
+      "question": "How can I use the inpainting API?",
+      "answer": "Cleanup's API can be integrated into various environments like Node.js, SwiftUI, and Kotlin. Extensive documentation and samples are provided for easy integration."
+    }
+  ],
+  "url": "https://cleanup.pictures/"
+}

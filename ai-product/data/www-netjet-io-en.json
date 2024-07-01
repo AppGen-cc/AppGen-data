@@ -1,0 +1,49 @@
+{
+  "description": "Transform your web design experience with netjet.io – the all-in-one website builder! Seamlessly create visually stunning sites with our intuitive drag-and-drop interface. No coding skills required. Boost your online visibility with built-in SEO optimization tools and ai magic. Netjet.io empowers you to craft unique, responsive websites that captivate your audience. Elevate your online presence effortlessly and join the revolution today for a web design experience like never before!",
+  "title": "Netjet.io | AI Website Generator",
+  "introduction": "Netjet.io is an online website builder that allows you to create a website without any coding or design experience. With Netjet.io, you can choose a template, customize it to your liking, and publish your website online.",
+  "category": "Design&Art",
+  "features": [
+    "Premium security (SSL + CDN)",
+    "AI website generator (PRO)",
+    "Unlimited pages on your website",
+    "Unlimited storage, space & visits",
+    "Advanced design customization options",
+    "Access to all PRO layouts & blocks",
+    "Marketing popups conditions",
+    "Contact form apps integration",
+    "Workspaces / Sub Accounts",
+    "Team Members & Roles",
+    "Leads management",
+    "Publishing options (Custom Domain, Netjet.pro Subdomain, Server Sync, Export HTML)",
+    "Dynamic content & templates",
+    "Web Stories",
+    "Contact form integrations",
+    "Advanced Custom Fields (ACF)",
+    "Free SSL",
+    "Sitemap XML",
+    "Blogging functionality"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "People with limited technical skills, content creators, marketers, shop owners, and businesses looking to create websites without coding experience.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What Is Netjet.io & How Does It Work?",
+      "answer": "Netjet.io is an online website builder that allows you to create a website without any coding or design experience. With Netjet.io, you can choose a template, customize it to your liking, and publish your website online."
+    },
+    {
+      "question": "Do I Need Any Skills Or Experience To Use Netjet.io?",
+      "answer": "You do not need any technical skills to use Netjet.io, It is a simple and easy drag and drop website builder. Designed for people with limited technical skills. We also offer 24/7 support, 90+ video tutorials & in depth documentation."
+    },
+    {
+      "question": "How does pricing work?",
+      "answer": "There is a PRO plan that unlocks all features. There are no hidden fees with netjet.io, If you need more than one website, you can purchase additional PRO plan. You can adjust the quantity in the billing section, inside our website builder. We only offer one paid plan, that includes all our features! You can switch freely between plans any time."
+    },
+    {
+      "question": "Is there customer support?",
+      "answer": "Yes customer support is provided with all plans. We offer 24/7 email support, 90+ video tutorials, help center & knowledge base, & a public discord community."
+    }
+  ],
+  "url": "https://www.netjet.io/en/"
+}

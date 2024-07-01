@@ -1,0 +1,60 @@
+{
+  "description": "Use the best AI Course Creator to create comprehensive mini-courses based on your guidance, then add revisions to make it uniquely yours.",
+  "title": "AI Course Creator | AI Assistant of Mini Course Generator",
+  "introduction": "Mini Course Generator is an AI Course Creator tool that helps users generate comprehensive and accurate mini-courses with the assistance of artificial intelligence. Users can create engaging and distinctive mini-courses by leveraging the AI capabilities of the platform.",
+  "features": [
+    "Unlimited views & engagements",
+    "Layout and theme customization",
+    "Landing page for collections",
+    "AI Course Creator with images & questions",
+    "Number of mini-courses",
+    "AI Assistant credits per month",
+    "Storage for uploading images, gif, pdf",
+    "Storage for uploading video",
+    "User engagements",
+    "Content cards per mini-course",
+    "Sharing mini-courses & collections with links",
+    "Embedding mini-courses & collections",
+    "Enable access to everyone",
+    "Enable access after password-wall",
+    "Enable access after double opt-in",
+    "Enable access after payment",
+    "Enable access to specific users",
+    "Enable access with in-app authentication",
+    "User limit of analytics per mini-course",
+    "SEO settings for each mini course",
+    "Digital certificates with Sertifier integration",
+    "Adding .js codes to head & body",
+    "Automations with Zapier integration",
+    "Automation with Make integration",
+    "Automations with webhooks",
+    "Live sessions when support needed"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Training providers, creators, HR & community managers, product owners, coaches & consultants",
+  "pricing": "Free forever plan available with no credit card required. Premium and Pro plans available with annual savings of 50%.",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, the forever-free plan does not require a credit card for sign-up and usage."
+    },
+    {
+      "question": "Is there a refund policy?",
+      "answer": "Yes, a 100% refund is available within 7 days of being charged on your credit card."
+    },
+    {
+      "question": "How does the AI Course Creator work?",
+      "answer": "The AI Course Creator uses artificial intelligence to automatically generate mini-courses with significant volume, incurring a cost for each content generation process."
+    },
+    {
+      "question": "Are there any additional fees or commissions charged?",
+      "answer": "No, there are no additional fees or commissions charged, except for payment processor transaction fees."
+    },
+    {
+      "question": "Are there any discounts available?",
+      "answer": "Annual plans are currently offered at a 50% discount, making them the most suitable offer at this time."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://minicoursegenerator.com/ai-assistant/"
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Transform your customer experience with DigitalGenius – AI-powered customer service automation for pre- and post-purchase questions. ",
+  "title": "DigitalGenius – The AI concierge built for Ecommerce",
+  "introduction": "CARE AI is a unified platform featuring conversational and visual AI for comprehension, deep integrations for resolution, and generative AI for personalization and empathy. It is powered by DigitalGenius and aims to provide instant care and boost customer lifetime value.",
+  "features": [
+    "Deep Integrations: Seamlessly integrates into existing platforms for resolving customer queries without agent involvement.",
+    "Visual AI: Detects defects and quality issues, reads product barcodes, and triggers replacement orders.",
+    "Generative AI: Provides personalized responses, adapts to brand tone of voice, and reduces the need for scripting common questions."
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Customer service representatives, ecommerce businesses",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What's happening to my order?",
+      "answer": "Looks like your package is stuck. Would you like a replacement/refund? I have issued you a refund."
+    },
+    {
+      "question": "Why haven't my shoes shipped yet?",
+      "answer": "Your order is still being processed by our warehouse. You should receive it by October 4th."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://digitalgenius.com/"
+}

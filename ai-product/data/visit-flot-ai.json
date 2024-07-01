@@ -1,0 +1,29 @@
+{
+  "description": "Your AI Ally: Blending with Your Workflow, Growing with Your Knowledge.",
+  "title": "Flot AI: Write, Read, Memorize with Al at your side.",
+  "introduction": "Flot AI is an AI writing and memory product backed by OpenAI, designed to assist users in writing and remembering essential information. It integrates seamlessly into various apps and websites, providing writing help and digital memory support.",
+  "features": [
+    "Get assistance while writing across apps, websites, docs, emails, and social media",
+    "Feed AI with personal memory to improve recall",
+    "Edit voice & tone, translate, reply quickly to emails, and check grammar",
+    "Generate outlines and handle the first draft",
+    "Save and retrieve memories effortlessly"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Flot AI?",
+      "answer": "Flot AI is an AI writing and memory product that assists users in writing and remembering essential information. It integrates into various apps and websites to provide writing help and digital memory support."
+    },
+    {
+      "question": "How does Flot AI work?",
+      "answer": "Flot AI works by allowing users to get assistance while writing across different platforms, feed AI with personal memory to improve recall, edit voice & tone, translate, reply quickly to emails, check grammar, generate outlines, and save and retrieve memories effortlessly."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "The website does not mention a free trial. Please visit the website for more information on pricing and subscription details."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "http://visit.flot.ai/"
+}

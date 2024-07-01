@@ -1,0 +1,23 @@
+{
+  "description": "AI Code generator just by typing a text description. AI will create the code for you. Tool that helps you with a wide range of tasks. All in one place.",
+  "title": "Home | Programming Helper",
+  "keywords": "ai code generator text to code generator programming-helper programming helper text to code generator free helper code generator help text description AI will help  generate Appsplosion regex to explanation time complexity translate docstring",
+  "introduction": "The website provides a collection of code snippets and programming exercises in various languages such as C, Python, and SQL. Users can find solutions to common programming problems and practice coding skills through the provided examples.",
+  "features": [
+    "Code snippets in C, Python, and SQL",
+    "Programming exercises for practice"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What type of code snippets are available on the website?",
+      "answer": "The website offers code snippets in languages like C, Python, and SQL."
+    },
+    {
+      "question": "Are there any charges for accessing the content on the website?",
+      "answer": "No, the website is free to use."
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://www.programming-helper.com/"
+}

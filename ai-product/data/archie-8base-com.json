@@ -1,0 +1,92 @@
+{
+  "description": "Leverage advanced AI-driven tools to transform the digital product design process — craft precise specifications, design and application architecture — and the entire journey from idea to build.",
+  "title": "Archie  |  Your AI-Driven Product Architect",
+  "introduction": "Archie by 8base is innovative AI software that transforms your application ideas into comprehensive project plans. It generates detailed requirements, implementation strategies, and potential design outlines based on the information you type into the prompt.",
+  "category": "Code&IT",
+  "features": [
+    "Determines appropriate application type and commercialization approaches",
+    "Writes definitions for user types/roles served",
+    "Breaks application into major modules, features and UI-style",
+    "Suggests AI-Enablement ideas",
+    "Selects foundational technical components",
+    "Suggests customized design principles",
+    "Rapid AI-based generation of your requirements",
+    "Advanced AI-based editing",
+    "Detailed business and technical requirements",
+    "Security, Compliance, Accessibility and Performance requirements",
+    "Specifications and user stories",
+    "UI/UX requirements and wireframes",
+    "Architecture, including enabling technologies, integrations, and computing/storage infrastructure",
+    "Features breakdown",
+    "Data Model",
+    "Application Logic breakdown",
+    "User Interfaces",
+    "Visual diagrams"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Enterprises, Software Development Firms, Solution Architects, Product Managers, software professionals, founders, business leaders, heads of innovation",
+  "pricing": "Free for Digital Blueprint; paid modules for Requirements and Implementation",
+  "faqs": [
+    {
+      "question": "Who else can see my project? Who can see what I type into Archie prompts?",
+      "answer": "The content that you type into Archie is not shared with anyone without your consent. Only you and people you invite to collaborate in Archie can see your project’s information."
+    },
+    {
+      "question": "What kind of prompts can I use?",
+      "answer": "Inputs can range from basic concepts like 'a task management app for small businesses' to detailed descriptions including preferred programming languages, user interface ideas, and specific functionalities."
+    },
+    {
+      "question": "How many Projects can I have?",
+      "answer": "There is no limit to how many Projects you can work on in Archie."
+    },
+    {
+      "question": "Is Archie a replacement for software development teams?",
+      "answer": "No, Archie is intended to assist in the planning phase of software development. It helps in organizing ideas and establishing a clear roadmap. But it does not replace the critical thinking and expertise of a professional development team."
+    },
+    {
+      "question": "Can I modify the plans created by Archie?",
+      "answer": "Absolutely! Most sections in the Digital Blueprint, Requirements, and Implementation plan can be modified by you or Archie. You are free to refine and adapt these plans to suit your specific needs or evolving ideas."
+    },
+    {
+      "question": "How detailed are the plans created by Archie?",
+      "answer": "The detail level of the plans depends on the specificity of your input. Archie aims to provide comprehensive roadmaps that include all essential aspects of software development, from initial design to final implementation stages."
+    },
+    {
+      "question": "Is there a limit to the complexity of my project?",
+      "answer": "Archie is equipped to handle a wide variety of projects, from simple applications to complex systems. However, highly specialized or niche projects may require more detailed inputs and subsequent manual refinement."
+    },
+    {
+      "question": "Is there a cost to use Archie?",
+      "answer": "Archie is free for anyone to try and receive a Digital Blueprint, which offers a high-level breakdown of how an idea can be built into a software solution. For the more detailed modules, such as Requirements and Implementation, pricing and plan details are available on the website."
+    },
+    {
+      "question": "Can more than one person work on a Project?",
+      "answer": "Yes, you can invite people to work with you in Archie by clicking Share at the top of the screen. Type in the collaborator’s email, and they will receive an invitation to work with your Idea. They will only be able to access the Project you shared with them, not other Projects you are working on."
+    },
+    {
+      "question": "What is the difference between the Digital Blueprint and the Project Navigator?",
+      "answer": "The Blueprint is generated whenever you type a new idea into the prompt and click the Send button. It is your one-stop shop for anyone who wants to know the core elements of your project. The Project Navigator is a navigation tool that contains snapshots of information about your Project. It may also contain information that is not in the Blueprint."
+    },
+    {
+      "question": "What information is in my Digital Blueprint?",
+      "answer": "The Digital Blueprint includes Problem to be Solved, Solution, Application Classification, Commercialization Model, User Types, Modules, Building Blocks, and Design Principles."
+    },
+    {
+      "question": "Why should I upgrade my Project to have a Requirements module?",
+      "answer": "The Requirements module expands your Blueprint into a fully functional specification of your concept, for use by software development teams to price your project and actually build your software. It helps you create these documents about 50 times faster and less expensive than traditional methods."
+    },
+    {
+      "question": "Why should I upgrade my Project to have an Implementation module?",
+      "answer": "Your Implementation plan contains the technical information needed to actually build your application, including Architecture, Enabling Technologies, Integrations, Infrastructure Diagrams, Features Breakdown, Data Model, Application Logic, and User Interfaces."
+    },
+    {
+      "question": "What is the difference between 'Chat with your Project' and 'Archie Assistant'?",
+      "answer": "Archie AI Companion (Chat with your Project) cannot modify your project, requirements, or implementation plan. Archie Assistant appears in areas of your plan that can be modified and helps you update the modules to support new information."
+    },
+    {
+      "question": "What’s the Story Behind Archie?",
+      "answer": "Archie was invented by the team at 8base, which has decades of experience designing and building complex software applications. Their mission has been to make software development accessible to anyone, unlocking tech-driven innovation for anyone with the will, but perhaps not the funding, to do so."
+    }
+  ],
+  "url": "https://archie.8base.com/"
+}

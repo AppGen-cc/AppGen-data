@@ -1,0 +1,25 @@
+{
+  "description": "Unlock superior writing efficiency with CoWriter Expert AI-driven assistance for smarter editing, flawless citing, and intelligent content creation tailored for you.",
+  "title": "CoWriter AI | Best AI Copilot for Smart Writing",
+  "introduction": "CoWriter is an AI-powered writing tool designed to enhance writing efficiency, originality, and productivity. It offers features like AI-powered autocompletion, citation formatting aid, bibliography library, writing styles and tones, and an outline builder. CoWriter caters to a wide range of users including students, teachers, researchers, writers, bloggers, technical writers, professionals, authors, scriptwriters, marketing teams, and legal professionals.",
+  "category": "Text&Writing",
+  "features": [
+    "AI-powered autocompletion",
+    "Citation formatting aid",
+    "Bibliography library",
+    "Writing styles and tones",
+    "Outline builder",
+    "Collaborative writing",
+    "Team collaboration folders"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, teachers, researchers, writers, bloggers, technical writers, professionals, authors, scriptwriters, marketing teams, legal professionals",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is CoWriter's Autocompletion AI?",
+      "answer": "CoWriter's Autocompletion AI provides real-time writing assistance that completes sentences and paragraphs, speeding up your writing flow and helping to overcome writer's block. It suggests the next line of text, which you can quickly accept or choose to rewrite, enhancing the efficiency and smoothness of your writing experience."
+    }
+  ],
+  "url": "https://cowriter.ai/"
+}

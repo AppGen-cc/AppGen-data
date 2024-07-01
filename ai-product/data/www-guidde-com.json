@@ -1,0 +1,31 @@
+{
+  "description": "Guidde lets you capture instant step-by-step videos and documents for anyone to create.",
+  "title": "guidde・Magically create video documentation with AI",
+  "introduction": "Guidde is a generative AI platform for business that helps teams create video documentation 11x faster. It allows users to create stunning how-to guides and SOPs with AI. The platform captures know-how faster with AI and explains complex flows in seconds through AI-generated video documentation.",
+  "features": [
+    "Magic Capture: Easily capture your flow using a browser extension.",
+    "Powered by GPT: Automatically create a step-by-step description of your workflow.",
+    "AI Generated Voiceover: Choose from over 100 different voices and languages for voiceovers.",
+    "Editor: Design visually appealing content without the need for professional design skills.",
+    "Smart Sharing: Share guides easily with links or embed them in your organization."
+  ],
+  "pricing": "Free Extension available. Sign up for more features and pricing details.",
+  "faqs": [
+    {
+      "question": "What is Guidde?",
+      "answer": "Guidde is a generative AI platform that helps teams create video documentation faster using AI."
+    },
+    {
+      "question": "How can I capture my flow with Guidde?",
+      "answer": "You can capture your flow using the browser extension by clicking capture and then stop when you're done."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free extension available for Guidde."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Business teams",
+  "url": "https://www.guidde.com/"
+}

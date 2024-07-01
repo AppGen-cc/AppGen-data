@@ -1,0 +1,26 @@
+{
+  "description": "Relieve your emotions with the world's first AI-powered emotion  companion - on Web3",
+  "title": "Cupiee - Emotion. AI. Web3",
+  "introduction": "Cupiee is the world's first AI-powered emotion companion on Web3, designed to support and relieve emotions. Users can start their recovery journey, customize personalized spaces, share feelings anonymously, and earn rewards through daily activities. The platform is powered by the CUPI token, which fuels the ecosystem and enables transactions, NFT sales, and AI Pet care.",
+  "category": "Business",
+  "features": [
+    "Start recovery journey with Emotional AI companion",
+    "Customize unique and personalized space with 'Cave'",
+    "Share truest feelings anonymously with toxic content filter",
+    "Earn rewards through daily activities"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals seeking emotional support and a unique online experience",
+  "pricing": "Token-based system using CUPI for transactions, NFTs, and premium features",
+  "faqs": [
+    {
+      "question": "What is the CUPI token used for?",
+      "answer": "The CUPI token powers the Cupiee ecosystem, enabling transactions, NFT sales, and AI Pet care, while capturing and redistributing value to the community."
+    },
+    {
+      "question": "How can users earn CUPI tokens?",
+      "answer": "Users can earn CUPI tokens by sharing emotions, connecting with others, supporting friends, nurturing AI Pets, maintaining streaks, and participating in vibrant Cave communities."
+    }
+  ],
+  "url": "https://cupiee.com/"
+}

@@ -1,0 +1,32 @@
+{
+  "description": "Mytales lets your imagination run free. Write your own story with AI collaboration, complete with images. Take charge of your own world where anything goes",
+  "title": "MyTales - AI Powered Story Generator",
+  "introduction": "MyTales is a storytelling platform that offers AI-generated story sections for users to create and share their stories. The platform provides different pricing tiers for users based on their needs, ranging from a free plan to a premium plan with advanced features. Users can access basic AI models, story sections per day, and quality images based on their selected plan. Additionally, there is an option for a one-time purchase for extended access to the platform.",
+  "features": [
+    "Basic AI model",
+    "Smarter AI model",
+    "More context awareness",
+    "Higher quality images",
+    "Store your story forever",
+    "Share stories publicly or privately",
+    "API access",
+    "Custom web-hooks",
+    "Guaranteed uptime (SLA)",
+    "Dedicated integration engineer support"
+  ],
+  "pricing": "The pricing for MyTales ranges from a free plan with basic features to a premium plan at $19.99 per month. There is also an option for a one-time purchase of 12 months of Bard level access for $99.",
+  "faqs": [
+    {
+      "question": "Is there a free plan available?",
+      "answer": "Yes, there is a free plan available with basic AI model and 5 story sections per day."
+    },
+    {
+      "question": "What is included in the Bard plan?",
+      "answer": "The Bard plan includes 300 story sections per day, the highest quality AI model, the ability to store stories forever, and the option to share stories publicly or privately."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Storytellers",
+  "url": "https://mytales.io/"
+}

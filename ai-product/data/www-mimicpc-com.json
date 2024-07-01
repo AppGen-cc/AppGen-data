@@ -1,0 +1,45 @@
+{
+  "description": "Access and use popular AI open source apps from around the world can be from from any device and any browser (including mobile devices). You can create and learn AI in private and dedicated cloud workspaces without the need for expensive hardware or technical knowledge of installation and maintenance.",
+  "title": "MimicPC - Run Useful AI Apps in your browser instantly",
+  "keywords": "AI,stable diffusion,comfy ui,comfyui,fooocus,automatic1111,facefusion,diffusion,models,create,ai apps",
+  "introduction": "MimicPC simplifies your AI journey by offering a platform where you can run AI applications directly in your browser without any installation. It provides a variety of pre-deployed AI applications, ensuring ease of use and efficiency.",
+  "category": "AI Detector",
+  "features": [
+    "Launch Without Installation: Start using apps with a single click, no installation required.",
+    "20+ Pre-Deployment AI APPs: Including Stable Diffusion apps and more; no setup needed.",
+    "24/7 File Management: Access and manage AI models anytime with cloud uploads and one-click deployment.",
+    "Performance Optimization: Adjust computing power for smooth app performance, ensuring efficiency.",
+    "Cloud-Based Settings: Store and access app settings in the cloud for enhanced security and work efficiency.",
+    "Save Energy, Reduce Costs: Intelligent energy-saving monitors GPU usage, automatically conserving energy and cutting costs."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals and businesses looking to simplify their use of AI applications without the need for complex installations.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is MimicPC?",
+      "answer": "MimicPC is a platform that simplifies the use of AI applications by allowing users to run them directly in their browser without any installation."
+    },
+    {
+      "question": "Do I need to install any software to use MimicPC?",
+      "answer": "No, you can start using the apps with a single click, no installation required."
+    },
+    {
+      "question": "What types of AI applications are available?",
+      "answer": "MimicPC offers over 20 pre-deployed AI applications, including Stable Diffusion apps and more."
+    },
+    {
+      "question": "How does MimicPC help in managing files?",
+      "answer": "MimicPC provides 24/7 file management, allowing you to access and manage AI models anytime with cloud uploads and one-click deployment."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, you can start for free without a credit card."
+    },
+    {
+      "question": "What are the pricing options?",
+      "answer": "MimicPC offers a subscription-based pricing model with options suitable for different levels of usage."
+    }
+  ],
+  "url": "https://www.mimicpc.com/"
+}

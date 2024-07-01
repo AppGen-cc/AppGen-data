@@ -1,0 +1,27 @@
+{
+  "title": "dailieshabit.com",
+  "introduction": "Dailies is a personal companion designed to help users build better habits and celebrate achievements. It offers features like logging daily habits, journaling accomplishments, setting reminders, a custom shop for rewards, productivity challenges, and a fun approach to self-improvement.",
+  "category": "[\"Life Assistant\"]",
+  "features": [
+    "Effortlessly log daily habits",
+    "Journal accomplishments and milestones",
+    "Set reminders for tasks and appointments",
+    "Earn coins through tasks and spend them in a custom shop",
+    "Engage in productivity challenges",
+    "Make self-improvement fun and engaging"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals looking to improve their habits and celebrate achievements",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "How can I earn coins in Dailies?",
+      "answer": "You can earn coins through completing tasks and challenges in the app's ecosystem."
+    },
+    {
+      "question": "Is there a free trial available for Dailies?",
+      "answer": "No, there is no free trial mentioned for Dailies."
+    }
+  ],
+  "url": "https://dailieshabit.com/"
+}

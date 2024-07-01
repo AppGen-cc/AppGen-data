@@ -1,0 +1,32 @@
+{
+  "description": "AI-powered tool breaking complex contracts into smaller elements",
+  "title": "Lawformer",
+  "introduction": "Lawformer is an AI-powered tool designed to simplify the process of drafting complex legal documents by breaking them into smaller elements. It offers an extensive database of attorney-drafted clauses and a learning platform to develop practical skills in contract drafting.",
+  "category": "Text&Writing",
+  "features": [
+    "AI-powered tool for breaking complex contracts into smaller elements",
+    "Extensive library of attorney-drafted clauses",
+    "Learning platform for practical skills in contract drafting",
+    "Create a personal library from existing contracts",
+    "Manage contract knowledge by pulling clauses into new contracts",
+    "Find relevant contract clauses using attorney-drafted clauses"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Law students, legal professionals, compliance teams, startups, and businesses involved in contract drafting",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is Lawformer?",
+      "answer": "Lawformer is an AI-powered tool designed to simplify the process of drafting complex legal documents by breaking them into smaller elements."
+    },
+    {
+      "question": "What features does Lawformer offer?",
+      "answer": "Lawformer offers an extensive library of attorney-drafted clauses, a learning platform for practical skills in contract drafting, and tools to create a personal library from existing contracts, manage contract knowledge, and find relevant contract clauses."
+    },
+    {
+      "question": "Who can benefit from using Lawformer?",
+      "answer": "Law students, legal professionals, compliance teams, startups, and businesses involved in contract drafting can benefit from using Lawformer."
+    }
+  ],
+  "url": "https://lawformer.com/"
+}

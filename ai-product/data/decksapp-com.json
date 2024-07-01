@@ -1,0 +1,36 @@
+{
+  "description": "Decks is a specialized note taking app designed to help you learn things faster.",
+  "title": "Decks - the ultimate learning tool",
+  "keywords": "Decks - the ultimate learning tool",
+  "introduction": "Decks is a specialized note-taking app designed to help you learn things faster. It's the only notebook you need to master any subject.",
+  "category": "Education",
+  "features": [
+    "Attach notes directly to YouTube Videos",
+    "Add Video Timestamps",
+    "Insert by URL or Search",
+    "Chat directly with ChatGPT",
+    "Powerful Search",
+    "Organization",
+    "Flashcard Decks",
+    "Attach flashcards to your Notes and YouTube Videos",
+    "Images"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, learners, and anyone looking to improve their study efficiency",
+  "pricing": "Monthly or yearly subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, you can get started for free with a 14-day trial."
+    },
+    {
+      "question": "What is the pricing for Decks after the trial period?",
+      "answer": "After the trial, you can continue using Decks with a monthly subscription of $8 or a yearly subscription of $79."
+    },
+    {
+      "question": "What features does Decks offer for learning and organization?",
+      "answer": "Decks offers features like attaching notes directly to YouTube videos, adding video timestamps, chatting directly with ChatGPT, powerful search functionality, organization with tags and decks, creating flashcard decks, and attaching flashcards to notes and videos."
+    }
+  ],
+  "url": "https://decksapp.com/"
+}

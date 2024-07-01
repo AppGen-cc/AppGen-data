@@ -1,0 +1,29 @@
+{
+  "title": "Synthesizer V | Dreamtonics株式会社",
+  "introduction": "Synthesizer V Studio is a cutting-edge tool that offers unlimited vocal expressions through an expanding inventory of voices. It allows users to customize voices with dynamic vocal modes like chest, belt, and breathy. The tool features Live Rendering, enabling users to visualize modifications in real-time via waveforms. Additionally, it supports Cross-Lingual Synthesis, breaking language barriers and empowering voices to sing in English, Japanese, and Chinese.",
+  "category": "AI Detector",
+  "features": [
+    "Cross-Lingual Synthesis",
+    "AI Retakes",
+    "Isolated Aspiration Output",
+    "Vocal Modes",
+    "Tone Shift parameter",
+    "Microtonal Adjustment",
+    "MIDI keyboard support and Metronome",
+    "Lua/Javascript Scripting"
+  ],
+  "pricing": "Subscription",
+  "hasFreeTrial": "No",
+  "targetPeople": "Music producers, composers, and creators",
+  "faqs": [
+    {
+      "question": "Are the voice databases officially licensed?",
+      "answer": "Yes, all voice databases are officially licensed and sung by professional musicians."
+    },
+    {
+      "question": "What are the system requirements for Synthesizer V Studio?",
+      "answer": "The Pro Edition supports unlimited tracks, customizable AI Pitch Generation, no core limits for rendering, and integration with VST3/AU plugins, ASIO support (Windows), and Jack support (Linux)."
+    }
+  ],
+  "url": "https://dreamtonics.com/en/synthesizerv/"
+}

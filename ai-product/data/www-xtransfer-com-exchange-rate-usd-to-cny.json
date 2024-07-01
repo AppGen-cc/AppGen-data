@@ -1,0 +1,37 @@
+{
+  "description": "We provide accurate live exchange rates between USD and CNY. You can also view historical exchange rate charts for USD to CNY on the XTransfer website.",
+  "title": "Currency Converter | Convert USD to CNY - XTransfer",
+  "keywords": "USD to CNY",
+  "introduction": "XTransfer is an all-in-one business account that covers 15+ currencies and 200+ countries/regions. It allows users to create and maintain their accounts, hold multiple currencies, add/receive money, and transfer funds securely and cost-effectively to global suppliers. XTransfer offers competitive exchange rates to help users save up to 20% in currency exchange. Join over 450,000 business users today and start your XTransfer journey!",
+  "category": "Business",
+  "features": [
+    "Create and maintain XTransfer account",
+    "Hold 15+ currencies including USD, EUR, CNY, HKD, GBP, IDR, NGN, and more",
+    "Add money from bank accounts in various currencies",
+    "Receive money from another XTransfer account or bank accounts in 200+ countries/regions",
+    "Transfer funds to global suppliers securely and cost-effectively",
+    "Competitive exchange rates to save up to 20% in currency exchange"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Business users",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How do I convert currencies?",
+      "answer": "You can convert currencies through XTransfer's platform with real-time exchange rates."
+    },
+    {
+      "question": "How do I get the best rates for my money?",
+      "answer": "XTransfer offers competitive exchange rates to help you save up to 20% in currency exchange."
+    },
+    {
+      "question": "Is it really safe to send money online through XTransfer service?",
+      "answer": "Yes, XTransfer ensures secure online money transfers for its users."
+    },
+    {
+      "question": "Where can I find today's exchange rates?",
+      "answer": "You can find today's exchange rates on XTransfer's platform."
+    }
+  ],
+  "url": "https://www.xtransfer.com/exchange-rate/usd-to-cny"
+}

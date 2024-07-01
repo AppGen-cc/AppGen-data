@@ -1,0 +1,42 @@
+{
+  "description": "Discover seamless website management. Unlock powerful tools for hosting, building, optimizing, and securing your site. Elevate your web presence with 10Web.",
+  "title": "Elevate Your Business with 10Web | Build Your Website with AI",
+  "introduction": "10Web is the first AI-Powered WordPress Platform offering powerful features like AI-assisted website building, automatic 90+ PageSpeed score, user and team management, 1-click migration, multiple website management, real-time backups, and top-notch security. It also provides an AI Website Builder that recreates website designs without coding, and an AI Assistant for content creation and SEO optimization.",
+  "category": "AI Detector",
+  "features": [
+    "AI-assisted website builder",
+    "Automatic 90+ PageSpeed score",
+    "User and Team Management",
+    "1-Click Migration",
+    "Multiple website management",
+    "Real-time backups and top-notch security",
+    "AI Website Builder",
+    "AI Assistant"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and individuals looking to create or manage websites",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "You will have a one week free trial to build and explore your AI generated website."
+    },
+    {
+      "question": "How much does 10Web AI Website Builder cost?",
+      "answer": "The cost depends on the plan chosen, with different pricing plans available to suit different users."
+    },
+    {
+      "question": "Does the AI Website Builder offer templates?",
+      "answer": "Yes, it offers pre-made pages as starting points for adding new pages to your AI generated website."
+    },
+    {
+      "question": "Can I add custom design elements to my website?",
+      "answer": "Yes, premium widgets and customization options are available for adding custom design elements."
+    },
+    {
+      "question": "Does 10Web offer hosting services?",
+      "answer": "Yes, hosting services are provided so users don't need to find a separate hosting provider."
+    }
+  ],
+  "url": "https://10web.io/"
+}

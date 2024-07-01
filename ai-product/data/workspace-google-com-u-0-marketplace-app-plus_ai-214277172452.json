@@ -1,0 +1,35 @@
+{
+  "description": "Stop creating slides and docs the old way. Make work easier with the best AI tools for Google Slides and Google Docs.",
+  "title": "Plus AI for Google Slides™ and Docs™ - Google Workspace Marketplace",
+  "introduction": "Plus AI offers AI-powered tools for creating presentations and writing documents in Google Slides and Google Docs. It aims to streamline the process of creating slides and writing content by utilizing AI technology. The tool is designed to help users save time and improve the quality of their work.",
+  "features": [
+    "Insert new slides, rewrite existing slides, and remix slide layouts with AI",
+    "Design custom themes with AI assistance",
+    "Co-create and co-write presentations with AI",
+    "Ensure consistent designs, styles, and tones in team presentations",
+    "Translate slides and generate content in multiple languages",
+    "Format slides and apply consistent formatting",
+    "Generate blog posts and marketing copy with AI",
+    "Edit existing text with AI editing tools",
+    "Use Plus Snapshots to pull data from analytics tools and apps"
+  ],
+  "pricing": "Free to start with limited features, upgrade for unlimited AI usage and premium features",
+  "faqs": [
+    {
+      "question": "How to get started with Plus AI for free?",
+      "answer": "Install Plus AI from the Google Workspace Marketplace, open Google Slides or Google Docs, click on Extensions -> Plus AI for Google Slides/Docs, and follow the prompts to create a new presentation or edit content."
+    },
+    {
+      "question": "What are the popular use cases of Plus AI?",
+      "answer": "Popular use cases include creating sales presentations, educational materials, business assistance tasks, and marketing collateral with AI assistance."
+    },
+    {
+      "question": "How does Plus AI work?",
+      "answer": "Users can interact with Plus AI to generate presentation outlines, write slides, and make final edits before presenting. The tool functions similar to ChatGPT and other chatbots."
+    }
+  ],
+  "category": "Productivity",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professionals, educators, marketers, and individuals looking to streamline presentation and document creation processes",
+  "url": "https://workspace.google.com/u/0/marketplace/app/plus_ai/214277172452"
+}

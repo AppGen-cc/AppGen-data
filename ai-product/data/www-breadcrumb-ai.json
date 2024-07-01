@@ -1,0 +1,49 @@
+{
+  "description": "Turn data and spreadsheets like excel into interactive AI dashboards for every stakeholder. Breadcrumb helps you combine multiple data to understand what’s happening, and engage stakeholders.",
+  "title": "Breadcrumb.ai - Engage with Data",
+  "keywords": "Visualize Spreadsheets, Interactive Dashboards, Data Visualization, KPIs, Business Review",
+  "introduction": "Breadcrumb is an AI-powered end-to-end analytics platform designed for everyone. It embeds the latest intelligence into every aspect of the analytics process, allowing non-technical users to understand and communicate interactive insights.",
+  "category": "Business",
+  "features": [
+    "Connect up to 3 sources (CSV, Excel)",
+    "Share via public link or custom report",
+    "Combine up to 10 sources per space",
+    "Unlock application and database integration",
+    "Advanced dashboard customization",
+    "Priority email and chat support",
+    "Priority access to new features and updates",
+    "AI-generated dashboards",
+    "AI-assisted data presentation",
+    "Advanced visuals for business tracking",
+    "Plain language data queries",
+    "Pre-built connectors for various data sources",
+    "Interactive, intelligent dashboards",
+    "AI-generated insight summaries"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Non-technical users, businesses looking to scale data communication",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Breadcrumb?",
+      "answer": "Breadcrumb is an AI-powered end-to-end analytics platform designed to help non-technical users understand and communicate interactive insights."
+    },
+    {
+      "question": "What data sources can I connect with Breadcrumb?",
+      "answer": "You can connect up to 3 sources (CSV, Excel) with the basic plan and up to 10 sources per space with the advanced plan. Pre-built connectors for HubSpot, Airtable, Square, and more are available on request."
+    },
+    {
+      "question": "What kind of support does Breadcrumb offer?",
+      "answer": "Breadcrumb offers priority email and chat support with advanced plans."
+    },
+    {
+      "question": "Can I customize my dashboards with Breadcrumb?",
+      "answer": "Yes, advanced dashboard customization is available with the advanced plan."
+    },
+    {
+      "question": "Does Breadcrumb offer AI-generated insights?",
+      "answer": "Yes, Breadcrumb provides AI-generated dashboards and insight summaries."
+    }
+  ],
+  "url": "https://www.breadcrumb.ai/"
+}

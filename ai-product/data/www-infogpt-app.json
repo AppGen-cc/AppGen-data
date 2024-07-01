@@ -1,0 +1,46 @@
+{
+  "description": "AI Art Studio & Editor: chat with pdf, writing, social media tools, audio notes, voice to text, travel guides, books, meals & legal. Elevate digital creativity & productivity.",
+  "title": "Beeyond AI - Your All-In-One AI Digital Assistant",
+  "introduction": "Beeyond AI is an all-in-one web app designed to enhance various aspects of daily life, offering features like AI Editor, Audio Notes, Art Studio, Chat with PDF, Custom Character Bot, and more. It aims to boost productivity and provide personalized assistance to users.",
+  "category": "The website belongs to the category \"AI Detector\".",
+  "features": [
+    "AI Editor",
+    "Audio Notes",
+    "Art Studio",
+    "Chat with PDF",
+    "Custom Character Bot",
+    "Writing",
+    "Social Media",
+    "Food & Nutrition",
+    "Travel",
+    "Books & Movies",
+    "Legal",
+    "Productivity"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users looking to enhance productivity and receive personalized assistance",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Beeyond AI?",
+      "answer": "Beeyond AI is an all-in-one web app designed to enhance various aspects of daily life, offering features like AI Editor, Audio Notes, Art Studio, Chat with PDF, Custom Character Bot, and more."
+    },
+    {
+      "question": "How often are new features and updates added to Beeyond AI?",
+      "answer": "New features and updates are continuously added to Beeyond AI to provide a better user experience. While there isn't a fixed schedule, users can follow the user dashboard for updates."
+    },
+    {
+      "question": "Are there any restrictions on the content I can save and organize in Beeyond AI?",
+      "answer": "Beeyond AI aims to provide a safe and respectful environment. Users are advised not to save, share, or promote illegal, harmful, or offensive content. Refer to the Terms & Conditions for more information."
+    },
+    {
+      "question": "How do I sign up for Beeyond AI?",
+      "answer": "To sign up for Beeyond AI, visit www.beeyondai.com, click on the Sign Up button, and follow the prompts to create an account with your name, email address, and password."
+    },
+    {
+      "question": "Can I suggest new features or improvements for Beeyond AI?",
+      "answer": "Yes, user feedback and suggestions for new features or improvements are appreciated. Contact Beeyond AI at contact@beeyondai.com for sharing suggestions."
+    }
+  ],
+  "url": "https://www.infogpt.app/"
+}

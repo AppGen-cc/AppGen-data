@@ -1,0 +1,23 @@
+{
+  "description": "Your dream companion awaits! Create your Virtual Girlfriend, shape her look, personality, relationship, and bring her to life in one click. 100% powered by Artificial Intelligence.",
+  "title": "TingoTingo",
+  "introduction": "Create your Virtual Girlfriend with AI technology and bring her to life in one click.",
+  "features": [
+    "Customize her look and personality",
+    "Shape your relationship with her",
+    "Powered by Artificial Intelligence"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available for new users."
+    },
+    {
+      "question": "Can I customize my Virtual Girlfriend's appearance?",
+      "answer": "Yes, you can customize her look and personality to your liking."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://tingo.ai/"
+}

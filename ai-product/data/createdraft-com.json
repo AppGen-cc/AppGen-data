@@ -1,0 +1,36 @@
+{
+  "description": "Connect a knowledge base or game wiki and we will build a ChatGPT-like chatbot for your favorite Game. Chat with it or share with your friends. It is free!",
+  "title": "CreateDraft - Draft or Insights from any Legal document in seconds",
+  "introduction": "CreateDraft is a tool designed to streamline the drafting process for legal teams, helping them create high-quality legal documents quickly and efficiently. It offers over 340 templates for various legal agreements and supports 25+ languages to cater to different jurisdictions.",
+  "category": "Text&Writing",
+  "features": [
+    "Over 340 templates for legal drafting",
+    "Supports 25+ languages",
+    "Streamlines the drafting process",
+    "Breaks down and simplifies tough contracts",
+    "Provides insights into clauses and hidden terms",
+    "No credit card required for free access"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Legal teams, lawyers, and non-lawyers who need to draft or review legal documents",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We support the following payment methods: Credit card and Debit card."
+    },
+    {
+      "question": "Can I change plans?",
+      "answer": "Yes, you can change your plan at any time. Upon switching plans, your current subscription will be cancelled immediately."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "Yes, you can cancel your subscription at any time. You'll continue to have access to the features you've paid for until the end of your billing cycle."
+    },
+    {
+      "question": "What happens when my subscription expires?",
+      "answer": "Once your subscription expires, you'll lose access to all the subscription features."
+    }
+  ],
+  "url": "https://createdraft.com/"
+}

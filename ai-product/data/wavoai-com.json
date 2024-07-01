@@ -1,0 +1,28 @@
+{
+  "description": "WavoAI - advanced audio transcription. Transcribe your recordings into actionable insights.",
+  "title": "WavoAI - AI-Powered transcripts & Interactive Summarization",
+  "keywords": "WavoAI, transcripts, AI summarization, AI transcripts, audio to text, speech recognition, interactive transcripts, GPT transcripts, audio analysis",
+  "introduction": "WavoAI is a tool designed to automatically transform audio into actionable transcripts, featuring speaker identification, annotations, and AI-powered analysis.",
+  "category": "Voice",
+  "features": [
+    "Accurate speech-to-text transcription",
+    "Speaker identification",
+    "Annotations",
+    "Actionable summarization",
+    "AI-powered analysis"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals and professionals who need to transcribe and analyze audio recordings",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "Is a credit card required to try WavoAI?",
+      "answer": "No, a credit card is not required."
+    },
+    {
+      "question": "What features does WavoAI offer?",
+      "answer": "WavoAI offers accurate speech-to-text transcription, speaker identification, annotations, actionable summarization, and AI-powered analysis."
+    }
+  ],
+  "url": "https://wavoai.com/"
+}

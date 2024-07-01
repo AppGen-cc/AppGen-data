@@ -1,0 +1,34 @@
+{
+  "description": "We bridge the gap between retail traders and wall street, turning premium options flow data access into profitable trading strategies.",
+  "title": "Tradytics",
+  "keywords": "stock market, options strategies, options backtesting, options flow, trading, options trading, crypto trading, stock trading, trading, investing, stocks, artificial intelligence, data analytics, data driven, trade ideas, tradytics, finviz alternative, finviz, tradingview alternative, trading view alternative",
+  "introduction": "Tradytics simplifies complex trading data, making it accessible and actionable for every trader. The platform is available on all platforms including Web, iOS, and Android. It also offers Discord integration for users.",
+  "features": [
+    "Comprehensive toolkit for all types of traders",
+    "Mobile apps as lightweight versions of the website",
+    "Discord bot for using data within Discord"
+  ],
+  "pricing": "Subscription model with a 15-day trial for $15 and a separate subscription for Discord bot at $69/month",
+  "faqs": [
+    {
+      "question": "How does Tradytics compare with other competitors?",
+      "answer": "Tradytics offers a comprehensive toolkit for all types of traders, aiming to be a one-stop shop for retail traders with every data point needed to make decisions."
+    },
+    {
+      "question": "What's the difference between discord bot and individual subscription?",
+      "answer": "Discord bot subscription is for adding bots to personal servers, while individual subscription provides unlimited access to the platform and mobile app."
+    },
+    {
+      "question": "Do you have a refund policy?",
+      "answer": "There is no refund policy once the subscription or trial payment has been charged. Users are advised to cancel before the next payment date if they wish to discontinue the service."
+    },
+    {
+      "question": "How can I contact support for further questions?",
+      "answer": "Users can click on the chat bot button at the bottom right of the page to contact support for assistance."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Traders",
+  "url": "https://tradytics.com/"
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Create custom images using AI",
+  "title": "Astria - Finetune Stable Diffusion",
+  "keywords": "AI, stable-diffusion, stable diffusion, GAN, generative images, Dreambooth API,",
+  "introduction": "Astria.ai is an AI model platform that offers fine-tuning for neural-network models to generate images, prompt generation for image sets, and video creation services. It provides high-quality fine-tuning without the need for managing GPUs or adjusting hyper-parameters. The platform also offers an easy API for quick integration.",
+  "features": [
+    "Fine-tuning neural-network AI models for new concepts",
+    "Prompt generation for image sets",
+    "Video creation at 24 frames per second"
+  ],
+  "pricing": "$1.50 per fine-tune, $0.10 per prompt, $0.40 per 100 frames in a video",
+  "faqs": [
+    {
+      "question": "What is fine-tuning?",
+      "answer": "Fine-tuning is the process of training a neural-network AI model with a new concept to generate a 4GB new model file containing the knowledge of the new concept."
+    },
+    {
+      "question": "What are prompts used for?",
+      "answer": "Prompts are texts used with the fine-tuned model to generate a set of images."
+    },
+    {
+      "question": "What is the frame rate for videos on Astria.ai?",
+      "answer": "Videos on Astria.ai are created at 24 frames per second."
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://www.astria.ai/"
+}

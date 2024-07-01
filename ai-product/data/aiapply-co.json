@@ -1,0 +1,53 @@
+{
+  "description": "AIApply helps job seekers land more jobs quicker with the power of AI. Our Job Application Kit Generator is one of our tools that creates custom cover letters, rewrites resumes, and generates follow-up emails.",
+  "title": "AIApply | AI-Powered Job Search Tools",
+  "keywords": "apply ai, ai apply, job application ai, Job Search, AI, Custom Cover Letters, Resume Rewriting, Follow-up Emails, Job Application, AI Job Application Kit Generator, auto job applier",
+  "introduction": "AiApply is a platform that trains custom AI models on successful cover letters and resumes to help users secure high-paying jobs. It also matches users with job opportunities from various job boards.",
+  "category": "Business",
+  "features": [
+    "Custom AI models for cover letters and resumes",
+    "Job matching with partner opportunities",
+    "Integration with multiple job boards",
+    "Free version available",
+    "Premium subscription with full access to all tools",
+    "Student discounts available"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Job seekers, especially those looking for high-paying jobs and students",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does it work?",
+      "answer": "We train custom AI Models on the most successful cover letters and resumes that have gotten our customers multiple $100k/year jobs."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Most of our tools have a free version that allows you to take a peek into what you can expect. If you are interested in learning more about us before committing to premium, reach out anytime at hello@aiapply.co."
+    },
+    {
+      "question": "What does the premium subscription include?",
+      "answer": "Our premium subscription gives you full access to all job-seeking tools. No limitations whatsoever, you always know what you pay for."
+    },
+    {
+      "question": "What if I’m missing a feature?",
+      "answer": "If you’re missing a feature anywhere on our platform, reach out to us at hello@aiapply.co and we will try our absolute best to meet your needs and expectations."
+    },
+    {
+      "question": "Can I find jobs directly on this website?",
+      "answer": "Yes! We match you with job opportunities from our partners and thanks to our tight integration, you can select and generate job-specific cover letters, resumes and much more. We aggregate multiple job boards to find the perfect match."
+    },
+    {
+      "question": "Do you provide student discounts?",
+      "answer": "Yes! If you’re a student, you can reach out to us at hello@aiapply.co and we will be happy to help you get started in your career. Junior job search is tough and we know it."
+    },
+    {
+      "question": "Do you have an API?",
+      "answer": "We do not have a publicly accessible API, however, if you’re interested in getting access to our advanced infrastructure, email us at hello@aiapply.co and we will do our best to offer a win-win partnership."
+    },
+    {
+      "question": "Will my employer find out I used AiApply?",
+      "answer": "Our AI models are advanced enough to bypass AI-detection and we are constantly working on improving that. Besides that, most employers will not mind you getting help from AI - the opposite is true most of the time! Being able to find a quicker/better solution to a problem is a quality that most employers value highly."
+    }
+  ],
+  "url": "https://aiapply.co/"
+}

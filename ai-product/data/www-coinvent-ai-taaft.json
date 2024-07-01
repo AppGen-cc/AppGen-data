@@ -1,0 +1,42 @@
+{
+  "description": "We are inventing the AI travel experience of the future. Join the waitlist!",
+  "title": "CoInvent AI",
+  "introduction": "AiRial is an AI-powered travel planning assistant that can convert your imagination or favorite travel videos into fully planned and ready-to-book trips instantly. It offers a luxurious and stress-free travel booking experience by searching through hundreds of options and reviews for you.",
+  "category": "Life Assistant",
+  "features": [
+    "AI-generated dream trips",
+    "Online travel booking with AI superpowers",
+    "Converts travel videos or social media content into trips",
+    "Personalized travel plans including flights, accommodation, and day plans",
+    "Multimodal input for creating plans from various sources",
+    "Curated recommendations based on expert advice",
+    "Customizable travel details",
+    "Saves time by searching across all relevant options simultaneously"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Travel enthusiasts looking for a hassle-free and personalized travel planning experience",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is AiRial?",
+      "answer": "AiRial is an AI-powered travel planning assistant that can convert your imagination or favorite travel videos into fully planned and ready-to-book trips instantly."
+    },
+    {
+      "question": "How does AiRial work?",
+      "answer": "Simply describe your trip idea or provide a travel video, and AiRial will generate the entire trip for you, including flights, accommodation, and day plans."
+    },
+    {
+      "question": "Can AiRial personalize my travel plans?",
+      "answer": "Yes, AiRial personalizes your travel plans based on your needs, including food, activities, and other preferences."
+    },
+    {
+      "question": "What sources can I use to create travel plans with AiRial?",
+      "answer": "You can use travel videos, TikToks, blogs, tweets, or simply describe your trip idea to create travel plans with AiRial."
+    },
+    {
+      "question": "Does AiRial provide expert recommendations?",
+      "answer": "Yes, AiRial curates recommendations based on expert advice from travel articles and reviews."
+    }
+  ],
+  "url": "https://www.coinvent.ai/taaft"
+}

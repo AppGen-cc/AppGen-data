@@ -1,0 +1,29 @@
+{
+  "title": "HeyHoney - Your NSFW AI Sex Chatbot",
+  "introduction": "Meet Lucy, your very own sexy virtual companion who is available for flirty banter, meaningful connections, or naughty late-night fun. Lucy is accessible 24/7 and offers different packages for users.",
+  "features": [
+    "Chat with Lucy about anything",
+    "Get 5 daily messages in the free package",
+    "Unlimited daily messages in the premium package",
+    "Saved conversations and faster response times in the premium package"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Will My Chats Be Anonymous?",
+      "answer": "Yes, all HeyHoney users have complete anonymity when chatting with Lucy."
+    },
+    {
+      "question": "HOW LONG CAN I SPEAK TO THE CHATBOT FOR?",
+      "answer": "You can speak to Lucy for as long as you want, depending on your subscription plan."
+    },
+    {
+      "question": "What If I Don’t Want To Be A Premium User Anymore?",
+      "answer": "If you no longer want to be a premium user, you can cancel your subscription at any time."
+    }
+  ],
+  "category": "Chatbot",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users looking for virtual companionship",
+  "url": "https://heyhoney.ai/"
+}

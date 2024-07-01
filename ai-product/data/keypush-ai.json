@@ -1,0 +1,29 @@
+{
+  "description": "You AI and search assistant",
+  "title": "AI Search -  KeyPush",
+  "introduction": "KeyPush is an AI and web search companion that utilizes either Bing or ChatGPT to provide the best search results based on user queries.",
+  "category": "Life Assistant",
+  "features": [
+    "Uses Bing or ChatGPT for search results",
+    "Allows users to force a specific search engine by typing 'b ' for Bing or 'c ' for ChatGPT",
+    "Provides information on best phones, stock market trends, trending global topics, and NASA news"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "General internet users looking for enhanced search capabilities",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How does KeyPush decide which search engine to use?",
+      "answer": "KeyPush uses either Bing or ChatGPT based on which is best for the search query."
+    },
+    {
+      "question": "Can I force KeyPush to use a specific search engine?",
+      "answer": "Yes, you can type 'b ' before your search to use Bing or 'c ' to use ChatGPT."
+    },
+    {
+      "question": "What kind of information can I find using KeyPush?",
+      "answer": "You can find information on the best phones, stock market trends, trending global topics, and NASA news."
+    }
+  ],
+  "url": "https://keypush.ai/"
+}

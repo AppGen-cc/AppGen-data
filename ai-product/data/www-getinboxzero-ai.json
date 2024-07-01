@@ -1,0 +1,39 @@
+{
+  "title": "",
+  "introduction": "Overflowing inbox? Inbox Zero can organize it in 30 seconds! - no matter the size. Clear your annoying emails and get to Inbox Zero. Zero AI can do that.",
+  "category": "Productivity",
+  "features": [
+    "Organizes inbox in 30 seconds",
+    "Clears annoying emails",
+    "Unsubscribe seamlessly",
+    "End to End encryption",
+    "Complete control over account and data",
+    "Email productivity for businesses"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals and businesses with overflowing email inboxes",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How quickly can Inbox Zero organize my inbox?",
+      "answer": "Inbox Zero can organize your inbox in 30 seconds."
+    },
+    {
+      "question": "Can I unsubscribe from emails using Inbox Zero?",
+      "answer": "Yes, you can unsubscribe seamlessly with the press of a button."
+    },
+    {
+      "question": "Is my data secure with Inbox Zero?",
+      "answer": "Yes, Inbox Zero uses end to end encryption and is a Google Security Partner."
+    },
+    {
+      "question": "Do I have control over my account and data?",
+      "answer": "Yes, Inbox Zero gives you complete control over your account and data."
+    },
+    {
+      "question": "Is Inbox Zero suitable for businesses?",
+      "answer": "Yes, Inbox Zero is designed to improve email productivity for businesses."
+    }
+  ],
+  "url": "https://www.getinboxzero.ai/"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Khroma is the fastest way to discover, search, and save color combos and palettes you'll love.",
+  "title": "Khroma - The AI color tool for designers",
+  "introduction": "Khroma is a personalized algorithm that allows users to train a neural network powered algorithm to generate colors they like and block ones they don’t, directly in the browser. It creates infinite color combos by learning from popular human-made palettes on the internet and offers viewing options as typography, gradient, palette, or custom image. Users can search and filter the generator by various parameters like hue, tint, value, color, hex, and rgb values. Additionally, they can save their favorite combos to a collection for later reference, including color names, hexcodes, rgb values, CSS code, and WCAG accessibility rating of each pair.",
+  "category": "AI Detector",
+  "features": [
+    "Train a neural network powered algorithm to generate and block colors",
+    "View color combos as typography, gradient, palette, or custom image",
+    "Search and filter generator by various parameters",
+    "Save favorite combos to a collection with detailed information"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Designers, Artists, Color Enthusiasts",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can I save my favorite color combos?",
+      "answer": "Yes, you can create an unlimited library of your favorite combos to reference later."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for Khroma."
+    }
+  ],
+  "url": "https://www.khroma.co/"
+}

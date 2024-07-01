@@ -1,0 +1,40 @@
+{
+  "description": "InSummary connects with your calendar and automatically generates AI Powered Performance Reviews and AI Powered Status Reports that save you time.",
+  "title": "InSummary - Intelligent Performance Reviews and Status Reports",
+  "introduction": "InSummary is a tool that drafts self-evaluation responses, peer reviews, and weekly summaries using your calendar data. It helps users save time by providing personalized and impactful reflections and reports.",
+  "category": "Productivity",
+  "features": [
+    "Automated Self-Evaluations",
+    "Optimized Peer Selection",
+    "Impactful Testimonials",
+    "Automated Weekly Summaries",
+    "Intelligently Categorized & Contextualized",
+    "Customizable & Easily Shareable"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Professionals looking to streamline self-evaluations, peer reviews, and progress reporting",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What does InSummary do?",
+      "answer": "InSummary drafts self-evaluation responses, peer reviews, and weekly summaries using your calendar data."
+    },
+    {
+      "question": "How does InSummary help with peer reviews?",
+      "answer": "It identifies colleagues you worked with on impactful projects and reminds both parties what was worked on together to write insightful peer reviews."
+    },
+    {
+      "question": "What kind of reports does InSummary provide?",
+      "answer": "It provides informative and personalized weekly reports sent directly to your inbox."
+    },
+    {
+      "question": "How does InSummary categorize work streams?",
+      "answer": "It automatically identifies your work streams to help you understand how you spent your time and where you should focus more."
+    },
+    {
+      "question": "Is InSummary customizable?",
+      "answer": "Yes, it allows you to easily share your progress with your team and managers by copying, pasting, and tweaking the reports for better status updates."
+    }
+  ],
+  "url": "https://www.insummary.com/"
+}

@@ -1,0 +1,53 @@
+{
+  "description": "Podify is your go-to platform for building personal brand on LinkedIn. Join micro-communities, boost your visibility, and use unique tools for audience targeting and content creation. Experience deeper engagement and grow your network with Podify.",
+  "title": "Podify | Grow Your Network with AI-Driven Tools and Micro-Communities",
+  "introduction": "Podify is a platform designed to help professionals grow their audience on LinkedIn through micro-communities, AI-driven content creation, and engagement analysis. It offers tools to transform existing materials into engaging content, analyze engagement patterns, and optimize posts for maximum impact.",
+  "category": "Marketing",
+  "features": [
+    "Micro-Communities for peer support and engagement",
+    "Monthly Communities Access",
+    "VIP Communities for high-level networking",
+    "Browser Extension for LinkedIn integration",
+    "Calendar integration for community sessions",
+    "Transform Google Drive materials into content",
+    "Purchase tailored content vetted through ICP Meter and Engagement Analysis",
+    "Content performance analytics",
+    "Engagement pattern analysis and post optimization",
+    "Evaluate content effectiveness against Ideal Customer Profile",
+    "Transform top-performing content into new messages",
+    "Create bespoke content from PDF documents",
+    "AI-generated unique comments",
+    "Analyze past posts for unique tone of voice",
+    "Value Post analysis for quality and engagement",
+    "Value Comment filter for meaningful interactions",
+    "Privacy and GDPR compliance",
+    "SOC II TYPE 2 compliance for data security",
+    "Chrome Extension adherence to Chrome Web Store policies",
+    "Personalized email support",
+    "Continuous product training sessions",
+    "30-minute live onboarding call",
+    "Expert support team"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professionals looking to grow their audience and personal brand on LinkedIn",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How to Install the Podify Extension?",
+      "answer": "Instructions for installing the Podify Extension are provided on the platform."
+    },
+    {
+      "question": "How will I see results with Podify?",
+      "answer": "Results can be seen through increased engagement, network growth, and optimized content performance."
+    },
+    {
+      "question": "What is included in the 7-day free trial?",
+      "answer": "The 7-day free trial includes access to all features of the chosen plan."
+    },
+    {
+      "question": "What is Podify's refund policy?",
+      "answer": "Podify offers a 30-day money-back guarantee on the first payment."
+    }
+  ],
+  "url": "https://podify.io/"
+}

@@ -1,0 +1,41 @@
+{
+  "description": "The best app for practicing music. Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI. Try it today!",
+  "title": "Moises App: The Musician's App | Vocal Remover & much more",
+  "introduction": "Moises is a music practice tool that offers features like vocal remover, instrumental track creation, pitch changer, chord detection, and smart metronome. It allows users to separate vocals and instruments, adjust speed and pitch, and enhance their music practice experience. The app is designed to revolutionize how users create, practice, and produce music.",
+  "features": [
+    "Vocal Stems Isolation",
+    "Music Cutter",
+    "Instrumental Maker",
+    "Audio Speed Changer",
+    "Key Detector",
+    "Collaborative Setlist",
+    "Stems Plugin",
+    "Voice Studio",
+    "Song Sections",
+    "Song Key Finder",
+    "BPM Finder",
+    "AI Lyrics Transcription",
+    "Lyric Writer",
+    "Chord Finder",
+    "Pitch Changer",
+    "Metronome Online",
+    "Vocal Remover"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can I isolate vocals and instruments in a song?",
+      "answer": "You can easily separate vocals, drums, guitar, bass, keys, and other instruments in any song using the AI Audio Separation feature."
+    },
+    {
+      "question": "Can I change the key of a song to match my vocal range?",
+      "answer": "Yes, you can use the Pitch Changer & AI Key Detection feature to control and change the key with one click, allowing you to shift the pitch to meet your vocal range or play in any key."
+    },
+    {
+      "question": "Does Moises offer chord detection in real-time?",
+      "answer": "Yes, Moises provides Chord Detection feature that detects and displays chords in real time, allowing you to instantly transpose chords to the key of your choice for any song."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://moises.ai/"
+}

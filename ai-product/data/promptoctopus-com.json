@@ -1,0 +1,32 @@
+{
+  "description": "Compare as many prompt responses as you need!",
+  "title": "Prompt Octopus | Side-by-side prompt engineering",
+  "introduction": "Prompt Octopus is a tool that allows users to compare multiple prompts side by side. It supports adding an OpenAI API key, changing model types, and the number of prompts. Users can also self-host the tool via GitHub.",
+  "category": "Prompt",
+  "features": [
+    "Compare multiple prompts side by side",
+    "Add an OpenAI API key",
+    "Stored locally in cache",
+    "Change model type",
+    "Change number of prompts",
+    "Self-host on GitHub"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals who need to compare multiple prompts, such as writers, developers, and AI enthusiasts",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How can I add an OpenAI API key?",
+      "answer": "You can add an OpenAI API key which will be stored locally in cache and can be cleared anytime in settings."
+    },
+    {
+      "question": "Can I change the model type and number of prompts?",
+      "answer": "Yes, you can change the model type and number of prompts by clicking the Octopus icon."
+    },
+    {
+      "question": "Is it possible to self-host this tool?",
+      "answer": "Yes, you can self-host Prompt Octopus on GitHub."
+    }
+  ],
+  "url": "https://promptoctopus.com/"
+}

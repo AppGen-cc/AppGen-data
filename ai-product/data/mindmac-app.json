@@ -1,0 +1,104 @@
+{
+  "description": "MindMac let you use ChatGPT efficient on macOS.",
+  "title": "MindMac — Elegant and Fullfil ChatGPT Client for macOS",
+  "keywords": "chatgpt, macos, mac, osx, app, desktop, client, software, chat application, openai, api, key, beam, typingmind, elephas, harpa, perplexity, phind, claude, anthropic, azure, grok, sam altman, ai, chatbot, bard, llama",
+  "introduction": "MindMac is a modern, native, and user-friendly macOS application designed to seamlessly integrate with ChatGPT and other AI platforms like OpenAI, Azure OpenAI, and Google Gemini. It supports Mac Intel & Apple M1/M2/M3 with macOS 13+.",
+  "category": "Chatbot",
+  "features": [
+    "Free to Use: Basic features available for free, upgrade when satisfied.",
+    "Enhance ChatGPT: Leverage ChatGPT with well-organized and efficient features.",
+    "Powerful Inline Mode: Generate content or ask questions quickly in any application without switching windows.",
+    "Native & Fast: Uses native technologies for best performance and user experience.",
+    "Pre-built Prompt Template: Over 150 built-in prompt templates for enhanced user interaction.",
+    "Highly Customizable: Customizable OpenAI parameters, appearances, context mode, keyboard shortcuts, and more.",
+    "Secure: API key stored securely in Keychain on your Mac.",
+    "Multi-Language: Supports more than 10 popular languages for app appearance.",
+    "Privacy: No middle servers, data goes directly to OpenAI server."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "AI enthusiasts, individuals, and teams of all sizes using macOS.",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "How does this app work?",
+      "answer": "After configuring your API Key, you can chat with ChatGPT directly within the main MindMac app or use Inline mode to ask questions in various other applications. MindMac offers additional features like a prompt library, occupation library, context mode, and more."
+    },
+    {
+      "question": "What are the restrictions of the free plans?",
+      "answer": "Free plan users can use all MindMac features but are limited to creating a maximum of 5 conversations and using Inline mode up to 10 times per day. Once Inline mode finishes beta phase, it will be available only for Pro plans."
+    },
+    {
+      "question": "Do I need to pay for OpenAI?",
+      "answer": "Yes, an OpenAI account and a valid API key are necessary to utilize ChatGPT."
+    },
+    {
+      "question": "Where can I obtain an OpenAI API Key?",
+      "answer": "Sign up at https://platform.openai.com/signup and generate an API key at https://platform.openai.com/account/api-keys."
+    },
+    {
+      "question": "License Key vs. API Key",
+      "answer": "A License Key is required to activate premium features of MindMac, while an API Key is needed to interact with ChatGPT through OpenAI's API."
+    },
+    {
+      "question": "Do I need to pay for ChatGPT Plus to use MindMac?",
+      "answer": "No, MindMac uses the ChatGPT API which is separate from ChatGPT Plus."
+    },
+    {
+      "question": "How is my data protected?",
+      "answer": "MindMac operates exclusively on your local device, ensuring no user input or prompts are stored or transmitted to any middle servers. Your data goes directly to OpenAI servers, and your OpenAI API key is stored securely in the Apple Keychain."
+    },
+    {
+      "question": "Does MindMac support custom API endpoint?",
+      "answer": "Yes, MindMac supports custom API endpoint and proxy compatible with OpenAI's Chat Completions API."
+    },
+    {
+      "question": "What is token?",
+      "answer": "Tokens are fragments of words estimated by OpenAI when you send a prompt. There is a context length limit while using OpenAI's API, which varies across GPT models."
+    },
+    {
+      "question": "What is context mode?",
+      "answer": "MindMac provides options to configure context preference for conversation: Free, All, First N messages, and Last N messages."
+    },
+    {
+      "question": "How is the usage cost calculated?",
+      "answer": "OpenAI API charges by total of prompt tokens and completion tokens with specific model and token type. Enhanced features may increase token usage."
+    },
+    {
+      "question": "How to use GPT-4?",
+      "answer": "MindMac supports GPT-4 model, but you need permission to access GPT-4 API by joining the waitlist at https://openai.com/waitlist/gpt-4-api."
+    },
+    {
+      "question": "What is Inline mode?",
+      "answer": "Inline mode allows you to use ChatGPT inside any other applications without switching windows."
+    },
+    {
+      "question": "What languages does the MindMac support?",
+      "answer": "MindMac supports 15 languages for app appearance and allows chatting with ChatGPT in any language."
+    },
+    {
+      "question": "Is MindMac available on Windows/Linux?",
+      "answer": "Currently, MindMac is only compatible with macOS, but expansion to other platforms may be explored in the future."
+    },
+    {
+      "question": "Is MindMac available on iPhone/iPad?",
+      "answer": "MindMac is a macOS-first app, but there are plans to expand support for iPhone and iPad devices."
+    },
+    {
+      "question": "Can I change the license key to another computer after I activate it?",
+      "answer": "Yes, you can deactivate the license on one machine and activate it on another."
+    },
+    {
+      "question": "How does license work?",
+      "answer": "The license is a perpetual license allowing you to use the current app version forever with one year of free updates."
+    },
+    {
+      "question": "How much does it cost to update the app after 1 year?",
+      "answer": "After one year, you can renew the license at a 40% discount for another year of updates."
+    },
+    {
+      "question": "Can I get a refund if I don't like it?",
+      "answer": "Yes, there is a 14-day money-back guarantee."
+    }
+  ],
+  "url": "https://mindmac.app/"
+}

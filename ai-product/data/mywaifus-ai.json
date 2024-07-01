@@ -1,0 +1,24 @@
+{
+  "description": "AI generated waifus",
+  "title": "mywaifus.ai | AI Waifus",
+  "keywords": "AI Waifus, AI generated waifus, Waifu, make anime fusions and waifus with AI, custom anime waifus, furry, anime",
+  "introduction": "MyWaifus.ai is a platform that allows users to create and customize their own waifus, virtual characters, and interact with them.",
+  "features": [
+    "Create and customize virtual characters",
+    "Interact with the created characters",
+    "Access to various add-ons for additional features"
+  ],
+  "pricing": "Free with optional paid add-ons",
+  "faqs": [
+    {
+      "question": "Is MyWaifus.ai free to use?",
+      "answer": "Yes, MyWaifus.ai is free to use with optional paid add-ons for additional features."
+    },
+    {
+      "question": "What can I do on MyWaifus.ai?",
+      "answer": "You can create and customize your own virtual characters, interact with them, and access various add-ons for additional features."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://mywaifus.ai/"
+}

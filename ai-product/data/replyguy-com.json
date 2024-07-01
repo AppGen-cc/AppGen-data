@@ -1,0 +1,47 @@
+{
+  "description": "The AI that plugs your product on Reddit and Twitter. Get leads from social media using auto replies.",
+  "title": "AI that mentions your product in online convos naturally | ReplyGuy",
+  "introduction": "ReplyGuy is a service that helps businesses increase their online presence by automatically replying to posts on social media platforms like Twitter and Reddit. The service aims to drive more users to your product by engaging in natural conversations.",
+  "category": "Marketing",
+  "features": [
+    "Supports Twitter (X) and Reddit",
+    "Upcoming support for LinkedIn, Tik Tok, Hacker News, and other social networks",
+    "Replies sent from high-quality accounts",
+    "Option to connect your own account",
+    "Dashboard for managing subscriptions"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to increase their online presence and drive more users to their products",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes! You can try ReplyGuy for free and see the magic for yourself."
+    },
+    {
+      "question": "What platforms do you support?",
+      "answer": "We currently support Twitter (X) and Reddit. We are currently adding support for LinkedIn, Tik Tok, Hacker News, and other social networks."
+    },
+    {
+      "question": "Do you mention the product name or the full URL?",
+      "answer": "We highly recommend only mentioning the brand name of your product since mentioning links in posts makes the post more likely to be reported as spam and hidden. We find that humans don't usually type out full URLs in natural conversation and plus, most internet users are happy to do a quick Google Search."
+    },
+    {
+      "question": "Can I cancel my subscription anytime?",
+      "answer": "Yes! You can cancel/pause/upgrade/downgrade your subscription anytime from the dashboard."
+    },
+    {
+      "question": "What accounts send the replies?",
+      "answer": "We send the replies from our pool of high quality Twitter and Reddit accounts. You may optionally connect your own account if you'd like the replies to come from a brand page."
+    },
+    {
+      "question": "How long does it take to start seeing results?",
+      "answer": "Within 1-2 weeks, many customers report an uptick in users coming from the replies. Think of it as more of an investment - a Reddit post will be around for a long time for future internet users to stumble upon."
+    },
+    {
+      "question": "Other questions?",
+      "answer": "We are available via live chat to answer your questions!"
+    }
+  ],
+  "url": "https://replyguy.com/"
+}

@@ -1,0 +1,51 @@
+{
+  "description": "Uncensored AI story generator and writing assistant without filters. Create steamy romances, gruesome horror stories or fan-fiction from your favorite universe.",
+  "title": "AI Story Generator | Uncensored | DreamGen",
+  "keywords": "ai story generator,nsfw erotic stories,fan-fiction generator,novelai,novelcrafter,sudowrite",
+  "introduction": "DreamGen is an uncensored AI story generator that allows users to bring their ideas to life by crafting their own stories or jumping into existing story scenarios. It offers a platform to explore any theme without constraints, architect rich worlds, and guide the story's direction in real-time with the power of AI.",
+  "category": "Text&Writing",
+  "features": [
+    "Uncensored AI story generator",
+    "Craft your own story or jump into existing scenarios",
+    "Explore any theme without constraints",
+    "Architect rich worlds with ease",
+    "Guide your story's direction in real-time",
+    "Define plot, characters, locations, and writing style",
+    "Smart and consistent AI for immersive role-play",
+    "Responsive developers to feedback"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Hobbyist writers, fan-fic writers, and anyone interested in creating stories",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is DreamGen?",
+      "answer": "DreamGen is an uncensored AI story generator that allows users to bring their ideas to life by crafting their own stories or jumping into existing story scenarios."
+    },
+    {
+      "question": "What features does DreamGen offer?",
+      "answer": "DreamGen offers an uncensored AI story generator, the ability to craft your own story or jump into existing scenarios, explore any theme without constraints, architect rich worlds with ease, and guide your story's direction in real-time."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, DreamGen offers a generous free tier that allows users to try all models and features for free."
+    },
+    {
+      "question": "What are the pricing plans for DreamGen?",
+      "answer": "DreamGen offers three subscription plans: Starter at $3.92/month, Advanced at $9.68/month, and Pro at $24.15/month, all with 50% off for the first month."
+    },
+    {
+      "question": "Who is the target audience for DreamGen?",
+      "answer": "DreamGen is targeted towards hobbyist writers, fan-fic writers, and anyone interested in creating stories."
+    },
+    {
+      "question": "How are model credits charged?",
+      "answer": "Every interaction with a text-based model is charged completion credits based on the amount of input and output tokens. A token corresponds to roughly 4 characters."
+    },
+    {
+      "question": "What is the context window for models?",
+      "answer": "All models, unless otherwise specified, have a limit of 4000 tokens (input + output)."
+    }
+  ],
+  "url": "https://dreamgen.com/story-writing"
+}

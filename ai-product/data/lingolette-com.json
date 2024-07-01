@@ -1,0 +1,26 @@
+{
+  "description": "Language teaching machine 🦾 focusing on the problem of students dropout from language learning",
+  "title": "Lingolette — language teaching machine",
+  "introduction": "Lingolette is an AI-powered platform designed for real-life, contextual language practice to help users improve their spoken and written fluency. It offers personalized practice sessions and adapts to the user's pace and preferences.",
+  "features": [
+    "Engages users in real-life scenarios",
+    "Adapts to user responses and learning pace",
+    "Motivates with fresh content daily",
+    "Provides clear guidance for understanding and progress"
+  ],
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "Who is Lingolette for?",
+      "answer": "Lingolette is for individuals who want to improve their spoken and written fluency without formal classes, need a practice buddy that adapts to their pace, have a limited vocabulary, are on a budget, struggle to find practice opportunities, get anxious speaking a foreign language, and need flexible practice that fits their schedule."
+    },
+    {
+      "question": "How is Lingolette different from other tutors?",
+      "answer": "Lingolette engages users in real-life scenarios, adapts to their responses and learning pace, motivates with fresh content daily, and provides clear guidance for understanding and progress."
+    }
+  ],
+  "category": "Education",
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Language learners",
+  "url": "https://lingolette.com/"
+}

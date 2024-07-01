@@ -1,0 +1,41 @@
+{
+  "title": "Reforge",
+  "introduction": "Reforge is a platform that offers expert advice and resources to help teams improve their work. It provides access to on-demand courses, live courses, artifacts, guides, events, and a Slack community. The platform caters to individuals, teams, and enterprises, offering different pricing plans based on team size and needs.",
+  "features": [
+    "Reforge AI",
+    "Artifacts",
+    "Guides",
+    "20+ On-demand courses",
+    "Events",
+    "Slack community",
+    "Team tagging & commenting",
+    "Shared collections",
+    "User roles & management",
+    "Priority support",
+    "Expert advising (add-on)",
+    "Standard engagement report",
+    "Custom onboarding",
+    "Dedicated account manager",
+    "Advanced engagement reports",
+    "SAML SSO"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, users can get started for free with Artifacts and Events."
+    },
+    {
+      "question": "What are the key features of Reforge membership?",
+      "answer": "Key features include access to expert advice, on-demand courses, live courses, artifacts, guides, events, and a Slack community."
+    },
+    {
+      "question": "What is the pricing structure for Reforge?",
+      "answer": "Reforge offers different pricing tiers: Individual, Starter, Scale, and Enterprise, with varying features and benefits for each tier."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Teams and individuals",
+  "url": "https://www.reforge.com/extension"
+}

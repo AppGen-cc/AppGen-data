@@ -1,0 +1,31 @@
+{
+  "description": "Win more in League of Legends with your new in-game bud, Tyler1. Riot approved free AI LoL companion with live coaching, pro builds, stats, runes and counters.",
+  "title": "Backseat AI by Tyler1 | League of Legends Live Coach",
+  "introduction": "Backseat AI is a voice overlay and companion app that allows users to play League of Legends alongside their favorite creators, including live coaching and commentary from Tyler1. It is free to use with the option to upgrade to a Premium subscription for additional features.",
+  "features": [
+    "Play League of Legends with favorite creators",
+    "Live coaching and commentary from Tyler1",
+    "Ad-free experience with Premium subscription",
+    "Early access to new features",
+    "Special role in Tyler1's official Discord"
+  ],
+  "pricing": "Free to use with the option to upgrade to a Premium subscription",
+  "faqs": [
+    {
+      "question": "Does Backseat AI affect game performance?",
+      "answer": "Backseat AI is optimized to have minimal impact on game performance."
+    },
+    {
+      "question": "Will I get banned for using Backseat AI?",
+      "answer": "No, Backseat AI is approved by Riot and is TOS compliant."
+    },
+    {
+      "question": "How does Backseat AI support content creators?",
+      "answer": "Backseat AI works directly with each creator to build a unique Backseat Buddy AI companion. Creators receive the majority of the subscription fee."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "League of Legends players",
+  "url": "https://backseat.gg/"
+}

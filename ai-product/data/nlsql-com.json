@@ -1,0 +1,36 @@
+{
+  "description": "Empower Business Decisions with best Artificial Intelligence data analytics tools, effortlessly transforming Natural Language Queries to generative AI insights",
+  "title": "AI Data Analytics: Self-Service NLP to SQL Generator",
+  "keywords": "how to generate SQL with AI, generative ai data analytics, AI data analytics tools, chatGPT, artificial intelligence, natural language to sql converter, Text to SQL, SQL GPT, natural language to sql, chat gpt",
+  "introduction": "NLSQL is a B2B SaaS product that empowers employees with an intuitive text interface to inform and speed up business decisions, particularly in healthcare settings. It works as the first NLP to SQL API, allowing for data-driven decisions without transferring sensitive information outside the corporate IT ecosystem. NLSQL supports integrations with main database types and corporate messengers, enabling faster business progress through data-driven decisions.",
+  "features": [
+    "Empowers employees with an intuitive text interface",
+    "Supports integrations to all main database types and corporate messengers",
+    "Provides Google-like interface for healthcare BI software",
+    "Allows clinicians to make faster and more accurate clinical decisions",
+    "Enables real-time access to key data for efficient decision-making in healthcare",
+    "Allows inspection and interpretation of billions of rows of hospital information",
+    "Provides instantaneous search and analysis for quick patient information identification"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is NLSQL?",
+      "answer": "NLSQL is a B2B SaaS product that empowers employees with an intuitive text interface for faster business decisions, particularly in healthcare settings."
+    },
+    {
+      "question": "Does NLSQL transfer sensitive data outside the corporate IT ecosystem?",
+      "answer": "No, NLSQL does not require transferring sensitive or confidential data outside the corporate IT ecosystem."
+    },
+    {
+      "question": "What integrations does NLSQL support?",
+      "answer": "NLSQL supports integrations to all main database types and corporate messengers."
+    },
+    {
+      "question": "How does NLSQL benefit healthcare organizations?",
+      "answer": "NLSQL allows clinicians to make faster and more accurate clinical decisions by providing real-time access to key data for better integrated and personalized healthcare."
+    }
+  ],
+  "category": "Business",
+  "url": "https://nlsql.com/"
+}

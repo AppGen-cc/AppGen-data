@@ -1,0 +1,35 @@
+{
+  "description": "Launch your AI product 100x faster with StartKit's boilerplate code. Includes user authentication, rate-limits, all OpenAI APIs, and more.",
+  "title": "StartKit.AI ‧ Build AI Startups Faster",
+  "introduction": "StartKit.AI is an AI boilerplate that provides everything needed to ship a SaaS product without requiring AI experience. It offers features like creating a ChatGPT clone, implementing OpenAI features, and additional functionalities for AI projects.",
+  "features": [
+    "Create your own ChatGPT clone out of the box",
+    "Streaming API for fast response times",
+    "Web-browsing, history, DALL-E integration, and custom plugins",
+    "Vision image input",
+    "Advanced reasoning and broad knowledge with GPT-4-Turbo",
+    "Fallback models to avoid overloaded responses",
+    "Automatic image uploading for long-term storage",
+    "Chat history and sharing capability",
+    "Rate-limits and usage monitoring"
+  ],
+  "pricing": "Buy once and own forever with regular updates and community support. Two plans available: Starter for simple AI projects and Growth for scalable products.",
+  "hasFreeTrial": "No",
+  "targetPeople": "Developers",
+  "faqs": [
+    {
+      "question": "Is AI experience required to use StartKit.AI?",
+      "answer": "No, StartKit.AI does not require AI experience."
+    },
+    {
+      "question": "What are the pricing plans for StartKit.AI?",
+      "answer": "StartKit.AI offers two pricing plans: Starter for simple AI projects and Growth for scalable products."
+    },
+    {
+      "question": "What features are included in StartKit.AI?",
+      "answer": "StartKit.AI includes features like creating a ChatGPT clone, streaming API, vision image input, advanced reasoning with GPT-4-Turbo, and more."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://startkit.ai/"
+}

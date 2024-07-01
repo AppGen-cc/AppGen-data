@@ -1,0 +1,34 @@
+{
+  "description": "Meetz ai personal assistant artificial intelligence scheduler meetings email",
+  "title": "Home - Meetz",
+  "introduction": "Meetz is an AI Sales Lead Generator that offers fully personalized and automated outreach with an AI scheduler to book meetings. It provides real-time verified data, cross-referenced contact info, intent-based signals, personalized outreach, automated follow-ups, and AI email scheduling. The platform is GDPR, CCPA, and CPRA compliant and offers hyper-personalized messaging and automated meeting booking.",
+  "features": [
+    "Real Time Verified Data",
+    "Cross Referenced Contact Info",
+    "Intent Based Signals",
+    "1st & 3rd Party Data",
+    "Event Triggered Insights",
+    "AI Personalized Outreach",
+    "Automated Follow Ups",
+    "AI Email Scheduler"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What data does Meetz provide?",
+      "answer": "Meetz provides 165 million prospects data with 50 data points like real-time verified email and direct phone numbers."
+    },
+    {
+      "question": "Is Meetz GDPR compliant?",
+      "answer": "Yes, Meetz is GDPR, CCPA, and CPRA compliant."
+    },
+    {
+      "question": "How does the AI scheduler work?",
+      "answer": "The AI scheduler automatically books qualified prospects directly to your or your team members' calendar."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Sales professionals",
+  "url": "https://www.meetz.ai/"
+}

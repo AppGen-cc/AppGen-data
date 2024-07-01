@@ -1,0 +1,28 @@
+{
+  "description": "AIVA, your AI music generation assistant",
+  "title": "AIVA, the AI Music Generation Assistant",
+  "keywords": "AI generated music, Generative AI, Music Generator, Music AI, Artificial Intelligence, Deep learning, AI Music composition",
+  "introduction": "AIVA is an AI music generation assistant that allows users to generate new songs in over 250 different styles in seconds. It caters to both beginners and professionals in music creation, offering the power of generative AI to create unique compositions.",
+  "features": [
+    "Generate new songs in 250 different styles",
+    "Create custom style models",
+    "Upload audio or MIDI influences",
+    "Edit generated tracks",
+    "Download tracks in any file format"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free plan available for beginners who want to use compositions for non-commercial use cases only."
+    },
+    {
+      "question": "Who owns the copyright of the compositions?",
+      "answer": "The copyright ownership varies based on the plan chosen. The Pro Plan allows users to own the full copyright of their compositions."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Music creators",
+  "url": "https://www.aiva.ai/"
+}

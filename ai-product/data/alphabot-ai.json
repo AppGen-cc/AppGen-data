@@ -1,0 +1,27 @@
+{
+  "description": "AlphaBot provides efficient customer service, smartly escalates complex queries to human agents, and improves with every interaction.",
+  "title": "AlphaBot | Mixing AI & Human Expertise",
+  "introduction": "AlphaBot is an always-on business assistant that handles customer requests simultaneously, accurately, and tirelessly. It learns and adapts to new challenges, ensuring future queries are handled with greater expertise. The bot can be updated through easy conversations and is ready to use with a chat link to start answering questions instantly.",
+  "category": "Chatbot",
+  "features": [
+    "Self-improving capabilities",
+    "Training through conversation",
+    "Plug & play setup",
+    "No dead ends in conversations",
+    "Language style independence for responses"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking for efficient customer support solutions",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What makes AlphaBot unique?",
+      "answer": "AlphaBot's ability to learn and adapt to new challenges, asking for guidance when needed, gives users control and enhances customer experience."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a 7-day free trial with no credit card required."
+    }
+  ],
+  "url": "https://alphabot.ai/"
+}

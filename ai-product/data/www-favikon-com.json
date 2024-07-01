@@ -1,0 +1,40 @@
+{
+  "description": "Favikon is the only influencer marketing platform based on AI that covers all niches and all industries. Start your influencer campaign now!",
+  "title": "Favikon | The B2B influencer marketing platform",
+  "introduction": "Favikon is an AI-powered influencer marketing platform designed to help brands, agencies, and entrepreneurs discover, manage, and analyze social media creators. It offers a comprehensive suite of tools to optimize campaign performance, streamline processes, and provide real-time analytics.",
+  "category": "Marketing",
+  "features": [
+    "AI-powered Chrome extension for social media insights",
+    "Real-time performance insights of public figures and creators",
+    "Spot social media trends and top-performing posts",
+    "Manage creator workflow and add to CRM",
+    "Comprehensive global directory of creators",
+    "AI-enhanced influence scores and rankings",
+    "Detailed creator profiles with historical data",
+    "Weekly AI-generated social media reports",
+    "Customizable segmentation and tagging of creators",
+    "Export and share creator data easily"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Marketers, brands, agencies, entrepreneurs, and content creators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Are creators registered on the platform?",
+      "answer": "Favikon offers a comprehensive global directory of relevant creators, ensuring you'll always find the ideal match for your unique needs. We move beyond the typical influencer marketplace format, as we believe in maintaining the authenticity and personalized essence of creator marketing, rather than turning it into a mere industrial process. With Favikon, it's about quality connections, not just quantity."
+    },
+    {
+      "question": "How do you calculate influence scores?",
+      "answer": "Over the course of two years, our collaboration with skilled data scientists has been integral to refining our ranking algorithms, ensuring they adhere to rigorous scientific standards. This meticulous process has culminated in rankings that accurately capture the genuine impact and effectiveness of creators, furnishing you with dependable, data-backed insights crucial for informed decision-making in your marketing endeavors. For a comprehensive understanding of our methodology, we invite you to explore the detailed article available on our blog."
+    },
+    {
+      "question": "Is Favikon an agency?",
+      "answer": "Favikon is NOT an agency. We provide you with AI-powered data features through our platform to empower you with insightful analytics and tools, enabling you to make smarter, data-driven decisions for your influencer marketing strategies. This approach puts the power directly in your hands, ensuring precision and effectiveness in every campaign."
+    },
+    {
+      "question": "Do you have any affiliate or referral program?",
+      "answer": "Yes, check out the website footer! We offer up to 30% commission for any referral on our platform."
+    }
+  ],
+  "url": "https://www.favikon.com/"
+}

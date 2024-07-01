@@ -1,0 +1,30 @@
+{
+  "description": "Viva is a Free AI Generation Tool and Community, There are Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video and other generation functions, as well as powerful AI editing tools, you can expand image, repainting anything, and make the images and videos to become more high-quality and 4K. The most critical thing is that all of these are free of charge, viva makes the AI creation simpler and more efficient.",
+  "title": "Viva.ai- Bring Every Moment To Life",
+  "keywords": "AIGC, Multi-modal Large Model, Artificial Intelligence, AI Content, AI Generated Graph, Vincennes Graph, Tu-generated Graph, Vincennes Video, Tucson Video, Intelligent Topo Graph, Matting, AI Content Creation, AI Art Creation, AI Painting, AI Assisted Drawing, Intelligent image Design, AI Image Enhancement, Intelligent Image, AI Video Creation, AI Animation, Still Image Animation, AI video",
+  "introduction": "VIVA is an AI-powered creative visual design platform that enhances creativity and productivity through generative AI. It offers tools for video generation, text to video conversion, image to video transformation, and text to image creation. Additionally, VIVA provides features like Magic Eraser for easy removal of excess elements in images.",
+  "features": [
+    "Video Generation",
+    "Text to Video",
+    "Image to Video",
+    "Text to Image",
+    "Magic Eraser"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is VIVA?",
+      "answer": "VIVA is an AI-powered creative visual design platform that enhances creativity and productivity through generative AI."
+    },
+    {
+      "question": "What features does VIVA offer?",
+      "answer": "VIVA offers tools for video generation, text to video conversion, image to video transformation, text to image creation, and Magic Eraser for easy removal of excess elements in images."
+    },
+    {
+      "question": "What is the pricing strategy for VIVA?",
+      "answer": "VIVA follows a subscription-based pricing model."
+    }
+  ],
+  "category": "Design&Art",
+  "url": "https://vivago.ai/"
+}

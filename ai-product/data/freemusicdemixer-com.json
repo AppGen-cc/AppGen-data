@@ -1,0 +1,42 @@
+{
+  "description": "Split songs, demix music, and separate stems with our AI-based tool: free, private, and unlimited use directly in your browser.",
+  "title": "free-music-demixer",
+  "introduction": "Free AI-powered music demixer that effortlessly splits your songs into individual stems - vocals, bass, drums, and melody - using the latest AI model. It runs locally on your computer, ensuring unlimited usage without any restrictions.",
+  "category": "Voice",
+  "features": [
+    "Splits songs into individual stems: vocals, bass, drums, and melody",
+    "Runs locally on your computer",
+    "Unlimited usage without restrictions",
+    "Powered by Demucs Hybrid Transformer AI model",
+    "Free to use and doesn't store your data",
+    "Processing done in your browser",
+    "Supports MAX MEMORY option for faster demixing and longer songs",
+    "Outputs are stereo wav files @ 44100 Hz"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Musicians, audio engineers, and music enthusiasts",
+  "pricing": "Free with optional PRO subscription",
+  "faqs": [
+    {
+      "question": "What stems can be extracted using the free version?",
+      "answer": "The free version can extract vocals, bass, drums, and melody."
+    },
+    {
+      "question": "Does the application store my data?",
+      "answer": "No, all processing is done in your browser and your files are never uploaded anywhere."
+    },
+    {
+      "question": "Is there a paid version available?",
+      "answer": "Yes, there is a PRO subscription that unlocks more instruments and stems (piano + guitar) and higher-quality AI models."
+    },
+    {
+      "question": "What should I do if the application crashes?",
+      "answer": "Try a different MAX MEMORY setting (lower or higher)."
+    },
+    {
+      "question": "What audio formats are supported for input?",
+      "answer": "Input files can be almost any audio format, but the outputs are always stereo wav files @ 44100 Hz."
+    }
+  ],
+  "url": "https://freemusicdemixer.com/"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "Build AI-powered SaaS apps and custom internal tools in record time with no code.",
+  "title": "Frontly - Build AI-powered apps with no code",
+  "introduction": "Frontly is an AI-powered platform that allows users to build apps without any code. It enables automation of tasks, content generation, and editing using OpenAI. Additionally, Frontly helps in modernizing user interfaces and controlling data access.",
+  "category": "Code&IT",
+  "features": [
+    "Automate repetitive tasks with AI",
+    "Edit and generate content with structured output",
+    "Turn spreadsheets into visual interfaces",
+    "Control data access with granular controls",
+    "Add branding elements to apps"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Small businesses, startups, teams, enterprises",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available for users to get started with Frontly."
+    },
+    {
+      "question": "What is the pricing model for Frontly?",
+      "answer": "Frontly offers a subscription-based pricing model where users only pay when they publish apps."
+    },
+    {
+      "question": "What are the features included in Frontly's plans?",
+      "answer": "Frontly's plans include features such as building unlimited unpublished apps, custom domain and branding, priority support, and monthly AI tokens."
+    }
+  ],
+  "url": "https://frontly.ai/"
+}

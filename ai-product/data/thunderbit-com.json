@@ -1,0 +1,57 @@
+{
+  "description": "AI App and Automation software for business users. Deploy Prebuilt AI Apps & Automations with Thunderbit's 1-Click No-Code Solution. Free-tier free forever.",
+  "title": "Thunderbit: All-in-one AI toolkit / No Code App & Automation",
+  "keywords": "AI Web Clipper, Automation, Thunderbit",
+  "introduction": "Thunderbit is a next-gen no-code AI app and automation builder for business users, allowing them to build and deploy AI tools and automations in seconds.",
+  "category": "Business",
+  "features": [
+    "1-Click to Build Your Own AI tools",
+    "Out-of-the-box web assistant tailored for each browsing experience",
+    "AI App: Convert unstructured data to structured data and vice versa",
+    "Voice Notes: Turn your ramblings into structured notes",
+    "AI Writing: A collection of prebuilt writing apps",
+    "Bulk PDFs to Spreadsheets rows: Converts PDFs to spreadsheet rows",
+    "Automation: Good-old-fashioned automations, with or without AI",
+    "When THIS then THAT: Automates tasks based on triggers and actions",
+    "AI-assisted Data Sync: Sync data across platforms with AI",
+    "Bulk emails from spreadsheet: Sends personalized emails from spreadsheets"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Business users",
+  "pricing": "Usage-based pricing",
+  "faqs": [
+    {
+      "question": "What are a Web Assistant, App, and Automation in Thunderbit?",
+      "answer": "Not provided in the text."
+    },
+    {
+      "question": "What is a step in Thunderbit?",
+      "answer": "A step is counted when an Action is executed."
+    },
+    {
+      "question": "What does Thunderbit not count as a step?",
+      "answer": "Thunderbit does not count triggers like make.com does. For example, a polling trigger such as 'When receive new email' is not counted as 1 step every 10 minutes. The condition and loop steps are not counted, but actions within are counted."
+    },
+    {
+      "question": "What happens if I run out of steps?",
+      "answer": "Not provided in the text."
+    },
+    {
+      "question": "What happens to unused steps at the end of the billing term?",
+      "answer": "Not provided in the text."
+    },
+    {
+      "question": "What if I want to upgrade my plan?",
+      "answer": "Not provided in the text."
+    },
+    {
+      "question": "What if I want to downgrade my plan?",
+      "answer": "Not provided in the text."
+    },
+    {
+      "question": "What if I decide to cancel my subscription?",
+      "answer": "Not provided in the text."
+    }
+  ],
+  "url": "https://thunderbit.com/"
+}

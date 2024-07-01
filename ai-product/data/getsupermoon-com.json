@@ -1,0 +1,46 @@
+{
+  "description": "Streamlined communication management for your business! Supermoon empowers you to deliver exceptional client support, build enduring customer relationships, and save time.",
+  "title": "E-Commerce & Customer Service Communication Management Software",
+  "introduction": "Supermoon is an AI-powered helpdesk platform designed to simplify customer support by integrating various communication channels like Gmail, Outlook, Instagram, and website chat into a single shared inbox. It aims to cut response times in half and enhance team collaboration with features like personalized AI, Smart Replies, and internal comments.",
+  "category": "Business",
+  "features": [
+    "Omnichannel inbox for Gmail, Outlook, Instagram, and website chat",
+    "Personalized AI for customized replies",
+    "Smart Replies to save time on customer messages",
+    "Internal comments for team collaboration",
+    "Ticketing system with tags, priority settings, and status changes",
+    "White-label live chat",
+    "AI Sentiment Detection",
+    "AI Message Summaries"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to streamline customer support and improve team collaboration",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How do I get the most out of my Supermoon team?",
+      "answer": "Start by connecting your Gmail or Outlook inbox in your settings. Personalize your AI by submitting your FAQ information and invite your teammates to collaborate in the shared inbox."
+    },
+    {
+      "question": "What’s the difference between the Gmail/Outlook integration and email forwarding?",
+      "answer": "Integrations allow you to connect your inbox in seconds, mirroring your Supermoon inbox. Forwarding is for aliases or distribution lists without unique login credentials."
+    },
+    {
+      "question": "When would I forward email as opposed to using the inbox integrations?",
+      "answer": "Forwarding is used when you cannot change your existing inbox from an alias or distribution list to an actual user account. Integrations are recommended for unique user accounts."
+    },
+    {
+      "question": "What are Smart Replies and how do they save my team time?",
+      "answer": "Smart Replies generate draft messages in seconds, saving time on every customer message."
+    },
+    {
+      "question": "How do I personalize my AI and what does that mean for me?",
+      "answer": "Customize your AI with your business information like return policy and business hours. The AI will use this info in Smart Reply drafts to save you more time."
+    },
+    {
+      "question": "What are the differences in the plans and what is recommended for my team?",
+      "answer": "The Free plan offers basic features with a limit of 5 teammates and 90 days of message history. The Starter plan includes unlimited teammates and personalized AI with a limit on Smart Replies. The Pro plan offers unlimited AI features and additional top-level features."
+    }
+  ],
+  "url": "https://getsupermoon.com/"
+}

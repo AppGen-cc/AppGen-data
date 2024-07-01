@@ -1,0 +1,43 @@
+{
+  "description": "Sully.ai is an all-in-one AI Medical Assistant designed to save doctors' time by helping them with time-consuming tasks performed before, during, and after patient visits.\n",
+  "title": "Sully.ai - The #1 all-in-one AI solution in saving doctors' time",
+  "introduction": "Sully.ai is an AI-driven solution designed to assist doctors by automating administrative tasks, thereby freeing up valuable time for patient care. It offers features like real-time decision support, medical note transcription, accurate diagnosis, and custom workflow automations.",
+  "category": "Life Assistant",
+  "features": [
+    "Screening: Receive the latest symptoms directly from patients.",
+    "Decision Support: Support decision-making in real-time.",
+    "Scribe: Turn conversations into medical notes seamlessly with AI.",
+    "Diagnosis: Assists doctors with creating an accurate diagnosis of symptoms.",
+    "Clinical Plan: Crafts a plan for the case once a diagnosis is generated.",
+    "Automations: Create custom automations to speed up any workflow.",
+    "Hyper Personalization: Personalized for each physician at scale.",
+    "Supports 19 languages: Multilingual support for diverse linguistic backgrounds.",
+    "HIPAA Compliant Infrastructure: 100% HIPAA compliant with industry-standard data encryption and secure storage."
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Doctors and healthcare professionals",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How does Sully.ai help doctors?",
+      "answer": "Sully.ai automates administrative tasks, supports real-time decision-making, transcribes medical notes, assists with accurate diagnosis, and creates custom workflow automations."
+    },
+    {
+      "question": "Is Sully.ai HIPAA compliant?",
+      "answer": "Yes, Sully.ai is 100% HIPAA compliant with industry-standard data encryption and secure storage."
+    },
+    {
+      "question": "What languages does Sully.ai support?",
+      "answer": "Sully.ai supports 19 languages, enabling effective communication with patients from diverse linguistic backgrounds."
+    },
+    {
+      "question": "How much time can Sully.ai save doctors daily?",
+      "answer": "Sully.ai can save doctors an average of 2.8 hours daily, one week after using the platform."
+    },
+    {
+      "question": "What kind of personalization does Sully.ai offer?",
+      "answer": "Sully.ai offers hyper personalization, allowing doctors to customize the AI through voice or natural language to tailor their entire environment."
+    }
+  ],
+  "url": "https://www.sully.ai/"
+}

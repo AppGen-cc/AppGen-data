@@ -1,0 +1,44 @@
+{
+  "description": "The universal editor that lets you work, play, present or create just about anything.",
+  "title": "AI | AFFiNE - All In One KnowledgeOS",
+  "introduction": "AFFiNE AI is a multimodal AI copilot designed to help users write, draw, and present better. It offers features like content creation, tone adjustment, image generation, and presentation creation, making it a versatile tool for various creative and professional tasks.",
+  "category": "Productivity",
+  "features": [
+    "Create quality content from sentences to articles",
+    "Rewrite content with professional tone and grammar correction",
+    "Visualize ideas into images and mind-maps",
+    "Generate ready-to-use presentations",
+    "Summarize content into structured mind-maps",
+    "Auto-sorting and auto-tagging (Coming soon)"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, professionals, students, and anyone needing assistance with writing, drawing, and presenting",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can AFFiNE AI be used in a local workspace?",
+      "answer": "Yes, AFFiNE AI can be used in a local workspace."
+    },
+    {
+      "question": "How to activate Inline AI assistant in Page Mode?",
+      "answer": "Instructions for activating the Inline AI assistant in Page Mode are provided in the user guide."
+    },
+    {
+      "question": "How to use AFFiNE AI in Edgeless Mode of a doc?",
+      "answer": "Instructions for using AFFiNE AI in Edgeless Mode of a document are provided in the user guide."
+    },
+    {
+      "question": "How does AFFiNE AI share my data?",
+      "answer": "AFFiNE AI ensures data privacy and ownership, and details are provided in the privacy policy."
+    },
+    {
+      "question": "Does AFFiNE AI have a free trial?",
+      "answer": "Yes, AFFiNE AI offers a free trial."
+    },
+    {
+      "question": "After purchasing the AFFiNE AI service, are there any limitations?",
+      "answer": "There are no specific limitations mentioned after purchasing the AFFiNE AI service."
+    }
+  ],
+  "url": "https://affine.pro/ai"
+}

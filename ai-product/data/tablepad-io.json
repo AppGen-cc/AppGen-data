@@ -1,0 +1,29 @@
+{
+  "description": "Upload, view, and query data. Get insights and make charts with AI. No code required.",
+  "title": "Tablepad - AI for Data AnalyticsSheets-icon",
+  "keywords": "ai, analysis, analytics, data, csv, json, arrow, parquet, google sheets",
+  "introduction": "TablePad is a platform that allows users to connect any data source, query in plain language, and extract actionable insights without requiring any coding skills.",
+  "category": "Business",
+  "features": [
+    "Connect any data source",
+    "Query in plain language",
+    "Extract actionable insights",
+    "No code required",
+    "Supports multiple data sources",
+    "Handles data sources up to 1GB"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals and businesses looking to analyze data without coding skills",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is a credit?",
+      "answer": "One credit is one query. Unused credits do not roll over."
+    },
+    {
+      "question": "What is the maximum size of data sources supported?",
+      "answer": "The Free plan supports data sources up to 2MB, while the Pro plan supports data sources up to 1GB."
+    }
+  ],
+  "url": "https://tablepad.io/"
+}

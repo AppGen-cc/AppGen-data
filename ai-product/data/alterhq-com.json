@@ -1,0 +1,48 @@
+{
+  "description": "Upgrade your Apple with AI-powered features, from Mail to Keynote and all your other macOS applications.",
+  "title": "Alter | AI for Apple power users",
+  "introduction": "Alter is an AI-driven tool designed to streamline your workload by connecting with various macOS apps. It offers instant AI-driven actions to manage emails, create pitch decks, handle social media, translate documents, fix grammar, get YouTube summaries, and more.",
+  "category": "Productivity",
+  "features": [
+    "About 100 GPT-4o messages or more with other providers: Groq, Claude, Together, Gemini",
+    "Act on text-selections",
+    "Act on files and folders from the Finder",
+    "Keynote AI actions to create and edit presentations",
+    "Smart views: markdown, magic diff, code",
+    "Answer Engine: search the web to answer your query and provides the links to fact-check",
+    "Image picker: generate AI images or search the web (coming soon)",
+    "Create your own context-aware AI actions",
+    "Support for OpenAI compatible endpoints",
+    "Full privacy with Ollama or LM Studio",
+    "Usage all-included, no need for your own API keys (Power User Plan)",
+    "500 credits per month to cover OpenAI, Groq, Claude, Together, Gemini and other external APIs costs (Power User Plan)",
+    "Perpetual license (Power User Plan)",
+    "Email Support (Power User Plan)"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "macOS users looking to streamline their workload with AI-driven actions",
+  "pricing": "Forever Free plan with optional $240/year Power User Plan",
+  "faqs": [
+    {
+      "question": "What is Alter?",
+      "answer": "Alter is an AI-driven tool designed to streamline your workload by connecting with various macOS apps. It offers instant AI-driven actions to manage emails, create pitch decks, handle social media, translate documents, fix grammar, get YouTube summaries, and more."
+    },
+    {
+      "question": "What are the features of the free plan?",
+      "answer": "The free plan includes about 100 GPT-4o messages or more with other providers, the ability to act on text-selections, files, and folders from the Finder, Keynote AI actions, smart views, an answer engine, an image picker (coming soon), and support for OpenAI compatible endpoints."
+    },
+    {
+      "question": "What additional features are included in the Power User Plan?",
+      "answer": "The Power User Plan includes everything in the free plan plus usage all-included without needing your own API keys, 500 credits per month to cover external API costs, a perpetual license, and email support."
+    },
+    {
+      "question": "How much does the Power User Plan cost?",
+      "answer": "The Power User Plan costs $240 per year and includes a perpetual fallback license."
+    },
+    {
+      "question": "Does Alter support privacy?",
+      "answer": "Yes, Alter offers full privacy with Ollama or LM Studio."
+    }
+  ],
+  "url": "https://alterhq.com/"
+}

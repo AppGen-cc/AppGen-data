@@ -1,0 +1,46 @@
+{
+  "description": "AI Art Studio & Editor: chat with pdf, writing, social media tools, audio notes, voice to text, travel guides, books, meals & legal. Elevate digital creativity & productivity.",
+  "title": "Beeyond AI - Your All-In-One AI Digital Assistant",
+  "introduction": "Beeyond AI is an all-in-one web app designed to enhance various aspects of your daily life. From personalized itineraries and insightful analysis of movies and books to symptom checking and meal planning, Beeyond AI is your ultimate lifestyle companion.",
+  "category": "Life Assistant",
+  "features": [
+    "AI Editor: Polish your texts with our editor that not only rectifies but refines. From translations to rephrasing, perfection is now a tap away.",
+    "Audio Notes: Translate your spoken thoughts into eloquent text. No more deciphering messy notes; clarity is our promise.",
+    "Art Studio: From restoring treasured memories in old photos to revamping your digital aesthetics, our studio stands ready to reimagine imagery.",
+    "Chat with PDF: Chat with pdf, tool that allows you to chat with any PDF: ask questions, get summaries, understand research, find anything you need!",
+    "Custom Character Bot: Create and train your own AI character bots for personalized interactions and unique experiences.",
+    "Writing: Empower your words with our array of writing tools. Whether it's a blog post, presentation, or email, Beeyond AI got your literary needs covered.",
+    "Social Media: Craft magnetic content across all social media platforms. From Instagram captions to YouTube scripts, become a social media sensation overnight.",
+    "Food & Nutrition: Navigate your culinary journey with meal plans, detailed food insights, nutrition tracking, and revolutionary recipe ideas.",
+    "Travel: Travel smart with AI-generated itineraries. Dive deep into destinations with histories and intriguing facts at your fingertips.",
+    "Books & Movies: Unveil a books and movies essence, extract summaries, or engage in literary discussions with an AI that understands every page and plot.",
+    "Legal: Navigate legal waters with ease. From policy drafts to contract creations, legal lexicon has never been this accessible.",
+    "Productivity: Maximize your efficiency with tools ranging from personal AI coaches to flashcard generators. Even chat with the internet and youtube video!"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, professionals, enthusiasts, and anyone looking to enhance productivity and streamline tasks.",
+  "pricing": "Subscription-based with a 30-day free trial. Annual plan at $10/month and Monthly plan at $16/month.",
+  "faqs": [
+    {
+      "question": "What is Beeyond AI?",
+      "answer": "Beeyond AI is an all-in-one web app designed to enhance various aspects of your daily life. From personalized itineraries and insightful analysis of movies and books to symptom checking and meal planning, Beeyond AI is your ultimate lifestyle companion."
+    },
+    {
+      "question": "How often are new features and updates added to Beeyond AI?",
+      "answer": "We continuously work on improving Beeyond AI and adding new features to provide a better user experience. While there isnt a fixed schedule for updates, we recommend following our user dashboard to stay informed about new features and improvements."
+    },
+    {
+      "question": "Are there any restrictions on the content I can save and organize in Beeyond AI?",
+      "answer": "Beeyond AI aims to provide a safe and respectful environment for all users. We ask that you do not save, share, or promote any content that is illegal, harmful, or offensive. Please refer to our Terms & Conditions for more information on acceptable use."
+    },
+    {
+      "question": "How do I sign up for Beeyond AI?",
+      "answer": "To sign up, visit www.beeyondai.com and click on the Sign Up button. Follow the prompts to create your account by providing your name, email address, and creating a password."
+    },
+    {
+      "question": "Can I suggest new features or improvements for Beeyond AI?",
+      "answer": "Absolutely! We appreciate user feedback and encourage you to share your suggestions by contacting us at contact@beeyondai.com"
+    }
+  ],
+  "url": "https://www.beeyondai.com/"
+}

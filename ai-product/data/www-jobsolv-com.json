@@ -1,0 +1,68 @@
+{
+  "description": "All-In-One Platform. Jobsolv matches you with $100K+ remote positions, tailors your resume, and auto-apply with a single click — accelerate your search today!",
+  "title": "Jobsolv: Automated Job Search, Resume and Auto-Apply with AI",
+  "introduction": "Jobsolv is an all-in-one solution for job hunting, offering a personalized AI-smart job board that simplifies the application process. It allows users to efficiently apply to multiple jobs by tailoring their resume for each position and auto-applying with just a few clicks.",
+  "category": "Life Assistant",
+  "features": [
+    "Personalized AI-smart job board",
+    "Automatic resume tailoring",
+    "Auto-apply feature",
+    "Exclusive $100K+ remote job listings",
+    "Credit system for flexible service usage",
+    "Jobsolv Signature Service with 30-day interview guarantee",
+    "Career manager for personalized career guidance",
+    "Filtering job searches by salary",
+    "Referral program",
+    "Data privacy and security"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Experienced professionals targeting six-figure remote positions, early-career professionals aiming for a significant salary jump, and recent graduates looking for roles with salaries over $70K.",
+  "pricing": "Credit system, subscription plans, one-time payment for premium services",
+  "faqs": [
+    {
+      "question": "How does the credit system work?",
+      "answer": "Each resume tailoring and job application requires 1 credit each. Applying for a job with a customized resume costs 2 credits in total."
+    },
+    {
+      "question": "What distinguishes Jobsolv Smart Job Board from Jobsolv Signature Service?",
+      "answer": "Jobsolv Smart Job Board caters to individuals seeking $100K+ remote and hybrid roles, offering automated resume customization and application submission. Jobsolv Signature is a premium, fully managed service that provides expertly crafted resumes, a 30-day interview guarantee, and a career manager for personalized career guidance."
+    },
+    {
+      "question": "Who can benefit from using Jobsolv?",
+      "answer": "Jobsolv is ideal for experienced professionals targeting six-figure remote positions, early-career professionals aiming for a significant salary jump, and recent graduates looking to enter the job market in roles with salaries over $70K."
+    },
+    {
+      "question": "How many job applications can I submit with Jobsolv?",
+      "answer": "The number of applications you can submit depends on your credit balance or the terms of your chosen plan. Each application with a tailored resume and auto-apply consumes 2 credits."
+    },
+    {
+      "question": "Does Jobsolv support remote job searches?",
+      "answer": "Yes, Jobsolv specializes in connecting you with high-paying remote opportunities, ensuring you find a job that not only meets your salary expectations but also offers the flexibility of working from anywhere."
+    },
+    {
+      "question": "What is the 30-day interview guarantee?",
+      "answer": "The 30-day interview guarantee is ONLY available for our Jobsolv Signature service. We guarantee you'll secure an interview within 30 days. If not, we will continue to provide our services at no additional charge until you do."
+    },
+    {
+      "question": "Can I filter job searches by salary?",
+      "answer": "Yes, we specialize in remote and hybrid jobs, paying over $100K. You can filter our job board with the salary range that you are interested in."
+    },
+    {
+      "question": "Is there a referral program?",
+      "answer": "Yes, our referral program benefits both you and your friends. When you refer someone, they receive a discount on their first month, and you earn a cash reward as our thank you."
+    },
+    {
+      "question": "How can I update my preferences or resume?",
+      "answer": "You can update your job preferences, resume, and other details anytime through your account settings. For assistance, reach out to us via email at support@jobsolv.com, and we'll be happy to assist you."
+    },
+    {
+      "question": "How does Jobsolv use my data?",
+      "answer": "Your privacy is our top priority. We do not sell your data and use it solely to assist in your job search. We're committed to keeping your information secure and using it only to help you land your dream job."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "You can cancel your subscription easily through your account settings. We partner with Stripe for easy cancellation, and also offer options to pause or change your plan to suit your needs better."
+    }
+  ],
+  "url": "https://www.jobsolv.com/"
+}

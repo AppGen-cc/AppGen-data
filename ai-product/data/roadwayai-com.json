@@ -1,0 +1,32 @@
+{
+  "description": "The first analytics and automation platform purpose-built for growth marketing teams to unlock faster and more efficient revenue growth.",
+  "title": "Roadway | Growth Marketing Analytics & Automation Platform",
+  "introduction": "Roadway is an analytics and automation platform designed for growth marketing, offering personalized insights and automation to help businesses scale revenue faster and more efficiently. It focuses on metrics, growth levers, and self-serve analytics to drive data-driven decisions.",
+  "category": "Business",
+  "features": [
+    "Personalized Growth Marketing Copilot for analysis and insight automation",
+    "Growth-focused insights with automated metric and funnel analysis",
+    "Suggestions for action tailored to business and growth channels",
+    "Automatic modeling for key metrics and attribution logic",
+    "Self-serve access to source-of-truth metrics with warehouse-native analytics",
+    "Simple workspace for creating dashboards and reports"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Businesses looking to accelerate revenue growth through data-driven marketing strategies",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What is Roadway AI?",
+      "answer": "Roadway AI is an analytics and automation platform designed for growth marketing, offering personalized insights and automation to help businesses scale revenue faster and more efficiently."
+    },
+    {
+      "question": "What are the key features of Roadway AI?",
+      "answer": "Roadway AI offers personalized growth marketing copilot, growth-focused insights, automatic modeling for key metrics, self-serve access to source-of-truth metrics, and a simple workspace for creating dashboards and reports."
+    },
+    {
+      "question": "How can Roadway AI help businesses?",
+      "answer": "Roadway AI helps businesses focus on important metrics and growth levers, automate data analysis and insight processes, and make data-driven decisions faster through self-serve analytics."
+    }
+  ],
+  "url": "https://roadwayai.com/"
+}

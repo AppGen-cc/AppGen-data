@@ -1,0 +1,41 @@
+{
+  "description": "Uncensored AI role-play chat with your favorite AI characters, celebrities, or original creations. Go on adventures and let your imagination run wild.",
+  "title": "AI Role-Play Chat | Uncensored | DreamGen",
+  "keywords": "ai role-play,ai characters,ai character chat,nsfw role-play,uncensored role-play,character.ai,novelai,aidungeon",
+  "introduction": "Immerse yourself in other worlds with DreamGen. Pick an existing scenario or create your own using our intuitive scenario editor. Enjoy unparalleled role-playing experience with unrestricted creative freedom, extensive world-building capabilities, and the ability to steer the role-play as it unfolds.",
+  "category": "Life Assistant",
+  "features": [
+    "Intuitive scenario editor",
+    "Unrestricted creative freedom",
+    "Extensive world-building capabilities",
+    "Ability to create unique scenarios with multiple characters",
+    "Control over plot direction",
+    "Friendly community with over 100,000 stories and role-plays"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Role-playing enthusiasts, creative writers, and storytellers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is the cost of the Starter plan?",
+      "answer": "The Starter plan costs $7.83 per month, but is currently offered at 50% off for the first month, making it $3.92."
+    },
+    {
+      "question": "What do I get with the Advanced plan?",
+      "answer": "The Advanced plan includes access to all current models, 1500 monthly completion credits, 50 extra daily credits, up to 8000 tokens context window, and unlimited access to small and large models."
+    },
+    {
+      "question": "How are model credits charged?",
+      "answer": "Every interaction with a text-based model is charged completion credits based on the amount of input and output tokens. A token corresponds to roughly 4 characters."
+    },
+    {
+      "question": "What is the context window for models?",
+      "answer": "All models have a limit of 4000 tokens (input + output) unless otherwise specified. Advanced and Pro users have higher limits for certain models."
+    },
+    {
+      "question": "Is there a free tier available?",
+      "answer": "Yes, you can try all of our models and features for free with our generous free tier."
+    }
+  ],
+  "url": "https://dreamgen.com/role-playing"
+}

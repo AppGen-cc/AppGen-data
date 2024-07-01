@@ -1,0 +1,52 @@
+{
+  "description": "Deepwander is an AI-powered introspection tool designed to enhance self-awareness and aid users in aligning closely with their core values and aspirations.",
+  "title": "Deepwander: Interactive Self-Exploration",
+  "introduction": "Deepwander is your AI-powered companion for personal growth. Through interactive reflection, it helps you understand yourself on a deeper level and navigate life's challenges with greater clarity.",
+  "category": "Life Assistant",
+  "features": [
+    "AI-powered interactive reflection",
+    "Dynamic exchange to delve into unexplored areas",
+    "Uses Cognitive Behavioral Techniques, Motivational Interviewing, Narrative Therapy, and Guided Visualization",
+    "Transforms dialogue into a structured, first-person narrative",
+    "Evaluates narrative using psychological theories",
+    "Provides nuanced analysis and thought-starters for further exploration"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals seeking personal growth and deeper self-understanding",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is my data secure and private when I use Deepwander?",
+      "answer": "Yes, your privacy is a priority. You have full control over your data, and it is never read or used for training. The subscription-based model ensures your data is not sold."
+    },
+    {
+      "question": "How is Deepwander different from keeping a journal or reflecting on my own?",
+      "answer": "Deepwander uses AI to engage you in a dynamic exchange, providing probing questions and psychological techniques that go beyond surface-level reflection."
+    },
+    {
+      "question": "Is Deepwander a substitute for therapy?",
+      "answer": "No, Deepwander is not a substitute for therapy but can be a complementary tool for personal growth and self-understanding."
+    },
+    {
+      "question": "How does Deepwander's AI promote exploration without imposing its agenda or answers?",
+      "answer": "The AI evaluates your narrative and provides thought-starters and focal points for further exploration, without prescribing a 'right' way."
+    },
+    {
+      "question": "Can I export or download my introspection sessions?",
+      "answer": "Yes, you can export or download your introspection sessions."
+    },
+    {
+      "question": "How often should I use Deepwander for best results?",
+      "answer": "Using Deepwander once a week is recommended for organizing and summarizing your thoughts and emotions."
+    },
+    {
+      "question": "Can I access Deepwander on my phone?",
+      "answer": "Yes, Deepwander can be accessed on your phone."
+    },
+    {
+      "question": "What if I have more questions or need support?",
+      "answer": "You can contact Deepwander's support team for any additional questions or support needs."
+    }
+  ],
+  "url": "https://www.deepwander.com/"
+}

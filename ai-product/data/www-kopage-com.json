@@ -1,0 +1,56 @@
+{
+  "description": "",
+  "title": "The White-Label AI Website Builder",
+  "keywords": "",
+  "introduction": "Kopage Website Studio is an easy-to-use, cloud-based website building platform that includes cloud web hosting. It allows users to create websites quickly with the help of AI, offering a range of features such as SEO tools, e-commerce, blogs, and more.",
+  "category": "Design&Art",
+  "features": [
+    "AI-powered website creation",
+    "SEO-ready",
+    "Multi-level menu structure",
+    "Content built with blocks",
+    "Mobile friendly",
+    "Eye-catching design",
+    "Landing pages",
+    "Private spaces",
+    "Custom code",
+    "Track & analyze",
+    "Manage access",
+    "Contact forms",
+    "Location map",
+    "Photo galleries",
+    "Sliders",
+    "E-commerce",
+    "Blog"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals, agencies, and enterprises looking to build websites quickly and efficiently",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Kopage?",
+      "answer": "Kopage Website Studio is an easy-to-use, cloud-based website building platform (cloud web hosting included)."
+    },
+    {
+      "question": "Is there a trial version available?",
+      "answer": "Yes, you can get started for free, each new site comes with a 14-day free trial so you can try it out."
+    },
+    {
+      "question": "What is a White-Label plan?",
+      "answer": "Once you sign up for a white label, Agency Plan, you can build websites for your clients, but each website will have your logo and colors. Your sites are hosted in a separate cloud instance from other sites."
+    },
+    {
+      "question": "What are the White-Label limitations?",
+      "answer": "Kopage's Agency Plan comes with an included 5 website limit, but you can create as many websites as you'll ever need: each website over the included limit is only $5/month."
+    },
+    {
+      "question": "Can I host White-Label websites myself?",
+      "answer": "Yes, sometimes your clients already have a hosting account and prefer to keep their website there: with Kopage's Agency Plan, you can not only keep websites in our cloud, but also self-host websites on the client's own server."
+    },
+    {
+      "question": "Can I use my own domains?",
+      "answer": "Yes, with the white label plan, each new website will have a technical address in your domain, such as client.your-domain.com, but you can link any domain or even register new domains with us."
+    }
+  ],
+  "url": "https://www.kopage.com/"
+}

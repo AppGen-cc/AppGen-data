@@ -1,0 +1,31 @@
+{
+  "description": "Generate 3D animations from video in seconds through any web browser. AI powered motion capture and real time body tracking that's easy to use.",
+  "title": "DeepMotion - AI Motion Capture & Body Tracking",
+  "introduction": "Animate 3D is an animation platform that allows users to create 3D animations from videos using AI technology. Users can earn Animation Labeling Credits and Animation Correction Credits by following specific steps and guidelines. The platform offers a Free Animation Credit Program where users can earn credits for animation tasks.",
+  "features": [
+    "Create 3D animations from videos",
+    "Earn Animation Labeling Credits and Animation Correction Credits",
+    "Custom characters creation",
+    "Support for MP4, MOV, and AVI input videos",
+    "Face tracking and hand tracking features"
+  ],
+  "pricing": "Subscription-based with monthly credit resets and different plan options available",
+  "faqs": [
+    {
+      "question": "How do I earn Animation Labeling Credits and Animation Correction Credits?",
+      "answer": "To earn Animation Labeling Credits, users need to provide detailed descriptions of motion in videos following guidelines. Animation Correction Credits can be earned by correcting animations in the Rotoscope Pose Editor."
+    },
+    {
+      "question": "Can I upgrade my subscription plan at any time?",
+      "answer": "Yes, users can upgrade their subscription plan at any time through their account profile or the Animate 3D portal."
+    },
+    {
+      "question": "What type of jobs can I earn animation credits from?",
+      "answer": "Users can earn credits from any type of job in Animate 3D, including pose, single-person motion capture, and multi-person motion capture."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in creating 3D animations",
+  "url": "https://www.deepmotion.com/"
+}

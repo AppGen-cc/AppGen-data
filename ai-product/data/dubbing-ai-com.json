@@ -1,0 +1,44 @@
+{
+  "description": "Free AI Voice Changer with 1000+ distinct AI voices in 100+ languages. Dubbing AI enables everyone to speak in any voice everywhere real-time.",
+  "title": "Free Real Time AI Voice Changer for PC & Mac",
+  "keywords": "Dubbing AI, AI voice changer, voice changer, AI voice, Dubbing",
+  "introduction": "Dubbing is a real-time AI voice changer designed for gamers, streamers, and content creators. It converts any voice into quality, cloned voices in less than 300 milliseconds, offering realistic-sounding voiceovers across different ages, languages, and accents.",
+  "category": "Voice",
+  "features": [
+    "Real-time voice conversion in less than 300 milliseconds",
+    "Over 1000 tones of voice free to use with weekly updates",
+    "Low CPU usage (2-3%) and minimal memory storage (300M)",
+    "Compatible with PC, mobile platforms (Windows, Mac, Android, iOS), and VR/AR",
+    "Supports SDK and API services",
+    "Compatible with all major games and programs",
+    "Offers voice filters for online social platforms",
+    "Generates extremely emotional voice expressions",
+    "Ensures data security by processing on the user's device"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Gamers, streamers, and content creators",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What makes Dubbing stand out among other AI voice generators?",
+      "answer": "Dubbing offers real-time voice conversion in less than 300 milliseconds, with over 1000 tones of voice free to use and weekly updates. It also has low CPU usage and minimal memory storage requirements."
+    },
+    {
+      "question": "Is Dubbing compatible with my device?",
+      "answer": "Yes, Dubbing is compatible with PC, mobile platforms (Windows, Mac, Android, iOS), and VR/AR. It also supports SDK and API services."
+    },
+    {
+      "question": "Can I use Dubbing with my favorite games and programs?",
+      "answer": "Yes, Dubbing is compatible with all major games and programs such as CS:GO, Minecraft, Rust, LoL, Valheim, Fortnite, Rocket League, Valorant, Among Us, Steam, Discord, Skype, and TeamSpeak."
+    },
+    {
+      "question": "How does Dubbing ensure data security?",
+      "answer": "All voice generation processes are completed on the user's device, requiring only 2-3% of the CPU. External servers are not involved, ensuring no data leakage."
+    },
+    {
+      "question": "Does Dubbing use GPU for AI voice generation?",
+      "answer": "No, Dubbing uses 0% of the GPU for AI voice generation, preventing GPU abuse."
+    }
+  ],
+  "url": "https://dubbing-ai.com/"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Your end-to-end AI art studio, all in the cloud.",
+  "title": "AI Art Studio: Flush AI",
+  "introduction": "Ultimate Customizability allows users to create multimodal workflows in minutes by accessing and chaining AI image models with other generative AI models, all in one place.",
+  "category": "Productivity",
+  "features": [
+    "Access and chain AI image models with other generative AI models",
+    "Instantiate models like GPT-4, Stable Diffusion XL, and RealESRGAN",
+    "Construct prompt templates",
+    "Build and run end-to-end workflows"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Developers and AI enthusiasts",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What models can be accessed for language tasks?",
+      "answer": "GPT-4, GPT-3.5-Turbo, and Claude."
+    },
+    {
+      "question": "What image models are available?",
+      "answer": "Stable Diffusion XL, Realistic Vision, Anything, DALLE-3, and more."
+    }
+  ],
+  "url": "https://www.flushai.cloud/"
+}

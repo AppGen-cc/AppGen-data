@@ -1,0 +1,38 @@
+{
+  "description": "Mubert - The new royalty-free music ecosystem for content creators, brands and developers 🔥 Come See How Our High-Quality Music Can Elevate Your Content ⏩",
+  "title": "Mubert - Thousands of Staff-Picked Royalty-Free Music Tracks for Streaming, Videos, Podcasts, Commercial Use and Online Content",
+  "introduction": "Mubert is an AI music generator platform that offers different products for content creators, artists, developers, and listeners. It uses Artificial Intelligence to instantly generate royalty-free AI music tailored to the content's purpose.",
+  "category": "AI Detector",
+  "features": [
+    "Generate AI soundtrack for video content, podcasts, and apps",
+    "Earn money by contributing samples and loops",
+    "Get original AI music for products",
+    "Find AI tunes for any moment"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, artists, developers, and listeners",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Why are we different from competitors?",
+      "answer": "Mubert uses AI to generate royalty-free AI music instantly, flawlessly suited to the content's purpose, with millions of samples from hundreds of artists."
+    },
+    {
+      "question": "How to remove the watermark?",
+      "answer": "The generated tracks are royalty-free and do not have watermarks."
+    },
+    {
+      "question": "What is the difference between the generation modes? (track/jingle/loop/mix)",
+      "answer": "The different generation modes allow users to create tracks, jingles, loops, or mixes based on their needs."
+    },
+    {
+      "question": "How many tracks can I generate?",
+      "answer": "Users can generate an unlimited number of tracks based on their subscription plan."
+    },
+    {
+      "question": "Do I own the rights to music created with Mubert?",
+      "answer": "Yes, users own the rights to the music created with Mubert."
+    }
+  ],
+  "url": "https://mubert.com/"
+}

@@ -1,0 +1,48 @@
+{
+  "description": "Your Content, Planned, Analyzed & Supercharged.",
+  "title": "Postlyy: Your Content, Planned, Analyzed & Supercharged.",
+  "keywords": "postlyy,post,content,planned,analyzed,supercharged,social,media,marketing,instagram,facebook,twitter,linkedin",
+  "introduction": "Postlyy is an all-in-one platform designed to help content creators and businesses create, schedule, and analyze content on X (Twitter) and LinkedIn. It offers intuitive creation tools, streamlined scheduling, and deep analytics to maximize creative potential and efficiency.",
+  "category": "Marketing",
+  "features": [
+    "Schedule X (Twitter) / LinkedIn Posts",
+    "Create Recurring & Evergreen LinkedIn & Twitter Posts",
+    "Calendar Management",
+    "Custom Dashboard and Content Analytics",
+    "Complimentary Manager Overview with 5+ seats",
+    "Text to Image Converter (Pro and Expert plans)",
+    "AI Content Generation (Expert plan)",
+    "Tailored Analytics",
+    "Comparative Analysis",
+    "Real-Time Data",
+    "Quick Stats",
+    "Interactive Graphs",
+    "Team Collaboration"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Content creators, businesses, and enterprises looking to manage and analyze their social media content efficiently.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is included in the Basic plan?",
+      "answer": "The Basic plan includes scheduling X (Twitter) and LinkedIn posts, creating recurring and evergreen posts, calendar management, custom dashboard and content analytics, and a complimentary manager overview with 5+ seats."
+    },
+    {
+      "question": "What additional features are available in the Pro plan?",
+      "answer": "The Pro plan includes all features of the Basic plan plus a text to image converter."
+    },
+    {
+      "question": "What additional features are available in the Expert plan?",
+      "answer": "The Expert plan includes all features of the Pro plan plus AI content generation."
+    },
+    {
+      "question": "How does the complimentary manager seat work?",
+      "answer": "For every 5 seats, you get 1 free complimentary manager seat. Additional manager seats can be purchased at $29.99 a month."
+    },
+    {
+      "question": "How does the subscription renewal work?",
+      "answer": "Subscriptions renew automatically at the end of each billing cycle unless duly terminated, at which point the credit card on your account will be charged."
+    }
+  ],
+  "url": "https://postlyy.com/"
+}

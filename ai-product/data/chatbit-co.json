@@ -1,0 +1,40 @@
+{
+  "description": "Custom AI chatbots trained on your data. Integrate into your website to increase customer engagement and capture leads. Start Today!",
+  "title": "Chatbit – AI Chatbots for Your Website",
+  "introduction": "Chatbit is an AI chatbot solution designed to boost engagement, answer questions, and capture leads on your website. It allows you to create a bot, add custom data sources, and share it on your website in under 5 minutes.",
+  "category": "Chatbot",
+  "features": [
+    "Add custom data sources with up to 11 million characters of context",
+    "Customize chatbot appearance including colors, position, logo, and name",
+    "Define chatbot personality and style",
+    "Capture leads from visitors who interact with the chatbot",
+    "Supports multiple languages",
+    "Option to fine-tune responses"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to enhance website engagement and lead generation through AI chatbots",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Chatbit?",
+      "answer": "Chatbit is an AI chatbot solution designed to boost engagement, answer questions, and capture leads on your website."
+    },
+    {
+      "question": "In what format can I upload the data?",
+      "answer": "You can upload files or provide text to add custom data sources."
+    },
+    {
+      "question": "Can I fine-tune the responses?",
+      "answer": "Yes, you can fine-tune the responses to better match your business needs."
+    },
+    {
+      "question": "Which languages are supported?",
+      "answer": "Multiple languages are supported."
+    },
+    {
+      "question": "Is there a free version?",
+      "answer": "Yes, there is a free version available."
+    }
+  ],
+  "url": "https://chatbit.co/"
+}

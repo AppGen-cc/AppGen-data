@@ -1,0 +1,43 @@
+{
+  "description": "Discover Summify.io, your one-click solution to summarize or transcribe videos, audio notes, youtube videos, podcasts. Leverage the power of AI to help you better save time and get more things done.",
+  "title": "Summify - AI Video / Audio Transcriber & Summarizer ",
+  "keywords": "Summify.io,One-click solution,Summarize YouTube videos,AI tool,Learning experience,Video summarizer,Efficient learning,Educational tool,Video analysis,Summarize podcasts,audio transcript,video to text,audio to text,audio to text ai,video tot text ai,podcast to text,podcast to blog,youtube video,lex fridman podcast,audio and video,ai powered,key takeaways,video summaries,ai generated podcast,favorite podcasts,summarize youtube,key points,chrome extension,podcast content,ai tool,summarizer tools,free trial,podcast episodes",
+  "introduction": "Summify is a tool designed to save time by summarizing videos and audios, making it easier to digest content quickly. It is particularly useful for content creators, bloggers, students, digital marketers, journalists, and researchers.",
+  "category": "Video",
+  "features": [
+    "Transcribe and summarize videos in seconds",
+    "Export summary in PDF/Markdown",
+    "Supports 130+ languages translation",
+    "Priority access to new features",
+    "Detailed summary with timestamps",
+    "AI Question/Answer generation",
+    "Multi-language summary",
+    "Summary export in various formats (PDF, Text, etc.)"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, bloggers, students, digital marketers, journalists, researchers, and anyone looking to learn better",
+  "pricing": "One-time payment, subscription",
+  "faqs": [
+    {
+      "question": "What is Summify?",
+      "answer": "Summify is a tool that transcribes and summarizes videos and audios, making it easier to digest content quickly."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free plan available with no credit card needed."
+    },
+    {
+      "question": "What are the pricing options?",
+      "answer": "Summify offers a one-time payment option for lifetime access and subscription plans for personal and business use."
+    },
+    {
+      "question": "Who can benefit from using Summify?",
+      "answer": "Content creators, bloggers, students, digital marketers, journalists, researchers, and anyone looking to learn better can benefit from using Summify."
+    },
+    {
+      "question": "What features are included in Summify?",
+      "answer": "Features include video/audio transcription, detailed summaries with timestamps, AI question/answer generation, multi-language support, and summary export in various formats."
+    }
+  ],
+  "url": "https://summify.io/"
+}

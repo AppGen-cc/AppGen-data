@@ -1,0 +1,28 @@
+{
+  "description": "Get super realistic whole-body images. Use them wherever you want and don't worry about legal stuff.",
+  "title": "Generated Humans | Generated.photos",
+  "introduction": "Browse pre-made faces and create new ones with customizable features. Generate full-body human photos with rich customization options. Get high-quality datasets to train your AI with diverse people photos. Access Generated Photos and Anonymizer programmatically through API access. Generate super realistic whole-body images of humans that don't exist.",
+  "category": "Image",
+  "features": [
+    "Browse pre-made faces",
+    "Create new faces with customizable features",
+    "Generate full-body human photos with rich customization options",
+    "Access high-quality datasets for AI training",
+    "API access for programmatically accessing Generated Photos and Anonymizer",
+    "Generate super realistic whole-body images of humans that don't exist"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "AI developers, Game developers, Researchers, Artists",
+  "pricing": "$199/year after trial ends. No refunds if trial is not canceled",
+  "faqs": [
+    {
+      "question": "Are the photos free for commercial use?",
+      "answer": "No, photos are free for non-commercial use with link attribution back to generated.photos."
+    },
+    {
+      "question": "What is included in the API pricing?",
+      "answer": "The API pricing includes access to Generated Photos and Anonymizer programmatically."
+    }
+  ],
+  "url": "https://generated.photos/humans"
+}

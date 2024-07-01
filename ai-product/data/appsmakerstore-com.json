@@ -1,0 +1,39 @@
+{
+  "description": "Appsmakerstore is a software company specialising in App making for the business mobile market. Appsmakerstore helping you to communicate mobile. Its never been more easy to create and share you own mobile application. Complete the information about your company and gat your app done.",
+  "title": "Apps - Make Your Own App from Appsmakerstore!",
+  "keywords": "app builder, make app, make apps, online app builder, appmaker, apps maker, app maker, create a application, build an app, phone app, store Iphone App, app store application, make your own app, make your own app without coding, build your own app, make an app, make your own apps, make a app, make a app online no coding, create your own app, build your own apps, apps builder, app creator, making your own app, online app creator, online app maker, create your own apps, Make my own Iphone App, Iphone App maker, CMS systems for Iphone App, How to make Iphone App, Lage Iphone App, Make Iphone business App, Create Iphone App, apps to buy, Iphone App generator, creating your own app, apps im, app store, design your own app",
+  "introduction": "Appsmakerstore, founded in early 2010, is a leader in innovative, AI-driven mobile app development services targeted at the general public. With its 100% No-Code SaaS service, Appsmakerstore assists businesses and organizations in creating mobile apps without any technical background. The service supports entrepreneurship, economic growth, industrial innovation, and reducing inequality in line with the UN's Sustainable Development Goals.",
+  "category": "Code&IT",
+  "features": [
+    "Nearly 100 ready-made templates for various industries",
+    "Instant live auto-update for published apps",
+    "No hidden costs, covers all technical upgrades and hosting",
+    "Gadgets for specific industry needs like reservations, orders, push notifications, loyalty stamps",
+    "Live preview of app during development",
+    "Publishing support for Apple and Google Play stores",
+    "QR Code for easy app download",
+    "Supports multiple payment gateways like PayPal, Authorize.net, and ePay"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Businesses and organizations looking to create mobile apps without technical expertise",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is a mobile application (App) and why are they good for businesses?",
+      "answer": "A Mobile App helps businesses connect with their customers using smartphones and tablets, increasing sales and marketing effectiveness."
+    },
+    {
+      "question": "What can Apps from Appsmakerstore do?",
+      "answer": "Appsmakerstore offers nearly 100 ready-made templates for different industries, each with relevant functions called Gadgets. Apps can be easily updated and published on Apple and Google Play stores."
+    },
+    {
+      "question": "What are some of the Gadgets available?",
+      "answer": "Gadgets include POI Push, Shopping, Booking, About us, Information, Employee, Events, Form Editor, Loyalty, Go to web, Radio, IFrame, Twitter, Facebook, Youtube, Mail List, Live Chat, Podcasts, Blog, Share, Flickr, Reviews, RSS, Weather, Photo, SponsApp, QR code, and Google Adsense."
+    },
+    {
+      "question": "What payment gateways are supported?",
+      "answer": "Appsmakerstore supports PayPal, Authorize.net, and ePay for receiving payments from customers."
+    }
+  ],
+  "url": "https://appsmakerstore.com/"
+}

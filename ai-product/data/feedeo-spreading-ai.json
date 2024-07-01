@@ -1,0 +1,50 @@
+{
+  "description": "Boost engagement and sales with Feedeo's interactive video powered by AI avatars.",
+  "title": "Feedeo - AI Interactive Video Generator",
+  "introduction": "Feedeo is a platform that allows users to create and publish interactive videos in five easy steps. It aims to enhance user engagement and feedback collection through AI-generated videos featuring digital avatars.",
+  "category": "Video",
+  "features": [
+    "Embed clickable video intros starring AI avatars",
+    "Rapidly collect user data and feedback via integrated interactive videos",
+    "Get real-time data on your most engaging content",
+    "Drive visitors straight to your top links",
+    "Interactive video editor",
+    "6 pre-set AI avatar options",
+    "10+ templates",
+    "Share videos by link to email, SMS, social medias",
+    "Responses history",
+    "Customizable AI avatar by uploading photo",
+    "Advanced components",
+    "Share videos on site through iframe and bubble widget",
+    "Customizable AI avatar through video of a real person",
+    "Remove Feedeo logo",
+    "Custom domain",
+    "Custom meta data tags"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses, marketers, educators, recruiters, and e-commerce platforms looking to enhance engagement and feedback through interactive videos.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a 14-day free trial available."
+    },
+    {
+      "question": "What is included in the free plan?",
+      "answer": "The free plan includes 50 responses/month, 3 publishes lifetime, 3 video steps/project, interactive video editor, 6 pre-set AI avatar options, 10+ templates, share videos by link to email, SMS, social medias, and responses history."
+    },
+    {
+      "question": "What are the features of the Starter plan?",
+      "answer": "The Starter plan includes 500 responses/month, 5 publishes/month, 10 video steps/project, all free features, customizable AI avatar by uploading photo, advanced components, and share videos on site through iframe and bubble widget."
+    },
+    {
+      "question": "What are the features of the Contact Us plan?",
+      "answer": "The Contact Us plan includes 5,000 responses/month, 20 publishes/month, unlimited steps, all Starter features, customizable AI avatar through video of a real person, remove Feedeo logo, custom domain, and custom meta data tags."
+    },
+    {
+      "question": "Who can benefit from using Feedeo?",
+      "answer": "Businesses, marketers, educators, recruiters, and e-commerce platforms looking to enhance engagement and feedback through interactive videos can benefit from using Feedeo."
+    }
+  ],
+  "url": "https://feedeo.spreading.ai/"
+}

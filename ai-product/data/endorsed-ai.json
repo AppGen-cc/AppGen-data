@@ -1,0 +1,27 @@
+{
+  "description": "Endorsed is an AI recruiting assistant that connects to your ATS. Use it to get back 30 hours for every 1,000 job applications you receive.",
+  "title": "The fastest way to diligently review job applicants | Endorsed",
+  "introduction": "Endorsed is an AI recruiting assistant that helps in supercharging the hiring process by providing superpowers to the team. The team behind Endorsed consists of engineering alums of LinkedIn, Apple, and Y Combinator with deep recruiting experience.",
+  "features": [
+    "AI recruiting assistant",
+    "Private Slack + email support",
+    "Crunchbase profile import",
+    "Automated resume extraction and ranking",
+    "Candidate selection and ranking system"
+  ],
+  "pricing": "Endorsed offers two pricing plans: Standard and Enriched. The Standard plan includes team superpowers and private Slack + email support, while the Enriched plan offers additional features like Crunchbase profile import and access to other sources upon request.",
+  "faqs": [
+    {
+      "question": "What is Endorsed?",
+      "answer": "Endorsed is an AI recruiting assistant that helps in supercharging the hiring process by providing superpowers to the team."
+    },
+    {
+      "question": "What features are included in the pricing plans?",
+      "answer": "The Standard plan includes team superpowers and private Slack + email support, while the Enriched plan offers additional features like Crunchbase profile import and access to other sources upon request."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "No",
+  "targetPeople": "Recruiters and hiring teams",
+  "url": "https://endorsed.ai/"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Find Harmonized System (HS) Code: How to find a HS Code - Xtransfer",
+  "introduction": "XTransfer is an all-in-one business account that covers 15+ currencies and 200+ countries/regions. It allows users to create and maintain their accounts, hold multiple currencies, add/receive money, and transfer funds securely and cost-effectively. The platform also provides information on Harmonized System (HS) Codes and their impact on international trade.",
+  "category": "Business",
+  "features": [
+    "Support for 15+ currencies and 200+ countries/regions",
+    "Ability to add money from bank accounts and receive global payments",
+    "Transfer funds securely to global suppliers",
+    "Support for local currencies from 17+ countries/regions",
+    "Professional service team available for assistance"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Business users",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What are Harmonized System (HS) Codes?",
+      "answer": "HS codes are a standardized numerical method of classifying traded products used by customs authorities worldwide for assessing duties and taxes, as well as for gathering trade statistics."
+    },
+    {
+      "question": "How are HS Codes used in international trade?",
+      "answer": "HS codes are used to classify goods for shipment, report shipments in the Automated Export System, complete shipping documentation, determine import tariff rates, conduct market research, and comply with relevant laws."
+    },
+    {
+      "question": "How do HS Codes affect tariffs and trade agreements?",
+      "answer": "HS codes determine the tariff rates for goods and can affect whether a product qualifies for a preferential tariff under a free trade agreement. Originating status, indicated by a change in the commodity code, can grant access to preferential tariffs."
+    }
+  ],
+  "url": "https://www.xtransfer.com/hscode"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "Free AI story generator. No signup & unlimited. Make long stories with 1500+ words & 5+ vivid pictures. A must-have for fun & education.",
+  "title": "AI Story Generator (Free, No Signup & Unlimited)",
+  "introduction": "The DataNumen AI Story Generator is a tool that allows users to create long stories with over 1500 words and more than 5 vivid pictures. It is designed to help users generate engaging and educational stories quickly and easily.",
+  "category": "Text&Writing",
+  "features": [
+    "Generates long stories with 1500+ words",
+    "Includes 5+ vivid pictures",
+    "Allows sharing and copying of stories with proper attribution",
+    "Provides multiple methods to save stories",
+    "Public visibility of generated stories"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking to create engaging and educational stories",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "Can I use the story freely?",
+      "answer": "Yes, you can share the link of the story freely. You can also copy and use the contents or images of the story freely, providing you add a backlink to the story or our site."
+    },
+    {
+      "question": "Can I save the story?",
+      "answer": "Yes, there are 3 methods: Use the browser 'Save Page as' to save the webpage of the story as a file. Use the browser 'Print…' to print the story as a PDF file if you have installed a PDF printer. A built-in save function will be provided soon."
+    },
+    {
+      "question": "Is the story publicly visible?",
+      "answer": "Yes, the public can see your stories. So do not put confidential information in your story prompt, as it may appear in the story and be visible to the general public."
+    }
+  ],
+  "url": "https://www.datanumen.com/ai-story-generator/"
+}

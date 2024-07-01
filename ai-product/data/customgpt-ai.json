@@ -1,0 +1,66 @@
+{
+  "description": "Accurate ChatGPT responses from your content without making up facts. All within a secure, privacy-first, business-grade platform.",
+  "title": "CustomGPT.ai | Custom GPT With ALL Your Business Content",
+  "introduction": "CustomGPT.ai allows businesses to build their own ChatGPT-powered chatbot based on their unique content in minutes. The platform offers over 100 features, ensuring a secure, privacy-first, business-grade experience.",
+  "category": "Chatbot",
+  "features": [
+    "Easy setup with multiple content sources",
+    "Supports 1400 document formats",
+    "92 languages supported",
+    "Powered by ChatGPT-4",
+    "Fast responses with streaming",
+    "Deployable on websites or live chat",
+    "API integration",
+    "Automated updates with latest AI technology",
+    "Ethical protections in-built",
+    "Customizable look & feel",
+    "Private or public chatbot options",
+    "Personalized responses based on business content"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to enhance customer engagement and knowledge management with a custom AI chatbot.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, enjoy full access to all Standard features of CustomGPT.ai for 7 days without any charges."
+    },
+    {
+      "question": "How do I sign up for the Free Trial?",
+      "answer": "Signing up for the Free Trial is straightforward. Simply create an account and follow the on-screen instructions to start your trial."
+    },
+    {
+      "question": "What happens after the 7-day trial period?",
+      "answer": "Once your 7-day trial period expires, you will automatically be charged for the pricing plan you selected during sign-up."
+    },
+    {
+      "question": "Is credit card information required for the Free Trial?",
+      "answer": "Yes, we require credit card information when you sign up for the Free Trial to reduce fraud and verify that only genuinely interested users are signing up."
+    },
+    {
+      "question": "How do I cancel my trial?",
+      "answer": "Log in to your account, navigate to the billing page, scroll to the bottom, and click the 'Cancel Subscription' button."
+    },
+    {
+      "question": "What support is available during the Free Trial?",
+      "answer": "Support is limited during the Free Trial, but comprehensive documentation is available. For tailored solutions, contact the sales team."
+    },
+    {
+      "question": "Can I customize my CustomGPT chatbot?",
+      "answer": "Yes, you can personalize your CustomGPT chatbot to create a branded experience for your customers and employees."
+    },
+    {
+      "question": "What happens when I hit my plan limit?",
+      "answer": "The system will stop indexing new data or responding to queries. It is recommended to sign up for the correct sized plan based on your data and query volume requirements."
+    },
+    {
+      "question": "What payment methods are supported?",
+      "answer": "CustomGPT supports all major credit cards and debit cards. We secure your payment method using Stripe for your privacy and protection."
+    },
+    {
+      "question": "Can I integrate CustomGPT with my business applications?",
+      "answer": "Yes, the API for CustomGPT enables you to integrate it with your business applications."
+    }
+  ],
+  "url": "https://customgpt.ai/"
+}

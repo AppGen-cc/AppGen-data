@@ -1,0 +1,67 @@
+{
+  "description": "Easily create web and mobile app prototypes and wireframes with Justinmind UI prototyping tool. It's FREE. Start prototyping now!",
+  "title": "Free prototyping tool for web & mobile apps - Justinmindjustinmind-logoPrototyping-menu@2xUI-Design-menu@2xUX Design-menu@2xCollaboration-menu@2xnew-version-10-2 copyWireframing-menu@2xdesign-templates@2xUI-Kits-menu@2xjustinmind-logo",
+  "introduction": "Justinmind is a UI design and prototyping tool that offers a wide range of features for creating interactive prototypes for web and mobile applications. It provides pre-built UI kits, visual design tools, adaptive/responsive design options, smart templates, masters, fonts, and integration with design tools like Sketch and Adobe. The tool also supports rich web interactions, mobile gestures, animations, data lists, functional forms, business logic rules, collaboration features, user testing integrations, and export options for HTML, images, and documents.",
+  "features": [
+    "Pre-built UI kits",
+    "Visual design",
+    "Adaptive/Responsive design",
+    "Smart templates",
+    "Masters",
+    "Fonts",
+    "Sketch plugin",
+    "Adobe plugins",
+    "Rich web interactions",
+    "Mobile gestures and transitions",
+    "Animations and effects",
+    "Test on real devices",
+    "Conditions",
+    "Variables",
+    "Data lists",
+    "Functional forms and fields",
+    "Data grids",
+    "Business logic rules",
+    "Test with real data",
+    "Share and get feedback",
+    "Co-edit prototypes/Team prototyping",
+    "Design handoff for developers",
+    "Design Systems",
+    "User management",
+    "User testing integrations",
+    "Test on any browser",
+    "Interactive HTML+JS",
+    "Document generation",
+    "Export to images",
+    "API/SDK",
+    "Requirements management",
+    "JIRA, Azure DevOps Boards integration",
+    "User Scenarios"
+  ],
+  "hasFreeTrial": "Free",
+  "targetPeople": "UI/UX Designers, Prototypers, Design Teams",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Why am I paying every month or every year on a recurring basis?",
+      "answer": "You signed up for a monthly or yearly subscription. A subscription, to any service not only ours, is something that you pay recurrently and you don’t renew explicitly every month/year."
+    },
+    {
+      "question": "What about new versions and updates?",
+      "answer": "All new versions and updates are included automatically, as long as you’ve got an active paid subscription."
+    },
+    {
+      "question": "How many seats can each user have at the same time?",
+      "answer": "Every named user with both a desktop/office and a secondary laptop/home computer can legally install and use Justinmind on both computers."
+    },
+    {
+      "question": "What payment methods can I use?",
+      "answer": "Currently we accept payments with Visa, MasterCard, American Express, Discover, JCB, and Carte Bleue."
+    },
+    {
+      "question": "Do you offer discounts for accounts with multiple users?",
+      "answer": "We offer multi-user discounts for Professional and Enterprise plans."
+    }
+  ],
+  "category": "Design&Art",
+  "url": "https://www.justinmind.com/"
+}

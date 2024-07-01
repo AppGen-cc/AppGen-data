@@ -1,0 +1,17 @@
+{
+  "description": "YT-Summarizer is a free online service that lets you summarize any YouTube video using AI. Just paste the video URL and click `Summarize`.",
+  "title": "Youtube Summarizer - Summarize any YouTube Video",
+  "introduction": "YT-Summarizer is a free online service designed to help you quickly summarize any YouTube video. Whether it's for personal or educational purposes, our tool empowers you to extract the essence of video content effectively.",
+  "category": "Video",
+  "features": [
+    "Fast and easy to use",
+    "No registration or installation required",
+    "Supports all YouTube formats and resolutions",
+    "No watermarks or ads"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals looking to quickly summarize YouTube videos for personal or educational purposes",
+  "pricing": "Free",
+  "faqs": [],
+  "url": "https://yt.azen.app/"
+}

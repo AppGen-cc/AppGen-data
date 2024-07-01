@@ -1,0 +1,39 @@
+{
+  "description": "Generate photorealistic images of people with AI. Auto-generate photo and video content of yourself for your social media with AI. Save time and money and do...",
+  "title": "AI Photo Generator | Photo AI™",
+  "introduction": "Photo AI is an AI photo generator tool that allows users to upload selfies, create AI characters, and generate photorealistic images. It uses its own AI generation pipeline trained for high photorealism.",
+  "features": [
+    "Upload selfies and create AI characters",
+    "Generate AI photos with different settings and expressions",
+    "Access to photo shoot preset templates and prompts",
+    "Create AI influencers",
+    "Try on clothes with the AI character"
+  ],
+  "pricing": "Subscription with 2 months free for annual subscription, cancel anytime",
+  "faqs": [
+    {
+      "question": "Do you have an affiliate program?",
+      "answer": "Yes, Photo AI offers an affiliate program with a 30% commission on referred customers' payments."
+    },
+    {
+      "question": "What AI model do you use?",
+      "answer": "Photo AI uses its own AI generation pipeline trained for high photorealism and constantly improves it with user feedback."
+    },
+    {
+      "question": "How much does Photo AI cost?",
+      "answer": "Pricing can be checked by entering email for sign up, with 2 months free for annual subscription and the option to cancel anytime."
+    },
+    {
+      "question": "Can I create AI influencers with Photo AI?",
+      "answer": "Yes, users can create AI influencers by describing the desired look in the prompt box and generating photos based on that description."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "Subscriptions can be canceled at any time by accessing the Billing section on Photo AI's platform or through Stripe's billing portal."
+    }
+  ],
+  "category": "Image",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in generating AI photos",
+  "url": "https://photoai.com/"
+}

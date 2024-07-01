@@ -1,0 +1,11 @@
+{
+  "title": "DeepBeat: Rap Lyrics Generating AI",
+  "introduction": "DeepBeat is a program that uses machine learning techniques to generate rap lyrics by combining lines from existing rap songs. It aims to combine lines that rhyme and make sense together. The service was created by Eric Malmi, Stephen Fenech, and Pyry Takala.",
+  "features": [],
+  "pricing": "Free",
+  "faqs": [],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Music enthusiasts",
+  "url": "https://deepbeat.org/"
+}

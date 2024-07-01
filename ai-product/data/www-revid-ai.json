@@ -1,0 +1,73 @@
+{
+  "description": "Create short videos, fast. The all-in-one TikTok growth tool.",
+  "title": "revid.ai - Create viral short videos, fast.",
+  "introduction": "revid.ai is an AI-powered tool that transforms text into stunning videos in minutes, helping users create videos for YouTube, Instagram, and TikTok with simple text prompts. It aims to boost engagement, save money, and save time.",
+  "category": "Video",
+  "features": [
+    "Full video editor access",
+    "Access 3M+ viral TikToks for inspiration",
+    "Smart music sync",
+    "AI video creation",
+    "Voice Generation",
+    "Auto-Mode",
+    "Script & Hook Generation",
+    "Record your own voice and video",
+    "200 AI credits / month",
+    "1000 AI credits / month",
+    "Search with complex queries",
+    "Get full video transcript",
+    "Generate scripts in seconds",
+    "Create vertical videos from any content",
+    "Generate voice, add animations",
+    "Create automations",
+    "Easy-to-use interface",
+    "Customisable templates",
+    "High quality exports"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, social media influencers, marketers, and businesses looking to create engaging video content quickly and easily.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can revid.ai transform my content creation game?",
+      "answer": "revid.ai analyzes millions of viral videos to craft scripts and generate stunning visuals optimized for maximum impact, helping you produce captivating content."
+    },
+    {
+      "question": "I'm not a video editing pro. Can I still use revid.ai?",
+      "answer": "Absolutely! revid.ai's intuitive interface and AI-driven tools make it easy to produce professional-grade videos, even if you've never edited before."
+    },
+    {
+      "question": "What kind of content can I create with revid.ai?",
+      "answer": "You can create a wide range of content including blog posts, podcasts, TikTok videos, product demos, and explainer videos. revid.ai can generate scripts from any text or URL."
+    },
+    {
+      "question": "How much control do I have over the AI-generated content?",
+      "answer": "You have full control over the AI-generated content. You can customize voice-overs, branding elements, visuals, and pacing to create videos that are authentically yours."
+    },
+    {
+      "question": "How can revid.ai help me grow my audience and business?",
+      "answer": "revid.ai helps you create videos that demand to be watched and shared, leading to increased video engagement and business growth. Users have reported significant increases in engagement and business growth."
+    },
+    {
+      "question": "Is my data safe with revid.ai?",
+      "answer": "Yes, revid.ai employs industry-standard encryption and security measures to protect your content and personal information. Your data is never shared with third parties without your consent."
+    },
+    {
+      "question": "How much time and effort can revid.ai save me?",
+      "answer": "revid.ai can save you significant time and effort by handling tasks like researching viral trends, generating scripts, and creating visuals. What used to take hours or days can now be done in minutes."
+    },
+    {
+      "question": "How does revid.ai stay ahead of the curve in video creation?",
+      "answer": "revid.ai's team of video experts and AI engineers constantly update the platform to stay on top of the latest trends, platform updates, and best practices."
+    },
+    {
+      "question": "What if I need help or have questions?",
+      "answer": "revid.ai offers support from a team of video experts and creators who are ready to answer your questions and provide guidance."
+    },
+    {
+      "question": "Can I try revid.ai for free?",
+      "answer": "While there's no free version of revid.ai, a suite of AI-powered mini-tools is available for free to give you a taste of its capabilities."
+    }
+  ],
+  "url": "https://www.revid.ai/"
+}

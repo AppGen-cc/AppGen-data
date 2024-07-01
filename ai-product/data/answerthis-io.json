@@ -1,0 +1,36 @@
+{
+  "title": "AnswerThis | Best AI research assistant",
+  "introduction": "AnswerThis is an AI-driven platform designed to streamline research by providing comprehensive summaries based on verified research sources. Users can upload papers, inquire about specific topics, and receive detailed, research-backed explanations with direct citations.",
+  "category": "Education",
+  "features": [
+    "Comprehensive literature reviews",
+    "Paragraph-by-paragraph citations",
+    "Access to 200 million credible research sources",
+    "Easy-to-read organized information",
+    "Specialized for academics",
+    "AI-driven scholarly answers",
+    "Holistic research-backed explanations"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Researchers, Academics, Students",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does AnswerThis streamline the research process?",
+      "answer": "AnswerThis simplifies research by providing comprehensive literature reviews, detailed citations, and organized information from 200 million credible sources."
+    },
+    {
+      "question": "What makes AnswerThis different from reading abstracts or simply skimming the paper?",
+      "answer": "AnswerThis offers AI-driven, scholarly answers that provide a holistic, research-backed explanation along with direct citations and summaries for every paper used."
+    },
+    {
+      "question": "How does the pricing model for AnswerThis work?",
+      "answer": "AnswerThis offers a free Starter Plan and a Pro Plan for $10 per month. There is also an option for custom Institutional Access plans."
+    },
+    {
+      "question": "Who is the team behind AnswerThis?",
+      "answer": "The team behind AnswerThis is dedicated to providing seamless research experiences by leveraging AI technology to deliver clear and concise answers to important research questions."
+    }
+  ],
+  "url": "https://answerthis.io/"
+}

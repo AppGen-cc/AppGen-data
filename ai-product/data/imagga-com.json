@@ -1,0 +1,30 @@
+{
+  "description": "Imagga Image Recognition API provides solutions for image tagging & categorization, visual search, content moderation. Available in the Cloud and On-Premise.",
+  "title": "Image Recognition API, Computer Vision AI – ImaggaTaggingCategorizationCroppingColor ExtractionVisual SearchCustom TrainingCustom ModelFace RecognitionObject LocalizationText RecognitionPress Media KitAdvertisingBlogCareersCommerce and RetailContactsHardware IoTMedia and EntertainmentOn-PremiseProjectsReal EstateResearch PublicationsTeamTechnology and Cloud",
+  "introduction": "Imagga offers Image Recognition Solutions for developers and businesses, providing services such as tagging, visual search, facial recognition, custom training, categorization, NSFW content moderation, cropping, and color extraction. The plans range from Free to Enterprise, catering to different volumes of API requests and customization needs. Imagga is trusted by startups, developers, students, and over 200 business customers worldwide.",
+  "features": [
+    "Tagging",
+    "Visual Search",
+    "Facial Recognition",
+    "Custom Training",
+    "Categorization",
+    "NSFW Content Moderation",
+    "Cropping",
+    "Color Extraction"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Developers and Businesses",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "I am not sure what plan to choose, can I change the plan later?",
+      "answer": "You can upgrade or downgrade your plan at any time by logging in to your account and navigating to the Billing details page in your dashboard."
+    },
+    {
+      "question": "Is the free plan really free?",
+      "answer": "Yes, the free plan is absolutely free and intended for testing the API for commercial use. Users are asked to mention \\"
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://imagga.com/"
+}

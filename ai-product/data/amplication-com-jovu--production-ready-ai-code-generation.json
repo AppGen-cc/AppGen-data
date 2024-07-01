@@ -1,0 +1,48 @@
+{
+  "description": "Effortlessly build new services, extend your existing applications with Amplication AI. Go from idea to production in four minutes.",
+  "title": "Generate production-ready code with Amplication AI | Amplication",
+  "introduction": "Amplication is an AI-powered code generation platform that accelerates backend development, enabling developers to effortlessly build new services and extend existing applications. It offers production-ready code that ensures consistency, predictability, and adherence to the highest standards.",
+  "category": "Code&IT",
+  "features": [
+    "Unlimited code generation builds",
+    "Unlimited code push to Git",
+    "Unlimited entities per service",
+    "Smart Git sync (GitHub only)",
+    "Code with .NET and Node.js",
+    "Smart Git Sync (all enterprise Git providers)",
+    "Break the monolith into microservices",
+    "Select Code Generator Version per service",
+    "AWS CodeCommit integration",
+    "2FA (two-factor authentication)"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers and development teams looking to accelerate backend development with AI-powered code generation.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What are the differences between the free and the enterprise tier?",
+      "answer": "The Free plan includes database and model management, role-based permissions, and both GraphQL & REST API support. The Enterprise plan adds unlimited projects, unlimited services, unlimited team members, advanced security features, additional git sync providers, dedicated support, and includes SSO."
+    },
+    {
+      "question": "Does Amplication support advanced security features like 2FA, audit logs, and SSO for organizational security concerns?",
+      "answer": "Yes, Amplication‘s Enterprise plan is equipped with advanced security features to meet the needs of your organization. This includes support for Single Sign-On (SSO), audit logs, and Two-Factor Authentication (2FA)."
+    },
+    {
+      "question": "We have multiple teams in the organization, can we use one account to manage separate teams?",
+      "answer": "Yes, the Enterprise plan lets you have unlimited projects, services, and team members. You can manage all your teams from the same organization in your preferred structure."
+    },
+    {
+      "question": "Can I pay to Amplication through my AWS account (AWS billing)?",
+      "answer": "Yes, we support this billing method. Please contact us and we will help you handle it."
+    },
+    {
+      "question": "We have our own best practices and standards - can we ask Amplication to generate the code in our own flavor?",
+      "answer": "Amplication offers a structured way to add custom code and modify your generated code. We also provide various plugins, like Prettier and ESLint, so you can format your code exactly how you need it. Furthermore, you can create private plugins that are accessible only within your organization."
+    },
+    {
+      "question": "Will your generated code override my code changes?",
+      "answer": "No, we respect your code changes. Amplication‘s Smart Git Sync feature ensures that your custom code always takes precedence over the generated code."
+    }
+  ],
+  "url": "https://amplication.com/jovu--production-ready-ai-code-generation"
+}

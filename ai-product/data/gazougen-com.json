@@ -1,0 +1,28 @@
+{
+  "description": "AI画像生成は最先端のAIテクノロジーを駆使し、独自のアートと画像を生成する無料サービスです。ユーザーはただキーワードを入力するだけで、瞬時にオリジナルのAI絵画を生成できます。無限の創造性を発揮し、あなたの想像を形にしましょう",
+  "title": "GazouGen-AI画像生成 | 最先端のAIによるプロフェッショナルな絵画生成サイト — AI画像生成",
+  "keywords": "AI画像生成|ai画像生成 無料",
+  "introduction": "GazouGenAI is an innovative image generation tool that utilizes advanced AI technology to create high-quality and unique images tailored to user needs. It offers a range of features such as high-quality image generation, multiple size options, user-friendly interface, quick image generation, and flexible pricing plans. The tool is designed to support a wide range of users from beginners to professionals in generating creative and efficient images.",
+  "category": "Image",
+  "features": [
+    "High-quality AI image generation",
+    "Multiple size options",
+    "User-friendly interface",
+    "Quick image generation",
+    "Flexible pricing plans"
+  ],
+  "hasFreeTrial": "Free",
+  "targetPeople": "Beginners to professionals",
+  "pricing": "Free plan available with basic features. Paid plans offer more advanced functionalities and customization options.",
+  "faqs": [
+    {
+      "question": "Does GazouGenAI offer unique and creative image generation?",
+      "answer": "Yes, GazouGenAI generates unique and creative images using deep learning technology and advanced algorithms, allowing for the creation of original designs and artworks."
+    },
+    {
+      "question": "Can images generated with GazouGenAI be used for commercial purposes?",
+      "answer": "Yes, images generated with GazouGenAI can be used for commercial purposes, and commercial use licenses are included in the paid plans."
+    }
+  ],
+  "url": "https://gazougen.com/"
+}

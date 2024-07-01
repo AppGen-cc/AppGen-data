@@ -1,0 +1,26 @@
+{
+  "description": "Turn Pictures Into Word Artworks",
+  "title": "Text Photo: Make Your Pictures Readable, Literally",
+  "introduction": "Text Photo is an app that converts pictures into unique typography artworks made of text. Users can choose from a variety of fonts, control parameters, input words, and utilize alpha channels for transparent backgrounds. The app supports multiple languages and offers post-processing effects.",
+  "features": [
+    "Choose from over a thousand open fonts or provide your own TTF font",
+    "Control parameters to significantly change the output",
+    "Input up to 20 words for creating typography art",
+    "Utilize alpha channel for transparent backgrounds"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What can Text Photo help with?",
+      "answer": "Text Photo converts pictures into typography artworks made of text using selected fonts."
+    },
+    {
+      "question": "How many words can be input for creating typography art?",
+      "answer": "Users can provide up to 20 words or a comma-separated list of words to create the artwork."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users who want to create unique typography artworks from their pictures",
+  "url": "https://textphoto.app/"
+}

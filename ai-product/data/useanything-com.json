@@ -1,0 +1,19 @@
+{
+  "description": "AnythingLLM is the ultimate enterprise-ready business intelligence tool made for your organization. With unlimited control for your LLM, multi-user support, internal and external facing tooling, and 100% privacy-focused.",
+  "title": "AnythingLLM | The ultimate AI business intelligence tool",
+  "introduction": "A service offering on-site installation, dedicated support, and integration support for custom LLMs.",
+  "category": "Code&IT",
+  "features": [
+    "On-site installation",
+    "Dedicated support",
+    "Integration support",
+    "Custom LLM support",
+    "Works with state-of-the-art models",
+    "Supports enterprise models like GPT-4, custom models, and open-source models like Llama, Mistral, and more"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Enterprises and organizations needing custom LLM support",
+  "pricing": "Contact us for more details",
+  "faqs": [],
+  "url": "https://useanything.com/"
+}

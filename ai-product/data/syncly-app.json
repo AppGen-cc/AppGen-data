@@ -1,0 +1,39 @@
+{
+  "description": "With AI feedback analysis, Syncly instantly categorizes feedback and reveals hidden negative signals. Centralize all your feedback and take proactive actions based on real time insights to elevate your five-star customer experience.",
+  "title": "Syncly – Surface real customer pains from everyday customer communication",
+  "introduction": "Dynamic Sentiment Analysis is a tool designed to prevent customer churn by proactively monitoring and analyzing customer sentiment trends. It helps identify critical unresolved issues and detect negative signals within conversations or throughout the customer lifecycle.",
+  "category": "Business",
+  "features": [
+    "Dynamic Sentiment Analysis to monitor customer sentiment trends",
+    "Fluid Taxonomy for automated AI tagging and categorization",
+    "Auto Prioritization to identify critical real-time issues",
+    "Simplified reporting with easy-to-use charts and full-view dashboard",
+    "One-click integrations to sync customer feedback across various channels"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Businesses looking to improve customer experience and reduce churn",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is Dynamic Sentiment Analysis?",
+      "answer": "Dynamic Sentiment Analysis is a tool that helps identify critical unresolved issues by proactively monitoring customer sentiment trends and detecting negative signals within conversations or throughout the customer lifecycle."
+    },
+    {
+      "question": "What is Fluid Taxonomy?",
+      "answer": "Fluid Taxonomy is a feature that provides hassle-free AI tagging and categorization of customer feedback, enabling the discovery of numerous real issues that may not reach the level of a CSAT."
+    },
+    {
+      "question": "What is Auto Prioritization?",
+      "answer": "Auto Prioritization is a feature that helps identify critical real-time issues, explore top revenue-influencing issues, and assess the top 10 negative responses instantly."
+    },
+    {
+      "question": "How does the reporting feature work?",
+      "answer": "The reporting feature allows users to instantly visualize customer trends with hassle-free charts, detect anomalies, share insights across organizations, and utilize a full-view dashboard for decision-making."
+    },
+    {
+      "question": "What are One-Click Integrations?",
+      "answer": "One-Click Integrations allow users to seamlessly integrate with their tech stack, syncing customer feedback and requests across various channels and sources to set up a single source of truth for customer feedback."
+    }
+  ],
+  "url": "https://syncly.app/"
+}

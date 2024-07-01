@@ -1,0 +1,29 @@
+{
+  "description": "探索 WeChatSDK.com，体验革命性的微信SDK和API。稳定不被封。提供视频号、朋友圈、直播间、群管理等底层API能力，为你打造创新的微信自动化程序。 by WeChatSDK.com ｜ 微信API",
+  "title": "WeChat API: 免费试用 微信 API 能力| 稳定不封号 | 支持3.9.10 | WeChat-API | WeChat-SDK | 多开微信",
+  "introduction": "WeChat SDK offers a comprehensive free trial with support for different versions, including 3.9.5 and 3.9.10. Personal users can enjoy a 7-day trial period, while business users have a 14-day trial period. Independent developers may apply for perpetual usage rights. The SDK provides WeChat API source code written in C++ technology, supporting various operations on the WeChat platform.",
+  "category": "Code&IT",
+  "features": [
+    "Dual-hook dual-protocol hybrid + active interference inspection mode",
+    "Over 150 APIs for WeChat platform operations",
+    "High level of account security"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Personal users, business users, independent developers",
+  "pricing": "Free trial for personal and business users, perpetual usage rights for independent developers",
+  "faqs": [
+    {
+      "question": "What is included in the free trial period for personal users?",
+      "answer": "Personal users can enjoy a 7-day trial period."
+    },
+    {
+      "question": "How long is the trial period for business users?",
+      "answer": "Business users have a 14-day trial period."
+    },
+    {
+      "question": "Can independent developers apply for perpetual usage rights?",
+      "answer": "Yes, independent developers may apply for perpetual usage rights."
+    }
+  ],
+  "url": "https://www.wechatsdk.com/"
+}

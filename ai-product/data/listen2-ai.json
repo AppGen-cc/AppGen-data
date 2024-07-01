@@ -1,0 +1,50 @@
+{
+  "description": "Stay informed and engaged with the world around you, even while you're on the move, working out, or taking care of your home.",
+  "title": "Credible Real-time News, Tailored Just For YouDownload_on_the_App_Store_Badge_US-UK_RGB_wht_092917",
+  "introduction": "Listen2.AI is an AI-powered app that presents unbiased, personalized news in short audio clips, so that you stay informed about the world without spending too much time.",
+  "category": "Voice",
+  "features": [
+    "Perfect for busy individuals",
+    "Hands-free news - listen to it while multitasking",
+    "No ads",
+    "7 different categories of news to choose from",
+    "News from over 80,000 trusted sources and blogs",
+    "Political slider to choose news presentation",
+    "Option to listen in different languages",
+    "Check listening history and download scripts and audios"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Busy individuals, multitaskers, people who prefer audio content, and those who want unbiased news",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Listen2.AI?",
+      "answer": "Listen2.AI is an AI-powered app that presents unbiased, personalized news in short audio clips."
+    },
+    {
+      "question": "Is Listen2.AI free to use?",
+      "answer": "Yes, Listen2.AI is free to use."
+    },
+    {
+      "question": "Can I choose the type of news I want to listen to?",
+      "answer": "Yes, Listen2.AI provides 7 different categories of news to choose from."
+    },
+    {
+      "question": "Does Listen2.AI have ads?",
+      "answer": "No, Listen2.AI does not have ads."
+    },
+    {
+      "question": "Can I listen to news in different languages?",
+      "answer": "Yes, you can choose the language you want to listen to the news in."
+    },
+    {
+      "question": "Can I revisit news stories I have listened to?",
+      "answer": "Yes, you can check your listening history and download scripts and audios to re-listen to news stories."
+    },
+    {
+      "question": "Does Listen2.AI respect political ideologies?",
+      "answer": "Yes, you can use the political slider to choose how the news should be presented based on your political orientation."
+    }
+  ],
+  "url": "https://listen2.ai/"
+}

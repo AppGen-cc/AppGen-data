@@ -1,0 +1,40 @@
+{
+  "description": "Web site created using create-react-app",
+  "title": "bentolingo | Your daily AI language bento box",
+  "introduction": "bentolingo is an AI-powered language learning platform that helps users practice six language skills with personalized feedback from GPT AI.",
+  "category": "Education",
+  "features": [
+    "Vocabulary practice",
+    "Listening exercises",
+    "Reading exercises",
+    "Speaking practice with personalized feedback",
+    "Writing practice with personalized feedback",
+    "Cultural insights"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Language learners seeking comprehensive skill development with personalized feedback",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What skills can I practice with bentolingo?",
+      "answer": "You can practice vocabulary, listening, reading, speaking, writing, and cultural insights."
+    },
+    {
+      "question": "Is there a free version available?",
+      "answer": "Yes, there is a free version that includes vocabulary, listening, and reading exercises."
+    },
+    {
+      "question": "What does the premium plan include?",
+      "answer": "The premium plan includes all six skills with personalized feedback for speaking and writing, and costs $9.99 per month or $59 per year."
+    },
+    {
+      "question": "Who provides the feedback for speaking and writing?",
+      "answer": "The feedback is provided by OpenAI's GPT AI."
+    },
+    {
+      "question": "Can AI make mistakes?",
+      "answer": "Yes, AI can make mistakes, so it's advisable to check important information."
+    }
+  ],
+  "url": "https://bentolingo.ai/"
+}

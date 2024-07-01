@@ -1,0 +1,27 @@
+{
+  "description": "Generate productivity with AI checklists.",
+  "title": "AI Checklist Generator",
+  "introduction": "This website helps users accomplish various personal and professional tasks, such as joining a literary book club, discovering local cafés, setting career and relationship goals, and designing personal logos.",
+  "category": "Life Assistant",
+  "features": [
+    "Join a literary book club",
+    "Discover local cafés",
+    "Set professional career goals",
+    "Design personal logos",
+    "Set relationship goals"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking to improve personal and professional aspects of their lives",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What kind of tasks can I accomplish with this website?",
+      "answer": "You can join a literary book club, discover local cafés, set professional career goals, design personal logos, and set relationship goals."
+    },
+    {
+      "question": "Who is this website for?",
+      "answer": "This website is for individuals looking to improve personal and professional aspects of their lives."
+    }
+  ],
+  "url": "https://checklist-generator.vercel.app/"
+}

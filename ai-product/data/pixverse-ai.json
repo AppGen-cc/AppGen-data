@@ -1,0 +1,28 @@
+{
+  "description": "PixVerse is an innovative AI video creation platform, unleash the full potential of video creation with our powerful generative AI",
+  "title": "PixVerse - Create breath-taking videos with PixVerse AI",
+  "keywords": "pixverse,ai video generator,ai generator,generative ai",
+  "introduction": "Pixverse is a platform that allows users to create and explore a wide range of visual content, from hyper-realistic cinematic shots to anime-style illustrations and moving videos. It offers a diverse array of artistic styles and subjects, catering to various creative needs.",
+  "category": "Design&Art",
+  "features": [
+    "Create hyper-realistic cinematic shots",
+    "Generate anime-style illustrations",
+    "Produce moving videos",
+    "Explore diverse artistic styles and subjects",
+    "User-friendly interface for content creation"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Artists, content creators, and visual enthusiasts",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What types of content can I create on Pixverse?",
+      "answer": "You can create hyper-realistic cinematic shots, anime-style illustrations, moving videos, and explore a variety of artistic styles and subjects."
+    },
+    {
+      "question": "Who is Pixverse for?",
+      "answer": "Pixverse is designed for artists, content creators, and visual enthusiasts who want to create and explore diverse visual content."
+    }
+  ],
+  "url": "https://pixverse.ai/"
+}

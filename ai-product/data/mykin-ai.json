@@ -1,0 +1,30 @@
+{
+  "description": "Get inspired, talk things through, navigate situations or get personalized guidance with Kin. Built for privacy, security, and with memory in mind.",
+  "title": "Kin - A personal AI for your private life.",
+  "introduction": "Communication is everything. Get advice on how to approach tricky situations. Role-play conversations ahead of time. Increase your confidence, prepare yourself emotionally, and reduce anxiety.",
+  "category": "Life Assistant",
+  "features": [
+    "Express your feelings and think things through",
+    "Get some fresh perspective and clarity",
+    "Calm your mind and make sense of your thoughts",
+    "Generate ideas and get everyday inspiration",
+    "Receive personalized answers and support for anything in your life",
+    "Nurture connections with family, friends, colleagues or neighbours",
+    "Prepare for tough conversations and awkward situations",
+    "Manage your tasks, organize priorities, understand what’s actually urgent, and spend more time on the things you value"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals seeking to improve communication skills and manage daily tasks",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What can this service help with?",
+      "answer": "It can help you approach tricky situations, role-play conversations, increase confidence, prepare emotionally, and reduce anxiety."
+    },
+    {
+      "question": "How can it assist in managing daily tasks?",
+      "answer": "It helps manage tasks, organize priorities, understand what’s urgent, and spend more time on valued activities."
+    }
+  ],
+  "url": "https://mykin.ai/"
+}

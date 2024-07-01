@@ -1,0 +1,45 @@
+{
+  "description": "Create professional AI-generated headshots of you or the whole team in minutes. Get studio-quality photography for a fraction of the cost and time.",
+  "title": "AI Headshot Generator: Create Realistic Headshots in Minutes",
+  "introduction": "Generate hyper-realistic business headshots from the comfort of your home. Upload several selfies and get 100's of AI headshots with different clothing and backgrounds.",
+  "category": "Design&Art",
+  "features": [
+    "AI headshots will look exactly like you",
+    "No photographer needed",
+    "Ready in ~45 minutes",
+    "Enrich your CV, email, social media to drive more engagement and interactions",
+    "Studio-quality headshots with perfect hairstyles and clothing",
+    "Results delivered in minutes",
+    "AI Photobooth feature for easy photo creation"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Entrepreneurs, executives, agents, and professionals",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "How do I start?",
+      "answer": "After the purchase, you will need to upload 8–10 selfies so AI can start working. You can create them right here on our website with our own AI Photobooth feature. No app downloads are needed; everything works in your browser. Alternatively, you can always just select and upload photos manually."
+    },
+    {
+      "question": "Why do you need so many selfies?",
+      "answer": "The current state-of-the-art AI needs a handful of your photos to be able to generate professional headshots with your face for the best fidelity, quality, and precision. With this approach, you receive the most realistic headshots on the market from the comfort of your own home. Soon, only a single photo will be enough."
+    },
+    {
+      "question": "What are requirements for manually uploaded photos?",
+      "answer": "AI needs high-quality head and shoulders profile photos of you — no blurry, retouched, or photos with other people. Photos with sunglasses, hats, headphones, or other objects covering your face will result in bad results."
+    },
+    {
+      "question": "How do you use my photos?",
+      "answer": "We use them only to generate AI headshots. We will delete all your data immediately upon request; otherwise - your photos are deleted automatically after 7 days. AI models are deleted automatically after 30 days. We have these timings only to be able to create new, re-generate, or otherwise fix your results through support requests."
+    },
+    {
+      "question": "Is it safe to process my photos with AI?",
+      "answer": "We don't sell, re-sell, train our AI, or otherwise use your photos in any way that is not related to providing an AI Headshots service to you. The SnapHeadshots company is based in Europe and complies with the local personal data regulations. Your photos are stored in an encrypted environment, separate from your account and without your personal data."
+    },
+    {
+      "question": "Do you have specific solution for larger teams?",
+      "answer": "We have streamlined our processes as much as possible, so anyone can create perfect headshots easily. However, we still need to adapt this process for HR and managers alike, so you can just send several shortlinks to your 10, 100, or even 1000 employees, and they can complete the process fast and easily. Stay tuned for updates; they are coming very soon."
+    }
+  ],
+  "url": "https://snapheadshots.com/"
+}

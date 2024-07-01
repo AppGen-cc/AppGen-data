@@ -1,0 +1,24 @@
+{
+  "title": "Interview Helper",
+  "introduction": "Our software helps you solve algorithmic problems in multiple programming languages during technical interviews. It provides optimized code, explanations, and hints through a Telegram bot. The Chrome extension ensures that your usage is discreet, helping you appear confident and professional.",
+  "category": "Code&IT",
+  "features": [
+    "Solve algorithmic problems in multiple programming languages",
+    "Receive optimized code, explanations, and hints through a Telegram bot",
+    "Use a discreet Chrome extension for privacy"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals preparing for technical interviews",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, we do not offer a free trial."
+    },
+    {
+      "question": "What programming languages are supported?",
+      "answer": "Our software supports multiple programming languages for solving algorithmic problems."
+    }
+  ],
+  "url": "https://interviewhelpers.com/"
+}

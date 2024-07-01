@@ -1,0 +1,25 @@
+{
+  "title": "Boomy - Make Generative Music with Artificial Intelligence",
+  "introduction": "Boomy offers three membership options to support your goals from creation to distribution. Users can access basic and advanced song editing tools, with varying limits on songs per release and downloads. The memberships also include non-commercial and commercial use rights for different platforms.",
+  "features": [
+    "Basic and advanced song editing tools",
+    "Up to 25 songs per release",
+    "MP3 and WAV downloads",
+    "Non-commercial and commercial use rights"
+  ],
+  "pricing": "Three membership options with different features and limits",
+  "faqs": [
+    {
+      "question": "How many songs can I release per month?",
+      "answer": "The number of songs you can release per month varies based on the membership option you choose."
+    },
+    {
+      "question": "What rights do I have for commercial use?",
+      "answer": "Commercial use rights include usage in podcasts, social media advertising, and your own songs, depending on the membership option."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "No",
+  "targetPeople": "Music creators",
+  "url": "https://boomy.com/"
+}

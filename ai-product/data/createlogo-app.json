@@ -1,0 +1,30 @@
+{
+  "description": "An AI-powered logo generator that lets you create professional logos in seconds.",
+  "title": "CreateLogo | AI logo generator",
+  "introduction": "CreateLogo is a platform that allows users to generate beautiful, high-quality logos in seconds without any design skills. It leverages AI to create logos, including SVGs, quickly and efficiently.",
+  "category": "Design&Art",
+  "features": [
+    "Generate high-quality logos in seconds",
+    "No design skills needed",
+    "Includes SVG format",
+    "Multiple design models available (e.g., Modern Abstract, Multi-purpose HD, Modern Letter, Luxury Golden)"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals and businesses in need of logos",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "Do I need design skills to use CreateLogo?",
+      "answer": "No, CreateLogo allows you to generate high-quality logos without any design skills."
+    },
+    {
+      "question": "What formats are available for the logos?",
+      "answer": "The logos include SVG format."
+    },
+    {
+      "question": "What design models are available?",
+      "answer": "Some of the design models available are Modern Abstract, Multi-purpose HD, Modern Letter, and Luxury Golden."
+    }
+  ],
+  "url": "https://createlogo.app/"
+}

@@ -1,0 +1,47 @@
+{
+  "description": "Use Freepik Sketch to image to generate images from your sketches. Draw easily, use a prompt and create amazing images.",
+  "title": "AI Sketch to image - Turn sketches into images | Freepik",
+  "introduction": "Sketch to image is a tool that transforms your doodles into stunning visuals using AI technology. It aims to make art creation accessible and fun for everyone, regardless of skill level.",
+  "category": "Design&Art",
+  "features": [
+    "Transforms doodles into images in real time",
+    "Allows adding icons and elements",
+    "Adjustable imagination level for more detailed images",
+    "Intuitive interface with screen-sharing and live webcam functionality",
+    "Option to share videos of the drawing process"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Creators of all ages, especially those with no drawing skills",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is Sketch to image?",
+      "answer": "Sketch to image is a real-time drawing tool that uses innovative prompt-based technology to transform basic sketches into stunning visuals. Its design aims to make art creation accessible, fun, and engaging for users of all ages, with a special emphasis on nurturing creativity."
+    },
+    {
+      "question": "How do I use Sketch to image?",
+      "answer": "To use Sketch to image, start with a simple sketch and describe your desired image with a prompt. The tool then interprets your sketch and prompt, generating a detailed visual. You can add icons, images, screen recordings, or even live webcam feeds to amplify your creative process."
+    },
+    {
+      "question": "How does Sketch to image foster creativity?",
+      "answer": "Sketch to image fosters creativity and imagination by making art creation accessible to everyone. It provides a simple, fun, and educational way for users to learn about art, composition, and technology. It also allows users to easily share their artistic journey, inspiring others with their progress and final works."
+    },
+    {
+      "question": "Is Sketch to image suitable for beginners?",
+      "answer": "Absolutely! Sketch to image is designed to help anyone, regardless of skill level, create beautiful images. With simple drawing aids and the ability to use prompts, you can create art that aligns with your vision, no matter your initial drawing skills. Plus, the option to add icons and images makes it extra easy!"
+    },
+    {
+      "question": "Can I add icons to my drawings?",
+      "answer": "You can add icons to your drawings to save time and get more accurate results. Simply make a search and add as many icons as you need—you can also scale and rotate them. Your prompt will be automatically updated to reflect the element you just added. It's that easy!"
+    },
+    {
+      "question": "Can I share my creative process?",
+      "answer": "Sure, you can share your computer screen, a window, or even your webcam. Creativity has no limits here, and you can generate interesting videos and images from other software on your computer or from a video taken with your webcam."
+    },
+    {
+      "question": "Can I record my creative process?",
+      "answer": "Yes, Sketch to image lets you record your screen or share your process through a live webcam feed. This enables you to capture each step of your creative journey, preserving and sharing the progression from sketch to finished image."
+    }
+  ],
+  "url": "https://www.freepik.com/ai/pikaso-ai-drawing"
+}

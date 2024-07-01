@@ -1,0 +1,28 @@
+{
+  "description": "Build your financial model under 5' with AI.",
+  "title": "BeeKrowd",
+  "introduction": "We provide a data-centric platform for analyzing business profiles, financial analysis, and investment analysis.",
+  "category": "Business",
+  "features": [
+    "Automated analysis of financial data for quicker and more accurate forecasting",
+    "One-click auto reporting for generating financial reports with minimal human intervention",
+    "All-in-one Command center for seamless collaboration and integration",
+    "Real-time insights and anomaly detection for highlighting data anomalies",
+    "Scenario analysis and risk management for complex financial analysis",
+    "AI-powered financial queries for enhanced accuracy and efficiency"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Business professionals, financial analysts, and investors",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is the target user of this product?",
+      "answer": "Business professionals, financial analysts, and investors."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available."
+    }
+  ],
+  "url": "https://www.beekrowd.com/"
+}

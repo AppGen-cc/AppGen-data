@@ -1,0 +1,38 @@
+{
+  "description": "MyReport is a time saver that automates the data collection and the citation for your reports, just describe the topic of your report, review it, and send.",
+  "title": "MyReport by alaba a.i.",
+  "keywords": "Automatic Report, Automating Reporting, Report Generation, Automatic Report Generation, Dossier, Automatic, Report, Presentation Report, Augmented Intelligence, Save Time",
+  "introduction": "MyReport is an augmented intelligence tool that compiles information and presents it in an organized and understandable manner in essay or report mode. It generates reports in Google Doc format based on user-defined objectives, title, abstract, and word count.",
+  "features": [
+    "Appealing full reports with generated original text, images, charts, and tables",
+    "Advanced NLP automation for improved reports",
+    "Web navigation for information search",
+    "Ability to work with user's data documents for report content",
+    "Private and secure data handling",
+    "Fast report generation",
+    "Instant link sharing"
+  ],
+  "pricing": "Subscription-based pricing with different plans for personal, professional, and business use cases.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users who need to create reports quickly and efficiently",
+  "faqs": [
+    {
+      "question": "What is MyReport?",
+      "answer": "MyReport is a tool for compiling information and presenting it in an organized and understandable manner in essay or report mode."
+    },
+    {
+      "question": "What file formats are accepted for report generation?",
+      "answer": "Accepted file formats include web pages (html), documents (pdf, docx, odt, rtf, txt, epub), spreadsheets (xlsx, ods, csv), presentations (pptx, odp), and images (jpeg, png, svg)."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial offer for 1 month with no upfront payment."
+    },
+    {
+      "question": "How does MyReport handle data privacy?",
+      "answer": "MyReport ensures private and secure handling of user data, which is used solely for report generation purposes and not for AI training or shared with third parties."
+    }
+  ],
+  "category": "Text&Writing",
+  "url": "https://myreport.alaba.ai/"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "AI-powered Ad Management tool structures and optimizes Google Ads campaigns in a few minutes, just like a senior PPC specialist. Start to build, optimize and scale your business today.",
+  "title": "Ad Management tool for Google Ads campaigns - Optimyzee",
+  "introduction": "Optimyzee is an AI-powered Ad Management tool that structures and optimizes Google Ads campaigns in minutes, providing the same results as a senior PPC specialist. It offers features like Search Campaign Structure Power, Keyword Planner, RSA Builder, and Real Time Ads Validation.",
+  "category": "Business",
+  "features": [
+    "Search Campaign Structure Power",
+    "Keyword Planner",
+    "RSA Builder",
+    "Real Time Ads Validation"
+  ],
+  "hasFreeTrial": "7 days for free",
+  "targetPeople": "Marketers, Marketing Agencies, Business Retail Owners",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Who is Optimyzee for?",
+      "answer": "Optimyzee is for marketers, marketing agencies, and business retail owners who want to optimize Google Ads campaigns efficiently and effectively."
+    },
+    {
+      "question": "Does Optimyzee offer a free trial?",
+      "answer": "Yes, Optimyzee offers a 7-day free trial for users to experience its AI-powered features."
+    }
+  ],
+  "url": "https://www.optimyzee.com/"
+}

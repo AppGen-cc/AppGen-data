@@ -1,0 +1,33 @@
+{
+  "description": "Bange.io provides AI-powered tools to create tailored resumes and cover letters quickly and efficiently. Enhance your job applications and increase your chances to land your dream job.",
+  "title": "Bange.io - Empower Your Job Applications with AI",
+  "keywords": "AI resume builder, AI cover letter creator, professional resumes, cover letters, job application, employment, career advancement",
+  "introduction": "Bange.io is a platform designed to help users create optimized resumes and cover letters using AI-driven insights and professional templates. It aims to streamline the job application process by providing tools for quick customization and real-time previews.",
+  "category": "Business",
+  "features": [
+    "Quick Customization: Modify your documents with user-friendly tools and get real-time previews.",
+    "AI-Driven Insights: Let AI analyze job descriptions and optimize your resume and cover letter accordingly.",
+    "Professional Templates: Choose from a variety of templates that suit your industry and personal style.",
+    "AI-Powered Resume Creation: Generate job-tailored resumes directly from your profile or by uploading an existing resume. Customize further with AI-driven prompts.",
+    "Interactive Cover Letter Editor: Use our editor to craft and modify cover letters. Download or send them directly from the platform.",
+    "Document History: Easily access all your generated resumes and cover letters. Download or reuse any document with just a click."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Job seekers looking to optimize their resumes and cover letters",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "How does the AI optimize the resumes and cover letters?",
+      "answer": "The AI analyzes current job market trends and specific job descriptions to tailor your documents, ensuring they highlight the skills and experiences that are most relevant to the job."
+    },
+    {
+      "question": "What formats can I download my documents in?",
+      "answer": "You can download your resumes and cover letters in PDF format, making it easy to submit them on any job platform."
+    },
+    {
+      "question": "Is there a trial period or a free version available?",
+      "answer": "Bange.io is completely free to use with access to all features. You can create and download documents and experience the full capabilities without any cost."
+    }
+  ],
+  "url": "https://www.bange.io/"
+}

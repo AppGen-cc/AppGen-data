@@ -1,0 +1,12 @@
+{
+  "description": "Sign in to use your Caktus account! Write essays, solve problems, write code, access instant tutoring and more!",
+  "title": "Caktus Login",
+  "introduction": "Caktus is a platform that allows users to sign up and sign in using various methods like email, Google, Microsoft, Discord, and Work or School Account. Users can also reset their password if needed.",
+  "features": [],
+  "pricing": "Free",
+  "faqs": [],
+  "category": "Business",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who want to sign up for the platform",
+  "url": "https://www.caktus.ai/caktus_student"
+}

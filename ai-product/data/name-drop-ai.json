@@ -1,0 +1,53 @@
+{
+  "description": "Name Drop will help you grow organically by name dropping your product or service in the right places.",
+  "title": "Name Drop AI",
+  "introduction": "Name Drop is a social media monitoring tool that helps businesses track conversations about their products or services across various social media platforms.",
+  "category": "Marketing",
+  "features": [
+    "Up to 3 Projects (Free Plan)",
+    "1 Seat Per Project (Free Plan)",
+    "Only Reddit conversations (Free Plan)",
+    "Smart Ranked Feed",
+    "Limited to 25 conversations (Free Plan)",
+    "Limited to 10 keywords (Free Plan)",
+    "Up to 10 Projects (Starter Plan)",
+    "Unlimited Seats (Starter Plan)",
+    "Conversations from Reddit, Twitter, YouTube, and Facebook (Starter Plan)",
+    "Unlimited conversations (Starter Plan)",
+    "24/7 Support (Starter Plan)",
+    "50 keywords per project (Starter Plan)",
+    "30-day refund policy (Starter Plan)",
+    "Cancel anytime (Starter Plan)",
+    "As many Projects as you need (Custom Plan)",
+    "Unlimited Seats (Custom Plan)",
+    "Conversations from all social media platforms (Custom Plan)",
+    "Unlimited keywords (Custom Plan)",
+    "Custom features (Custom Plan)"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses of all sizes looking to monitor social media conversations about their products or services.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How long does it take to get results?",
+      "answer": "It usually takes a few minutes to start seeing results. However, it depends on the volume of conversations and the relevance of the conversations to your product."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, you can start for free with our free plan. More on our pricing page."
+    },
+    {
+      "question": "Will it work for my business?",
+      "answer": "Name Drop works for any business that has a product or service that is being talked about on social media."
+    },
+    {
+      "question": "Does it work for small businesses?",
+      "answer": "Yes, Name Drop works for small businesses as well as large enterprises and our pricing is designed to be affordable for companies of all sizes."
+    },
+    {
+      "question": "What languages does Name Drop support?",
+      "answer": "Name Drop supports English, but you can use the free plan to assess other languages (since other languages are in beta)."
+    }
+  ],
+  "url": "https://name-drop.ai/"
+}

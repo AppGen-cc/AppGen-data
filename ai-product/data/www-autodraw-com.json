@@ -1,0 +1,28 @@
+{
+  "title": "AutoDraw",
+  "introduction": "AutoDraw is a tool that helps users create drawings quickly and easily. It offers a variety of features such as starting over, downloading, sharing, shortcuts, and information about artists.",
+  "features": [
+    "Start over",
+    "Download",
+    "Share",
+    "How-To",
+    "Shortcuts",
+    "Artists",
+    "About"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is AutoDraw?",
+      "answer": "AutoDraw is a tool that assists users in creating drawings quickly and easily."
+    },
+    {
+      "question": "Is AutoDraw free to use?",
+      "answer": "Yes, AutoDraw is completely free to use."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who want to create drawings quickly and easily",
+  "url": "https://www.autodraw.com/"
+}

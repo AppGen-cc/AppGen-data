@@ -1,0 +1,27 @@
+{
+  "description": "A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate... and it's getting more accurate all the time.",
+  "title": "NSFW JS",
+  "keywords": "NSFW detection, TensorflowJS, NSFWJS, NSFWJS Demo, JavaScript, NPM, Node Module",
+  "introduction": "Drag and drop an image to check for false positives, camera, and blur protection.",
+  "category": "AI Detector",
+  "features": [
+    "Drag and drop image checking",
+    "False positive detection",
+    "Camera protection",
+    "Blur protection"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Users who want to check images for false positives and protect against camera and blur issues",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What can I check with this tool?",
+      "answer": "You can check for false positives, camera issues, and blur protection in images."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "The availability of a free trial is not specified."
+    }
+  ],
+  "url": "https://nsfwjs.com/"
+}

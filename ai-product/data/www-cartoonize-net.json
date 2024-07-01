@@ -1,0 +1,80 @@
+{
+  "description": "Turn your photos into artwork, sketches, and cartoons with a click – the most simple, beautiful, and no-nonsense cartoonizer and photo editor for all.",
+  "title": "Photo to Cartoon – Cartoonize Yourself & Create Avatar Characters for Free",
+  "introduction": "Colorcinch is an all-in-one creative platform designed to help users achieve professional and stunning results with minimal time and virtually no experience. It offers a wide range of photo editing tools and AI-powered effects to transform photos into artwork, sketches, and cartoons.",
+  "category": "Image",
+  "features": [
+    "AI background removal",
+    "Crop & resize",
+    "Text masking",
+    "Text editor",
+    "Exposure control",
+    "Color & vibrance adjustment",
+    "Sharpen & blur",
+    "Straighten, flip & rotate",
+    "Color replacement",
+    "Freehand drawing",
+    "Multiple layers",
+    "Export & share",
+    "Cartoonizer, sketcher, and painting effects",
+    "Access to over 4 million stock photos",
+    "Over 50,000 vector graphics & icons",
+    "Hundreds of masks & frames",
+    "Combine & collage",
+    "Create memes",
+    "Dynamic color picker",
+    "Compress & convert images",
+    "Avatar maker",
+    "Profile picture maker",
+    "Glitch, bokeh & light leaks",
+    "Color splash maker",
+    "Pixelate & posterize",
+    "NFT maker",
+    "Blend & overlay images",
+    "Watermark photos",
+    "Grayscale images",
+    "Smart guides",
+    "Full-screen editor",
+    "Online & offline mode",
+    "Auto-save progress",
+    "Add vignette, tint & more"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals looking to edit photos and create digital artwork with minimal experience.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How much does Colorcinch cost and can I try it for free?",
+      "answer": "Colorcinch offers a Basic account for free with no registration required, and a Plus account for $8.99 per month or $59.88 annually, providing access to all premium features."
+    },
+    {
+      "question": "Can I cancel my subscription or switch to a different billing plan at anytime?",
+      "answer": "Yes, you can cancel or switch your subscription plan at any time. Refunds for annual subscriptions are available within the first 30 days."
+    },
+    {
+      "question": "Do I have to create an account to use Colorcinch?",
+      "answer": "No, an account is only necessary for the Plus subscription to manage projects and subscriptions."
+    },
+    {
+      "question": "Does Colorcinch work on Mac and Windows PC?",
+      "answer": "Yes, Colorcinch is a web-based platform that works on Mac, Windows PC, and Linux."
+    },
+    {
+      "question": "Do I have to download or install anything to use Colorcinch?",
+      "answer": "No, Colorcinch is entirely web-based and requires no downloads or installations."
+    },
+    {
+      "question": "Can I use images I edit with Colorcinch for commercial purposes?",
+      "answer": "Yes, you can use edited images for commercial purposes, but shared use of your Colorcinch account is prohibited."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Currently, only Credit/Debit card payments via Stripe are accepted."
+    },
+    {
+      "question": "What happens if I cancel my subscription?",
+      "answer": "Upon cancellation, your Plus subscription will be terminated, and all data will be permanently removed. Refunds for annual subscriptions are available within the first 30 days."
+    }
+  ],
+  "url": "https://www.cartoonize.net/"
+}

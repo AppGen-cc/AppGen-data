@@ -1,0 +1,23 @@
+{
+  "description": "Assemble, configure, and deploy autonomous AI Agents in your browser.",
+  "title": "AgentGPT",
+  "introduction": "ResearchGPT is an AI-powered research assistant that helps users generate comprehensive reports on various topics.",
+  "features": [
+    "AI-powered research assistance",
+    "Report generation",
+    "Data analysis"
+  ],
+  "price strategy": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial period for new users."
+    },
+    {
+      "question": "Who is the target user of ResearchGPT?",
+      "answer": "ResearchGPT is designed for students, researchers, and professionals who need assistance in generating detailed reports."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://agentgpt.reworkd.ai/"
+}

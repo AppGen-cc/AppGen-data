@@ -1,0 +1,28 @@
+{
+  "description": "Uncover hidden trends and patterns in your data effortlessly. Harness the power of AI with your data science copilot, turning complex data into clear insights.",
+  "title": "Grapha.ai | Assisted data exploration for everyone",
+  "introduction": "Uncover insights in your data faster. Reveal hidden trends and patterns in your data in hours or minutes. Harness the power of AI and turn complex data into meaningful insights with a few simple clicks.",
+  "category": "Business",
+  "features": [
+    "AI assisted storytelling",
+    "Stunning visualizations",
+    "Sound data practices",
+    "You control your data",
+    "Command your copilot",
+    "Export views"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Businesses and data analysts looking to uncover insights from complex datasets quickly and efficiently.",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "What is Grapha Prime?",
+      "answer": "Grapha Prime is a one-time, non-recurring payment plan that includes unlimited datasets per month, 250 questions per month, 90 day dataset & report retention, CSV or Excel upload, Google Sheets support, early access to new features, and a 30 day money back guarantee."
+    },
+    {
+      "question": "Are there any unexpected charges?",
+      "answer": "No, Grapha does not auto-charge your card at the end of the period. You can choose to manually renew your membership if you’re still getting value from the product."
+    }
+  ],
+  "url": "https://grapha.ai/"
+}

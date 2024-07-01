@@ -1,0 +1,34 @@
+{
+  "description": "Summarize anything, understand complex research, and organise your knowledge with Scholarcy.",
+  "title": "Scholarcy - Knowledge made simple",
+  "introduction": "Scholarcy is a tool that helps users summarize academic articles, books, and other texts efficiently. It allows for unlimited summarization, enhanced summaries, flashcard creation, and organization of information. Users can import various file formats and export flashcards, figures, and tables. Scholarcy also offers features like literature matrix creation, one-click bibliographies, and safe and secure checkout.",
+  "features": [
+    "Unlimited summarization",
+    "Enhanced summaries",
+    "Flashcard creation",
+    "Organization of information",
+    "Importing/exporting various file formats",
+    "Literature matrix creation",
+    "One-click bibliographies",
+    "Safe and secure checkout"
+  ],
+  "pricing": "Free trial available for the first 7 days. Subscription required for unlimited access to features.",
+  "faqs": [
+    {
+      "question": "Are there any limits on the free version?",
+      "answer": "The free version allows for up to 3 summaries per day. To access unlimited summaries and more features, a subscription to Scholarcy Library is required."
+    },
+    {
+      "question": "Do I get a free trial?",
+      "answer": "Yes, a free trial for Scholarcy Library is available for the first 7 days. Users can cancel the subscription if it does not meet their needs."
+    },
+    {
+      "question": "What happens if I cancel my subscription?",
+      "answer": "If you cancel your subscription, you will not lose your Flashcard Summaries. You can resubscribe at any time to continue using Scholarcy Library."
+    }
+  ],
+  "category": "Text&Writing",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, researchers, and individuals who need to summarize and organize academic texts",
+  "url": "https://www.scholarcy.com/"
+}

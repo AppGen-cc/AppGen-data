@@ -1,0 +1,29 @@
+{
+  "description": "Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.",
+  "title": "DeepL Translate: The world's most accurate translator",
+  "introduction": "DeepL is an online translation tool that allows users to easily adjust translations to suit their context with alternatives. It offers features such as selecting alternative words or phrases, translating unlimited text without restrictions, translating whole documents with one click, setting the tone of voice for translations, creating custom glossaries, using a built-in dictionary, and integrating with CAT tools for professional translators. DeepL has been recognized for its accuracy and nuanced translations, outperforming other translation services like Google and Microsoft.",
+  "category": "Category: AI Detector",
+  "features": [
+    "Select alternative words or phrases for translations",
+    "Translate unlimited text without restrictions",
+    "Translate whole documents with original formatting",
+    "Choose between formal and informal tone of voice for translations",
+    "Create custom glossaries for translations",
+    "Use built-in dictionary for more insight into translations",
+    "Integrate with CAT tools for professional translators"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Translators, professionals, individuals",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "The website does not specify if there is a free trial available."
+    },
+    {
+      "question": "Who can benefit from DeepL translations?",
+      "answer": "DeepL translations are beneficial for translators, professionals, and individuals who require accurate and nuanced translations."
+    }
+  ],
+  "url": "https://www.deepl.com/"
+}

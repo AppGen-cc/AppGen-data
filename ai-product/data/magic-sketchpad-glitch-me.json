@@ -1,0 +1,26 @@
+{
+  "title": "Magic Sketchpad",
+  "introduction": "Draw things with machines! Every time you lift your pen up, a machine learning algorithm tries to finish that stroke and match the category you've selected.",
+  "features": [
+    "Interactive drawing with machine learning algorithm",
+    "Ability to select categories for the drawing",
+    "Real-time stroke completion by machine learning"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Sketch RNN?",
+      "answer": "Sketch RNN is a tool that allows users to draw with the assistance of a machine learning algorithm that completes strokes based on the selected category."
+    },
+    {
+      "question": "Who built Sketch RNN?",
+      "answer": "Sketch RNN was built by @notwaldorf."
+    },
+    {
+      "question": "What technology is used in Sketch RNN?",
+      "answer": "Sketch RNN is built with magenta.js, a JavaScript library for machine learning in the browser."
+    }
+  ],
+  "category": "Design&Art",
+  "url": "https://magic-sketchpad.glitch.me/"
+}

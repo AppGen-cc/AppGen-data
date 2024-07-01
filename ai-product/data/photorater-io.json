@@ -1,0 +1,18 @@
+{
+  "description": "Discover the secret to looking your best on any occasion with PhotoRater. Our advanced AI-powered photo rating app provides personalized feedback to help you improve your appearance.",
+  "title": "PhotoRater - AI-powered photo rating app for any occasion.",
+  "keywords": "PhotoRater",
+  "introduction": "PhotoRater is an advanced AI-powered photo rating app that provides personalized feedback to help users improve their appearance. It helps users discover the secret to looking their best on any occasion.",
+  "features": [],
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "How does PhotoRater help you improve your looks for any occasion?",
+      "answer": "PhotoRater is an AI-powered service designed to objectively assess facial features and provide a comprehensive rating, helping users understand how others perceive their appearance."
+    }
+  ],
+  "category": "Image",
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Individuals looking to improve their appearance",
+  "url": "https://photorater.io/"
+}

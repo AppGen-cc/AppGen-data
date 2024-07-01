@@ -1,0 +1,32 @@
+{
+  "title": "Compose AI: Automated Your Writing",
+  "introduction": "Compose AI is an AI-powered writing tool that helps users generate text using AI, autocomplete sentences, write emails, create documents, and chat faster. It is trusted by 10,000+ teams and 400,000 people, backed by YCombinator.",
+  "category": "Marketing",
+  "features": [
+    "Autocomplete Everywhere",
+    "Personalization Of Your Writing Style",
+    "Unobtrusive Universal Integration"
+  ],
+  "hasFreeTrial": "The plugin is free to use forever, and there is a premium version with some advanced features including personalization features.",
+  "targetPeople": "Writers, professionals, individuals looking to save time on writing tasks.",
+  "pricing": "Free to use forever with a premium version available for advanced features.",
+  "faqs": [
+    {
+      "question": "What is Compose AI?",
+      "answer": "Compose AI is a free Chrome plugin that accelerates writing, allows autocomplete anywhere, and reduces typing time."
+    },
+    {
+      "question": "What is the cost?",
+      "answer": "The plugin is free to use forever, with a premium version available for advanced features."
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "Support can be contacted at support@composeai.com for any questions or assistance."
+    },
+    {
+      "question": "What about my privacy?",
+      "answer": "Compose AI takes privacy seriously, using text only for providing autocomplete suggestions and never selling user data. View the privacy policy for more details."
+    }
+  ],
+  "url": "https://www.compose.ai/"
+}

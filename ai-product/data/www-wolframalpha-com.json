@@ -1,0 +1,28 @@
+{
+  "description": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…",
+  "title": "Wolfram|Alpha: Computational Intelligence",
+  "introduction": "Pro provides step-by-step solutions for over 200 topics within math, chemistry, and physics problems across all levels of education, from elementary school to college. It covers arithmetic, statistics, differential equations, proofs, geometry, calculus, linear algebra, and physics.",
+  "features": [
+    "Step-by-step solutions for arithmetic problems",
+    "Analyzing data and applying statistical methods",
+    "Solving equations involving derivatives",
+    "Proving mathematical statements",
+    "Exploring two- and three-dimensional shapes and their properties",
+    "Computing limits, derivatives, and integrals",
+    "Solving problems involving vectors and matrices",
+    "Solving physics problems"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, there is a free trial available."
+    },
+    {
+      "question": "Who is the target user of Pro?",
+      "answer": "Pro is targeted towards students and individuals who need assistance with math, chemistry, and physics problems."
+    }
+  ],
+  "category": "Education",
+  "url": "https://www.wolframalpha.com/"
+}

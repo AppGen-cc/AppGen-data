@@ -1,0 +1,40 @@
+{
+  "description": "Turn hours of note taking into seconds. Record voice notes, and let the AI transcribe & structure them into actionable text. Create task lists, transcripts, blog posts, and more! Works in 50+ languages.",
+  "title": "Talknotes - The #1 AI voice note app",
+  "introduction": "TalkNotes is a voice-to-text conversion tool that allows users to create and manage notes through audio recordings. It offers features such as unlimited notes for regular users, notes up to 2 hours long for Pro users, and the ability to share recorder links for guest notes. The tool supports multiple languages and provides accurate voice-to-text conversion using AI technology. Users can edit transcripts, upload their own audio files, and access the service via mobile apps for iOS and Android.",
+  "features": [
+    "Unlimited notes for regular users",
+    "Notes up to 2 hours long for Pro users",
+    "Shareable recorder links for guest notes",
+    "Support for 50+ languages",
+    "Ability to upload audio files",
+    "Edit and organize transcripts"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is a Pro credit?",
+      "answer": "Pro users have access to extra features, like notes up to 2 hours long and shareable recorder link. These specific features use credits, unlike regular notes, which are unlimited."
+    },
+    {
+      "question": "What is a Guest Notes?",
+      "answer": "Guest notes are notes created through your shareable recorder link. Each guest note created consumes 1 credit."
+    },
+    {
+      "question": "How many credits do I need to make notes?",
+      "answer": "The credit requirements are as follows: Up to 20 minutes: 0 credits (unlimited), Up to 1 hour: 2 credits, Up to 2 hours: 4 credits."
+    },
+    {
+      "question": "How does the shareable recorder work?",
+      "answer": "Users receive a unique link to share with others, allowing them to leave notes. These notes, known as guest notes, are directly sent to the user's account, with each guest note consuming one credit."
+    },
+    {
+      "question": "Do I still have unlimited notes with the Pro plan?",
+      "answer": "Yes, the credit system is only applicable to notes longer than 20 minutes and Guest Notes."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who need to transcribe audio recordings efficiently",
+  "url": "https://talknotes.io/"
+}

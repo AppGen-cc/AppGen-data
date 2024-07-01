@@ -1,0 +1,57 @@
+{
+  "description": "AI to enhance, upscale and generate pictures. Increase resolution and quality. Fix blurry, pixelated, low res images. Make every photo sharp and clear. Start for free.",
+  "title": "Let’s Enhance: Image quality AI - make photos HD/4k & more online",
+  "introduction": "Let's Enhance is an AI-powered image enhancement tool that offers automatic fixes for low-resolution photos. It provides features like upscaling images, removing watermarks, and enhancing image quality. The tool is suitable for individuals and businesses looking to improve the resolution and quality of their images.",
+  "features": [
+    "Upscale images up to 256 megapixels",
+    "Unlimited storage for 6 months",
+    "Email support",
+    "Upgrade anytime",
+    "Watermark removed for paid users",
+    "Unused credits roll over",
+    "Save up to 3000 unused credits",
+    "Priority enhancement",
+    "Chat support",
+    "Early access to new features",
+    "Downgrade, Upgrade, or Cancel anytime"
+  ],
+  "pricing": "Subscription with options for different credit limits and storage capacities. Business plans have a maximum limit of 500 megapixels.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals and businesses",
+  "faqs": [
+    {
+      "question": "How to make a high-resolution image online?",
+      "answer": "Let's Enhance fixes low resolution photos automatically with minimal settings. Users can upscale images and change their resolution by uploading them to the website and clicking Start processing."
+    },
+    {
+      "question": "To what maximum resolution can I enlarge my image?",
+      "answer": "Free users can upscale images up to 64 megapixels, while paid subscriptions allow up to 256 megapixels. Business plans have a limit of 500 megapixels."
+    },
+    {
+      "question": "How can I enhance a photo?",
+      "answer": "To enhance a photo, users can upload it to the Let's Enhance website, turn on the Light AI toggle to improve colors and lighting, and click Start processing."
+    },
+    {
+      "question": "How to remove JPEG artifacts?",
+      "answer": "When enhancing images using any upscale mode, Let's Enhance automatically cleans images from compression artifacts and JPEG noise."
+    },
+    {
+      "question": "What pictures work best with Let's Enhance?",
+      "answer": "Let's Enhance works best with unprocessed JPEGs and PNGs that were not previously upscaled or sharpened. Experimenting with resolution adjustments can yield better results for upscaled or scanned images."
+    },
+    {
+      "question": "How does Let's Enhance work?",
+      "answer": "Let's Enhance uses Super Resolution technology based on Deep Convolutional Neural Networks to upscale images and add extra details. The AI application is trained on a large dataset of images to enhance photos without losing quality."
+    },
+    {
+      "question": "Is there an iPhone or Android Let's Enhance app?",
+      "answer": "Currently, there are no native iOS or Android apps for Let's Enhance. However, users can access the online photo enhancer from popular mobile browsers."
+    },
+    {
+      "question": "How does your tool differ from other image editing software?",
+      "answer": "Let's Enhance offers an intuitive online tool that combines features of image upscaling, sharpening, retouching, and clarity without the need for manual editing in Photoshop. The AI technology provides enhanced results compared to traditional software."
+    }
+  ],
+  "category": "AI detector",
+  "url": "https://letsenhance.io/"
+}

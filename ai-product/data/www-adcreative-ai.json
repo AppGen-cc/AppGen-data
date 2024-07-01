@@ -1,0 +1,28 @@
+{
+  "description": "AdCreative.ai empowers your advertising with AI. Generate conversion-focused ad creatives, utilize AI for product photoshoots, and access detailed competitor insights. Our platform offers a comprehensive suite of tools for creating impactful ad texts and visuals, ensuring your campaigns stand out in a competitive market. Ideal for marketers seeking an all-in-one solution for innovative, data-driven advertising strategies.",
+  "title": "Your AI Powerhouse for All Advertising Needs",
+  "introduction": "AdCreative.ai is a platform that offers creative generation tools for ads, including features like brand creation, unlimited generations, integrations, free stock images, text generator AI, and creative insights pro. Users can collaborate with multiple team members and enjoy a 100% refund policy.",
+  "category": "The classification of the website \"AdCreative.ai\" is \"AI Detector\".",
+  "features": [
+    "Brand creation with logo and brand details",
+    "Unlimited creative generations",
+    "Integrations with ad accounts",
+    "Access to over 100 million free stock images",
+    "Text Generator AI for ad texts and headlines",
+    "Creative Insights Pro for analyzing creatives"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Marketers, advertisers, and businesses",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What are credits used for?",
+      "answer": "Credits are used to download each creative or banner generated on AdCreative.ai."
+    },
+    {
+      "question": "What is the refund policy?",
+      "answer": "AdCreative.ai offers a 100% refund policy. Users can contact support for refunds."
+    }
+  ],
+  "url": "https://www.adcreative.ai/"
+}

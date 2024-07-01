@@ -1,0 +1,32 @@
+{
+  "description": "Vana is the first network for user-owned data",
+  "title": "Vana | User-Owned Data",
+  "introduction": "The first network for user-owned data, advocating for an open internet where users own their data and the AI models they contribute to.",
+  "category": "AI Detector",
+  "features": [
+    "User-owned data network",
+    "Open internet advocacy",
+    "Community-driven AI model creation",
+    "Access to world's best datasets",
+    "User data exportation",
+    "Foundation model trained by 100M users"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Researchers, AI developers, and users interested in data ownership",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is the main goal of the network?",
+      "answer": "To create an open internet where users own their data and the AI models they contribute to."
+    },
+    {
+      "question": "How are AI models created in this network?",
+      "answer": "AI models are created iteratively by a community, similar to open source software."
+    },
+    {
+      "question": "Who contributes to the foundation model?",
+      "answer": "100M users who contribute their data and compute."
+    }
+  ],
+  "url": "https://www.vana.com/"
+}

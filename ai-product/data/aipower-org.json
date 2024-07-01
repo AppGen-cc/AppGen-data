@@ -1,0 +1,34 @@
+{
+  "description": "GPT AI Power makes it easy to generate high-quality, engaging content.",
+  "title": "Complete AI Pack - AI Power - Complete AI Pack for WordPress",
+  "introduction": "AI Power is a comprehensive AI plugin for WordPress that offers features such as content generation, image generation, form creation, and more using advanced AI models like GPT-3.5, GPT-4, DaVinci, and others. It also includes a ChatGPT bot, WooCommerce integration, and customizable AI training options.",
+  "category": "Code&IT",
+  "features": [
+    "Content Generation from RSS",
+    "Content Generation from Google Sheets",
+    "Fully Customizable AI Forms",
+    "WooCommerce Product Writer",
+    "Vector Databases (Pinecone, Qdrant)",
+    "Easy setup with OpenAI API key",
+    "Clean and simple user interface",
+    "AI Chatbot Lisa for assistance"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "WordPress users looking to enhance their websites with AI-powered features",
+  "pricing": "Free, Pro, Enterprise",
+  "faqs": [
+    {
+      "question": "What is AI Power?",
+      "answer": "AI Power is a ChatGPT plugin for WordPress that uses advanced AI models like GPT-3.5 and GPT-4 to generate customizable content, images, and forms. It also includes features like Chat bots, Pexels integration, WooCommerce support, and more."
+    },
+    {
+      "question": "How do I set up AI Power?",
+      "answer": "Setting up AI Power is simple. Just enter your OpenAI API key on the plugin settings page to access all features like content generation, title suggestion tool, audio-to-text conversion, semantic search, and GPT model comparison."
+    },
+    {
+      "question": "What assistance does the AI Chatbot Lisa provide?",
+      "answer": "The AI Chatbot Lisa offers support to users by answering queries, providing tips, and guiding users through the plugin features. Lisa is accessible through the chat widget on the website for convenient assistance."
+    }
+  ],
+  "url": "https://aipower.org/"
+}

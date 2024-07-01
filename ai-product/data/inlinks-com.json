@@ -1,0 +1,52 @@
+{
+  "title": "Inlinks® Entity SEO Tool",
+  "introduction": "InLinks is a tool designed to simplify SEO, content, and social media management. It helps users save time, scale quicker, and achieve better results. Thousands of SEO professionals use InLinks to improve their website rankings and manage internal links and schema.",
+  "category": "Marketing",
+  "features": [
+    "Manages internal links on your site",
+    "Adds Schema to web pages",
+    "Does not collect personal data",
+    "Does not create outbound links",
+    "Low latency and does not slow down your site",
+    "Integrates links in text paragraphs",
+    "Internal linking and Schema fully interpreted by Google"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "SEO professionals, website owners, digital marketers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What does the InLinks code do?",
+      "answer": "The code helps InLinks to manage internal links on your site and add Schema to your web pages."
+    },
+    {
+      "question": "Does the InLinks code collect personal data?",
+      "answer": "No, it does not collect any personal data, not even IP numbers of users."
+    },
+    {
+      "question": "Will the InLinks code slow down my site?",
+      "answer": "No, the latency on the code is extremely low and it will not slow down your site."
+    },
+    {
+      "question": "How do I install the InLinks code on WordPress?",
+      "answer": "You can install the code using plugins like 'Insert Headers and Footers' or 'Header and Footer Scripts' and add the code in the footer section."
+    },
+    {
+      "question": "What should I do if the InLinks code is not recognized?",
+      "answer": "Check if the code is added correctly, ensure you have made at least one topic association, and verify that the InLinks crawler is not blocked."
+    },
+    {
+      "question": "Can I use Google Tag Manager to install the InLinks code?",
+      "answer": "Yes, you can use Google Tag Manager to insert the code."
+    },
+    {
+      "question": "How do I install the InLinks code on Wix sites?",
+      "answer": "Open settings, click on 'Tracking & Analytics', add a new custom tool, and paste the JavaScript code in the top box."
+    },
+    {
+      "question": "What security considerations should I be aware of?",
+      "answer": "You can avoid calling the .js file on a third-party server by adding the code directly or putting the .js file on your own server. Ensure not to provide login details to untrusted third parties."
+    }
+  ],
+  "url": "https://inlinks.com/"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "AI-powered tool that autonomously analyzes session recordings and identifies UX and SEO issues.",
+  "title": "AI-Powered Website Heatmaps, Recordings and UX Analytic Tools",
+  "introduction": "Improve your website's UX and boost conversions with UXsniff, an AI-powered tool that autonomously analyzes session recordings and identifies abnormal click patterns. Let UXsniff be your virtual UX analyst, enhancing your site's UX and conversion rates.",
+  "category": "Business",
+  "features": [
+    "AI-powered session recording analysis",
+    "AI Assistants for customer support",
+    "Heatmaps for visualizing user behavior",
+    "GPT summaries of session recordings",
+    "Automated SEO and UX audits",
+    "Feedback widget for collecting user feedback",
+    "On-site surveys for user insights",
+    "Integration with Zapier for automation"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Website owners, UX designers, marketers, and growth hackers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free plan available?",
+      "answer": "Yes, free plan is available upon request, our forever free plan comes with 4,500 free monthly pageviews with 150 recording limits."
+    },
+    {
+      "question": "What are AI Assistants?",
+      "answer": "AI Assistants are AI-powered chat assistant that support your customers based on the knowledge they have been trained with. Set up in 3 simple steps, train with just 3 clicks, and deploy a knowledgeable AI chat assistant ready to engage your customers like never before."
+    },
+    {
+      "question": "What are sessions?",
+      "answer": "A session is the full journey of a visitor on your site including every page they visit. Every time a visitor comes to your site, UXsniff will record their journey and interactions with your page. You can analyze this data in Heatmaps and Recordings."
+    },
+    {
+      "question": "Will UXsniff protect my visitor's privacy?",
+      "answer": "Of course, UXsniff collects anonymous insights and not on personal data. We support user privacy and anonymity and are fully committed to compliance with the GDPR."
+    },
+    {
+      "question": "What makes UXsniff different?",
+      "answer": "We’re an indie studio developing the new tracking kid on the block: cozy, lightweight, but fully powered and ready for the future. You get behavioral tracking that just works and looks out for you, without extra complexity, confusing pricing, or a crazy learning curve."
+    },
+    {
+      "question": "Why should I upgrade to a paid plan?",
+      "answer": "If you love fine-grained tracking, need a lot of data, and want a full-time watchdog at your side, then you’ll love our pro plans. We try our darndest to make most features and horsepower available to free users, but things like auto-archiving, data retention, and advanced reporting cost us significant resources. Try free for 14 days, no strings attached, to smell the full power of cozy user analytics."
+    },
+    {
+      "question": "I am a Nonprofit. Do you offer any discounts?",
+      "answer": "Yes, we offer special pricing for non-profit organizations and causes. Please contact us for more information."
+    }
+  ],
+  "url": "https://uxsniff.com/"
+}

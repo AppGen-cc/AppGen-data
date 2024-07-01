@@ -1,0 +1,57 @@
+{
+  "description": "Deep Art Effects transforms your photos and videos into works of neural art using artistic style transfer of famous artists.",
+  "title": "Deep Art Effects: Be an artist! Turn your photos into awesome artworks",
+  "introduction": "Deep Art Effects allows you to easily and innovatively edit images using artificial intelligence. Create unique works of art from your pictures, scale images to four times the original size without loss of quality, optimize or color images automatically, imitate expensive SLR cameras, and automatically cut out backgrounds. All this offline and the pictures stay with you!",
+  "category": "Image",
+  "features": [
+    "Easily edit images using artificial intelligence",
+    "Create unique works of art from pictures",
+    "Scale images to four times the original size without loss of quality",
+    "Optimize or color images automatically",
+    "Imitate expensive SLR cameras",
+    "Automatically cut out backgrounds",
+    "Works offline, keeping pictures private"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Photographers, digital artists, and anyone interested in enhancing their images using AI",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does the installation work? Is it complicated?",
+      "answer": "The installation of our software is very easy. We also released video guides for the windows and mac os x operating system."
+    },
+    {
+      "question": "How does the software differ from common photo filters?",
+      "answer": ""
+    },
+    {
+      "question": "Can I cancel the software at any time?",
+      "answer": ""
+    },
+    {
+      "question": "What is the quality of the created artworks?",
+      "answer": ""
+    },
+    {
+      "question": "I already have the mobile app, why is the desktop version worth it?",
+      "answer": ""
+    },
+    {
+      "question": "How exactly does the Abstract AI work?",
+      "answer": ""
+    },
+    {
+      "question": "What else will be possible in the future with the GAN feature?",
+      "answer": ""
+    },
+    {
+      "question": "Is it allowed to use the images I created with Deep Art Effects for a website or book?",
+      "answer": ""
+    },
+    {
+      "question": "Software cannot be opened on Mac OS - what to do?",
+      "answer": ""
+    }
+  ],
+  "url": "https://www.deeparteffects.com/"
+}

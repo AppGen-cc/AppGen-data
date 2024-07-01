@@ -1,0 +1,29 @@
+{
+  "description": "IllumiDesk helps you create end to end courses with A.I. With IllumiDesk's A.I., you can also add documents to support better context for the generative A.I. model.",
+  "title": "Course with AI",
+  "introduction": "This website uses cookies to enhance user experience and provide personalized services.",
+  "category": "Other",
+  "features": [
+    "Improves website experience",
+    "Provides personalized services",
+    "Complies with user preferences"
+  ],
+  "hasFreeTrial": "Not applicable",
+  "targetPeople": "General website visitors",
+  "pricing": "Not applicable",
+  "faqs": [
+    {
+      "question": "Why does this website use cookies?",
+      "answer": "To improve user experience and provide personalized services."
+    },
+    {
+      "question": "Will my information be tracked?",
+      "answer": "No, your information will not be tracked."
+    },
+    {
+      "question": "What if I don't want cookies?",
+      "answer": "A tiny cookie will be used to remember your preference so you won't be asked again."
+    }
+  ],
+  "url": "https://info.illumidesk.com/generate-course-with-ai"
+}

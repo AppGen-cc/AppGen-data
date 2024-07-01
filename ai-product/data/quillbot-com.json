@@ -1,0 +1,32 @@
+{
+  "description": "QuillBot's AI-powered paraphrasing tool helps students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension.",
+  "title": "Paraphrasing Tool - QuillBot AI",
+  "keywords": "paraphrasing tool, paraphrasing, paraphraser, rephrase, paraphrasing tool online free, paraphrase generator, paraphrase online, paraphrasing tool free, paraphrasing website, paraphrasing tool online, free paraphrasing",
+  "introduction": "QuillBot's AI-powered paraphrasing tool is designed to enhance writing by providing users with the right vocabulary, tone, and style for any occasion. It offers unlimited Custom modes and 9 predefined modes to rephrase text in various ways, improving fluency and customization options.",
+  "features": [
+    "Customization options with a Synonym Slider",
+    "AI-powered thesaurus for finding synonyms",
+    "Integration with popular writing tools like Gmail, Google Docs, and Microsoft Word",
+    "Free and easy-to-use rewording tool with customization options",
+    "9 predefined paraphrasing modes for different writing styles"
+  ],
+  "pricing": "Free with Premium plans available, 3-day money-back guarantee",
+  "faqs": [
+    {
+      "question": "Why use QuillBot’s Paraphrasing Tool?",
+      "answer": "QuillBot's Paraphraser offers unique features such as customization options, AI-powered thesaurus, and integrations with popular writing tools."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "QuillBot's rewording tool is free to use with the option to upgrade to Premium plans."
+    },
+    {
+      "question": "Who is the target user of this product?",
+      "answer": "QuillBot is trusted by millions of students, writers, and professionals worldwide who want to improve their writing skills."
+    }
+  ],
+  "category": "Text&Writing",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, writers, professionals",
+  "url": "https://quillbot.com/"
+}

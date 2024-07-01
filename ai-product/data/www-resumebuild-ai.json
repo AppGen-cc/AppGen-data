@@ -1,0 +1,44 @@
+{
+  "description": "ResumeBuild is the best free AI resume builder —  trained to create the most effective resume to get you hired, with extra features such as mock interview, job searching, resume tailoring, and more.",
+  "title": "The best AI Resume Builder in the world trusted by 1.4M+",
+  "introduction": "ResumeBuild is the world's most trusted free AI Resume Builder. We write and build your CV, optimizing your ATS job applications for the best chances of getting hired. ResumeBuild supercharges your career prospects with AI – from resume writing to interviewing, we make you the perfect candidate.",
+  "category": "Text&Writing",
+  "features": [
+    "A.I. GPT Resume Builder: Write or rewrite individual bullet points based on real-world best practices and quantifies your achievements.",
+    "A.I. Keyword Targeting: Instantly improve your interview rate by targeting words that your recruiter will look for.",
+    "A.I. Real-time content analysis: Quickly spots content pitfalls in your resume, like missing bullet points, overused buzzwords, and opportunities for enhancing your message.",
+    "Score your resume: Critiques how well you've created your resume across 23 criteria points.",
+    "Easy Design Controls: Get full creative control without compromising ATS Optimization.",
+    "A.I. Cover Letter & Resignation Letter: Create tailored AI-written cover letters and resignation letters for your specific job application or current position.",
+    "PDF, DOCX, Google Drive: Export your resume in multiple formats.",
+    "Expert Resume Review: Get professional feedback on your resume.",
+    "AI Skills Explorer: Discover and highlight relevant skills.",
+    "LinkedIn Profile Importing: Easily import your LinkedIn profile information.",
+    "Version Management: Manage different versions of your resume.",
+    "Integrated Video Guides: Access video tutorials for guidance.",
+    "A.I. Job Matching (Coming soon): Matches your resume to top hiring companies.",
+    "A.I. Mock Interview (Coming soon): Practice and ace the most common questions for the position you're seeking."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Job seekers looking to improve their resumes and increase their chances of getting hired.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is ResumeBuild Lifetime?",
+      "answer": "ResumeBuild Lifetime gives you access to all premium ResumeBuild features at a one-time cost rather than a monthly subscription."
+    },
+    {
+      "question": "Is ResumeBuild Lifetime the same as ResumeBuild Pro?",
+      "answer": "Almost. ResumeBuild Lifetime doesn't come with free monthly reviews or Unlimited AI Credits."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "You have the option to request a refund for the current month within 24 hours of the transaction. Please be aware that we hold the right to refuse this request if our software has been used during this time. Refunds are not available for ResumeBuild Lifetime subscriptions."
+    },
+    {
+      "question": "Where can I upgrade my plan?",
+      "answer": "You can upgrade your plan on the ResumeBuild website."
+    }
+  ],
+  "url": "https://www.resumebuild.ai/"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "Conversational AI leadership tool that is revolutionizing leadership coaching, infinitely scalable and capable of being deployed as a leadership development tool to your entire org",
+  "title": "Leadership Coaching App | Create Free Account Today",
+  "introduction": "Ren is a conversational AI leadership platform that revolutionizes leadership coaching by providing every employee with access to a 24/7 personal leadership coach. It understands the company's values, goals, and team dynamics, offering private and secure coaching for personal growth based on individualized data profiles. Ren is infinitely scalable and can be deployed to thousands of employees, providing real-time leadership coaching advice.",
+  "category": "AI Detector",
+  "features": [
+    "Access to a 24/7 personal leadership coach",
+    "Understanding company's values, goals, and team dynamics",
+    "Private and secure coaching for personal growth",
+    "Infinitely scalable and capable of being deployed to thousands of employees",
+    "Providing real-time leadership coaching advice"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Organizations looking to enhance leadership coaching and personal growth for employees",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "Is Ren's coaching private and secure?",
+      "answer": "Yes, Ren offers private and secure coaching for employees."
+    },
+    {
+      "question": "Can Ren be deployed to thousands of employees within an organization?",
+      "answer": "Yes, Ren is infinitely scalable and capable of being deployed to thousands of employees."
+    },
+    {
+      "question": "Does Ren provide real-time leadership coaching advice?",
+      "answer": "Yes, Ren provides real-time leadership coaching advice with unmatched reach and depth."
+    }
+  ],
+  "url": "https://rencoach.com/"
+}

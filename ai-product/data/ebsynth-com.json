@@ -1,0 +1,31 @@
+{
+  "title": "EbSynth - Transform Video by Painting Over a Single Frame",
+  "introduction": "EbSynth is a video synthesis tool that allows users to create artistic effects in videos by painting keyframes and generating output sequences.",
+  "category": "Code&IT",
+  "features": [
+    "Mapping for controlling output strokes location",
+    "De-flicker to suppress texture flickering",
+    "Diversity for preserving visual richness",
+    "Export to After Effects for easy composition",
+    "Support for transparent backgrounds and alpha masks",
+    "Tips for lighting, costumes, format, and layers for better results"
+  ],
+  "hasFreeTrial": "Yes, the beta version is free for commercial use",
+  "targetPeople": "Video editors, animators, and artists",
+  "pricing": "The beta version is free for commercial use, while the final professional version will be paid",
+  "faqs": [
+    {
+      "question": "How can I fix leakage out of the alpha borders when painting keyframes?",
+      "answer": "You can match the painting with the reference frame or use an alpha mask sequence in the EbSynth GUI."
+    },
+    {
+      "question": "What should I do if EbSynth crashes unexpectedly?",
+      "answer": "Check input file names and ensure numbers have 9 digits tops. Contact support if the issue persists."
+    },
+    {
+      "question": "How can I convert video files to image sequences for EbSynth Beta?",
+      "answer": "You need to convert videos to image sequences (png or jpg) first. Various tools and software can help with this conversion process."
+    }
+  ],
+  "url": "https://ebsynth.com/"
+}

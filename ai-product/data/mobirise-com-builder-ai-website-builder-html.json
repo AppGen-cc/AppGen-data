@@ -1,0 +1,42 @@
+{
+  "description": "Generate a website with AI Website Generator. Export and publish anywhere. Type prompts in any language.",
+  "title": "AI Website Generator - Free & Awesome",
+  "introduction": "It is an online generator that leverages AI to automate website creation; it intuitively generates aesthetically pleasing, high-functioning sites based on user prompts and preferences.",
+  "category": "Design&Art",
+  "features": [
+    "Generates limitless, sophisticated designs based on prompts",
+    "No coding required, just prompts",
+    "Edit and style options for customization",
+    "Regenerate content if not satisfied",
+    "Preview and publish functionality",
+    "Code editor for advanced customization",
+    "Cool integrations with social media, Google Fonts, Google Maps, etc.",
+    "Ecommerce features with SmartCart extension"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Non-techies, individual owners, small-to-medium sized businesses, those with limited web design knowledge or looking for a time-efficient solution",
+  "pricing": "Free of charge",
+  "faqs": [
+    {
+      "question": "What is an AI website generator?",
+      "answer": "It is a type of software that uses artificial intelligence and machine learning to simplify the process of creating websites. Rather than asking the user to manually design every aspect, an AI generator can use data and algorithms to determine design elements and functionality, and automatically construct the website."
+    },
+    {
+      "question": "What are the benefits of using an AI website generator?",
+      "answer": "These tools can save time, simplify the design process, provide personalization meant to increase user engagement, and may even cost less than hiring an individual or team to do the same work. They also give those without design experience the opportunity to create aesthetically attractive and functional websites."
+    },
+    {
+      "question": "What is the best AI website generator?",
+      "answer": "Yes, Mobirise AI is an excellent option to create websites with AI. It offers a user-friendly interface that everybody could easily navigate through. Moreover, it allows multiple customization options coupled with impressive design speed and efficiency."
+    },
+    {
+      "question": "Who should use an AI for designing websites?",
+      "answer": "Anyone who wants to create a website could benefit from the usage of an AI, especially individual owners and small-to-medium sized businesses. It is quite useful for those with limited knowledge and experience in web design or for those looking for a time-efficient solution."
+    },
+    {
+      "question": "How does Mobirise AI save time building websites?",
+      "answer": "Benefiting from machine learning algorithms, Mobirise AI quickly learns your preferences while still allowing for editing after the initial draft. They allow you to sidestep much of the design process unique to a skilful team –livings room for focusing, on content creation and business strategies."
+    }
+  ],
+  "url": "https://mobirise.com/builder/ai-website-builder.html"
+}

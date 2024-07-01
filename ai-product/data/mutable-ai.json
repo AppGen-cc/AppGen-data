@@ -1,0 +1,30 @@
+{
+  "description": "mutable.ai - Automate your code documentation, reduce sync time, and increase code fluency.",
+  "title": "mutable.ai",
+  "keywords": "mutable.ai, code documentation, AI-generated wiki, codebase management",
+  "introduction": "Mutable AI is a platform that automatically generates living documentation from codebases using AI technology. It offers features such as Auto Wiki, AI Chat, and Editable capabilities to enhance code documentation and collaboration. The platform aims to revolutionize programming practices by leveraging AI advancements to improve productivity and satisfaction for software engineers.",
+  "category": "Code&IT",
+  "features": [
+    "Auto Wiki: Automatically generates articles from codebases and keeps them up-to-date with AI.",
+    "AI Chat: Quickly extract answers using AI chat with a non-technical mode for team collaboration.",
+    "Editable: Allows manual revision of sections or entire articles with AI assistance."
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Software engineers, developers, and teams looking to streamline code documentation and collaboration processes.",
+  "pricing": "Subscription-based model",
+  "faqs": [
+    {
+      "question": "What is Mutable AI's mission?",
+      "answer": "Mutable AI aims to enhance productivity and satisfaction for software engineers by leveraging AI advancements in programming practices."
+    },
+    {
+      "question": "What are the key features of Mutable AI?",
+      "answer": "The key features include Auto Wiki for automatic article generation, AI Chat for quick answers, and Editable for manual or AI-assisted revisions."
+    },
+    {
+      "question": "Who can benefit from Mutable AI?",
+      "answer": "Software engineers, developers, and teams seeking improved code documentation and collaboration tools."
+    }
+  ],
+  "url": "https://mutable.ai/"
+}

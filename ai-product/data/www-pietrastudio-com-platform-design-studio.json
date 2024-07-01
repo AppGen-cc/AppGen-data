@@ -1,0 +1,51 @@
+{
+  "description": "Design a best-selling product using AI",
+  "title": "Product Design Studio | Pietra",
+  "introduction": "Pietra offers a range of services for businesses, including product design tools, access to vetted factory networks, storage and fulfillment solutions, storefront and print-on-demand services, email and influencer marketing, data analytics, and more. The pricing options include monthly, quarterly, or annual payments with the flexibility to upgrade as needed.",
+  "category": "[\"Business\"]",
+  "features": [
+    "Expert setup, support & lower prices",
+    "Product design tools",
+    "Use 1200+ vetted factory network",
+    "Storage & lowest price fulfillment",
+    "Storefront & print on demand",
+    "Email & Influencer marketing",
+    "Data & analytics for website",
+    "Sell on TikTok Shopping",
+    "Access to 1:1 experts for your brand"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses",
+  "pricing": "Pay monthly, quarterly, or annually. Upgrade anytime as your needs change.",
+  "faqs": [
+    {
+      "question": "Which plan is right for me?",
+      "answer": "Pietra offers different plans tailored to various business stages, such as Full Service for all-access pass, Launch & Grow for operating and growing a business, Launch for beginners, Design & Sample for planning product lines, and Grow for essential Shopify apps at an affordable price."
+    },
+    {
+      "question": "Can I change my plan?",
+      "answer": "There is no minimum commitment with Pietra, and you can change, pause, or cancel your plan anytime."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, there is a free account to browse the platform with no credit card required. Additionally, a 14-day trial is available for analytics and software tools."
+    },
+    {
+      "question": "How often will I be billed?",
+      "answer": "Billing options include monthly, quarterly, or annual payments with discounts for quarterly and annual billing to maximize savings."
+    },
+    {
+      "question": "Does Pietra work with my existing store?",
+      "answer": "Pietra supports integration with leading storefront platforms like Shopify, Wix, and WooCommerce, and manual order entry for other platforms."
+    },
+    {
+      "question": "Can Pietra help me design my website?",
+      "answer": "Pietra provides storefront listing on its marketplace and lists freelancers for logo and website design services."
+    },
+    {
+      "question": "What if I need more help?",
+      "answer": "Pietra offers resources in its Education hub, including guides, workshops, and a community to assist entrepreneurs in getting started."
+    }
+  ],
+  "url": "https://www.pietrastudio.com/platform/design-studio"
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Write your novel or screenplay faster with the best AI tool for fiction. Start for free today and see why The New Yorker calls it \"a salvation\" for writers and why NY Times, The Verge, and many more love Sudowrite.",
+  "title": "Sudowrite - Best AI Writing Partner for Fiction",
+  "introduction": "Sudowrite is an AI tool designed to assist writers in improving and speeding up their writing process. It offers suggestions and helps users enhance their creativity.",
+  "features": [
+    "Supports writing in almost any language",
+    "Uses over two dozen AI models including GPT-3.5 and GPT-4",
+    "Does not claim rights or ownership over user content",
+    "Does not plagiarize unless explicitly forced to, against terms of service"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Does Sudowrite learn and improve from my writing?",
+      "answer": "Sudowrite does not use your writing to train its AI models but constantly listens to feedback to improve the tool."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "You can easily cancel your subscription by going to your subscription page and hitting cancel, no phone calls or hassle involved."
+    },
+    {
+      "question": "If I cancel, do I lose access to my written content?",
+      "answer": "You can still access and work on your projects in Sudowrite even after canceling, but AI features will require a paid plan."
+    }
+  ],
+  "category": "\"AI Detector\"",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Writers",
+  "url": "https://www.sudowrite.com/"
+}

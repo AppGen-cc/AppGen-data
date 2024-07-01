@@ -1,0 +1,55 @@
+{
+  "description": "ProductScope AI was Built for Brand Owners & Creative Agencies to help create beautiful product photos & optimized Amazon Listings in seconds.",
+  "title": "AI Product Photography & Amazon Lising Optimizer for Brands",
+  "introduction": "ProductScope AI equips e-commerce brands, marketers, and agencies with AI-powered tools to enhance their product design and marketing efforts. It streamlines the creation of engaging product visuals, offers deep customer insights, and crafts SEO-friendly content to boost brand visibility, conversions, and sales.",
+  "category": "Marketing",
+  "features": [
+    "AI Photoshoot Tool: Create Instagram-worthy photos for any product in minutes.",
+    "Amazon Chrome Extension: Gain unique Amazon customer insights for any ASIN with a single click.",
+    "Amazon Listing Optimizer: Craft fully optimized Amazon listings in seconds.",
+    "Custom AI Backgrounds: Generate background scenes based on custom prompts.",
+    "Easy Drag-and-drop Editor: Easily edit your images with AI.",
+    "Images with multiple products: Upload multiple products or logos to your backgrounds.",
+    "Access to 31 Themes and 500+ Backdrops: Choose from a library of over 250 images spanning 21 different themes.",
+    "Magic Erase, Draw, Reimagine & more: Remove objects, defects, people, or text from your pictures in seconds.",
+    "Burst Mode: Generate 10-30 product photos with a single click.",
+    "Fast generations: Priority GPU access for quick image generation.",
+    "1 Click Resize & Upscaling: Generate photoshoots in multiple resolutions, upscale up to 2048x2048 resolution.",
+    "Photo Storage: Retain historical access to photoshoot results.",
+    "Chat Support: Real-time chat support from an AI-powered support bot."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "E-commerce brands, designers, and marketing agencies.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can I sign up for a free trial?",
+      "answer": "You can sign up risk-free and without a credit card. A free account offers 200 free image credits with the Photoshoot tool and 1 listing optimization with the Amazon listing optimizer."
+    },
+    {
+      "question": "How much does ProductScope AI cost?",
+      "answer": "AI Photoshoot plans: $19/month for 1,000 image credits or $39/month for unlimited images. Amazon Listing Optimizer plans: $34/month for 10 listings or $99/month for 50 listings. Annual plans offer up to 30% savings."
+    },
+    {
+      "question": "Who owns the images I create?",
+      "answer": "You own the images and are free to use them as you wish."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, you can sign up for a free account which includes 200 free image credits and 1 free listing optimization."
+    },
+    {
+      "question": "What are the free Amazon Insights?",
+      "answer": "The Amazon Insights Chrome Extension analyzes Amazon reviews to provide insights about customer demographics, intent, sentiment, and motivation."
+    },
+    {
+      "question": "How does ProductScope AI ensure data security?",
+      "answer": "ProductScope AI ensures that data is not stored with a third-party AI technology provider. Anonymized data is shared with a third-party LLM partner only when using the feature, with a zero-retention/zero-training policy."
+    },
+    {
+      "question": "Do you offer any advertising support?",
+      "answer": "Yes, through FosterFBA, a leading Amazon Advertising Agency. FosterFBA Ad clients get access to Pro plans for both tools in ProductScope AI."
+    }
+  ],
+  "url": "https://productscope.ai/"
+}

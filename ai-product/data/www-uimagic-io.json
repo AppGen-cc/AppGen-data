@@ -1,0 +1,29 @@
+{
+  "description": "Create a Website With AI - a powerful tool with web hosting",
+  "title": "UiMagic",
+  "introduction": "UiMagic is an AI-powered website builder that offers quick and effortless website creation with advanced AI technology. It provides features like generating compelling content, hosting services, and an easy-to-use drag-and-drop builder. Customers praise UiMagic for its intuitive and impressive AI capabilities.",
+  "category": "AI Detector",
+  "features": [
+    "Quick And Effortless Copy: Generate compelling content in seconds",
+    "Hosting: Ensure website stays live and accessible",
+    "Easy to use builder: Design websites effortlessly with drag-and-drop feature"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Website creators",
+  "pricing": "Free for Basics plan, $29/month for Advanced plan",
+  "faqs": [
+    {
+      "question": "What features does UiMagic offer?",
+      "answer": "UiMagic offers features like quick content generation, hosting services, and an easy-to-use website builder."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, UiMagic offers a free Basics plan for users to try out."
+    },
+    {
+      "question": "What is the pricing for UiMagic's Advanced plan?",
+      "answer": "The Advanced plan of UiMagic is priced at $29 per month."
+    }
+  ],
+  "url": "https://www.uimagic.io/"
+}

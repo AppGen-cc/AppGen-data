@@ -1,0 +1,31 @@
+{
+  "description": "The leading AI therapy platform. Here for life's challenges with empathy & understanding. Online and free trial. Our AI therapists do parts work (IFS), mindset (CBT), and non-dual spiritual work",
+  "title": "AI Therapy by Heartfelt Services",
+  "introduction": "Heartfelt Services provides AI therapeutic services with a spiritual grounding, aiming to help users navigate life's challenges with compassion and understanding.",
+  "category": "Life Assistant",
+  "features": [
+    "AI therapists with unique approaches",
+    "Confidential and secure conversations",
+    "Free and instant sign-up",
+    "High-quality AI therapy",
+    "Subscription plans for personalized therapy"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals seeking therapy and self-discovery",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How do I choose an AI therapist?",
+      "answer": "Any way you like. You can always meet another one. Use your intuition, or find the approach you find most attractive."
+    },
+    {
+      "question": "What can I talk about?",
+      "answer": "Anything that's on your mind. Seemingly big or small. All is welcome."
+    },
+    {
+      "question": "What about my privacy?",
+      "answer": "Your privacy is our utmost priority. All your data is encrypted and stored securely."
+    }
+  ],
+  "url": "https://heartfelt.services/"
+}

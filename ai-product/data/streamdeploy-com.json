@@ -1,0 +1,25 @@
+{
+  "description": "StreamDeploy, the best deployment platform for LLM / AI applications, libraries, and software -- DevSecOpsGPT",
+  "title": "We Deploy Code - StreamDeploy | StreamDeploy",
+  "introduction": "StreamDeploy is a deployment platform for AI / LLM applications that helps organizations apply LLM application development best practices. It is currently in a closed beta phase, allowing participants to experience its innovative features and capabilities.",
+  "category": "AI Detector",
+  "features": [
+    "DevSecOpsGPT for Agile Development",
+    "Dockerfile Generator",
+    "Community Support"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Organizations and developers working on AI / LLM applications",
+  "pricing": "Closed beta phase",
+  "faqs": [
+    {
+      "question": "What is StreamDeploy?",
+      "answer": "StreamDeploy is a deployment platform for AI / LLM applications that helps organizations apply LLM application development best practices."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "StreamDeploy is currently in a closed beta phase, and access is provided to participants for firsthand experience of its features and capabilities."
+    }
+  ],
+  "url": "https://streamdeploy.com/"
+}

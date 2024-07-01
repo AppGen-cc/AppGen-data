@@ -1,0 +1,43 @@
+{
+  "description": "Generate videos from news content, social posts, live sport events, and statistical data in minutes!",
+  "title": "GliaStudio | VIDEOLIZE YOUR STORY WITH AI",
+  "introduction": "GliaStudio is a web-based online video creation platform that simplifies the video creation workflow by offering features such as transition effects, audio background selection, text layout options, text-to-speech technology, voice recording, article-to-video conversion, video resizing, cloud-based editing, and access to free media assets. It also provides different pricing plans for various user needs, including a free trial option.",
+  "features": [
+    "Transition effects for video clips",
+    "Selection of audio background music",
+    "Various text layout options",
+    "Text-to-speech technology in multiple languages",
+    "Voice recording feature",
+    "Article-to-video conversion",
+    "Video resizing and cropping",
+    "Cloud-based editing platform",
+    "Access to free photo and video stocks",
+    "Video dimension optimization",
+    "Media insertion via URL",
+    "Video sharing and previewing",
+    "Mute video option",
+    "Text color editing",
+    "Text position adjustment",
+    "Duplicate video and clip editing",
+    "Video-to-GIF conversion"
+  ],
+  "pricing": "GliaStudio offers different pricing plans based on user needs: a plan for storytellers with up to 50 videos, 720p resolution, and 20GB upload storage; a plan for businesses with up to 100 videos, 1080p resolution, and 60GB upload storage; and a customized enterprise plan for mass video production with branded themes and unlimited media assets.",
+  "faqs": [
+    {
+      "question": "Is GliaStudio a downloadable software?",
+      "answer": "No, GliaStudio is a web-based online video creation platform that does not require any software installation."
+    },
+    {
+      "question": "Can users upgrade or cancel their plan anytime?",
+      "answer": "Yes, users can upgrade or cancel their plan at any time."
+    },
+    {
+      "question": "Where can users share their created videos?",
+      "answer": "Users can share their videos on websites, Facebook, Twitter, YouTube, Instagram, and other social platforms in square, vertical, and landscape formats."
+    }
+  ],
+  "category": "[\"Video\"]",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Storytellers, businesses, and enterprises",
+  "url": "https://www.gliacloud.com/en/"
+}

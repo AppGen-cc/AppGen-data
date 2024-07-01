@@ -1,0 +1,16 @@
+{
+  "description": "Chat GPT but with more models and model types. From text, image, video, audio, and more all in one place.",
+  "title": "Blend AI",
+  "introduction": "Connect Models, like never before. In the multimodal section, you can connect models that share the same input and output types.",
+  "category": "AI Detector",
+  "features": [
+    "Connect models with the same input and output types",
+    "Optimize prompts for better results",
+    "Supports both image and video outputs"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "AI developers, data scientists, and machine learning enthusiasts",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://www.tryblend.ai/"
+}

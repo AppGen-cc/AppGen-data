@@ -1,0 +1,32 @@
+{
+  "description": "Advanced AI artwork creation platform for artists that understands your style, creates inspiring images and streamlines your creative process",
+  "title": "Exactly.ai",
+  "introduction": "exactly.ai is a platform that helps creators perfect their images, sell their work, and control their intellectual property. It allows users to train a personal AI on their artwork, maintain ownership and control of everything, and develop multiple concepts.",
+  "category": "AI Detector",
+  "features": [
+    "Generate images using models created by the world’s greatest illustrators.",
+    "Train a personal AI on artwork and make images in your style in seconds.",
+    "Sell access to AI models to clients for simplified collaboration and revisions.",
+    "Explore alternative concepts and generate multiple versions of ideas.",
+    "Share and annotate sketches for real-time exploration.",
+    "Retain ownership and control of every image and AI model created."
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Creators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can I cancel my subscription?",
+      "answer": "Go to the Manage My Subscription section in your user profile or contact support via chat or email at support@exactly.ai."
+    },
+    {
+      "question": "How can I get a refund?",
+      "answer": "Contact support via chat or email at support@exactly.ai for assistance with refunds."
+    },
+    {
+      "question": "Where do I send my feedback?",
+      "answer": "You can send your feedback through the support chat in the app or contact support via email at support@exactly.ai."
+    }
+  ],
+  "url": "https://exactly.ai/"
+}

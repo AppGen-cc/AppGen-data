@@ -1,0 +1,26 @@
+{
+  "description": "Layer is your research copilot that allows you to unveil key insights from complex documents with precise sources & turn notes into reports effortlessly.",
+  "title": "Layer | Your AI Research Copilot",
+  "introduction": "Layer is a research tool designed to help users extract key insights instantly from various sources, including complex PDFs and websites. It aims to save users time by providing precise answers with sources, capturing notes with sources, and highlighting crucial content.",
+  "category": "Productivity",
+  "features": [
+    "Extract Key Insights Instantly",
+    "Precise Answers with Sources",
+    "Insights from Complex PDFs",
+    "Capture Notes with Sources"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Researchers, Journalists, Academics, Professionals who need to extract and analyze information quickly",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available that allows 7 questions per week with unlimited PDF and website length."
+    },
+    {
+      "question": "What is included in the Pro plan?",
+      "answer": "The Pro plan costs $30 per month and includes unlimited questions, unlimited PDF length, unlimited website length, access to early features, and the cofounder's phone number for priority support and feedback."
+    }
+  ],
+  "url": "https://www.layer.app/"
+}

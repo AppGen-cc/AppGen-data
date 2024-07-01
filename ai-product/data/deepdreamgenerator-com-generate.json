@@ -1,0 +1,26 @@
+{
+  "description": "Make great images, artworks, photos and videos with DDG's powerful Free AI Art Generator!",
+  "title": "            Free AI Image Generator Free AI Art & Photo Maker | DDG\n    ",
+  "introduction": "Deep Dream Generator is an online platform that offers various AI models for creating artistic images, including DreamForge, MirageMaker, Photonic, EssenceOfReality, PhotoMage, DigitalDaVinci, Animatron, and AIVision.",
+  "category": "Design&Art",
+  "features": [
+    "AI Models for artistic image generation",
+    "Different effects and strengths available",
+    "Base resolution customization",
+    "Aspect ratio adjustment"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Art enthusiasts, designers, and anyone interested in creating unique digital art",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for Deep Dream Generator."
+    },
+    {
+      "question": "Who can benefit from using Deep Dream Generator?",
+      "answer": "Art enthusiasts, designers, and anyone interested in creating unique digital art can benefit from using Deep Dream Generator."
+    }
+  ],
+  "url": "https://deepdreamgenerator.com/generate"
+}

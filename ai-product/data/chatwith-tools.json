@@ -1,0 +1,38 @@
+{
+  "description": "Custom ChatGPT AI chatbot trained on your website and files. Integrated with 6000+ apps. No coding, on your website in minutes.",
+  "title": "Chatwith - Custom ChatGPT chatbot with your website & files",
+  "introduction": "Chatwith is an AI-powered tool that offers a free AI FAQ Generator and custom GPT training for chatbots. It provides solutions for automating FAQ creation, training custom GPT on data, and creating user-friendly and SEO-friendly FAQs.",
+  "features": [
+    "AI FAQ generator",
+    "Custom GPT training",
+    "Automated FAQ creation",
+    "Customizable chatbots",
+    "Multilingual support",
+    "Analytics",
+    "Chatbot API",
+    "BYOK Option",
+    "White-label features",
+    "Inbox for conversations",
+    "Multiple chatbots",
+    "Guardrails for prevention of abuse",
+    "Auto train feature",
+    "Leads collection",
+    "Bulk operations",
+    "Notifications"
+  ],
+  "pricing": "Usage-based pricing with monthly and annual billing options, offering a 14-day free trial and 2 months free for annual subscriptions.",
+  "faqs": [
+    {
+      "question": "How does an AI FAQ generator work?",
+      "answer": "The AI FAQ generator uses advanced AI technology to analyze common queries and automatically generate a comprehensive list of frequently asked questions for your FAQ page."
+    },
+    {
+      "question": "What are the benefits of using the free AI FAQ tool?",
+      "answer": "Using the free AI FAQ tool helps in creating user-friendly and informative FAQs, enhancing customer satisfaction, automating the FAQ creation process, improving SEO efforts, and quickly generating relevant FAQs tailored to the target audience."
+    }
+  ],
+  "category": "Chatbot",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, businesses, and organizations",
+  "url": "https://chatwith.tools/"
+}

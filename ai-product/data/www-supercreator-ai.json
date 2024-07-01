@@ -1,0 +1,38 @@
+{
+  "description": "Supercreator is a mobile app that uses artificial intelligence to make it easy and quick to create original short videos fast for TikTok, Reels, Shorts, and more.",
+  "title": "Create videos 10x faster with AI",
+  "introduction": "Supercreator is a video creation platform that leverages artificial intelligence to simplify the video creation process. It offers a range of features for ideation, editing, capturing, and posting videos, making it easy for users to create high-quality content quickly.",
+  "category": "AI Detector",
+  "features": [
+    "Convert articles, Twitter threads, and YouTube videos to scripts",
+    "Natural text to script conversion",
+    "Import and create scripts from scratch",
+    "Suggested ideas based on activity",
+    "Advanced captions and auto-placement of relevant titles",
+    "Smart trim empty pauses and super edit features",
+    "Add overlay images, texts, and templates",
+    "Adjustable teleprompter and dynamic green screen",
+    "AR filters, text-to-filter, and voice-controlled camera",
+    "HD and audio-only recording options",
+    "Export videos in various formats to favorite platforms",
+    "Algorithm improvement with every video and automatic generation of tailored hashtags, captions, and titles"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Content creators, marketers, business owners, and individuals looking to create short form videos quickly and efficiently",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What is Supercreator?",
+      "answer": "Supercreator is a video creation platform that uses AI to simplify the video creation process."
+    },
+    {
+      "question": "What features does Supercreator offer for video creation?",
+      "answer": "Supercreator offers features for ideation, editing, capturing, and posting videos, including script conversion, advanced editing tools, recording options, and automated posting features."
+    },
+    {
+      "question": "How satisfied are users with Supercreator?",
+      "answer": "Users are highly satisfied with Supercreator, with a user satisfaction rating of 4.7/5."
+    }
+  ],
+  "url": "https://www.supercreator.ai/"
+}

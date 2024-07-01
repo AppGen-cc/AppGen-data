@@ -1,0 +1,39 @@
+{
+  "description": "The best Manga Translator extension! Scan manga/comic/manhua/manhwa translator online,suport 135 languages manga translate use chatgpt,MangaMTL's Perfect Replacement!",
+  "title": "Manga Translator - manga translator extension",
+  "keywords": "manga translator, manhwa translator, manhua translator, raw manga translator, translate manga, free manga translation, AI Translation，manga translator extension",
+  "introduction": "Manga Translator is a Chrome browser extension that allows you to quickly translate the text inside speech bubbles in manga. It supports uploading and translating manga from mainstream manga websites, and it can convert vertical text inside bubbles to horizontal text. The extension supports 135 languages for translation.",
+  "category": "Code&IT",
+  "features": [
+    "Translate text inside speech bubbles in manga",
+    "Support uploading and translating manga",
+    "Convert vertical text inside bubbles to horizontal text",
+    "Support 135 languages for translation"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users who enjoy reading manga in different languages",
+  "pricing": "Free with limited translations for registered users, paid option available for further development and maintenance",
+  "faqs": [
+    {
+      "question": "What kind of product is Manga Translator?",
+      "answer": "Manga Translator is a Chrome browser extension that allows you to quickly translate the text inside speech bubbles in manga."
+    },
+    {
+      "question": "Can I use this online manga translation extension for free?",
+      "answer": "Yes, registered users have a certain number of free translations for manga, manhua, and comics with the Translator. However, payment is encouraged for further development and maintenance of the product."
+    },
+    {
+      "question": "How many languages does Manga Translator support?",
+      "answer": "Manga Translator supports 135 languages, including Chinese, English, Japanese, Korean, French, Vietnamese, and more."
+    },
+    {
+      "question": "What are the advantages of manga translators like Translator, mangamtl, and ichigo?",
+      "answer": "The manga Translator extension can directly translate manga on the webpage, supports uploading manga for translation, has a fast translation speed, and is more cost-effective."
+    },
+    {
+      "question": "Does Manga Translator support converting vertical text in manga speech bubbles into horizontal text?",
+      "answer": "With Manga Translator, you can easily translate vertical scans and images in addition to horizontal ones, regardless of the original language of the text. The extension supports 135 languages."
+    }
+  ],
+  "url": "https://www.mangatranslator.cc/"
+}

@@ -1,0 +1,39 @@
+{
+  "description": "A brand new way to create, share and read spicy stories.",
+  "title": "Pirr",
+  "introduction": "Pirr is an app designed to spark imagination and indulge senses by creating personalized, spicy stories with the help of advanced AI. Users have creative control to customize characters, storylines, and atmosphere. The AI technology used in Pirr ensures deeply personalized narratives.",
+  "features": [
+    "Customizable characters and storylines",
+    "AI-generated suggestions for story continuations",
+    "Privacy control for stories",
+    "Collaboration feature for co-creating stories",
+    "Report feature for unpleasant AI suggestions"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Pirr?",
+      "answer": "Pirr is an app designed to spark imagination and indulge senses by creating personalized, spicy stories with the help of advanced AI."
+    },
+    {
+      "question": "Can stories be downloaded from the app?",
+      "answer": "Currently, it is not possible to download stories directly from the app, but the team is considering implementing a solution for this feature."
+    },
+    {
+      "question": "How can users invite someone to co-create a story?",
+      "answer": "Users can invite someone to co-create by tapping the '+' icon, selecting the 'add user' option, and sharing the invitation link."
+    },
+    {
+      "question": "Is there a way to ensure privacy and security of stories?",
+      "answer": "All stories created are private by default, and users have control over when to share them publicly. Pirr employs robust security measures to protect user privacy."
+    },
+    {
+      "question": "How can users report problems or offer suggestions?",
+      "answer": "Users can report problems or offer suggestions through the app's settings or by contacting the support team via discord or email."
+    }
+  ],
+  "category": "[\"AI Detector\"]",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in creating personalized, spicy stories",
+  "url": "https://www.pirr.me/"
+}

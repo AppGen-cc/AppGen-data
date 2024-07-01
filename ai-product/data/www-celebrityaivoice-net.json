@@ -1,0 +1,35 @@
+{
+  "description": "Simply and quickly create the voice of a celebrity through the celebrity AI voice generator free, anyone's voice can be created.",
+  "title": "Celebrity AI Voice Generator Free | Generate anyone's ai voice",
+  "keywords": "Celebrity AI Voice",
+  "introduction": "With Celebrity AI Voice Generator, you can easily and quickly create anyone's voice with only a short audio clip.",
+  "category": "Voice",
+  "features": [
+    "Instant Voice Cloning: Requires only a short audio clip from the reference speaker to clone their voice.",
+    "Granular Control Over Voice Styles: Allows control over various voice styles, including emotion, accent, rhythm, pauses, and intonation.",
+    "Cross-Lingual Voice Cloning: Can perform zero-shot cross-lingual voice cloning, even for languages not included in the training set.",
+    "Replicates the Tone Color: Capable of replicating the specific tone color of the reference speaker."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, voiceover artists, and anyone needing to replicate voices.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is required to clone a voice?",
+      "answer": "Only a short audio clip from the reference speaker is required to clone their voice."
+    },
+    {
+      "question": "Can the tool replicate different voice styles?",
+      "answer": "Yes, it allows control over various voice styles, including emotion, accent, rhythm, pauses, and intonation."
+    },
+    {
+      "question": "Does it support multiple languages?",
+      "answer": "Yes, it can perform zero-shot cross-lingual voice cloning, even for languages not included in the training set."
+    },
+    {
+      "question": "What are the pricing options?",
+      "answer": "There are subscription plans offering 100 credits per month or 300 credits per month, with features like AI voice clone, fast generation, stable output, more language support, and audio download."
+    }
+  ],
+  "url": "https://www.celebrityaivoice.net/"
+}

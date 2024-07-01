@@ -1,0 +1,36 @@
+{
+  "description": "Highly Secure Journaling Tool",
+  "title": "",
+  "introduction": "Jumble is a free daily journaling platform designed to help users organize their thoughts, gain clarity, discover personal insights, and achieve growth. It offers distraction-free journaling insights, data privacy, and a focus on mental well-being. Users can chat with their journal, explore past entries, and build a daily journaling habit.",
+  "features": [
+    "Automatic saving of journal entries every 20 seconds",
+    "Support for daily journaling, tagging, Jumble AI for inspiration, and habit building metrics",
+    "Distraction-free journaling insights",
+    "Data privacy and secure journaling",
+    "Chat directly with your journal",
+    "Retrospective tooling for deep insights from journal entries"
+  ],
+  "pricing": "Free with potential premium features in the future",
+  "faqs": [
+    {
+      "question": "How often are journal entries saved?",
+      "answer": "Journal entries are saved automatically every 20 seconds and when you navigate away from the page. You can also manually save using CMD+S or CTRL+S."
+    },
+    {
+      "question": "What can I write about in my journal?",
+      "answer": "You can write about anything that comes to mind or focus on a specific subject. Journaling can be used for problem-solving and inspiration."
+    },
+    {
+      "question": "Is Jumble free to use?",
+      "answer": "Yes, Jumble is free for secure daily journaling. Premium features may be introduced in the future."
+    },
+    {
+      "question": "How can I export or delete my data?",
+      "answer": "Reach out to support@jumblejournal.org for assistance with exporting or deleting your data."
+    }
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals interested in daily journaling and self-reflection",
+  "category": "Category: Text&Writing",
+  "url": "https://jumblejournal.org/"
+}

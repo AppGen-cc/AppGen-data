@@ -1,0 +1,24 @@
+{
+  "description": "View and subscribe to events from Product Hunt  on Luma. Product Hunt Community Events ",
+  "title": "Product Hunt  · Events Calendar",
+  "introduction": "The website provides information about upcoming events, including details like event names, dates, times, and locations. Users can view events that are pending approval by the calendar admin.",
+  "features": [
+    "View event details",
+    "Check event approval status"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What information is available for each event?",
+      "answer": "Each event includes details such as event name, date, time, and location."
+    },
+    {
+      "question": "Can users see events that are pending approval?",
+      "answer": "Yes, users can view events that are pending approval by the calendar admin."
+    }
+  ],
+  "category": "Category: Text&Writing",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Event organizers and attendees",
+  "url": "https://lu.ma/producthunt"
+}

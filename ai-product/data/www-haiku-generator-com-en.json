@@ -1,0 +1,29 @@
+{
+  "description": "AI Haiku Maker Tool: Your Personal Haiku Generator. Use your own keywords and we will create a haiku poem in seconds for you.",
+  "title": "Haiku Generator | haiku-generator.com",
+  "introduction": "This website provides methods and tips for crafting compelling haikus by selecting impactful keywords.",
+  "category": "Text&Writing",
+  "features": [
+    "Theme or Emotion: Choose keywords that resonate with the sentiment you wish to express.",
+    "Contrast or Unexpected Combinations: Select keywords that juxtapose contrasting elements to spark curiosity.",
+    "Visual or Sensory Stimuli: Engage the reader's senses with vivid and sensory-provoking keywords."
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Writers and poets interested in creating haikus",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is the main focus of the website?",
+      "answer": "The website focuses on providing methods and tips for crafting compelling haikus by selecting impactful keywords."
+    },
+    {
+      "question": "Who can benefit from this website?",
+      "answer": "Writers and poets interested in creating haikus can benefit from this website."
+    },
+    {
+      "question": "What are some methods mentioned for selecting impactful keywords?",
+      "answer": "The methods include choosing keywords based on theme or emotion, using contrast or unexpected combinations, and engaging the reader's senses with visual or sensory stimuli."
+    }
+  ],
+  "url": "https://www.haiku-generator.com/en"
+}

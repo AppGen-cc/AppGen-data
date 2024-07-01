@@ -1,0 +1,34 @@
+{
+  "description": "QuickVid turns your content into viral shorts. Copilot and Autopilot options available",
+  "title": "Instant AI Clip Generation and Posting | QuickVid",
+  "introduction": "QuickVid is a generative AI video tool that automates short form video creation with a single click. It offers two main plans: Copilot and Autopilot, catering to different levels of user involvement. Copilot allows manual editing and posting, while Autopilot is a completely hands-off plan. The tool includes features like auto-subtitles, virality score evaluation, smart clip discovery, dynamic layouts, speaker detection, and generated metadata.",
+  "features": [
+    "200 processing minutes per month",
+    "Up to 1080p clips",
+    "Auto-reframe",
+    "Subtitles",
+    "Over 10 languages supported",
+    "Automated creation, editing, and posting",
+    "Weekly Recaps",
+    "Premium Support"
+  ],
+  "pricing": "Monthly and Yearly plans available, with Copilot at $20.00/month and Autopilot at $200.00/month. Copilot offers standard QuickVid access for effortless short video generation and editing, while Autopilot provides a hands-off experience for busy creators.",
+  "hasFreeTrial": "No",
+  "targetPeople": "Creators",
+  "faqs": [
+    {
+      "question": "What is QuickVid?",
+      "answer": "QuickVid is a generative AI video tool that automates short form video creation with a single click."
+    },
+    {
+      "question": "What are the main features of QuickVid?",
+      "answer": "The main features include auto-subtitles, virality score evaluation, smart clip discovery, dynamic layouts, speaker detection, and generated metadata."
+    },
+    {
+      "question": "What are the pricing options for QuickVid?",
+      "answer": "QuickVid offers Monthly and Yearly plans. The Copilot plan is priced at $20.00/month, while the Autopilot plan is priced at $200.00/month."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.quickvid.ai/"
+}

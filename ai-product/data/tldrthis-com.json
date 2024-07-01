@@ -1,0 +1,27 @@
+{
+  "description": "TLDR This is a Free online text summarizing tool that automatically condenses long articles, documents, essays, or papers into key summary paragraphs using state-of-the-art AI.",
+  "title": "TLDR This - Article Summarizer & Online Text Summarizing ToolTLDR This - Article Summarizer & Online Text Summarizing Tool",
+  "keywords": "summarize, summarizer, summary, create summary, summarization tool, summarizing tool, best summarizer, free summarizer, ai summarizer, summarize article, summarize online, abstractive summarization, extractive summarization, summary generator, summary maker, summary paragraph, article summarizer, summary maker",
+  "introduction": "TLDR This is a summarizing tool designed for students, writers, teachers, institutions, journalists, and any internet user who needs to quickly understand the essence of lengthy content. It helps users summarize any piece of text into concise, easy-to-digest content to free themselves from information overload.",
+  "features": [
+    "Automatic Article Summarization with just a click",
+    "Article Metadata Extraction",
+    "Distraction and ad-free reading",
+    "Avoid the Clickbait Trap"
+  ],
+  "pricing": "Pay as you grow",
+  "faqs": [
+    {
+      "question": "Who is TLDR This for?",
+      "answer": "TLDR This is for anyone who needs to quickly understand the essence of lengthy content, including students, writers, teachers, institutions, journalists, and any internet user."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, TLDR This offers a free trial."
+    }
+  ],
+  "category": "Productivity",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "students, writers, teachers, institutions, journalists, and any internet user",
+  "url": "https://tldrthis.com/"
+}

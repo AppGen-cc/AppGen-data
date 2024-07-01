@@ -1,0 +1,36 @@
+{
+  "description": "Our Al-powered search assistant helps you get answers to questions about your documents, websites and workplace content.",
+  "title": "H2O.ai | Convergence of The World's Best Predictive & Generative AI",
+  "introduction": "H2O AI Cloud is a platform that solves complex business problems and accelerates the discovery of new ideas through automated machine learning capabilities. It aims to democratize AI and provide agility, transparency, and collaboration in creating and using AI solutions. The platform caters to data scientists, developers, machine learning engineers, DevOps and IT professionals, and business users. It offers features like feature transformation, data intelligence, feature engineering, feature store, machine learning, time series forecasting, natural language processing, computer vision, explainable AI, and low code application development framework.",
+  "features": [
+    "Feature Transformation",
+    "Data Intelligence",
+    "Feature Engineering",
+    "Feature Store",
+    "Machine Learning",
+    "Time Series Forecasting",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Explainable AI",
+    "Low Code Application Development Framework"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is H2O AI Cloud?",
+      "answer": "H2O AI Cloud is a platform that provides automated machine learning capabilities to solve complex business problems and accelerate the discovery of new ideas."
+    },
+    {
+      "question": "Who can benefit from H2O AI Cloud?",
+      "answer": "H2O AI Cloud caters to data scientists, developers, machine learning engineers, DevOps and IT professionals, and business users."
+    },
+    {
+      "question": "What features does H2O AI Cloud offer?",
+      "answer": "H2O AI Cloud offers features like feature transformation, data intelligence, feature engineering, feature store, machine learning, time series forecasting, natural language processing, computer vision, explainable AI, and low code application development framework."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Data Scientists, Developers, Machine Learning Engineers, DevOps and IT Professionals, Business Users",
+  "url": "https://h2o.ai/"
+}

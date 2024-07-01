@@ -1,0 +1,40 @@
+{
+  "description": "Create your own AI Influencer. Just describe your ideal influencer, click create, and you are ready to take virtual pictures of your AI influencer!",
+  "title": "InfluencerFarm - Generate AI Influencers",
+  "keywords": "AI Influencers, AI Generated, Influencer, Create, Make, Build",
+  "introduction": "InfluencerFarm is a platform that allows users to create, fine-tune, and interact with AI-generated virtual influencers. Users can generate AI influencers, take them on virtual photoshoots, and share the resulting images on social media.",
+  "category": "Image",
+  "features": [
+    "Generate AI influencers",
+    "Fine-tune AI influencers",
+    "Virtual photoshoots",
+    "Share images on social media",
+    "View influencer timeline"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Social media enthusiasts, marketers, and content creators",
+  "pricing": "Credit-based system",
+  "faqs": [
+    {
+      "question": "How do I create an AI influencer?",
+      "answer": "Go to the dashboard and click on the 'Add a new influencer' button to access the creation page."
+    },
+    {
+      "question": "How do I fine-tune my AI influencer?",
+      "answer": "Click on the 'Fine tune' button on the creation page, personalize your influencer, and click the create influencer button. The process takes about 3 minutes."
+    },
+    {
+      "question": "How do I take a photo with my AI influencer?",
+      "answer": "Go to the 'Take picture' page, choose a location, and describe a scene to generate a picture with your AI influencer."
+    },
+    {
+      "question": "How can I view all the photos of my AI influencer?",
+      "answer": "Click on the 'Timeline' button on the AI influencer profile to view all the pictures featuring your AI influencer."
+    },
+    {
+      "question": "How can I share the pictures of my AI influencer?",
+      "answer": "You can download the picture or share it directly on social media."
+    }
+  ],
+  "url": "https://influencerfarm.io/"
+}

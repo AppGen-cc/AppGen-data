@@ -1,0 +1,50 @@
+{
+  "description": "Fronty - Image to HTML CSS code converter. Convert image to HTML powered by AI.",
+  "title": "Image to HTML CSS converter. Convert image to HTML CSS with AI: Fronty",
+  "introduction": "Fronty is an AI-powered webpage design to code converting service that aims to provide clean and easy-to-maintain HTML/CSS code based on design images. It offers features such as AI-powered image to code conversion, online editor for website editing, website hosting, custom domain registration, and more. Fronty's code is optimized for page speed, SEO-friendly, well-commented, and follows semantic HTML practices. It also provides SCSS support, Bootstrap theme customization, and mobile-tablet responsiveness.",
+  "category": "Code&IT",
+  "features": [
+    "AI-powered image to code conversion",
+    "Online editor for website editing",
+    "Website hosting with 24/7 support",
+    "Custom domain registration",
+    "Page speed optimization",
+    "SEO-friendly code",
+    "Well-commented code",
+    "Semantic HTML practices",
+    "Accessible website design",
+    "SCSS support",
+    "Bootstrap theme customization",
+    "Mobile-tablet responsiveness"
+  ],
+  "hasFreeTrial": "limited time free",
+  "targetPeople": "Website owners, developers, designers",
+  "pricing": "Free for a limited time, paid packages available for badge removal and additional features",
+  "faqs": [
+    {
+      "question": "What is Fronty?",
+      "answer": "Fronty is an AI-powered webpage design to code converting service. Upload a screenshot of your webpage design, and Fronty will generate HTML/CSS code based on the image. You can edit your website with the online layout editor and host it on Fronty's managed hosting service."
+    },
+    {
+      "question": "What's the difference between Fronty vs Wix or similar website builders?",
+      "answer": "Fronty leverages AI to create human-quality websites in minutes with clean, well-commented code, unlike the limited and unclear code provided by website builders like Wix."
+    },
+    {
+      "question": "How much does it cost to convert my whole website?",
+      "answer": "Currently, it's limited time free."
+    },
+    {
+      "question": "Can I edit my website without development skills?",
+      "answer": "Fronty offers a no-code website builder that generates HTML/CSS code from your design. You can easily modify content and design using the online UI editor."
+    },
+    {
+      "question": "How can I remove the 'Powered by Fronty' badge from my website?",
+      "answer": "For free usage, the badge is mandatory. It can be removed by choosing paid packages with subscription or one-time usage."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Fronty accepts online payment methods such as Paypal, Stripe, Mastercard, Visa, and AMEX cards. They are working to increase payment options, including online payment systems and cryptocurrencies."
+    }
+  ],
+  "url": "https://fronty.com/"
+}

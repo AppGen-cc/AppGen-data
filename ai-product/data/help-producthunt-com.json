@@ -1,0 +1,21 @@
+{
+  "description": "Product Hunt Help Center",
+  "title": "Product Hunt Help CenterIntercom",
+  "introduction": "Product Hunt Help Center provides advice and answers from the Product Hunt Team. It covers a wide range of topics related to using Product Hunt effectively, such as posting, browsing, support, Product Hunt features, product hubs, shipping, marketplace pro, mobile usage, Golden Kitty Awards, and advertising.",
+  "features": [
+    "Posting articles by Jake1 author",
+    "Browsing articles by Jake1 author",
+    "Support articles by Jake1 author",
+    "Product Hunt articles by Jake1 author",
+    "Product Hubs articles by Jake1 author",
+    "Ship article by Jake1 author",
+    "Marketplace Pro articles by Jake1 author",
+    "Mobile articles by Jake1 author",
+    "Golden Kitty Awards information by Jake1 author",
+    "Advertising articles by Jake1 author"
+  ],
+  "pricing": "Free",
+  "faqs": [],
+  "category": "Business",
+  "url": "https://help.producthunt.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "description": "A collaborative tool for creating images with AI.",
+  "title": "Artbreeder",
+  "introduction": "Artbreeder is a platform that allows users to create characters, artworks, and more using multiple AI-powered tools. With 10 million users and access to 250 million images, users can unleash their creativity like never before.",
+  "category": "Design&Art",
+  "features": [
+    "Composer: Create by mixing images and text together.",
+    "Collager: Create an image out of simple shapes, image, and text."
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Art enthusiasts, designers, creators",
+  "pricing": "Not specified",
+  "faqs": [],
+  "url": "https://www.artbreeder.com/"
+}

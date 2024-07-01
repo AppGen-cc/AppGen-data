@@ -1,0 +1,30 @@
+{
+  "description": "Transform your time management with timeOS, the first Time Management AI for automated meeting notes and AI scheduling. Get proactive insights, action items tracking, and seamless AI task delegation. Compatible with Zoom, Google Meet, and Microsoft Teams.",
+  "title": "timeOS",
+  "introduction": "timeOS is an AI productivity companion that captures and summarizes your day, organizes all relevant information within the right tool, and proactively surfaces the knowledge you need, when you need it. It leverages AI to bypass non-essential meetings, stay informed, and provide detailed reports of missed information. The platform offers features like automatic notes without a bot, capturing physical meetings, transforming spontaneous huddles into insights, and turning ideas into organized insights. timeOS also provides multilingual support and customizable AI notes.",
+  "features": [
+    "Automatic notes without a bot",
+    "Capture physical meetings with a single click",
+    "Transform spontaneous huddles into insights",
+    "Turn ideas into organized insights",
+    "Multilingual support",
+    "Customizable AI notes"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, timeOS is available for free."
+    },
+    {
+      "question": "What languages does timeOS support?",
+      "answer": "timeOS supports over 60 languages, including globally spoken and niche languages."
+    },
+    {
+      "question": "Can I customize the structure of my meeting summaries?",
+      "answer": "Yes, you can customize the structure of your meeting summaries and choose the sections you need for maximum clarity."
+    }
+  ],
+  "category": "Productivity",
+  "url": "https://timeos.ai/"
+}

@@ -1,0 +1,48 @@
+{
+  "description": "AI to boost your business strategy. Generate limitless business ideas, gain insights on markets and competitors, and automate business plan creation.",
+  "title": "Vizologi - AI Business Plan Generator",
+  "keywords": "business models, business model, \n    business model examples, business model canvas, business strategy, canvas model, entrepreneurship, \n    management consulting, business strategist ",
+  "introduction": "Vizologi provides tools to enhance business strategy by leveraging artificial intelligence algorithms for brainstorming ideas, business intelligence, and creating business plans. It offers features like infinite ideAI generator, product naming, market analysis, competitive intelligence, and more. The platform aims to boost creativity and confidence in strategic decision-making.",
+  "features": [
+    "Infinite ideAI generator",
+    "Product naming",
+    "Market analysis",
+    "Competitive intelligence",
+    "Corporate intelligence",
+    "Premium strategy data",
+    "Strategic insights network",
+    "Data analytics",
+    "Business model canvas",
+    "SWOT analysis",
+    "PEST analysis",
+    "Project exportation",
+    "Autopilot"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is a credit?",
+      "answer": "A credit is the unit of measurement on the AI-text generated. 1 credit is equal to 5 characters. The word IDEAS = 1 credit."
+    },
+    {
+      "question": "How does the free trial work?",
+      "answer": "During the free seven-day trial period, users get limited credits, one list, and one project to explore all features. No charges are applied during the trial period."
+    },
+    {
+      "question": "Can I switch or cancel anytime?",
+      "answer": "Yes, users can switch between monthly or yearly premium plans or cancel their subscription at any time without any obligations."
+    },
+    {
+      "question": "What are my payment options?",
+      "answer": "Accepted payment methods include Visa, Mastercard, and American Express credit cards. For EU residents, VAT applies. Contact operation@vizologi.com for alternative payment methods."
+    },
+    {
+      "question": "What about my privacy?",
+      "answer": "Vizologi takes data privacy seriously. Documents created using premium plans are not visible to the public. Users have full control over privacy settings and can choose to share access with collaborators."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Business professionals",
+  "url": "https://vizologi.com/"
+}

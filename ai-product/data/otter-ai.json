@@ -1,0 +1,50 @@
+{
+  "description": "Otter.ai uses an AI Meeting Assistant to transcribe meetings in real time, record audio, capture slides, extract action items, and generate an AI meeting summary.",
+  "title": "Otter.ai - AI Meeting Note Taker & Real-time AI Transcription",
+  "introduction": "Otter is an AI-powered meeting notes application that offers automatic transcription, speaker identification, live transcription, and collaboration features. It allows users to record and transcribe meetings in real-time, import and transcribe pre-recorded audio/video files, and customize vocabulary. Otter also provides playback options, collaboration tools, and administration and security features like encryption and activity logs.",
+  "features": [
+    "Automatic transcription of English speech to text with accents",
+    "Speaker identification by name",
+    "Live transcription of recordings via the Otter app",
+    "Automatic sync of audio/video files from Dropbox",
+    "Automatic sync of cloud recordings from Zoom",
+    "Integrated live notes and captioning for Zoom",
+    "Live transcription via RTMP (additional fees apply)",
+    "Editable text and speaker tags",
+    "Real-time annotation with highlights, text notes, comments, and images",
+    "Automated Slide Capture for virtual meetings",
+    "Sharing via private channels and public links",
+    "Exportable audio, text, and captions",
+    "AES-256 encryption for real-time content",
+    "Usage analytics report",
+    "Activity Logs",
+    "Domain capture",
+    "Remove audio from conversations",
+    "Centralized conversation management",
+    "Recording disclaimer email",
+    "Bulk user management",
+    "Control recording & sharing permissions",
+    "Rename OtterPilot in virtual meetings",
+    "2-factor authentication",
+    "Single Sign-On (SSO)"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Professionals who attend meetings and need accurate and detailed notes",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for Otter."
+    },
+    {
+      "question": "What is the maximum monthly transcription limit per user?",
+      "answer": "The maximum monthly transcription limit per user is 6000 minutes."
+    },
+    {
+      "question": "Does Otter support collaboration features?",
+      "answer": "Yes, Otter supports collaboration features such as real-time annotation, automated slide capture, and sharing via private channels and public links."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://otter.ai/"
+}

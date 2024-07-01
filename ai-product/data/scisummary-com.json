@@ -1,0 +1,30 @@
+{
+  "description": "AI Driven tools for researches and students. Use AI to summarize and understand scientific articles and research papers.",
+  "title": "    Use AI To Summarize Scientific Articles - SciSummary\n",
+  "introduction": "SciSummary is a tool designed for summarizing scientific articles and research papers quickly and efficiently. It utilizes advanced AI models like GPT-3.5 and GPT-4 to provide concise summaries for busy scientists, students, and enthusiasts who want to stay updated on the latest research findings without spending hours reading lengthy articles.",
+  "category": "AI Detector",
+  "features": [
+    "Summarize scientific articles in seconds",
+    "Send documents via email or upload to dashboard for summary",
+    "Powered by advanced AI models like GPT-3.5 and GPT-4",
+    "Learn and improve through analysis by a team of PhDs"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Scientists, students, enthusiasts",
+  "pricing": "Free trial for the first 7 days with specific limits on word count and features. Paid plan includes 1,000,000 words summarized per month with additional features like bulk summaries and chat messages.",
+  "faqs": [
+    {
+      "question": "What AI models does SciSummary use?",
+      "answer": "SciSummary uses GPT-3.5 and GPT-4 models for summarizing scientific articles."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial for the first 7 days with specific limits on word count and features."
+    },
+    {
+      "question": "What is included in the paid plan?",
+      "answer": "The paid plan includes 1,000,000 words summarized per month, unlimited bulk summaries, 10,000 chat messages per month, and more features."
+    }
+  ],
+  "url": "https://scisummary.com/"
+}

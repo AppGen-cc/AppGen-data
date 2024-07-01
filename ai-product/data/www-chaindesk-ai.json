@@ -1,0 +1,54 @@
+{
+  "description": "Chaindesk brings a no-code platform to create custom AI chatbots trained on your data. Our solution makes customer support easy and simplifies team workflows.",
+  "title": "Chaindesk - ChatGPT AI Chat Bot for your business",
+  "keywords": "AI Agent,AI Chatbot,Custom ChatGPT,AI Customer Support Chatbot",
+  "introduction": "Chaindesk is a platform that allows users to create custom AI chatbots easily. It offers a free plan with limited features and paid plans for more advanced capabilities. The platform leverages Generative AI models like GPT-4 to provide precise responses and reduce customer support ticket volume instantly. Users can train a custom ChatGPT chatbot on their company data in minutes using Chaindesk's no-code platform.",
+  "features": [
+    "Instantly Resolve 80% of Support Queries",
+    "Instant Answers from Diverse Sources 24/7",
+    "Trustworthy AI with Built-in Safeguards",
+    "Omnichannel Conversations",
+    "Human Handoff",
+    "Embed Easily on Your Site",
+    "Custom Data Import",
+    "Auto-Sync Datasources",
+    "Function Calling",
+    "Lead Generation",
+    "Privacy & Security"
+  ],
+  "pricing": "Chaindesk offers a free plan with limited features, a Growth plan for $25/month, a Pro plan for $99/month, and an Enterprise plan for $499/month. Users can also request a custom plan for specific needs. With yearly billing, users save 20% on their subscription.",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, Chaindesk offers a free plan to get started quickly with limited features."
+    },
+    {
+      "question": "Can I change my plan or billing preferences?",
+      "answer": "Yes, you can update your billing preferences or change your plan at any time from your account settings. With yearly billing, you save 20% on your subscription."
+    },
+    {
+      "question": "Can I add the chatbot to multiple sites?",
+      "answer": "Yes, you can add the chatbot to any number of sites for visitors to interact with."
+    },
+    {
+      "question": "Can the chatbot support multiple languages?",
+      "answer": "Yes, the chatbot can support multiple languages and answer questions in different languages."
+    },
+    {
+      "question": "Is custom pricing available for enterprise customers?",
+      "answer": "Yes, enterprise customers can request a custom pricing plan based on their specific needs."
+    },
+    {
+      "question": "How often is the chatbot retrained?",
+      "answer": "Starting with the first paid plan, the chatbot is automatically retrained every week. Users can also manually trigger a retraining."
+    },
+    {
+      "question": "What should I do if the chatbot is not following instructions properly?",
+      "answer": "Consider setting your Agent model to GPT-4-turbo for the best possible experience."
+    }
+  ],
+  "category": "Chatbot",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses",
+  "url": "https://www.chaindesk.ai/"
+}

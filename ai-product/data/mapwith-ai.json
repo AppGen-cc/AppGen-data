@@ -1,0 +1,24 @@
+{
+  "description": "From satellite imagery to predicted features. Browse the map. The magenta layer you're seeing here is a map overlay created from artificial intelligence, ...\n",
+  "title": "Rapid Editor",
+  "introduction": "Rapid integrates advanced mapping tools, authoritative geospatial open data, and cutting-edge technology to empower OpenStreetMap mappers at all levels to get started quickly, making accurate and fresh edits to maps.",
+  "category": "Code&IT",
+  "features": [
+    "Map Faster: The new Rapid editor saves you the effort of manually drawing map geometry by tapping into open data or predicted features identified by artificial intelligence.",
+    "Map Better: AI-analyzed satellite imagery gives you a high-level overview of unmapped and missing data around the globe."
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "OpenStreetMap mappers at all levels",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What does Rapid offer?",
+      "answer": "Rapid offers advanced mapping tools, authoritative geospatial open data, and cutting-edge technology to empower OpenStreetMap mappers to make accurate and fresh edits to maps."
+    },
+    {
+      "question": "How does Rapid help in map editing?",
+      "answer": "Rapid saves effort by tapping into open data or predicted features identified by artificial intelligence, and provides AI-analyzed satellite imagery for a high-level overview of unmapped and missing data."
+    }
+  ],
+  "url": "https://mapwith.ai/"
+}

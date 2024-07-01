@@ -1,0 +1,30 @@
+{
+  "description": "WordPress Content Plugin to Effortlessly Create High-Quality, SEO-Friendly, Revenue-Driving Articles directly to your WordPress",
+  "title": "Home - Gizzmo Ai",
+  "introduction": "Gizzmo is a platform that creates a variety of commerce-related content types, including automated product carousels and affiliate integration. It aims to enhance content strategy and help users stay on top of their niche.",
+  "category": "Marketing",
+  "features": [
+    "Automated product carousels",
+    "Affiliate integration",
+    "Chrome Extension for Amazon product curation",
+    "WordPress Plugin for article creation and publishing"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Content creators, marketers, and individuals passionate about AI and technology",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What types of content can Gizzmo create?",
+      "answer": "Gizzmo can create a variety of commerce-related content types, including automated product carousels and affiliate integration."
+    },
+    {
+      "question": "What tools does Gizzmo offer?",
+      "answer": "Gizzmo offers a Chrome Extension for Amazon product curation and a WordPress Plugin for article creation and publishing."
+    },
+    {
+      "question": "Who can benefit from using Gizzmo?",
+      "answer": "Content creators, marketers, and individuals passionate about AI and technology can benefit from using Gizzmo."
+    }
+  ],
+  "url": "https://gizzmo.ai/"
+}

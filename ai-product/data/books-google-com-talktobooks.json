@@ -1,0 +1,25 @@
+{
+  "description": "Talk to Books was a new way to explore ideas and discover books. Select one of\n        the samples to view its archived search results.",
+  "title": "Talk to Books",
+  "introduction": "Talk to Books was an experiment in using a neural language model to search through a large collection of books. Launched in 2018, it delighted millions of users who found that you really could converse with books in a way never imagined. The experiment proved the effectiveness of language models and inspired features in various Google products.",
+  "features": [
+    "Search through a large collection of books using a neural language model",
+    "Converse with books in a unique way",
+    "Demonstrated the effectiveness of language models"
+  ],
+  "pricing": "Not applicable",
+  "faqs": [
+    {
+      "question": "Is Talk to Books still available?",
+      "answer": "No, Talk to Books will be closing down immediately."
+    },
+    {
+      "question": "Where can I find a similar AI experience now?",
+      "answer": "You can check out bard.google.com for a new kind of AI experience that knows a lot about books."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in conversing with books using AI",
+  "url": "https://books.google.com/talktobooks/"
+}

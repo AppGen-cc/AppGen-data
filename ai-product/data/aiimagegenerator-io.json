@@ -1,0 +1,29 @@
+{
+  "description": "AI Image Generator is a free online AI text-to-image generation tool that supports AI tattoo generator, AI anime generator, AI pokemon generator, and more.",
+  "title": "AI Image Generator - Free Text-to-Image Generator",
+  "introduction": "The website appears to be a personal or professional Twitter profile for Ethan Sunray.",
+  "category": "Other",
+  "features": [
+    "Social media profile",
+    "Updates and tweets",
+    "Follower interaction"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "General public, followers, and potential clients or collaborators",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is this website?",
+      "answer": "This is the Twitter profile of Ethan Sunray."
+    },
+    {
+      "question": "Who is the target audience?",
+      "answer": "The general public, followers, and potential clients or collaborators."
+    },
+    {
+      "question": "Is there a cost to use this website?",
+      "answer": "No, it is free to use."
+    }
+  ],
+  "url": "https://aiimagegenerator.io/"
+}

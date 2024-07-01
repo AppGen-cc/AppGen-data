@@ -1,0 +1,58 @@
+{
+  "description": "Try generating your personalised Idea Validation Report now!",
+  "title": "Idea Validator • Informly • Validate your Business Idea instantly with the help of AI",
+  "keywords": "ai, idea validation, idea generation",
+  "introduction": "Informly is an AI-powered tool designed to validate, launch, and grow business ideas. It provides comprehensive reports that analyze critical business dimensions and offer actionable insights to help entrepreneurs make informed decisions.",
+  "category": "Business",
+  "features": [
+    "AI validation tool for business ideas",
+    "In-depth reports analyzing 18 critical business dimensions",
+    "Viability score for business ideas",
+    "Suite of 10 actionable reports for business launch",
+    "AI Business Advisors for personalized advice",
+    "Web-enhanced reports with live data",
+    "User-friendly chat interface for 24/7 support"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Entrepreneurs and business owners",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "How do I request a report?",
+      "answer": "Simply fill in the details of your business idea into the textbox at the top of the landing page or click on sign up and click on ‘Start New Report’ in the dashboard."
+    },
+    {
+      "question": "How can I get the best results?",
+      "answer": "The best results can be achieved by providing detailed and accurate information about your business idea."
+    },
+    {
+      "question": "What is the Satisfaction Guarantee offered by Informly, and how does it work?",
+      "answer": "Informly offers a 100% Satisfaction Guarantee, ensuring that users are satisfied with the service provided."
+    },
+    {
+      "question": "Is my idea in safe hands? Is it strictly confidential?",
+      "answer": "Yes, Informly guarantees 100% confidentiality for all business ideas submitted."
+    },
+    {
+      "question": "How often are the reports updated?",
+      "answer": "The reports are updated in real-time, leveraging the most current information accessible online."
+    },
+    {
+      "question": "Can I download and export the reports in different formats?",
+      "answer": "Yes, the reports can be downloaded and exported in various formats."
+    },
+    {
+      "question": "How accurate is the information provided?",
+      "answer": "The information provided is highly accurate, as it is powered by advanced AI and real-time web search."
+    },
+    {
+      "question": "How can I be sure that the customized insights in the reports align with my specific business goals and objectives?",
+      "answer": "The AI Business Advisors are specifically trained to answer questions about your particular business, ensuring personalized and data-driven advice."
+    },
+    {
+      "question": "How do I update or cancel my subscription?",
+      "answer": "You can update or cancel your subscription through the dashboard on the website."
+    }
+  ],
+  "url": "https://validator.informly.ai/"
+}

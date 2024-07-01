@@ -1,0 +1,16 @@
+{
+  "description": "🚀 Semantic search for images on your local drive.",
+  "title": "SmarterFolder - fully private semantic image search — SmarterFolder",
+  "introduction": "SmarterFolder is a MacOS application that allows users to find photos on their local drive using AI-based descriptions. It ensures full privacy as no pictures ever leave the device.",
+  "category": "Image",
+  "features": [
+    "AI-based photo search",
+    "Local drive search",
+    "Full privacy with no data leaving the device"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "MacOS users looking for an efficient way to search for photos on their local drive",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://smarterfolder.com/"
+}

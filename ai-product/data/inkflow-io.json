@@ -1,0 +1,63 @@
+{
+  "description": "Inkflow Is The Ultimate AI Book Generator.  Generate 20,000+ Words In Just A Few Clicks.",
+  "title": "Inkflow | Index | AI Book Generator",
+  "introduction": "Inkflow is the world's easiest to use AI book writer, primarily developed for generating non-fiction books. It allows users to generate a 20k to 200k+ word AI book in just a few clicks, with no limits, no restrictions, and no credits required.",
+  "category": "Text&Writing",
+  "features": [
+    "Generate a 20k to 200k+ word AI book",
+    "Enter book title and generate book outline",
+    "Select generation model",
+    "Download .docx file",
+    "Enter chapter details with auto-outline or custom outline",
+    "Choose the book language",
+    "Powered by AWS for fast, secure content generation and storage",
+    "Available in multiple languages",
+    "Two language models available"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Aspiring authors, content creators, and individuals looking to generate non-fiction books quickly and efficiently.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a limit on content?",
+      "answer": "No, there are no limits on content."
+    },
+    {
+      "question": "How long does it take to generate a book?",
+      "answer": "The time to generate a book is not specified, but the process is designed to be quick."
+    },
+    {
+      "question": "What language model is used?",
+      "answer": "Two language models are available to tailor the book content for specific needs."
+    },
+    {
+      "question": "Is editing required after the book is generated?",
+      "answer": "Some editing may be required after the book is generated."
+    },
+    {
+      "question": "Can I provide the outline for my book?",
+      "answer": "Yes, you can enter custom outline titles and structure."
+    },
+    {
+      "question": "How is the book or course word length determined?",
+      "answer": "The word length is determined by the user's input and the selected generation model."
+    },
+    {
+      "question": "Can I use Inkflow on any device?",
+      "answer": "Yes, Inkflow can be used on any device."
+    },
+    {
+      "question": "Can I get the output in PDF format?",
+      "answer": "The output is available in .docx format."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "The refund policy is not specified on the website."
+    },
+    {
+      "question": "Can Inkflow generate an AI Course?",
+      "answer": "Yes, Inkflow can generate an AI Course."
+    }
+  ],
+  "url": "https://inkflow.io/"
+}

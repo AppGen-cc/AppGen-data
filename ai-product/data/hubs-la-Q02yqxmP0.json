@@ -1,0 +1,26 @@
+{
+  "description": "Tonic Textual enables you to build and fine-tune LLMs on your free-text data while ensuring compliance and keeping sensitive information safe.",
+  "title": "Tonic Textual | The Secure Data Lakehouse for LLMs | Tonic.ai",
+  "introduction": "Welcome to our website! We offer a powerful AI Detector tool that helps businesses detect and analyze data efficiently. Our tool is designed to streamline data processing and provide valuable insights for decision-making. Whether you're a small business or a large enterprise, our AI Detector can help you optimize your operations and improve performance.",
+  "features": [
+    "Advanced data detection algorithms",
+    "Real-time data analysis",
+    "Customizable data processing",
+    "User-friendly interface"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and enterprises",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a free trial for new users to experience our AI Detector tool before committing to a subscription."
+    },
+    {
+      "question": "What kind of data can be analyzed with the AI Detector?",
+      "answer": "Our AI Detector tool can analyze various types of data, including text, images, and numerical data."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://hubs.la/Q02yqxmP0"
+}

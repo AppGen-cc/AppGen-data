@@ -1,0 +1,32 @@
+{
+  "description": "Turn yourself into comical clay character with our online clay filter.  Photo to clay style filter. Share your funny clay photo on social media. Start now!",
+  "title": "Image to Clay Style Online | AI Clay Image Generator",
+  "keywords": "Image to Clay Style,Photo to Clay Style,clay-filter,clay,clay image,AIGC,stable diffusion,sd webui",
+  "introduction": "Your Go-To Free Online Custom AI Clay Image Maker & Generator!",
+  "category": "Design&Art",
+  "features": [
+    "Free 50000 generates",
+    "Choose not to make the generated results public",
+    "Fast Processing",
+    "Image resolution increased to 1024X1024",
+    "Unlimited create images"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users looking to create clay style images",
+  "pricing": "Monthly Plan: $9.99/month, Yearly Plan: $4.16/month billed yearly",
+  "faqs": [
+    {
+      "question": "What is included in the free plan?",
+      "answer": "The free plan includes 50000 generates and the option to choose not to make the generated results public."
+    },
+    {
+      "question": "What is the image resolution for the generated images?",
+      "answer": "The image resolution is increased to 1024X1024 for all generated images."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for this product."
+    }
+  ],
+  "url": "https://aiclaygen.com/"
+}

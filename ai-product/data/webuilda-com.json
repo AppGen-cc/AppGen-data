@@ -1,0 +1,42 @@
+{
+  "title": "WeBuilda – Build your online presence effortlessly with WeBuilda, the micro SaaS tool offering intuitive drag-and-drop templates",
+  "introduction": "The website offers a simple pricing model that scales with the needs of businesses of all sizes. It provides different plans for solo founders, small teams, large teams, agencies, and organizations.",
+  "category": "Business",
+  "features": [
+    "1 Site Creation",
+    "Editor Access",
+    "100 Ai Credits, 2 Ai Images",
+    "2 Sites",
+    "500 MB of Storage",
+    "Custom Domain",
+    "Drag and Drop Builder",
+    "10,000 Ai Credits (Text, Images)",
+    "5 WorkSpace Projects",
+    "Team Collaboration and Invite",
+    "Unlimited Sites",
+    "Unlimited AI image & text tokens",
+    "Unlimited Storage",
+    "Unlimited Custom Domains",
+    "Unlimited Workspaces",
+    "Unlimited Website Export",
+    "Unlimited Team Invites"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Solo founders, individuals, small teams, large teams, agencies, organizations",
+  "pricing": "Flexible pricing model with options for monthly and yearly subscriptions",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial perfect for platform testing."
+    },
+    {
+      "question": "What is included in the Basic Plan?",
+      "answer": "The Basic Plan includes 2 Sites, 500 MB of Storage, Custom Domain, Drag and Drop Builder, 10,000 Ai Credits (Text, Images), 5 WorkSpace Projects, and Team Collaboration and Invite."
+    },
+    {
+      "question": "Who is the Pro Plan suitable for?",
+      "answer": "The Pro Plan is suitable for large sized teams, agencies, and organizations, offering unlimited sites, AI image & text tokens, storage, custom domains, workspaces, website export, and team invites."
+    }
+  ],
+  "url": "https://webuilda.com/"
+}

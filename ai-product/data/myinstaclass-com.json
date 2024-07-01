@@ -1,0 +1,16 @@
+{
+  "description": "Make a masterclass on anything.",
+  "title": "Instaclass",
+  "introduction": "Instaclass lets you create a class on anything you want, using the best content that's already on the internet. It helps users find and compile the best existing content to create comprehensive courses.",
+  "category": "Education",
+  "features": [
+    "Dig Deeper: Choose to go deeper on a topic and have a whole section dedicated to it.",
+    "Test Yourself: Test your knowledge with quizzes that you can take multiple times.",
+    "Take Searches Further: Get more information on a topic by clicking on related search results, all sourced onto one page."
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking to create comprehensive courses using existing online content",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://myinstaclass.com/"
+}

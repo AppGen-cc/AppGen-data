@@ -1,0 +1,38 @@
+{
+  "description": "Cut research time from weeks to seconds: Get instant access to detailed competitive research, SWOT analysis, buyer personas, growth opportunities and more for any product or business at the push of a button, so that you can focus more on strategy and execution.",
+  "title": "Osum | Supercharge Your Market Research With AI ⚡️",
+  "introduction": "Osum is an AI-powered market research tool designed to supercharge your market research by providing deep insights and analysis in seconds. It helps businesses, agencies, and freelancers to gain actionable insights, optimize sales, and improve ROI.",
+  "category": "Business",
+  "features": [
+    "Insight Engine: Get instant market analysis",
+    "Persona Profiler: Discover your ideal customer",
+    "SWOT Suite: Strengths, weaknesses, in seconds",
+    "Trend Tracker: Spot opportunities, avoid threats",
+    "Brand Lens: Sharpen your brand's focus",
+    "Journey Mapper: Chart customer experience effortlessly",
+    "Sales Optimizer: Maximize ROI on each prospect",
+    "Content Catalyst: Campaign ideas, crystallized"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses, agencies, freelancers, consultants, startups, and large enterprises",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does the 7-day trial work?",
+      "answer": "Your onboarding is complete to tailor your best experience. Get instant access to all Osum deep research and insights. You'll get a reminder when your trial is nearing completion, and you can cancel anytime before being charged on Jun 8th, 2024."
+    },
+    {
+      "question": "What are the pricing plans?",
+      "answer": "Osum offers four pricing plans: Pro ($149.99/month), Expert ($249.99/month), Business ($499.99/month), and Enterprise ($2,499.99/month). Each plan includes different features and user limits."
+    },
+    {
+      "question": "Who is the target audience for Osum?",
+      "answer": "Osum is designed for freelancers, consultants, startups, small teams, agencies, businesses, and large enterprises."
+    },
+    {
+      "question": "What features are included in the Enterprise plan?",
+      "answer": "The Enterprise plan includes up to 25 users, 15 projects per month, 75 report workspaces per month, 125 predictive surveys per month, and additional features like access management, pay by invoice, advanced admin permissions, audit log, and SAML Single Sign-On (SSO)."
+    }
+  ],
+  "url": "https://osum.com/"
+}

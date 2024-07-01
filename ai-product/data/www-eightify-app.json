@@ -1,0 +1,30 @@
+{
+  "description": "YouTube summaries with Eightify: save time on long videos and extract key ideas instantly. AI YouTube video summaries made instantly.",
+  "title": "Eightify - YouTube Summary with ChatGPT",
+  "introduction": "Professional website analyst providing website content analysis services.",
+  "category": "Business.",
+  "features": [
+    "Extract and summarize website content",
+    "Identify key information such as introduction, features, pricing, and FAQs",
+    "Categorize websites based on content analysis",
+    "Provide insights and recommendations for website improvement"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Website owners, marketers, and businesses looking to optimize their online presence",
+  "pricing": "Custom pricing based on project requirements",
+  "faqs": [
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer website content analysis services including extraction, summarization, categorization, and recommendations."
+    },
+    {
+      "question": "Who can benefit from your services?",
+      "answer": "Our services are ideal for website owners, marketers, and businesses seeking to enhance their online content and user experience."
+    },
+    {
+      "question": "How is pricing determined?",
+      "answer": "Pricing is customized based on the specific project requirements and scope of work involved."
+    }
+  ],
+  "url": "https://www.eightify.app/"
+}

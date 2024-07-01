@@ -1,0 +1,35 @@
+{
+  "description": "Your all-in-one AI Copilot for next level generative AI with ChatGPT, Gemini, Claude, and more. Boost your productivity 10x & save hours of work. Let Marve write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds. Start for free!",
+  "title": "SinCode AI - AI Copywriter",
+  "introduction": "SinCode AI is an all-in-one AI platform trusted by over 500,000 AI creators. It offers a range of features including unlimited word and image credits, access to advanced AI models like GPT-4 and DALL·E 3, and tools like Marve Chat and Document Editor. The platform aims to revolutionize content creation and streamline writing processes for various users.",
+  "features": [
+    "Unlimited word and image credits",
+    "Access to GPT-4 and DALL·E 3",
+    "Marve Chat for unlimited AI assistance",
+    "Document Editor for easy editing",
+    "AI Copilots for various tasks"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "AI creators, copywriters, content creators, marketers, entrepreneurs, and anyone interested in AI tools",
+  "pricing": "Subscription-based with different plans including a free option, starter plan, and pro plan with various features and benefits",
+  "faqs": [
+    {
+      "question": "How are the words calculated?",
+      "answer": "The words are calculated based on the usage and credits allocated in each plan."
+    },
+    {
+      "question": "How can I get access to GPT-4?",
+      "answer": "Access to GPT-4 is included in the Pro plan along with other advanced features."
+    },
+    {
+      "question": "How can I cancel my plan?",
+      "answer": "You can cancel your plan at any time with secure payments powered by Stripe."
+    },
+    {
+      "question": "What are the available payment methods?",
+      "answer": "Payment methods include credit/debit cards and other online payment options."
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://www.sincode.ai/"
+}

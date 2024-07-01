@@ -1,0 +1,31 @@
+{
+  "description": "Discover Rytr, your free AI writing assistant. Craft high-quality content faster than ever before. Start for free and upgrade as you grow!",
+  "title": "Free AI Writer, Content Generator & Writing Assistant | RytrFree AI Writer, Content Generator & Writing Assistant | Rytr",
+  "introduction": "Rytr is an AI writing tool that helps users generate original and compelling content in their own tone. It offers multiple pricing plans including a free option with limited features. Users can create custom tones, check for plagiarism, and access various languages and tones.",
+  "features": [
+    "AI Content Generation with different character limits and tone matching options",
+    "Plagiarism Checks with different limits",
+    "Support for multiple languages and custom use cases",
+    "Chrome Extension for easy access",
+    "Access to an exclusive community and priority support"
+  ],
+  "pricing": "Rytr offers three pricing plans: Free, Unlimited at $7.50 per month, and Premium at $24.16 per month. The Free plan includes limited features, while the paid plans offer additional benefits like unlimited content generation, multiple tone matches, and increased plagiarism checks.",
+  "hasFreeTrial": "No",
+  "targetPeople": "Content writers, marketers, entrepreneurs",
+  "faqs": [
+    {
+      "question": "What forms of payment do you accept?",
+      "answer": "Rytr accepts payments from all major credit and debit cards in all currencies with prices in USD. The exchange rate is determined by the payment provider, Stripe."
+    },
+    {
+      "question": "What’s the cancellation policy?",
+      "answer": "Monthly subscribers can cancel anytime and access their remaining credits for the month. The annual plan offers a 20% discount with a 12-month commitment. More details can be found in Rytr's terms of use."
+    },
+    {
+      "question": "Can I upgrade later?",
+      "answer": "Yes, users can upgrade to the Unlimited or Premium plan at any time from the credits section of their account."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://rytr.me/"
+}

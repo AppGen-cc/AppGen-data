@@ -1,0 +1,26 @@
+{
+  "description": "A storytelling machine that automatically generates synthetic images as you write new words and sentences. Made with RunwayML",
+  "title": "Generative Engine | RunwayML Experiments",
+  "keywords": "runway, learn, machine learning, guides, generative, engine, text to image, t2i",
+  "introduction": "A storytelling machine that automatically generates synthetic images as you write new words and sentences.",
+  "features": [
+    "Automatically generates synthetic images",
+    "Allows users to write new words and sentences",
+    "Uses AttnGAN model for image generation"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is the model used for image generation?",
+      "answer": "AttnGAN model is used for image generation."
+    },
+    {
+      "question": "Is there a cost for using this service?",
+      "answer": "No, the service is free to use."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Creative writers, artists, and anyone interested in generating synthetic images",
+  "url": "https://experiments.runwayml.com/generative_engine/"
+}

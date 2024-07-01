@@ -1,0 +1,47 @@
+{
+  "description": "eternity.ac - create and download your digital clone for the version of you to live forever.",
+  "title": "My AI Clone at Eternity⚡️AC",
+  "introduction": "Create your full digital clone using AI to let a version of you live forever. The process involves uploading your thoughts, taking several selfies for a lifelike 3D avatar, and then downloading or using your clone in the cloud.",
+  "category": "Life Assistant",
+  "features": [
+    "25 initial topics",
+    "3 additional topics daily",
+    "Visual 3D avatar",
+    "5 messages with clone per 30 mins",
+    "Basic cloned voice quality",
+    "Interact with your clone",
+    "Download your clone",
+    "File uploads (.docx, .txt, .mp3, .mp4, .ogg and more)",
+    "Unlimited questions/answers to tune your clone",
+    "Free form thoughts (not only pre-defined topics)",
+    "Unlimited talks with your digital version",
+    "Ability to share the clone by link",
+    "Talk to public clones with no limits",
+    "Ultra realistic cloned voice quality",
+    "Top-tier responsiveness speed of your clone",
+    "Real-time captions for your clone's conversations",
+    "Early access to new features"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals looking to create a digital version of themselves",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What are the initial features available for free?",
+      "answer": "25 initial topics, 3 additional topics daily, Visual 3D avatar, 5 messages with clone per 30 mins, Basic cloned voice quality, Interact with your clone, Download your clone."
+    },
+    {
+      "question": "What additional features are available with the PLUS plan?",
+      "answer": "File uploads (.docx, .txt, .mp3, .mp4, .ogg and more), Unlimited questions/answers to tune your clone, Free form thoughts, Unlimited talks with your digital version, Ability to share the clone by link, Talk to public clones with no limits, Ultra realistic cloned voice quality, Top-tier responsiveness speed of your clone, Real-time captions for your clone's conversations, Early access to new features."
+    },
+    {
+      "question": "How much does the PLUS plan cost?",
+      "answer": "$20 per month."
+    },
+    {
+      "question": "Can I cancel my subscription at any time?",
+      "answer": "Yes, you can cancel any time, and your data will be kept as long as you want it."
+    }
+  ],
+  "url": "https://eternity.ac/"
+}

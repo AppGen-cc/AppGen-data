@@ -1,0 +1,38 @@
+{
+  "description": "Start Transcribing for Free — Convert unlimited audio and video files to accurate text. 99.8% accuracy. 98+ languages. Transcribes in seconds. 3 Free Transcripts Every Day. Download as docx, pdf, txt, and subtitles. Import audio and video files. Export accurate text and subtitles. TurboScribe is fastest, most accurate AI transcriber on Earth. Export as PDF, DOCX, subtitles (SRT), TXT. The world's only unlimited transcription service. No caps or quotas. Unlimited minutes. Say goodbye to errors: Our AI transcription service boasts near-perfect accuracy. The only unlimited transcription service on Earth. No caps or quotas. Verbatim audio to text. Transcribe audio and video in seconds, not days. Generate subtitles and transcripts automatically. Start transcribing for free. Upload audio and video files. Download accurate text and subtitles. Turn audio to text in seconds. Turn speech into accurate text. Get Started Free. Speech to text. Voice to text. Audio to text. Video to text. MP3 to text. Video to subtitles. Convert audio to text. Convert audio and video to accurate text in seconds, not days. Unlimited Minutes. Download as pdf, docx, txt, subtitles. Video to captions. Mind-blowing accuracy. Breathtakingly fast. Next-gen AI for lightning-fast, accurate transcriptions. Convert MP3 files to text. Get accurate transcripts in seconds, not days. Lightning fast. Unmatched 99.8% accuracy. 24/7 transcription.",
+  "title": "TurboScribe: Transcribe Audio and Video to TextAUUSFRUSUS",
+  "introduction": "TurboScribe is an AI transcription service that provides unlimited audio and video transcription in over 98 languages with high accuracy. It offers features like handling large files, secure data encryption, and support for various audio/video formats.",
+  "features": [
+    "Unlimited audio and video transcription",
+    "Support for over 98 languages",
+    "Handling large files up to 10 hours long and 5GB in size",
+    "Secure data encryption",
+    "Export transcripts in multiple formats",
+    "Speaker recognition and translation capabilities"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does TurboScribe protect my data?",
+      "answer": "All transcripts and media files are encrypted at rest, ensuring confidentiality and privacy. Access is limited to the account holder."
+    },
+    {
+      "question": "Is my data private and confidential?",
+      "answer": "Yes, your data is private and confidential. Only you can view or edit your files unless shared with others."
+    },
+    {
+      "question": "Is my payment information secure?",
+      "answer": "TurboScribe partners with Stripe for secure transactions, ensuring advanced encryption for payment information protection."
+    },
+    {
+      "question": "Where is my data stored?",
+      "answer": "The primary data infrastructure is located in the United States."
+    },
+    {
+      "question": "Can I export my data from TurboScribe?",
+      "answer": "Yes, you can download media files or transcripts at any time and export multiple files simultaneously."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://turboscribe.ai/"
+}

@@ -1,0 +1,38 @@
+{
+  "description": "Learn to learn, using AI",
+  "title": "HitWit.ai",
+  "introduction": "HitWit is an AI-powered learning tool designed to help users achieve mastery in various subjects by encouraging active participation, measuring focus, and utilizing techniques like dual coding, metacognition, and spaced repetition.",
+  "category": "Education",
+  "features": [
+    "Allows users to ask questions to achieve mastery",
+    "Measures focus to combat distraction",
+    "Encourages critical thinking by requiring great questions",
+    "Presents information both verbally and visually (dual coding)",
+    "Breaks down topics into bite-size explorations with reviews (metacognition)",
+    "Uses spaced repetition to enhance retention",
+    "Generates visuals, quizzes, and other multimodal content",
+    "Builds a personalized learning model based on user interaction"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking to enhance their learning and retention through scientific methods",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How do I learn with HitWit?",
+      "answer": "Explore concepts by questioning and synthesize to retain insights."
+    },
+    {
+      "question": "Can't I do this with ChatGPT?",
+      "answer": "You can if you tried hard, but ChatGPT is built to answer questions, not help you learn. You would need to supplement its knowledge with other sources, generate multimodal content, and measure and improve your focus and learning style."
+    },
+    {
+      "question": "What is the science behind HitWit?",
+      "answer": "HitWit uses mastery, focus measurement, active participation, dual coding, metacognition, and spaced repetition to enhance learning and retention."
+    },
+    {
+      "question": "What is the technology behind HitWit?",
+      "answer": "HitWit collects data from your documents and the internet, indexes it, and uses AI to generate answers, visuals, quizzes, and other content based on your interactions. It also builds a personalized learning model for you."
+    }
+  ],
+  "url": "https://www.hitwit.ai/"
+}

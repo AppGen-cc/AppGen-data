@@ -1,0 +1,39 @@
+{
+  "description": "Supercharge your website!",
+  "title": "HeroKit",
+  "introduction": "HeroKit is a platform that allows users to create stunning visuals for their website without the need for coding. It offers a wide selection of beautiful, unique, and professionally designed website heroes that can be customized and embedded with ease. Users can personalize their heroes to match their branding and style, creating visually striking elements for their websites.",
+  "features": [
+    "Choose from a wide selection of professionally designed website heroes",
+    "Customize and embed heroes with no coding required",
+    "Works with favorite site builders",
+    "Thoughtfully crafted components with modern web technologies",
+    "Apply branding and personal touch to create unique heroes"
+  ],
+  "pricing": "All prices are in USD and charged per site with applicable taxes added at checkout.",
+  "faqs": [
+    {
+      "question": "What website builders can I use with HeroKit?",
+      "answer": "HeroKit works with your favorite site builders, allowing you to enhance your website with visually striking heroes."
+    },
+    {
+      "question": "Do I need to know any code to use HeroKit?",
+      "answer": "No, HeroKit does not require any coding knowledge. Users can create and customize heroes without writing any code."
+    },
+    {
+      "question": "How much does HeroKit cost?",
+      "answer": "The pricing for HeroKit is in USD and charged per site with applicable taxes added at checkout."
+    },
+    {
+      "question": "Can I make changes to my hero once it’s published?",
+      "answer": "Yes, users can make changes to their heroes even after they are published."
+    },
+    {
+      "question": "Where will the hero be hosted?",
+      "answer": "The hero created with HeroKit can be hosted on your website, integrated seamlessly with your existing site builder."
+    }
+  ],
+  "category": "Design&Art",
+  "hasFreeTrial": "No",
+  "targetPeople": "Website owners and creators",
+  "url": "https://herokit.design/"
+}

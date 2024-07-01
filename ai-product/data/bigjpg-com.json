@@ -1,0 +1,62 @@
+{
+  "description": "Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.",
+  "title": "Bigjpg - AI Super-Resolution lossless image enlarging / upscaling tool using Deep Convolutional Neural Networks",
+  "keywords": "bigjpg, waifu, waifu2x, waifu2x, miku, CNN, image enlarge, image enlarge, fangda, waifu github, upscaling, Image Super-Resolution Using Deep Convolutional Networks, Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Anime-style art, without losing quality, PhotoZoom pro, photoshop cc, image enhance, image enhance",
+  "introduction": "Bigjpg is an image enlargement tool that uses Deep Convolutional Neural Networks to intelligently enlarge images without losing quality. It is especially effective for anime images and illustrations, maintaining colors, details, and edges well. The tool supports API integration and offers both free and paid user limits for image size.",
+  "category": "AI Detector",
+  "features": [
+    "Uses Deep Convolutional Neural Networks for image enlargement",
+    "Supports API integration",
+    "Maintains image quality for anime images and illustrations"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users looking to enlarge images without losing quality",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does bigjpg enlarge images?",
+      "answer": "Bigjpg uses Deep Convolutional Neural Networks to reduce noise and serration in images, allowing for enlargement without quality loss."
+    },
+    {
+      "question": "Does bigjpg support API?",
+      "answer": "Yes, API support is available after logging in."
+    },
+    {
+      "question": "What images are best enlarged?",
+      "answer": "Anime images and illustrations are processed well, with colors, details, and edges maintained. Regular photos are also supported."
+    },
+    {
+      "question": "What are the maximum limits on uploaded image?",
+      "answer": "Free users can upload images up to 3000x3000px, 5M; paid users can upload images up to 50M."
+    },
+    {
+      "question": "How about the speed?",
+      "answer": "The estimated processing time is shown at the start, but actual processing time is usually shorter. It depends on server traffic and time of day."
+    },
+    {
+      "question": "My enlarging failed! Why?",
+      "answer": "Enlarging may fail due to network environment or server load. Simply try again if you encounter this issue."
+    },
+    {
+      "question": "Should I keep my browser open after starting?",
+      "answer": "If not logged in, keep the browser open to prevent loss of enlarged image. If logged in, offline enlarging is supported."
+    },
+    {
+      "question": "How do I view my enlargement history?",
+      "answer": "Enlarging history can be viewed after logging in."
+    },
+    {
+      "question": "I want to enlarge more and bigger images. How can I do that?",
+      "answer": "Paid services are available to upgrade for faster and more stable enlarging using an independent high-performance server."
+    },
+    {
+      "question": "Privacy policy?",
+      "answer": "Uploaded and enlarged images are automatically deleted after 3 days. Image links are encrypted for privacy."
+    },
+    {
+      "question": "Slow download speed?",
+      "answer": "Change the server location to the United States in the settings page to speed up downloads if default server is slow."
+    }
+  ],
+  "url": "https://bigjpg.com/"
+}

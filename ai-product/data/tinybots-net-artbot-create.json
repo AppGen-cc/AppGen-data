@@ -1,0 +1,50 @@
+{
+  "description": "Generate AI-created images and photos with Stable Diffusion using a distributed computing cluster powered by the AI Horde. No login required and free to use.",
+  "title": "ArtBot - Create images with Stable Diffusion, utilizing the AI Horde",
+  "introduction": "ArtBot is an AI-powered image generation service that utilizes a point tracking system called kudos to determine queue priority and prevent abuse of the service. Users can contribute GPU power to earn kudos, which can be used to prioritize image generation requests. Additionally, users with a Stable Horde API key receive higher priority in the queue.",
+  "features": [
+    "Kudos point tracking system",
+    "API key for queue priority",
+    "Prompt weighting and matrix support",
+    "GPU worker contribution"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What are kudos and why do they exist?",
+      "answer": "Kudos are points awarded to users for contributing GPU power to the distributed cluster. They determine queue priority and prevent abuse of the service. Kudos cannot be bought and are not a currency."
+    },
+    {
+      "question": "Why should I get an AI Horde API key and what is it?",
+      "answer": "An API key allows users to interact with the AI Horde through various tools and skip ahead of anonymous users in the queue, speeding up image generations."
+    },
+    {
+      "question": "Is there any sort of syntax (prompt weights or prompt matrix)?",
+      "answer": "ArtBot supports prompt weighting and matrix syntax for image generation requests. Prompt weighting involves assigning strength values to prompts, while the matrix allows for multiple values to be run separately."
+    },
+    {
+      "question": "How can I run my own GPU worker and contribute to the AI Horde?",
+      "answer": "Users can run a GPU worker by installing a Horde worker on their local machine or using cloud workers provided by AI Horde volunteers. Running a worker allows users to earn kudos, prioritize image generations, and contribute to the generative AI community."
+    },
+    {
+      "question": "Why does the estimated time remaining to generate an image seem to fluctuate so much?",
+      "answer": "The fluctuation in estimated time occurs due to the priority queue system, where users with API keys and kudos are given priority access to the job queue ahead of anonymous users."
+    },
+    {
+      "question": "Why do my pending image requests sometimes disappear without generating an image?",
+      "answer": "Stable Horde drops outstanding image requests after about 10 minutes to keep the generation process moving along. Requests older than 20 minutes may disappear."
+    },
+    {
+      "question": "Why am I getting a black image?",
+      "answer": "Getting a black image may be due to the Stable Diffusion / Stable Horde NSFW filter being too aggressive. Try disabling it in the settings panel."
+    },
+    {
+      "question": "Why am I getting a 'web app exceeded storage quota error'?",
+      "answer": "The error occurs when the browser's storage quota is exceeded. Users need to remove images from the browser's ArtBot database instance to continue using the service."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Users interested in AI-powered image generation",
+  "url": "https://tinybots.net/artbot/create"
+}

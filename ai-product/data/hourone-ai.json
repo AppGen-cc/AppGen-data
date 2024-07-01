@@ -1,0 +1,43 @@
+{
+  "description": "Gen AI videos and content workflows tailored for your enterprise growth",
+  "title": "Gen AI Video: Creating Content Workflows for Enterprise Growth - Hour OneAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset",
+  "introduction": "Hour One is an AI video creation platform that offers a wide range of tools to streamline the video creation process. Users can create professional-grade videos with customizable AI avatars and localized content in various languages. The platform provides features like text-to-voice conversion, personalized avatars, and a library of templates for different types of videos.",
+  "category": "The website \"Hour One\" can be classified as \"Video\".",
+  "features": [
+    "Create personalized AI avatars for professional videos",
+    "Localize content in multiple languages and dialects",
+    "Automatically translate videos with a single click",
+    "Access to a variety of templates for different video types",
+    "Customize templates with design experts",
+    "Create cinematic videos with different layouts and camera movements",
+    "Add captions for accessibility",
+    "Integrate GPT-4 for script creation",
+    "Auto-summarize meetings with avatars",
+    "Turn PDFs, PPTs, and Docs into videos",
+    "Collaborate and share content seamlessly",
+    "API integration for Virtual Humans",
+    "24/7 support and dedicated customer success manager"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Video creators, businesses, educators, marketers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Can I download my translated videos?",
+      "answer": "Yes, you can download or stream your translated videos like any other video created with Hour One."
+    },
+    {
+      "question": "Does Hour One support translations of audio files?",
+      "answer": "No, Hour One currently does not support translations of audio files. It focuses on video creation and translation."
+    },
+    {
+      "question": "What types of videos can be translated using Hour One?",
+      "answer": "Hour One is suitable for various video types including training, educational, promotional, and internal communication videos."
+    },
+    {
+      "question": "How many languages can Hour One translate videos into?",
+      "answer": "Hour One can currently translate videos into 11 languages including English, Spanish, French, Chinese, German, Russian, Japanese, Portuguese, Hindi, Arabic, and Hebrew."
+    }
+  ],
+  "url": "https://hourone.ai/"
+}

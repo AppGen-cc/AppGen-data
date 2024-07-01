@@ -1,0 +1,36 @@
+{
+  "title": "1hero.ai | Home",
+  "introduction": "1hero AI is an AI chatbot designed for e-commerce customer service, providing 24/7 instant support in multiple languages. It autonomously responds to post-sales and pre-sales inquiries, integrates with various e-commerce tools, and offers features like email integration, social media support, AI chatbot, phone support, and deep e-commerce platform integration.",
+  "features": [
+    "24/7 instant support in multiple languages",
+    "Email integration for autonomous replies",
+    "Social media support for instant responses",
+    "AI-driven ChatBot for boosting conversions",
+    "Phone support with virtual assistant",
+    "Deep e-commerce platform integration for order management and more",
+    "Tailored responses for post-sales and pre-sales support",
+    "Real-time customer support",
+    "Draft mode and Full Auto Mode available"
+  ],
+  "pricing": "Free plan available",
+  "faqs": [
+    {
+      "question": "Does 1hero offer a free plan?",
+      "answer": "Yes, 1hero offers a free plan."
+    },
+    {
+      "question": "In how many languages does 1hero generate replies?",
+      "answer": "1hero generates replies in 85 languages."
+    },
+    {
+      "question": "Does 1hero integrate with Shopify backend for customer data?",
+      "answer": "Yes, 1hero pulls relevant customer data from Shopify backend."
+    },
+    {
+      "question": "Does 1hero require manual copy-pasting for email replies?",
+      "answer": "No, 1hero does not require manual copy-pasting for email replies."
+    }
+  ],
+  "category": "Chatbot",
+  "url": "https://www.1hero.ai/"
+}

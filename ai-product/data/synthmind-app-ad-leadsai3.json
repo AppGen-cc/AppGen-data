@@ -1,0 +1,35 @@
+{
+  "title": "Leads AI 3 - SynthMind AI",
+  "introduction": "AI Client Finder helps businesses find potential clients' accurate contact data using AI technology. It searches the web and professional databases to discover contacts and companies that match buyer profiles, providing the latest information and real-time email verification.",
+  "category": "Marketing",
+  "features": [
+    "Searches the entire web and professional databases to discover contacts and companies that match buyer profiles.",
+    "Provides the latest information on potential clients.",
+    "Real-time email verification to ensure connection with real, qualified leads.",
+    "AI Assistant to describe ideal leads and get the best matches.",
+    "Builds potential client profiles based on user descriptions.",
+    "Compiles and generates detailed potential client profiles."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Small and medium-sized businesses without a sales team.",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What does AI Client Finder do?",
+      "answer": "AI Client Finder helps businesses find potential clients' accurate contact data using AI technology. It searches the web and professional databases to discover contacts and companies that match buyer profiles, providing the latest information and real-time email verification."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, AI Client Finder offers a free trial."
+    },
+    {
+      "question": "Who is the target user for AI Client Finder?",
+      "answer": "The target users are small and medium-sized businesses without a sales team."
+    },
+    {
+      "question": "How does AI Client Finder ensure the accuracy of the leads?",
+      "answer": "AI Client Finder uses real-time email verification to ensure you are always connecting with real, qualified leads."
+    }
+  ],
+  "url": "https://synthmind.app/ad/leadsai3/"
+}

@@ -1,0 +1,72 @@
+{
+  "description": "Knowbase is Dropbox and ChatGPT combined. You store your files and have access to all the collected information simply by asking questions on the chat.",
+  "title": "Knowbase.ai - Store and chat with your knowledge base",
+  "introduction": "Knowbase is a platform that combines the functionalities of Dropbox and ChatGPT. It allows users to store files in a library and access the information within them by asking questions in a chat interface.",
+  "category": "Productivity",
+  "features": [
+    "Store files in a library",
+    "Access information by asking questions in a chat",
+    "Upload multiple files at once (up to 100)",
+    "Supports various file formats (PDF, MP4, MP3, TXT, PPTX, DOCX, DOC, YouTube links)",
+    "Transcribe video and audio recordings from speech to text",
+    "Supports multiple languages for transcription"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals and businesses looking to store and access information from various file types easily",
+  "pricing": "Subscription-based with Free, Basic, Standard, and Pro plans",
+  "faqs": [
+    {
+      "question": "How does Knowbase work?",
+      "answer": "Knowbase is Dropbox and ChatGPT combined. You store your files in the Library and have access to all the information collected in them, simply by asking a question on the chat."
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "Yes, just by signing up you get 100 MB storage space and 10 questions per month. You can use it to test how Knowbase works."
+    },
+    {
+      "question": "How many files can I store in my knowledge base?",
+      "answer": "You can store as many files as you want depending on the available space and number of uploads. For example, the Standard plan allows you to store up to 10GB of files."
+    },
+    {
+      "question": "Can I upload multiple files at once?",
+      "answer": "Yes, you can upload up to 100 files at once. Those can be PDFs, Word documents, PowerPoint presentations, video and audio recordings, or YouTube videos pasted by links."
+    },
+    {
+      "question": "What types of files do you support?",
+      "answer": "You can upload files in the following formats: PDF, MP4, MP3, TXT, PPTX, DOCX, DOC, and YouTube links."
+    },
+    {
+      "question": "What’s the maximum duration of video or audio recordings that I can upload?",
+      "answer": "Knowbase transcribes video and audio recordings from speech to text. For the Standard plan, you can transcribe up to 900 minutes of video or audio recordings in multiple files."
+    },
+    {
+      "question": "How long will it take to transcribe my video or audio recording?",
+      "answer": "It depends on the size of your file. For example, a 700MB 2.5-hour video file takes approximately 6 minutes to transcribe."
+    },
+    {
+      "question": "What languages do you support?",
+      "answer": "Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh."
+    },
+    {
+      "question": "How large can my files be?",
+      "answer": "Knowbase lets you upload files up to 1GB in size. You can upload any type of file that is that large, most likely video recordings but it might as well be PDFs or PPTX presentations."
+    },
+    {
+      "question": "What counts as one query?",
+      "answer": "One query equals one question asked to your knowledge base."
+    },
+    {
+      "question": "How many YouTube videos can I transcribe?",
+      "answer": "If the video is in English, you can transcribe as many videos as you want. If it is not in English, then it will be transcribed as a standard file using the available transcription time you have."
+    },
+    {
+      "question": "What is transcription time?",
+      "answer": "Transcription time means the total length of the video/audio file expressed in minutes that you can transcribe for each plan: Free plan: 0 (ENG YouTube only) | Basic: 180 minutes | Standard: 900 minutes | Pro: 1800 minutes."
+    },
+    {
+      "question": "What counts as one upload?",
+      "answer": "One upload means that one complete file has been successfully uploaded and processed by Knowbase."
+    }
+  ],
+  "url": "https://www.knowbase.ai/"
+}

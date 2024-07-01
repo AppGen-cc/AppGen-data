@@ -1,0 +1,30 @@
+{
+  "description": "Discover ZeroBot, the internet's voice-enabled chatbot. Engage with AI agents designed for specific roles, and experience a new way to communicate. Connect anytime, anywhere with the perfect virtual companion for your needs.",
+  "title": "ZeroBot - Internet's #1 verbal chatbot",
+  "introduction": "Meet ZeroBot, the Internet's #1 voice-enabled chatbot! Imagine having a conversation with a computer friend who talks with you just like a real person. With ZeroBot, it's not just typing – it's talking! Get ready to chat in a whole new way. Now with the Groq LPU™ Inference Engine for the world's fastest inference speed for LLMs via the alpha version of Groq API, your chats are instant and effortlessly smooth.",
+  "category": "Chatbot",
+  "features": [
+    "Voice-enabled chatbot",
+    "Uses Groq LPU™ Inference Engine for fast inference speed",
+    "AI agents available for various needs (Tutor, Counselor, Buddy, Doctor)",
+    "Instant and smooth conversations"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "General users looking for a conversational AI experience",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is ZeroBot?",
+      "answer": "ZeroBot is the Internet's #1 voice-enabled chatbot that allows you to have conversations just like with a real person."
+    },
+    {
+      "question": "What technology does ZeroBot use?",
+      "answer": "ZeroBot uses the Groq LPU™ Inference Engine for the world's fastest inference speed for LLMs via the alpha version of Groq API."
+    },
+    {
+      "question": "What types of AI agents are available?",
+      "answer": "ZeroBot offers AI agents such as Tutor, Counselor, Buddy, and Doctor."
+    }
+  ],
+  "url": "https://www.zerobot.ai/"
+}

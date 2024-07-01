@@ -1,0 +1,29 @@
+{
+  "description": "Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more.",
+  "title": "Stockimg AI",
+  "keywords": "photo generator,stock image,logo,logo generator image,online image editing software,illustration,design media and templates,Stockimg",
+  "introduction": "Stockimg.ai is an AI design tool that allows users to generate wallpapers, stock images, logos, posters, illustrations, book covers, and QR codes with artificial intelligence. It offers commercial use rights for the images produced.",
+  "category": "Design&Art",
+  "features": [
+    "Generate wallpapers, stock images, logos, posters, illustrations, book covers, and QR codes with AI",
+    "Commercial use rights for images produced"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Designers, marketers, content creators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What does 1 credit mean?",
+      "answer": "1 image generation = 1 credit."
+    },
+    {
+      "question": "Will I be able to use my credits in all categories?",
+      "answer": "Yes, you can generate design/image as you wish from the active categories."
+    },
+    {
+      "question": "Do I own the copyrights of the images I generate?",
+      "answer": "All our subscriptions packages have commercial use rights. You can use the images you produce for commercial and non-commercial purposes."
+    }
+  ],
+  "url": "https://stockimg.ai/#?ref=taaft&utm_source=taaft&utm_medium=referral"
+}

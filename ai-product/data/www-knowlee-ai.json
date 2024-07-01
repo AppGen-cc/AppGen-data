@@ -1,0 +1,44 @@
+{
+  "description": "Transform your business data into intelligent AI assistants with Knowlee. Build custom AI teams to automate processes and streamline operations.",
+  "title": "Knowlee AI - AI Teams Automating Every Business Flow",
+  "introduction": "Knowlee AI provides AI teams that automate various business processes, allowing work to be completed in less than 10 minutes. The platform offers a free plan with no credit card required and enables users to connect data in minutes.",
+  "category": "Business",
+  "features": [
+    "Intelligent AI Agents",
+    "Seamless Instruction",
+    "Integrated Tools",
+    "Knowledge Enablement",
+    "Multimodal AI Interpretation",
+    "Popular Productivity Tools",
+    "Online Data Sources",
+    "Custom External Tools",
+    "Scheduled AI Interactions",
+    "In-Text Citations"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses and professionals looking to automate their processes and optimize workflows.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is included in the Free plan?",
+      "answer": "The Free plan includes GPT 3.5 Turbo, 1,500,000 chat tokens, up to 100 document uploads, and up to 7 online data sources."
+    },
+    {
+      "question": "What are the features of the Basic plan?",
+      "answer": "The Basic plan includes GPT 3.5/4 Turbo, 2,000,000 chat tokens, up to 500 document uploads, and up to 15 online data sources."
+    },
+    {
+      "question": "What does the Pro plan offer?",
+      "answer": "The Pro plan includes GPT 3.5/4 Turbo, 3,250,000 chat tokens, up to 1,000 document uploads, and up to 30 online data sources."
+    },
+    {
+      "question": "What is included in the Enterprise+ plan?",
+      "answer": "The Enterprise+ plan offers unlimited tokens, full API access, custom integration, and support for Azure, OpenAI, and self-hosted models."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available with no credit card required."
+    }
+  ],
+  "url": "https://www.knowlee.ai/"
+}

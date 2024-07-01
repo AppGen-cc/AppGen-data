@@ -1,0 +1,27 @@
+{
+  "description": "Train a computer to recognize your own images, sounds, & poses.\n                A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.",
+  "title": "Teachable Machine",
+  "introduction": "Teachable Machine is a web-based tool that enables users to create machine learning models quickly and easily. It is accessible to everyone and offers flexibility in teaching models using various inputs like images, sounds, and poses.",
+  "features": [
+    "Teach a model to classify images using files or webcam.",
+    "Teach a model to classify audio by recording short sound samples.",
+    "Teach a model to classify body positions using files or webcam poses."
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Teachable Machine?",
+      "answer": "Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. It allows users to teach models using images, sounds, and poses."
+    },
+    {
+      "question": "How do I use Teachable Machine?",
+      "answer": "Teachable Machine is flexible and allows users to teach models using files or live examples. It can be used entirely on-device without sending data outside the computer."
+    },
+    {
+      "question": "What can I use to teach Teachable Machine?",
+      "answer": "Teachable Machine can be taught using files or live examples captured through webcam. It respects the user's workflow and can be used on-device without webcam or microphone data leaving the computer."
+    }
+  ],
+  "category": "Code&IT",
+  "url": "https://teachablemachine.withgoogle.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "Generate YouTube video summaries instantly for free with AI",
+  "title": "Free AI Youtube Video Summarizer",
+  "keywords": "YouTube Video Summarizer,AI Video Summarizer,Free Video Summarizer,Free YouTube Video Summarizer,AI YouTube Video Summarizer",
+  "introduction": "Chaindesk is a generative AI platform that allows businesses to create custom AI chatbots. It offers a free plan to get started quickly and various paid plans with additional features.",
+  "category": "Chatbot",
+  "features": [
+    "Custom AI chatbot creation",
+    "Support for multiple languages",
+    "Retraining of chatbots",
+    "Custom integrations for enterprise customers",
+    "Ability to add chatbots to multiple sites"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to implement custom AI chatbots",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free plan available?",
+      "answer": "Absolutely! Chaindesk offers a free plan with limited features to get started quickly."
+    },
+    {
+      "question": "Can I update my billing preferences or change my plan?",
+      "answer": "Absolutely! You can update your billing preferences or change your plan at any time from your account settings. With yearly billing, you save 20% on your subscription."
+    },
+    {
+      "question": "Can I add a chatbot to multiple sites?",
+      "answer": "Yes, you're able to add any chatbot to any number of sites that you want visitors to interact with."
+    },
+    {
+      "question": "Can the chatbot support multiple languages?",
+      "answer": "Yes, your website can be in any language, not just English. The chatbot can also answer questions in a different language. You can also ask questions in a different language and the chatbot will be able to answer them."
+    },
+    {
+      "question": "Is custom integration available?",
+      "answer": "Absolutely! If you need us to build a custom integration for your company, you can join as an enterprise customer and we can figure out a custom pricing plan for you, based on your needs."
+    },
+    {
+      "question": "Is the chatbot retrained automatically?",
+      "answer": "Absolutely! Starting with the first paid plan, the chatbot is automatically retrained (currently every week). You can also manually trigger a retraining."
+    },
+    {
+      "question": "What should I do if my Agent is not following instructions properly?",
+      "answer": "If you observe that your Agent is not following your instructions properly, consider setting your Agent model to GPT-4-turbo to get the best possible experience."
+    },
+    {
+      "question": "How can I contact support?",
+      "answer": "You can send us an email at support@chaindesk.ai or use the chat widget on the bottom right of the page."
+    }
+  ],
+  "url": "https://www.chaindesk.ai/tools/youtube-summarizer"
+}

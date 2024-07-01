@@ -1,0 +1,22 @@
+{
+  "title": "vidBoard.ai",
+  "introduction": "AI-generated videos offer a wide range of features that enhance creativity, efficiency, and accessibility in content creation. vidBoard.ai is a robust artificial intelligence platform for making films from text, offering AI-driven video generation, ready-to-use AI templates for designs, music search, engaging captions, and Pro Avatar for online presence enhancement.",
+  "features": [
+    "Create videos by using text, chat GPT, and audio script",
+    "AI-driven video generation: Just choose the subject and get astounding video with vidBoard AI",
+    "Use background images from different popular platforms",
+    "Enhance viewer experience with engaging captions for your AI-generated video",
+    "Elevate your online presence with a Pro Avatar that goes beyond static images, adding gestures for a more immersive digital identity"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can I subscribe to a plan on vidBoard?",
+      "answer": "You can select any one of the plans available on the pricing page and pay the subscription amount. Once you have made the payment, you will receive a confirmation email and your account will be activated."
+    }
+  ],
+  "category": "[\"AI Detector\"]",
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, marketers, educators, and individuals interested in AI-generated video production",
+  "url": "https://vidboard.ai/"
+}

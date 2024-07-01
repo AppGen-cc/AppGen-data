@@ -1,0 +1,40 @@
+{
+  "description": "AI Code and Chat tools for WordPress creators. Leverage a platform built and trained specifically for WordPress and popular plugins like Gutenberg, Elementor...",
+  "title": "CodeWP - AI For WordPress Creatorssearchstarclosedownloadchevron-leftcross",
+  "introduction": "CodeWP is a platform that offers AI-powered tools for faster WordPress development, including conversational coding, expert AI help, security scanning, and troubleshooting. It allows users to generate code snippets and complete plugins through simple prompts and offers specialized AI modes trained on the latest plugin code examples and documentation.",
+  "features": [
+    "Conversational coding for complex snippets and plugins",
+    "Support for PHP, JS, CSS, and SQL",
+    "Prompt-based code generation",
+    "Proprietary AI for secure and modern code output",
+    "Built-in testing suite for WordPress instances",
+    "AI expert chat for instant answers",
+    "Research any WordPress feature",
+    "Connect projects to chat for assistance",
+    "Plugin modes for hyper-accurate answers",
+    "AI troubleshooting and security features (coming soon)"
+  ],
+  "pricing": "Free plan with limited features and a Pro plan for $18/month billed annually with additional features and support",
+  "faqs": [
+    {
+      "question": "What are 'platform actions'?",
+      "answer": "Platform actions are spent every time you interact with the platform AI, such as generating code, editing, explaining, or sending chat messages."
+    },
+    {
+      "question": "Can I try before I buy?",
+      "answer": "Yes, there is a free plan available to try out the platform with limited features."
+    },
+    {
+      "question": "Can I change plans after purchasing?",
+      "answer": "Yes, you can change plans after purchasing to access more features and support."
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "Secure payment methods are accepted, and you can cancel anytime."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "WordPress users, creators, developers",
+  "url": "https://codewp.ai/"
+}

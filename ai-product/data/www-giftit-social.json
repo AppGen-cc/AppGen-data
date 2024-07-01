@@ -1,0 +1,38 @@
+{
+  "description": "Find out what your friends want without killing the surprise.",
+  "title": "Giftit - Gift without guessing",
+  "introduction": "Giftit is an innovative app designed to help users find the perfect gifts for their loved ones by engaging in human-like conversations. The app gathers information subtly, making it easier to choose suitable gifts without the recipients knowing.",
+  "category": "Life Assistant",
+  "features": [
+    "Human-like conversation",
+    "Subtle information gathering",
+    "Helps in choosing suitable gifts",
+    "User-friendly interface"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals looking for gift ideas for their loved ones",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is Giftit?",
+      "answer": "Giftit is an app designed to help users find the perfect gifts for their loved ones by engaging in human-like conversations."
+    },
+    {
+      "question": "How does Giftit work?",
+      "answer": "Giftit gathers information subtly through conversations, making it easier to choose suitable gifts without the recipients knowing."
+    },
+    {
+      "question": "Who can use Giftit?",
+      "answer": "Individuals looking for gift ideas for their loved ones can use Giftit."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "The availability of a free trial is not mentioned."
+    },
+    {
+      "question": "What are the main features of Giftit?",
+      "answer": "The main features include human-like conversation, subtle information gathering, helping in choosing suitable gifts, and a user-friendly interface."
+    }
+  ],
+  "url": "https://www.giftit.social/"
+}

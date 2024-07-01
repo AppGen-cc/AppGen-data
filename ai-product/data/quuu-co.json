@@ -1,0 +1,41 @@
+{
+  "description": "Grow Your Audience on Facebook, LinkedIn & X - Our AI-driven platform automatically curates and schedules engaging content for you to share each day in your brand voice.",
+  "title": "Quuu - Grow Your Audience on Facebook, LinkedIn & X",
+  "introduction": "Quuu is an AI-powered social media assistant that curates and schedules engaging content tailored to your brand's voice. It helps boost activity and engagement by providing relevant and dynamic content, saving time on content research and manual scheduling.",
+  "category": "Marketing",
+  "features": [
+    "Personalized settings with emojis and hashtags",
+    "AI assistant for content curation",
+    "Automated scheduling based on audience activity",
+    "Support for diverse content formats",
+    "Advanced social media analytics (coming soon)",
+    "Brand tone analysis",
+    "Audience engagement insights"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Brands, marketers, social media managers, bloggers, podcasters, and independent artists",
+  "pricing": "Subscription ($19.79 per month per social media profile)",
+  "faqs": [
+    {
+      "question": "Which pricing plan is right for me?",
+      "answer": "The pricing plan is $19.79 per month per social media profile."
+    },
+    {
+      "question": "What payment methods do you offer?",
+      "answer": "Payments are secured by Stripe."
+    },
+    {
+      "question": "How much does a subscription cost?",
+      "answer": "A subscription costs $19.79 per month per social media profile."
+    },
+    {
+      "question": "Can I purchase more AI chat tokens if I run out?",
+      "answer": "The website does not specify, but you can contact support for more information."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "The website does not specify, but you can contact support for more information."
+    }
+  ],
+  "url": "https://quuu.co/"
+}

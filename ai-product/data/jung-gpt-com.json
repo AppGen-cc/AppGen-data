@@ -1,0 +1,27 @@
+{
+  "description": "JungGPT is an emotional reflection feedback tool that helps users navigate their emotions and bring clarity to their inner lives.",
+  "title": "Jung GPT | Emotional Reflection Feedback Tool | AI Chat Support",
+  "introduction": "JungGPT is an AI-powered mental health outreach platform that merges technology with insights from psychologists to offer deep reflections and stimulating inquiries for emotional well-being. It aims to provide accessibility and understanding in the digital world, resonating with human emotions and acting as a catalyst for positive change.",
+  "features": [
+    "Unearth profound insights and gain clarity into one's emotional landscape.",
+    "Advanced NLP preprocessing for deep understanding of emotional intricacies.",
+    "Exclusive access to highly fine-tuned AI models for holistic mental support.",
+    "Blend of traditional therapeutic wisdom and technological prowess.",
+    "Personalized feedback mechanisms for tailored therapeutic experiences."
+  ],
+  "pricing": "Affordable pricing with powerful features",
+  "faqs": [
+    {
+      "question": "Is JungGPT powered by real psychologist insights?",
+      "answer": "Yes, JungGPT is powered by 'Thoughts' crafted by real psychologists, ensuring depth and understanding in interactions."
+    },
+    {
+      "question": "How is user data secured on JungGPT?",
+      "answer": "User data on JungGPT is safeguarded with dual-layered encryption protocols and collaboration with Firebase for additional security measures."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals seeking emotional support and mental well-being",
+  "url": "https://jung-gpt.com/"
+}

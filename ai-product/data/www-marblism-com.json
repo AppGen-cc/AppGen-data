@@ -1,0 +1,18 @@
+{
+  "description": "Generate a boilerplate starter-kit codebase from a single prompt.",
+  "title": "Marblism - Launch your React and Node.js app in minutes",
+  "introduction": "Marblism is a tool designed to simplify the app development process by automating the initial setup tasks such as picking frameworks, setting up authentication, and connecting the front-end to the back-end. It allows developers to focus on adding their unique touch to the app by just describing their app idea.",
+  "category": "Code&IT",
+  "features": [
+    "Automates initial setup tasks",
+    "Picks frameworks",
+    "Sets up authentication",
+    "Connects front-end to back-end",
+    "Allows developers to focus on unique features"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Developers",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://www.marblism.com/"
+}

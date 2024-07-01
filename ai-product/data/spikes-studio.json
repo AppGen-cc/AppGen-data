@@ -1,0 +1,35 @@
+{
+  "description": "Spikes Studio transforms long content into viral clips for YouTube, TikTok, and Reels. Built with a powerful Ai editor with auto-captions and more. Grow your social media influence",
+  "title": "Spikes Studio | Ai clip generator for YouTube Twitch TikTok & Reels",
+  "introduction": "Spikes Studio is a generative AI video editor that repurposes long videos into viral clips with just one click. It offers a complete editing environment for refining videos effortlessly, with features like trimming, extending, and customizing clips. The platform accelerates high-quality video content creation and provides mobile support for seamless functionality on the go. Spikes Studio also supports Twitch broadcast auto-processing and editing short-form content for platforms like TikTok or Instagram Reels.",
+  "features": [
+    "24/7 support",
+    "Multi-Language Support",
+    "Video Editor",
+    "Light Speed AI",
+    "Customizable Clip Length",
+    "Bulk Editing",
+    "Auto-captions",
+    "Automatic Hashtags & Descriptions",
+    "Twitch Support"
+  ],
+  "pricing": "Start with the free plan and upgrade as needed.",
+  "faqs": [
+    {
+      "question": "What is Spikes Studio?",
+      "answer": "Spikes Studio is a generative AI video editor that repurposes long videos into viral clips with just one click."
+    },
+    {
+      "question": "Does Spikes Studio offer mobile support?",
+      "answer": "Yes, Spikes Studio provides mobile support for seamless functionality on the go."
+    },
+    {
+      "question": "Is there a free plan available?",
+      "answer": "Yes, users can start with the free plan and upgrade as needed."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, streamers, social media influencers",
+  "url": "https://spikes.studio/"
+}

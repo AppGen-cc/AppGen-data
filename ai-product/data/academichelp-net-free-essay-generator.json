@@ -1,0 +1,36 @@
+{
+  "description": "AI Essay Writer | AcademicHelp Free Essay Generator Tool - Create your essays or articles with our all-in-one essay tool.",
+  "title": "AI Essay Writer | AcademicHelp's Free Essay Generator",
+  "introduction": "Academichelp.net offers a range of tools to assist with homework and academic writing tasks. From basic support to advanced features powered by AI, users can find the right tools to enhance their productivity and efficiency. The platform provides a free AI essay writer along with paid subscription options for additional credits and features.",
+  "features": [
+    "Basic plagcheck",
+    "Basic AI detection",
+    "Standard text generation",
+    "Standard plagcheck",
+    "Default AI detection",
+    "Standard text generation",
+    "Unlimited plagcheck",
+    "Unlimited AI detection",
+    "Improved text generation",
+    "Advanced features"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How can I request a refund for my subscription?",
+      "answer": "To request a refund, please contact us directly using the email address associated with your subscription payment."
+    },
+    {
+      "question": "How can I manage or cancel my subscription?",
+      "answer": "You can manage or cancel your subscription anytime via your account settings, which helps in preventing future auto-renewals and charges."
+    },
+    {
+      "question": "What payment methods are available?",
+      "answer": "Our secure Stripe checkout supports all major credit cards."
+    }
+  ],
+  "category": "Education",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Students, researchers, and writers",
+  "url": "https://academichelp.net/free-essay-generator/"
+}

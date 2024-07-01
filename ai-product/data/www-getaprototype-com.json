@@ -1,0 +1,50 @@
+{
+  "description": "Prototyper is a generative UI platform for designers, frontend engineers and PMs.",
+  "title": "Prototyper | The fastest way to design UI",
+  "introduction": "Prototyper is the fastest way to build, test, and ship products used by 500+ designers, frontend engineers, and product managers. It allows users to generate UI with React from simple text prompts and images, enabling them to prototype their next idea in minutes.",
+  "category": "Design&Art",
+  "features": [
+    "Generate UI with React from simple text prompts and images",
+    "Design and iterate using Natural Language",
+    "Side-by-side editor for real-time code adjustments",
+    "Beautifully crafted components",
+    "Visual theme editor",
+    "Production-ready code",
+    "Custom themes",
+    "Extra components",
+    "High quality generations",
+    "Vision generations",
+    "Custom branding",
+    "Publish to your own domain",
+    "Bring your own components",
+    "Github integration",
+    "Single sign on",
+    "Platform APIs"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Designers, frontend engineers, and product managers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Do you offer a free trial?",
+      "answer": "Yes, we offer a free trial. You can try Prototyper by editing the examples, without a credit card."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "You can cancel your subscription at any time. You can do this from your account settings."
+    },
+    {
+      "question": "Where can I find my invoices?",
+      "answer": "You can find your invoices in your account settings."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards and PayPal."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can upgrade or downgrade your plan at any time. You can do this from your account settings."
+    }
+  ],
+  "url": "https://www.getaprototype.com/"
+}

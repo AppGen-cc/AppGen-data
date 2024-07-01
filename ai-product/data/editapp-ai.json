@@ -1,0 +1,25 @@
+{
+  "description": "EditApp - Edit Anything with AI.",
+  "title": "EditApp",
+  "keywords": "Aifilliate",
+  "introduction": "AI Research Group is a leading provider of AI solutions for businesses. Our cutting-edge technology helps companies optimize their operations and improve efficiency.",
+  "features": [
+    "Advanced AI algorithms",
+    "Customizable solutions",
+    "Real-time data analysis",
+    "Scalable infrastructure"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a 14-day free trial for new customers."
+    },
+    {
+      "question": "Who can benefit from AI Research Group's solutions?",
+      "answer": "Our solutions are designed for businesses of all sizes looking to leverage AI technology for improved performance."
+    }
+  ],
+  "category": "Business",
+  "url": "https://editapp.ai/"
+}

@@ -1,0 +1,41 @@
+{
+  "description": "Easily create AI-generated videos from text prompts with Clipfly's AI video generator online. Get stunning AI visuals in minutes without any skills.",
+  "title": "",
+  "keywords": "",
+  "introduction": "Clipfly is an all-in-one AI video editor that allows users to easily create and enhance videos using AI technology. It offers a variety of tools for video editing, including AI-powered features for generating videos from text, adding voiceovers, and more.",
+  "category": "Video",
+  "features": [
+    "AI-powered video generation from text",
+    "Preview and select frames before generating videos",
+    "AI-powered face swap",
+    "AI voiceover from text",
+    "Web-based platform",
+    "Rich stock resources including fonts, stickers, music, and images"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, marketers, social media managers, video editors, and anyone looking to create engaging videos easily",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Clipfly?",
+      "answer": "Clipfly is an all-in-one AI video editor that allows users to easily create and enhance videos using AI technology."
+    },
+    {
+      "question": "How does Clipfly generate videos from text?",
+      "answer": "Clipfly uses AI technology to recognize your text prompt and transform it into a static frame, which is then converted into a dynamic video clip. By combining multiple dynamic clips, you can create a comprehensive AI-generated movie."
+    },
+    {
+      "question": "Is Clipfly a web-based tool?",
+      "answer": "Yes, Clipfly is a web-based tool, so you can create captivating videos anytime, anywhere, without any software installations."
+    },
+    {
+      "question": "What are the pricing options for Clipfly?",
+      "answer": "Clipfly offers a free basic plan and a Pro plan that costs $99.99 per year."
+    },
+    {
+      "question": "What additional features does the Pro plan offer?",
+      "answer": "The Pro plan offers watermark-free exports, higher export resolution (up to 4K), access to a larger library of royalty-free audio, stock stickers, images, videos, text fonts, and 2GB of cloud storage."
+    }
+  ],
+  "url": "https://www.clipfly.ai/ai-video-generator"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "Gemini is our most capable and general model, built to be multimodal and optimized for three different sizes: Ultra, Pro and Nano.",
+  "title": "Introducing Gemini: Google’s most capable AI model yet",
+  "keywords": "None",
+  "introduction": "Gemini is Google's most capable and general AI model, designed to be multimodal and optimized for various sizes and tasks. It aims to enhance the way developers and enterprises build and scale with AI, offering state-of-the-art performance across multiple benchmarks.",
+  "category": "AI Detector",
+  "features": [
+    "Multimodal capabilities: Understands and operates across text, code, audio, image, and video.",
+    "Optimized for different sizes: Ultra, Pro, and Nano models.",
+    "State-of-the-art performance on academic benchmarks.",
+    "Sophisticated reasoning for complex tasks.",
+    "Advanced coding capabilities.",
+    "Scalable and efficient infrastructure using Google's TPUs.",
+    "Built with responsibility and safety at the core."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers, enterprises, and general users looking to leverage advanced AI capabilities.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Gemini?",
+      "answer": "Gemini is Google's most capable and general AI model, designed to be multimodal and optimized for various sizes and tasks."
+    },
+    {
+      "question": "What are the different sizes of Gemini?",
+      "answer": "Gemini is optimized for three different sizes: Ultra, Pro, and Nano."
+    },
+    {
+      "question": "What are the capabilities of Gemini?",
+      "answer": "Gemini has multimodal capabilities, sophisticated reasoning, advanced coding abilities, and state-of-the-art performance on various benchmarks."
+    },
+    {
+      "question": "How is Gemini built?",
+      "answer": "Gemini is built using large-scale collaborative efforts by teams across Google, including Google Research, and is trained on Google's AI-optimized infrastructure using TPUs."
+    },
+    {
+      "question": "Is Gemini safe to use?",
+      "answer": "Yes, Gemini is built with responsibility and safety at the core, including comprehensive safety evaluations and robust filters to ensure safe and inclusive use."
+    },
+    {
+      "question": "How can developers access Gemini?",
+      "answer": "Developers and enterprise customers can access Gemini Pro via the Gemini API in Google AI Studio or Google Cloud Vertex AI."
+    },
+    {
+      "question": "What products will Gemini be available in?",
+      "answer": "Gemini will be integrated into various Google products like Bard, Pixel, Search, Ads, Chrome, and Duet AI."
+    }
+  ],
+  "url": "https://blog.google/technology/ai/google-gemini-ai/"
+}

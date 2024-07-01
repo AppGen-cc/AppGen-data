@@ -1,0 +1,61 @@
+{
+  "description": "Create custom AI chatbots trained on your data. Discover the future of customer service with our custom AI chatbot builder platform. At Bonfire, we help you turn the complex into simple. Create your personalized chatbot equipped with AI GPT technology for an enhanced user experience on your website",
+  "title": "Bonfire | Custom AI Chatbots trained on your data",
+  "introduction": "Discover Bonfire's personalized concierge experience, crafted uniquely for YOUR customers from the very first interaction. Bonfire enables companies to build enterprise-grade chatbot GPT, which are trained specifically on their unique datasets. It's designed to streamline and enhance customer interactions by integrating seamlessly with the company's existing apps and platforms.",
+  "category": "Chatbot",
+  "features": [
+    "Personalized Product Recommendations",
+    "AI-Powered Engagement",
+    "Training Documents Character Limit: 400,000 characters/ chatbot",
+    "Embed in multiple sites",
+    "View Conversation History",
+    "Design Customizations",
+    "Integration with Zendesk, Intercom, Notion, and more",
+    "Create sequences - define your own questions",
+    "Prompt Studio - AI-Generated Bot Prompt",
+    "GPT-4 Access",
+    "100+ Language Support",
+    "Capture Leads",
+    "AI-Powered Email Alert after User Submission",
+    "Lead Scoring & Custom User Journeys",
+    "Premium Integrations (Hubspot, Airtable, and more)",
+    "Allow file attachments from your users - the AI recognizes the content",
+    "Dedicated Support Agent",
+    "AI-Powered Insights - Analytics",
+    "Auto-Data Sync with Integrated Data Sources",
+    "White-label / Custom Domain",
+    "Access to Open Sourced Models",
+    "Custom Integrations",
+    "Custom Functionalities"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Companies looking to enhance customer interactions with personalized AI-powered chatbots.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Bonfire?",
+      "answer": "Bonfire enables companies to build enterprise-grade chatbot GPT, which are trained specifically on their unique datasets. It's designed to streamline and enhance customer interactions by integrating seamlessly with the company's existing apps and platforms."
+    },
+    {
+      "question": "Where is my data stored?",
+      "answer": "At Bonfire, we take data security seriously. All your data is securely stored in our advanced cloud-based storage system which complies with international security standards such as SOC2."
+    },
+    {
+      "question": "What kind of data can I integrate into Bonfire?",
+      "answer": "With Bonfire, virtually any type of structured and unstructured dataset can be integrated into our platform. This includes PDF, CSV, and TXT. You can also integrate data from your CRM, ERP, and other business systems."
+    },
+    {
+      "question": "Can I give specific instructions to my chatbot?",
+      "answer": "Absolutely! You have complete control over how your bot responds to different prompts based on your business needs. You can train the bot according to specific use case by defining a bot prompt in the platform’s settings."
+    },
+    {
+      "question": "How can I add Bonfire to my website?",
+      "answer": "Adding Bonfire to your website is very simple process where you just copy-paste a few lines of code provided by us after you create the chatbot. It can be integrated into any React, Wix, Squarespace, Webflow, Wordpress, HTML, or Shopify website."
+    },
+    {
+      "question": "Does Bonfire support other languages?",
+      "answer": "Yes! One of the best features about using Bonfire is its multi-lingual support, empowering you engage with customers across languages."
+    }
+  ],
+  "url": "https://www.justbonfire.com/"
+}

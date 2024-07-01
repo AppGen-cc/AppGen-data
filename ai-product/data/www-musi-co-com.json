@@ -1,0 +1,34 @@
+{
+  "description": "Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound",
+  "title": "Musico - AI generative music",
+  "introduction": "Musico is an AI-driven software engine that generates music by blending traditional and modern machine learning algorithms. It offers endless streams of copyright-free music in various styles and empowers creators with autonomous, original, and adaptive music composition.",
+  "category": "AI Detector",
+  "features": [
+    "AI-ASSISTED COMPOSITION: Generate melodies, beats, and harmonies with autonomy and responsiveness.",
+    "AUGMENTED PERFORMANCE: Control music generation in real-time with intuitive gestures.",
+    "GUIDED SOUND GENERATION: Real-time mapping and reaction to control signals for interactive music creation.",
+    "AUTO-SCORING FOR DIGITAL STORYTELLING AND MEDIA: Develop soundtracks for storytelling, games, and cross-media projects.",
+    "Engine: Combinatory algorithms and machine learning for music generation.",
+    "Apps: Innovative tools for AI-assisted music production and real-time performance.",
+    "Demos: Listen to tracks created with Musico.",
+    "Human Supervision: Dedicated human supervision for consistent and valuable results in AI generative music."
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Music professionals and non-musicians interested in AI-generated music",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What is Musico?",
+      "answer": "Musico is an AI-driven software engine that generates music using a blend of traditional and modern machine learning algorithms."
+    },
+    {
+      "question": "What are the features of Musico?",
+      "answer": "Musico offers AI-assisted composition, augmented performance, guided sound generation, and auto-scoring for digital storytelling and media."
+    },
+    {
+      "question": "Who can benefit from Musico?",
+      "answer": "Musico is suitable for music professionals and non-musicians looking for innovative ways to create and apply music."
+    }
+  ],
+  "url": "https://www.musi-co.com/"
+}

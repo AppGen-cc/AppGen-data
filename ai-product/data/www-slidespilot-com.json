@@ -1,0 +1,50 @@
+{
+  "description": "Discover SlidesPilot's comprehensive AI Presentation Suite for business and education, including AI Presentation Maker, PowerPoint Image Generator, and easy conversions from PDF and Word to PPT. Enhance your presentations with smart, AI-driven tools that simplify slide creation across any topic. Dive into a vast collection of free PowerPoint templates and Google Slides Themes, all designed to elevate your presentations effortlessly. Empower your creativity and productivity with our innovative solutions.",
+  "title": "AI Presentation Generator - PPT Maker, AI Image & Copilot, PDF & Word to PPT, Free PowerPoint & Google Slides Templates | SlidesPilot",
+  "introduction": "SlidesPilot is an AI-powered tool designed to convert various types of documents, such as reports, outlines, research papers, PDFs, and Word documents, into professional PowerPoint presentations. It aims to simplify and speed up the process of creating presentations by using AI to summarize and design content.",
+  "category": "Productivity",
+  "features": [
+    "Convert reports, outlines, research papers, PDFs, and Word documents to PowerPoint presentations",
+    "Choose from a variety of presentation template styles",
+    "AI-generated customized design and content",
+    "Edit presentations using MS PowerPoint, Google Slides, or the online AI Presentation Maker",
+    "Superfast presentation creation",
+    "AI Image Generator for relevant images",
+    "Interactive AI assistant for chatting with and summarizing documents",
+    "Built-in templates and auto layout"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Professionals, educators, business executives, and students",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "How to convert a Report to a PowerPoint presentation using AI?",
+      "answer": "Select and upload a report, choose a presentation template style, let AI generate the presentation, and then edit it using your preferred application."
+    },
+    {
+      "question": "How to convert an Outline to a PowerPoint presentation using AI?",
+      "answer": "Select and upload an outline, choose a presentation template style, let AI generate the presentation, and then edit it using your preferred application."
+    },
+    {
+      "question": "How to convert a Research Paper to a PowerPoint presentation using AI?",
+      "answer": "Select and upload a research paper, choose a presentation template style, let AI generate the presentation, and then edit it using your preferred application."
+    },
+    {
+      "question": "How to ask questions and chat with your PDF using AI?",
+      "answer": "Select and upload a PDF document, let SlidesPilot convert it into an interactive AI assistant, engage in a conversation with the PDF, and generate concise summaries."
+    },
+    {
+      "question": "How to ask questions and chat with your Word document using AI?",
+      "answer": "Select and upload a Word document, let SlidesPilot convert it into an interactive AI assistant, engage in a conversation with the document, and generate concise summaries."
+    },
+    {
+      "question": "How to ask questions and chat with your file using AI?",
+      "answer": "Select and upload a file, let SlidesPilot convert it into an interactive AI assistant, engage in a conversation with the file, and generate concise summaries."
+    },
+    {
+      "question": "How to ask questions and chat with your document using AI?",
+      "answer": "Select and upload a document, let SlidesPilot convert it into an interactive AI assistant, engage in a conversation with the document, and generate concise summaries."
+    }
+  ],
+  "url": "https://www.slidespilot.com/"
+}

@@ -1,0 +1,41 @@
+{
+  "description": "PlayHT is #1 AI Voice Generator with 600+ AI voices that creates ultra realistic Text to Speech voiceovers. Convert text to audio and download as MP3 & WAV files.",
+  "title": "AI Voice Generator: Realistic Text to Speech and AI Voiceover | PlayHT",
+  "keywords": "text to speech, voice generator, ai voices, text to voice, speech synthesizer, text to mp3, free text to speech, text to audio",
+  "introduction": "PlayHT is an online Studio for creating AI clones and voiceovers. It offers a range of plans including a Free Plan, Creator Plan, Unlimited Plan, and Enterprise Plan. The platform provides access to a variety of AI voices and languages, with options for unlimited characters, instant voice clones, and high-fidelity voice clones.",
+  "category": "AI Detector",
+  "features": [
+    "Access to all voices and languages",
+    "Unlimited characters per year",
+    "Instant voice clones",
+    "High-Fidelity voice clones",
+    "Advanced security and compliance",
+    "Commercial and Re-sell Rights",
+    "Custom voice creation",
+    "E-Learning support",
+    "Podcasts and Gaming",
+    "Voice API integration"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals and teams of all sizes",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Do you offer a free version?",
+      "answer": "Yes, there is a Free Plan available with access to all voices and languages, with attribution to PlayHT required."
+    },
+    {
+      "question": "How much does an AI voice cost?",
+      "answer": "The pricing varies based on the plan chosen, with options ranging from USD $348.00 to custom pricing for Enterprise plans."
+    },
+    {
+      "question": "Can I use the voices for commercial purpose?",
+      "answer": "Yes, commercial and re-sell rights are included in the Enterprise Plan."
+    },
+    {
+      "question": "Is there a free AI tool that can convert text to speech?",
+      "answer": "PlayHT offers a Free Plan for creating AI clones and voiceovers, which can be used for text-to-speech generation."
+    }
+  ],
+  "url": "https://play.ht/"
+}

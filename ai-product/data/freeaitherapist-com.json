@@ -1,0 +1,35 @@
+{
+  "description": "a free AI Therapist to talk to about your problems and feelings, so you can live your life to its fullest.",
+  "title": "Free AI Therapist",
+  "keywords": "AI, therapist, therapy",
+  "introduction": "Free AI Therapist is a non-medical service providing AI-based therapy support.",
+  "category": "Life Assistant",
+  "features": [
+    "AI-based therapy support",
+    "Chats are not saved on servers",
+    "Local storage of chats",
+    "Option to clear chat history"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals seeking non-medical therapy support",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Is this service suitable for crisis situations?",
+      "answer": "No, you should call 911 or go to the nearest emergency room in a crisis situation."
+    },
+    {
+      "question": "Are my chats saved on your servers?",
+      "answer": "No, your chats are stored locally in your browser."
+    },
+    {
+      "question": "Can I clear my chat history?",
+      "answer": "Yes, you can clear your chat history in the settings by clicking on the icon in the top right."
+    },
+    {
+      "question": "Is this a medical service?",
+      "answer": "No, Free AI Therapist is not a medical service and should not be used for medical advice."
+    }
+  ],
+  "url": "https://freeaitherapist.com/"
+}

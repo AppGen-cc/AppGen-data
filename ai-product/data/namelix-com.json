@@ -1,0 +1,21 @@
+{
+  "description": "Namelix uses generative AI to create a short, brandable business name. Search for domain availability, and instantly generate a logo for your new business",
+  "title": "Business Name Generator - free AI-powered naming tool - Namelix",
+  "introduction": "Namelix is a business name generator that uses artificial intelligence to create short and brandable names for new businesses. It offers unique and catchy name suggestions based on a state-of-the-art language model.",
+  "features": [
+    "Generate short and catchy names",
+    "Filter results based on preferences like name length, specific keywords, or domain extension",
+    "Save preferred names for better recommendations over time"
+  ],
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "Why choose a branded name?",
+      "answer": "Branded names are unique, memorable, and affordable, making them a popular choice for startups in 2024."
+    }
+  ],
+  "category": "[\"AI Detector\"]",
+  "hasFreeTrial": "No",
+  "targetPeople": "Startups and new businesses",
+  "url": "https://namelix.com/"
+}

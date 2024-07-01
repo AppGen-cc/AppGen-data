@@ -1,0 +1,28 @@
+{
+  "description": "These Lyrics Do Not Exist",
+  "title": "Artificial Intelligence Songwriter – These Lyrics Do Not Exist",
+  "keywords": "These Lyrics Do Not Exist",
+  "introduction": "TheseLyricsDoNotExist.com is a tool that allows users to generate song lyrics based on a specific topic word. Users can input a song topic word and click the \"Generate My Lyrics\" button to receive unique and original song lyrics.",
+  "features": [
+    "Generate song lyrics based on a specific topic word",
+    "Variety of topics available including love, party, dance, happy, human names, and emojis",
+    "Positive feedback from users who found inspiration and entertainment in the generated lyrics"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What can I do on TheseLyricsDoNotExist.com?",
+      "answer": "You can input a song topic word and generate unique song lyrics based on that topic."
+    },
+    {
+      "question": "Is TheseLyricsDoNotExist.com free to use?",
+      "answer": "Yes, the website is completely free to use for generating song lyrics."
+    },
+    {
+      "question": "Can I share the generated lyrics?",
+      "answer": "Yes, you can share the generated lyrics with others for inspiration or entertainment."
+    }
+  ],
+  "category": "Text&Writing",
+  "url": "https://theselyricsdonotexist.com/"
+}

@@ -1,0 +1,45 @@
+{
+  "description": "Try Designs.ai for free and create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI.",
+  "title": "Designs.ai - Creative work done effortlessly",
+  "keywords": "designsai, logo maker, video maker, mockup maker, design maker, designsdotai, designs ai online, online logo, online video, online design, online mockup, logo maker online, easy logo, easy video, easy mockup",
+  "introduction": "Designs.ai is an integrated Agency-as-a-Service platform that offers a suite of creative tools powered by AI technology. Users can create logos, videos, designs, speeches, and more using the platform. Designs.ai aims to simplify the creative workflow, save time, and provide a range of features for different types of content creators.",
+  "features": [
+    "Unlimited usage of 115 million images and video clips within tools",
+    "Team collaboration with shared access",
+    "Premium images per month varying with subscription tier",
+    "Full access to premium templates for Designmaker",
+    "Unlimited logo generation with various file formats",
+    "Full branding and social media kit for Logomaker",
+    "Unlimited video generation with storyboard export in PDF for Videomaker",
+    "Generation of images with various styles for Imagemaker",
+    "AI writer with different generation requests and A.I. engine levels",
+    "Face swapper tool for face integration into images or videos",
+    "Automatic generation of content with AI technology",
+    "Cloud storage and hosting for brand collateral",
+    "Online-based software accessible on multiple browsers and devices",
+    "Easy sharing and collaboration features for projects"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals, students, marketers, professionals, large teams, agencies",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is creative automation?",
+      "answer": "Creative automation refers to the use of artificial intelligence technology in the performance of creative production functions. A.I. optimizes the process by quickly analyzing data, automating tasks, eliminating errors, and simplifying personalization."
+    },
+    {
+      "question": "How does Designs.ai help agencies and freelancers?",
+      "answer": "Designs.ai allows agencies and freelancers to focus on client engagement, ideation, and strategy by automating high-volume content creation. The platform also offers collaboration features for streamlined client communication."
+    },
+    {
+      "question": "How much does Designs.ai cost?",
+      "answer": "Designs.ai offers 4 subscription tiers: Free, Basic, Pro, and Enterprise. Users can also pay per project or request a custom subscription plan."
+    },
+    {
+      "question": "Are Designs.ai creations licensed for commercial use?",
+      "answer": "Finished projects created with Designs.ai tools can be distributed for business promotion or resale to clients. However, individual assets within the platform cannot be sold, distributed, or licensed separately."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://designs.ai/"
+}

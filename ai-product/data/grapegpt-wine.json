@@ -1,0 +1,23 @@
+{
+  "title": "GrapeGPT AI Wine Assistant",
+  "introduction": "GrapeGPT is an AI-powered tool designed to help users select the best wine for their meal by simply taking a picture of their wine list and engaging in a conversation.",
+  "category": "Life Assistant",
+  "features": [
+    "Take a picture of your wine list",
+    "Engage in a conversation to get wine recommendations"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Wine enthusiasts, diners, restaurant-goers",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How do I use GrapeGPT?",
+      "answer": "Simply take a picture of your wine list and have a conversation with GrapeGPT to get wine recommendations."
+    },
+    {
+      "question": "Who can benefit from GrapeGPT?",
+      "answer": "Wine enthusiasts, diners, and restaurant-goers looking for wine recommendations."
+    }
+  ],
+  "url": "https://grapegpt.wine/"
+}

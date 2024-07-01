@@ -1,0 +1,39 @@
+{
+  "description": "The AI writing tools everyone is talking about. For free.",
+  "title": "Free AI Writing And SEO Tools | FraseExpandToggle MenuFacebook GroupTwitterLinkedinScroll to topExpand",
+  "introduction": "Frase is an AI-powered tool that helps analyze search queries and generate research-driven SEO content. It offers various pricing plans for different user needs, including a free trial option. Additionally, users can enhance the core functionality with add-ons like the Pro Add-on and API Add-on.",
+  "features": [
+    "AI Content Generator",
+    "Introduction Generator",
+    "Outline Generator",
+    "Paraphrasing Tool",
+    "Paragraph Rewriter",
+    "Blog Title Generator",
+    "Description Generator",
+    "People Also Ask",
+    "Product Description",
+    "Slogan Generator",
+    "Summary Generator",
+    "Value Proposition",
+    "Sentence Rewriter"
+  ],
+  "pricing": "Frase offers a free trial with no commitment. The pricing plans include Solo for $15/month, Basic for $45/month, and Team for $115/month. There are discounts for annual payments. Users can also unlock additional features with add-ons like the Pro Add-on and API Add-on.",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, Frase offers a free trial with no commitment and no credit card required."
+    },
+    {
+      "question": "What are the pricing plans for Frase?",
+      "answer": "Frase offers Solo for $15/month, Basic for $45/month, and Team for $115/month. There are discounts for annual payments."
+    },
+    {
+      "question": "What are the available add-ons for Frase?",
+      "answer": "Frase offers Pro Add-on for $35/month and API Add-on starting at $50/month to enhance the core functionality."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "SEO professionals and content creators",
+  "url": "https://www.frase.io/tools/"
+}

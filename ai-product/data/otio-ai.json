@@ -1,0 +1,35 @@
+{
+  "description": "Otio is your AI research & writing partner - learn faster, work smarter\n",
+  "title": "Otio - Your AI Research & Writing Partner",
+  "introduction": "Otio is a tool designed to help researchers, students, and analysts summarize and organize their research materials, including bookmarks and videos, making it easier to gather and review key information.",
+  "category": "Productivity",
+  "features": [
+    "Generates summaries of research materials",
+    "Allows follow-up questions on summaries",
+    "User-friendly workflow",
+    "Summarizes bookmarks and YouTube videos",
+    "Accessible from any device"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Researchers, students, analysts",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What does Otio do?",
+      "answer": "Otio helps summarize and organize research materials, including bookmarks and videos, making it easier to gather and review key information."
+    },
+    {
+      "question": "Who is Otio for?",
+      "answer": "Otio is designed for researchers, students, and analysts."
+    },
+    {
+      "question": "Can Otio summarize YouTube videos?",
+      "answer": "Yes, Otio can summarize YouTube videos and allow follow-up questions on the highlighted pieces."
+    },
+    {
+      "question": "Is Otio accessible from any device?",
+      "answer": "Yes, Otio is accessible from any device."
+    }
+  ],
+  "url": "https://otio.ai/"
+}

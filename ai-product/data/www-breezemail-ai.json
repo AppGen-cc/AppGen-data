@@ -1,0 +1,43 @@
+{
+  "description": "Breezemail keeps your important emails in your inbox and categorizes the rest with AI",
+  "title": "Breezemail - Organize your inbox with AI categories",
+  "introduction": "Breezemail is a tool designed to work with both company and personal emails, helping to categorize and prioritize them automatically using AI.",
+  "category": "Productivity",
+  "features": [
+    "Works with company and personal emails",
+    "Uses OpenAI for email categorization",
+    "Predefined and custom categories",
+    "Automatic prioritization of emails",
+    "Security and privacy measures in place"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Individuals and companies looking to organize and prioritize their emails",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "Is this something that can work with company emails? Will I get in trouble for compliance issues?",
+      "answer": "Yes, Breezemail can work both with company and personal emails. The compliance requirements will differ from company to company. If you use it with your company emails and are concerned with compliance issues, it is best to consult with your company's legal department."
+    },
+    {
+      "question": "So how do end up in the human and 'not company drip email' folder?",
+      "answer": "We are still in the process of testing and re-imagining the tool so my answer to this could be very different couple of months from now, but right now we do a few basic checks: We use OpenAI to evaluate if the email is human or newsletter/cold email or other automated email. We look for things like unsubscribe links - if there's one then it will be categorized as non-important. We look at the person's email - is it a personal email or info@, etc. We plan to train our own custom model to add additional checks like - is the person someone you've emailed before, are they white listed contact, have you responded to previous emails from this person or similar emails, etc."
+    },
+    {
+      "question": "What happens when I sign up?",
+      "answer": "You will get offered a list of predefined categories to choose from. Of course, you can create your own categories, too. When you confirm the categories Breezemail will start prioritizing them automatically. This can take a few minutes. Once they are prioritized you will see the number of prioritized emails change on your dashboard."
+    },
+    {
+      "question": "How does your AI handle categorization for emails that might have multiple contexts or purposes?",
+      "answer": "For emails with multiple contexts, Breezemail tries to go from the most specific to the least specific category. For example, if there are overlapping categories, e.g., 'Newsletters' and 'Investing' categories, and you receive a newsletter about investing, it will go to the 'Investing' category. We use ChatGPT to decide which is more/less specific."
+    },
+    {
+      "question": "How do you ensure AI doesn't access the contents of personal emails?",
+      "answer": "ChatGPT has to access your email's content in order to categorize them. We are looking into other potential ways of using ChatGPT without accessing the content of the emails, but we haven't found a reliable one. Unfortunately, if you are concerned with ChatGPT processing your email content, this tool won't be a fit for you. Also, it's important to note that we as a company (Breezemail) do not access or process directly your email contents in any way - any content is sent directly to the ChatGPT/Open AI API."
+    },
+    {
+      "question": "Can I reverse the categorization in Outlook?",
+      "answer": "Unfortunately, it's not possible to reverse back the categorizations and move back emails from the Breezemail folders to your inbox in Outlook automatically. However, you can do it manually. If you are using the desktop version of Outlook, you can open each Breezemail folder, select an email, press CTRL+A, then right click and choose the 'Move' menu option to move all items back to the Inbox."
+    }
+  ],
+  "url": "https://www.breezemail.ai/"
+}

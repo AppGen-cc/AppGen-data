@@ -1,0 +1,41 @@
+{
+  "description": "The only Excel Formula and VBA AI assistant that approaches human-level expertise.",
+  "title": "ExcelMaster.ai",
+  "keywords": "ExcelMaster.ai",
+  "introduction": "ExcelMaster.ai is an AI assistant for Excel that handles real-world Excel structures and solves complicated formula and VBA assignments. It supports Windows Excel 2007 or later and aims to replace the need for Google searches, Excel help forums, and Fiverr freelancers.",
+  "category": "Productivity",
+  "features": [
+    "Generate Formula: Just give the assignments like you would do with your colleagues.",
+    "Fix or Explain Formula: Already have a formula but need to explain or fix? We've got you covered.",
+    "Learn Formula: Master formula skills by doing real tasks with a smart guide.",
+    "Draft VBA scripts: Deep sheet comprehension often makes our draft over Microsoft Copilot.",
+    "Refine VBA scripts: Perfect code is challenging, but multi-turn chats boost accuracy by +30%.",
+    "Learn VBA: Advance through practical tasks with an intelligent mentor."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Excel power users, HR specialists, financial controllers, operations managers",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What versions of Excel does ExcelMaster.ai support?",
+      "answer": "ExcelMaster.ai supports Windows Excel 2007 or later."
+    },
+    {
+      "question": "What are the main features of ExcelMaster.ai?",
+      "answer": "ExcelMaster.ai can generate, fix, and explain formulas, draft and refine VBA scripts, and help users learn Excel formulas and VBA through practical tasks."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available for 3 days."
+    },
+    {
+      "question": "What are the pricing plans?",
+      "answer": "There are two pricing plans: Pro at $15/month and Premium at $20/month, both with a free trial for 3 days."
+    },
+    {
+      "question": "Who is the target audience for ExcelMaster.ai?",
+      "answer": "The target audience includes Excel power users, HR specialists, financial controllers, and operations managers."
+    }
+  ],
+  "url": "https://excelmaster.ai/"
+}

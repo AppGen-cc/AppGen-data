@@ -1,0 +1,32 @@
+{
+  "title": "TripX AI",
+  "introduction": "Discover Your Perfect Getaway with Our Virtual Travel Assistant. Personalized travel itineraries tailored to your preferences and budget, with real-time support from our AI-powered travel assistant. Start planning your dream vacation now!",
+  "category": "Life Assistant",
+  "features": [
+    "Real-time Recommendations: Leverage AI-driven insights to receive personalized travel plans. Chat in real-time with our virtual travel assistant for instant tweaks and updates.",
+    "Tailored Itineraries: Easily modify and manage your itinerary, from booking accommodations to adding activities, all within a few clicks.",
+    "Seamless Planning: Explore top-rated attractions, hidden gems, and must-try activities, all handpicked and updated in real-time based on your location."
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Travelers looking for personalized and budget-friendly itineraries",
+  "pricing": "$14/month",
+  "faqs": [
+    {
+      "question": "What does this do?",
+      "answer": "You choose a location where you'd like to visit & we give you an itinerary about your trip."
+    },
+    {
+      "question": "Can I get attractions suggestions based on price?",
+      "answer": "Yes! We can tailor locations suggestions based on your budget, as well as food, attractions, etc."
+    },
+    {
+      "question": "Will I be able to save my itinerary?",
+      "answer": "Yes! You can create a custom itinerary's and save them. Just make an account here."
+    },
+    {
+      "question": "Can you help me find a vacation?",
+      "answer": "Yes! Select destinations from our lists or we can ask you a set of questions to help tailor your experience based on location, time, weather, affordability, attractions."
+    }
+  ],
+  "url": "https://tripxai.com/"
+}

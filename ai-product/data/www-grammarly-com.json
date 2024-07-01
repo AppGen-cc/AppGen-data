@@ -1,0 +1,61 @@
+{
+  "description": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.",
+  "title": "Grammarly: Free AI Writing AssistanceGrammarly HomeGrammarly HomeGrammarly Home",
+  "introduction": "Grammarly is a writing support tool available in various applications for creating, working, learning, and communication. It emphasizes user-first principles of security and data privacy, with a subscription-based business model.",
+  "features": [
+    "Grammarly offers more than just spell check and grammar check, providing suggestions for clarity, engagement, and effectiveness. It also evaluates writing for tone, sentence variety, plagiarism detection, and citation support.",
+    "Grammarly's AI technology combines human expertise with advanced machine learning and natural language processing to deliver smarter writing suggestions.",
+    "Grammarly's generative AI features are available in various platforms and applications, including Gmail, Google Docs, Microsoft Word, LinkedIn, and more. All Grammarly plans include access to generative AI capabilities through a monthly allowance of prompts."
+  ],
+  "pricing": "Subscription-based",
+  "faqs": [
+    {
+      "question": "Where can I use Grammarly?",
+      "answer": "Grammarly is designed to work across applications, browsers, and devices, including major web browsers, desktop apps for Windows and Mac, and mobile apps for Android, iOS, and iPad."
+    },
+    {
+      "question": "What does Grammarly offer beyond spell check and grammar check?",
+      "answer": "Grammarly offers suggestions for clarity, engagement, effectiveness, tone, sentence variety, plagiarism detection, and citation support."
+    },
+    {
+      "question": "How does Grammarly's technology work?",
+      "answer": "Grammarly's AI combines human expertise with advanced machine learning and natural language processing."
+    },
+    {
+      "question": "Is Grammarly secure?",
+      "answer": "Grammarly prioritizes information security, encrypts data, and maintains a security-first culture within the organization."
+    },
+    {
+      "question": "Can Grammarly see or use my writing?",
+      "answer": "Grammarly tightly controls access to user data within the company, and users own what they write."
+    },
+    {
+      "question": "What data does Grammarly collect?",
+      "answer": "Grammarly collects necessary information like usernames, email addresses, and contact preferences. Users can request to view all data associated with their account."
+    },
+    {
+      "question": "What's included in a paid plan?",
+      "answer": "Paid plans include access to Premium features for individuals, citation support, plagiarism detection, style guides, and snippets for organizations."
+    },
+    {
+      "question": "Who can use Grammarly's generative AI features?",
+      "answer": "All Grammarly users have access to generative AI features, with Business and Education accounts having additional access."
+    },
+    {
+      "question": "Where can I use Grammarly's generative AI features?",
+      "answer": "Generative AI features are available in Grammarly for Windows, Mac, Chrome, Edge, and the Grammarly Editor, for platforms like Gmail, Google Docs, Microsoft Word, LinkedIn, and more."
+    },
+    {
+      "question": "Is Grammarly's generative AI assistance available in every plan?",
+      "answer": "Yes, all Grammarly plans include access to generative AI capabilities through a monthly allowance of prompts."
+    },
+    {
+      "question": "How does Grammarly use my data?",
+      "answer": "Grammarly uses data to power generative AI features, with extreme care to isolate each customer's data and not allow third parties to use the data for training models."
+    }
+  ],
+  "category": "Text&Writing",
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals, students, researchers, organizations",
+  "url": "https://www.grammarly.com/"
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Listen to articles, PDFs, emails, etc. in your podcast app or browser. Ultra-realistic AI voices. Read while you exercise, cook, commute, and do other things. ",
+  "title": "Audioread: Read in Audio",
+  "introduction": "Audioread is a tool that uses AI to convert text into audio, allowing users to listen to articles, PDFs, emails, and more in their podcast player or browser. It offers features like ultra-realistic text-to-speech engine, converting text into audio on any device, and listening in any podcast app.",
+  "features": [
+    "Ultra-realistic text-to-speech engine",
+    "Convert text into audio on any device",
+    "Listen in any podcast app"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "People who want to listen to articles, PDFs, emails, and other text content on the go or while multitasking.",
+  "pricing": "$9.99 per month for Audioread Monthly plan with features like 100,000 words per conversion, 500,000 words per day, and support for 77 languages.",
+  "faqs": [
+    {
+      "question": "Can I use Audioread without installing a podcast app?",
+      "answer": "Yes, you can use the web app to convert text to audio and listen online without needing a podcast app."
+    },
+    {
+      "question": "What is the pricing for Audioread Monthly?",
+      "answer": "The pricing for Audioread Monthly is $9.99 per month."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://audioread.com/"
+}

@@ -1,0 +1,32 @@
+{
+  "description": "Hyperswitch | Control-center",
+  "title": "Hyperswitch | Control-center",
+  "introduction": "Hyperswitch offers scalable pricing solutions for businesses, ranging from free plans to enterprise scale, with tailored pricing options that adjust to the needs of the users. The platform provides a range of features for payment processing, control center management, compliance, and support.",
+  "category": "Business",
+  "features": [
+    "All payment provider integrations, payment methods & payment flows",
+    "Key services - Routing, FRM, Payouts & Reconciliation",
+    "Control centre & all its features",
+    "Web SDK, native mobile SDK integration (Android, iOS, React Native)",
+    "PCI compliant card vault",
+    "New feature requests from adopters are taken up and delivered by the Hyperswitch team on priority"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Businesses of all sizes",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is the pricing for getting started quickly and accepting payments?",
+      "answer": "$0.04 per successful transaction"
+    },
+    {
+      "question": "Is customisation supported by the Hyperswitch team for all plans?",
+      "answer": "Customisation is supported on a case-by-case basis for enterprise plans, not supported for other plans."
+    },
+    {
+      "question": "What type of support is provided by Hyperswitch?",
+      "answer": "Free support is available through the Public Slack channel and email. Dedicated support is chargeable."
+    }
+  ],
+  "url": "https://hyperswitch.io/products/control-centre"
+}

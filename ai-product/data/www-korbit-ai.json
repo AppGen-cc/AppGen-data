@@ -1,0 +1,39 @@
+{
+  "description": "Elevate your development process with Korbit, the leading AI-powered tool for instant, accurate pull request reviews. Boost productivity, enhance code quality, and upskill your team effortlessly.\"",
+  "title": "Korbit: Revolutionize Your Software Development with AI-Powered Code Reviews",
+  "introduction": "Korbit is a GenAI PR Reviewer for GitHub that accelerates your PR Code Reviews, detects issues, and shows you how to fix them. It installs on GitHub and provides results in minutes.",
+  "category": "Code&IT",
+  "features": [
+    "Automated PR Reviews",
+    "Simple and secure installation from the GitHub Partner Marketplace",
+    "Instant PR Reviews 24/7",
+    "Reports on the state of your projects, code, and team performance",
+    "Interactive explanations, advice, and suggestions for each issue"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Development teams, software engineers, and GitHub users",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, the Korbit Pro plan starts with a no obligation 30-day free trial."
+    },
+    {
+      "question": "What is included in the Korbit Starter plan?",
+      "answer": "The Korbit Starter plan is free and includes the full-feature version without requiring a credit card."
+    },
+    {
+      "question": "How much does the Korbit Pro plan cost?",
+      "answer": "The Korbit Pro plan costs $24 per user per month."
+    },
+    {
+      "question": "What additional features does the Korbit Pro plan offer?",
+      "answer": "The Korbit Pro plan includes everything in the Starter plan plus an optional system configuration session."
+    },
+    {
+      "question": "How long does it take for Korbit to complete a PR review?",
+      "answer": "Korbit completes PR reviews in about 5 minutes."
+    }
+  ],
+  "url": "https://www.korbit.ai/"
+}

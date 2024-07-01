@@ -1,0 +1,30 @@
+{
+  "description": "A Social NeoBank utilizing decentralized Technology to innovate Fintech and scale the adoption of web3.",
+  "title": "Beepo App — Social, Decentralized and Secure",
+  "introduction": "Beepo aims to facilitate the widespread adoption of Blockchain technology by providing a user-friendly gateway to web3, even for users without prior web3 knowledge. This is achieved through cutting-edge MPC algorithms and a seamless ZK onboarding process.",
+  "features": [
+    "Sales Catalogue: Showcase services and products in the Beepo Shop Catalog for seamless interaction and direct purchases.",
+    "Sales Analytics: Access real-time insights into Catalog visits and monitor product sales within the Beepo App.",
+    "Non-Custodial Wallet: Manage digital assets and track market prices with a secure and uncomplicated Web3 wallet featuring MPC algorithm, multi-chain compatibility, and non-custodial functionality.",
+    "Creator: Discover content from favorite creators on Beepo, where creators earn rewards through incentives, community engagement, live streams, and verification badges."
+  ],
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What is Beepo's primary goal?",
+      "answer": "Beepo aims to facilitate the widespread adoption of Blockchain technology by providing a user-friendly gateway to web3."
+    },
+    {
+      "question": "How can users showcase their products on Beepo?",
+      "answer": "Users can showcase their services and products in the Beepo Shop Catalog for seamless interaction and direct purchases."
+    },
+    {
+      "question": "Is the Beepo Wallet custodial or non-custodial?",
+      "answer": "The Beepo Wallet is non-custodial, allowing users to manage digital assets securely."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Blockchain enthusiasts and users interested in web3 technology",
+  "url": "https://beepoapp.net/"
+}

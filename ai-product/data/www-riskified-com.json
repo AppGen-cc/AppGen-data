@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "introduction": "Riskified is a leading ecommerce fraud management and risk intelligence platform trusted by top merchants to maximize revenue and profit. Their AI-powered solutions help remove risk, block fraud, and expand businesses with accountable fraud management and risk intelligence. The platform offers precise decisioning based on 480+ data attributes and empowers fraud teams to increase approval rates by 4-8 percentage points.",
+  "features": [
+    "AI-powered fraud management",
+    "Risk intelligence platform",
+    "Precise decisioning with 480+ data attributes",
+    "Empower fraud teams to grow approval rates",
+    "Accountable fraud management"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Riskified?",
+      "answer": "Riskified is an AI-powered fraud management and risk intelligence platform trusted by leading ecommerce merchants to maximize revenue and profit."
+    },
+    {
+      "question": "How does Riskified help businesses?",
+      "answer": "Riskified helps businesses remove risk, block fraud, and expand by providing accountable fraud management and risk intelligence. Their platform offers precise decisioning based on 480+ data attributes and empowers fraud teams to increase approval rates."
+    }
+  ],
+  "category": "Business",
+  "hasFreeTrial": "No",
+  "targetPeople": "Ecommerce merchants",
+  "url": "https://www.riskified.com/"
+}

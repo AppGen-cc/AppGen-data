@@ -1,0 +1,35 @@
+{
+  "description": "CartBuddyGPT your GPT powered shopping assistant",
+  "title": "CartBuddyGPT",
+  "introduction": "CartBuddyGPT helps users find the best products on Amazon by sifting through thousands of products to meet their needs and budget. It offers built-in plotting and visualization tools to make sense of the data.",
+  "category": "Life Assistant",
+  "features": [
+    "Product search and recommendations",
+    "Built-in plotting and visualization tools",
+    "Detailed product information including title, price, and customer ratings",
+    "Visual representations of data for better decision-making",
+    "Expert recommendations based on analyzed data"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Online shoppers looking for detailed product comparisons and recommendations",
+  "pricing": "Affiliate commission model",
+  "faqs": [
+    {
+      "question": "How does CartBuddyGPT work?",
+      "answer": "You start by asking CartBuddyGPT a question about a product you're interested in. It then fetches a list of products from Amazon, provides detailed information, and offers visual data representations to help you make an informed decision."
+    },
+    {
+      "question": "What kind of data does CartBuddyGPT provide?",
+      "answer": "CartBuddyGPT provides detailed information about each product, including title, price, customer ratings, and other key attributes. It also offers visual insights like price comparisons and product ratings."
+    },
+    {
+      "question": "Can CartBuddyGPT help with product comparisons?",
+      "answer": "Yes, CartBuddyGPT can create visual comparisons of different products, such as price and storage capacity comparisons between the latest iPhone and Samsung Galaxy models."
+    },
+    {
+      "question": "Are there any costs associated with using CartBuddyGPT?",
+      "answer": "CartBuddyGPT uses affiliate links, meaning that at zero cost to you, the service earns a commission if you click through the link and finalize a purchase."
+    }
+  ],
+  "url": "https://cartbuddygpt.com/"
+}

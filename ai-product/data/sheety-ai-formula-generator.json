@@ -1,0 +1,33 @@
+{
+  "title": "sheety.ai",
+  "introduction": "Sheety.ai is a tool that helps you to generate formulas for your spreadsheets. It uses the power of AI to understand your problem and generate the right formula for you.",
+  "category": "Productivity",
+  "features": [
+    "Generate formulas for spreadsheets",
+    "AI-powered formula generation",
+    "Store and access formulas from anywhere",
+    "Supports Excel and Google Sheets"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Spreadsheet users, data analysts, business professionals",
+  "pricing": "Free with limitations, subscription for unlimited access",
+  "faqs": [
+    {
+      "question": "What is sheety.ai?",
+      "answer": "Sheety.ai is a tool that helps you to generate formulas for your spreadsheets. It uses the power of AI to understand your problem and generate the right formula for you."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, you can create a free account and start generating formulas. As an anonymous user, you are limited to 5 formulas. Create a free account to get unlimited formulas."
+    },
+    {
+      "question": "What platforms does sheety.ai support?",
+      "answer": "Sheety.ai supports both Excel and Google Sheets."
+    },
+    {
+      "question": "Where is sheety.ai developed and hosted?",
+      "answer": "Sheety.ai is developed and hosted in Switzerland."
+    }
+  ],
+  "url": "https://sheety.ai/formula-generator"
+}

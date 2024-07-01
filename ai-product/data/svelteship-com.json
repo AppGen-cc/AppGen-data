@@ -1,0 +1,31 @@
+{
+  "description": "The #1 SvelteKit boilerplate with all you need to build and launch fast!",
+  "title": "Ship your SvelteKit App, Set Sail! | SvelteShip",
+  "keywords": "SvelteShip,SvelteKit boilerplate,Sveltekit starter,Sveltekit template,Sveltekit,saas boilerplate",
+  "introduction": "SvelteShip is the #1 SvelteKit boilerplate designed to help you build and launch your projects quickly. It includes pre-built UI components, user authentication powered by Supabase, Stripe integration for payments, Mailgun integration for emails, and more. With SvelteShip, you can focus on your app and let the boilerplate handle the repetitive tasks.",
+  "category": "Code&IT",
+  "features": [
+    "Pre-built UI Components",
+    "User Auth with Supabase",
+    "Customizable Pricing Page",
+    "Blog Engine with SEO optimization",
+    "User Subscriptions with Stripe",
+    "Billing Portal for self-service",
+    "User Dashboard for profile management",
+    "SEO setup and customization",
+    "Modular code structure",
+    "Full Stack integration with SvelteKit, Tailwind, DaisyUI, Supabase, and Mailgun",
+    "Developer Experience enhancements like linting and testing",
+    "Contact Form for customer inquiries"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Developers looking to quickly launch SvelteKit projects",
+  "pricing": "One-time payment, lifetime access",
+  "faqs": [
+    {
+      "question": "What is included in the plan?",
+      "answer": "The plan includes Sveltekit Boilerplate, Pre-Built UI Components, Supabase Auth + DB Integration, Stripe Integration, Mailgun Email Integration, Hotswap Styling, Documentation & Tutorials, and Lifetime Updates."
+    }
+  ],
+  "url": "https://svelteship.com/"
+}

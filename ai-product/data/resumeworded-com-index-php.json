@@ -1,0 +1,26 @@
+{
+  "description": "Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.",
+  "title": "Resume Worded - Free instant feedback on your resume and LinkedIn profileResume Score - Instant Resume ReviewOur resume grader checks your resume for criteria recruiters are looking forPersonalised feedback from our resume grader",
+  "introduction": "Resume Worded is an AI-powered platform designed by top recruiters to provide tailored feedback on resumes and LinkedIn profiles. It helps users land more interviews, opportunities, and job offers. The platform has been trusted by over 1 million job seekers worldwide.",
+  "category": "Business",
+  "features": [
+    "Instant Resume Review",
+    "Resume Samples",
+    "Resume Targeting",
+    "LinkedIn Optimization"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Experienced professionals, graduates, and students",
+  "pricing": "Free trial available",
+  "faqs": [
+    {
+      "question": "How does Resume Worded work?",
+      "answer": "Resume Worded uses AI technology to analyze resumes and LinkedIn profiles, providing personalized feedback and suggestions for improvement."
+    },
+    {
+      "question": "Is Resume Worded suitable for all industries?",
+      "answer": "Yes, Resume Worded offers sample bullet points from various industries to help users write effective resumes across different fields."
+    }
+  ],
+  "url": "https://resumeworded.com/index.php"
+}

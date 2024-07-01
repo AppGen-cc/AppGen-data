@@ -1,0 +1,18 @@
+{
+  "description": "Generate hyper-realistic AI images for free",
+  "title": "Stockimagery",
+  "introduction": "Unleash your creativity with our cutting-edge AI that transforms your ideas into stunningly realistic images. Perfect for artists, designers, and anyone looking to bring their visions to life.",
+  "category": "Image",
+  "features": [
+    "Generate hyper realistic photos, anime characters, watercolor paintings, sticker packs, logos, 3D characters and more",
+    "Transform your images to moving photos",
+    "Upscale your images to high definition",
+    "Create short 4 second videos using text",
+    "Swap faces between two photos"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Artists, designers, solo creators, hobbyists, and marketing teams",
+  "pricing": "Subscription",
+  "faqs": [],
+  "url": "https://www.stockimagery.ai/"
+}

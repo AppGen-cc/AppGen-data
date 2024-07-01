@@ -1,0 +1,56 @@
+{
+  "description": "Use our free online sentence counter tool to easily count the number of sentences, words, and characters in your text.",
+  "title": "Sentence Counter - Free Online Tool",
+  "introduction": "The Free Online Sentence Counter Tool allows users to input text and automatically calculate the number of sentences, words, and characters in real-time. It supports multiple languages and provides real-time statistics for easy analysis. The tool features a user-friendly interface for non-technical users.",
+  "category": "Text&Writing",
+  "features": [
+    "Sentence Counting",
+    "Word Counting",
+    "Character Counting",
+    "Real-Time Statistics",
+    "Multi-Language Support",
+    "User-Friendly Interface"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Content creators, writers, editors",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is a sentence counter?",
+      "answer": "Sentence counter is an online tool used to analyze text and calculate the number of sentences within it"
+    },
+    {
+      "question": "What languages does this tool support?",
+      "answer": "This text analysis tool supports English, Chinese, Spanish, French, and Japanese."
+    },
+    {
+      "question": "How does the sentence counter work?",
+      "answer": "The sentence counter works by analyzing text and identifying sentence boundaries based on punctuation marks. It counts sentences using periods, exclamation points, question marks, and other criteria."
+    },
+    {
+      "question": "Can this tool count words in any text?",
+      "answer": "Yes, it can count words in texts of supported languages using spaces to identify words in most languages, and characters in languages like Chinese and Japanese."
+    },
+    {
+      "question": "How do I use a sentence counter?",
+      "answer": "Input text into the specified text box and view the results, which display the number of sentences and other relevant information."
+    },
+    {
+      "question": "Can I use the sentence counter on a mobile device?",
+      "answer": "Yes, the tool is accessible on mobile devices."
+    },
+    {
+      "question": "Are these tools free?",
+      "answer": "Yes, the tools are free to use."
+    },
+    {
+      "question": "Are these tools safe?",
+      "answer": "Yes, the tools are implemented using browser technology, making them faster and safer, and they are 100% free."
+    },
+    {
+      "question": "Can sentence counting help improve content quality?",
+      "answer": "Yes, analyzing sentence structure and length can provide insights into content readability and coherence, helping improve content quality."
+    }
+  ],
+  "url": "https://sentencecounter.xyz/"
+}

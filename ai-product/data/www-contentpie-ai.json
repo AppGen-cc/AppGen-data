@@ -1,0 +1,66 @@
+{
+  "description": "Enhance your website with AI-driven, SEO-optimized content—published directly to your blog. Boost your search rankings and increase traffic effortlessly with our automated blogging solution",
+  "title": "ContentPie",
+  "introduction": "ContentPie is an AI-powered content creation tool designed to help businesses grow organic traffic by generating SEO-optimized content automatically. It aims to drive traffic and improve search engine rankings with minimal effort.",
+  "category": "Marketing",
+  "features": [
+    "Automatic SEO-optimized content generation",
+    "Create content in seconds",
+    "Rewrite content with AI",
+    "Publish directly to your website",
+    "Custom on-brand AI images",
+    "Create articles in bulk",
+    "Customize outline and style of articles",
+    "Refine articles",
+    "Support for 150+ languages",
+    "Generate long articles (up to 3,000 words)",
+    "Add extra users",
+    "Dedicated 24/7 support"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Entrepreneurs, content creators, and businesses looking to improve their SEO and content marketing efforts.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is ContentPie?",
+      "answer": "ContentPie is an AI-powered content creation tool that helps businesses generate SEO-optimized content automatically to drive traffic and improve search engine rankings."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, ContentPie offers a free trial with no card required."
+    },
+    {
+      "question": "What are the pricing options?",
+      "answer": "ContentPie offers monthly and yearly subscription plans. The monthly plan is $49/month (discounted from $100), and the yearly plan is $39/month (discounted from $80)."
+    },
+    {
+      "question": "What features are included in the subscription?",
+      "answer": "The subscription includes unlimited articles, unlimited AI rewrites, unlimited users, Webflow and WordPress integrations, support for 150+ languages, custom feature requests, stock and AI images, and priority support."
+    },
+    {
+      "question": "Can I generate content in multiple languages?",
+      "answer": "Yes, ContentPie supports content generation in over 150 languages."
+    },
+    {
+      "question": "How does the AI rewriting feature work?",
+      "answer": "You can highlight any text you want to improve, specify how you want it rewritten (shorten, simplify, add detail), and get the improved text instantly."
+    },
+    {
+      "question": "What kind of support is available?",
+      "answer": "ContentPie offers dedicated 24/7 support through a Slack channel, ready to answer questions and listen to feature requests anytime."
+    },
+    {
+      "question": "Can I publish content directly to my website?",
+      "answer": "Yes, ContentPie allows you to publish content directly to your website with just one click."
+    },
+    {
+      "question": "Are there any custom features available?",
+      "answer": "Yes, ContentPie offers custom feature requests as part of the subscription."
+    },
+    {
+      "question": "What is the money-back guarantee policy?",
+      "answer": "ContentPie offers a 30-day money-back guarantee."
+    }
+  ],
+  "url": "https://www.contentpie.ai/"
+}

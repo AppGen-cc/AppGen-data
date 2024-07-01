@@ -1,0 +1,39 @@
+{
+  "description": "Open and explore ZIP, 7z, RAR, and many more archives without extracting. Create and edit archives with encryption and advanced compression. Open, search, and share files directly from the archive.",
+  "title": "Arclite Pro - Etheriar",
+  "introduction": "Arclite Pro is an advanced archiving tool that allows users to open and explore various archive formats without extracting, create and edit archives with encryption and advanced compression, and experience the future of archiving. The latest version, Arclite Pro 2.0, introduces a redesigned Core for enhanced performance and stability, upgraded progress tracking, improved Drag and Drop, and archive testing to detect corruption, among other improvements.",
+  "category": "Code&IT",
+  "features": [
+    "Explore archives without extracting",
+    "Create and edit archives with encryption and advanced compression",
+    "Redesigned Core for enhanced performance and stability",
+    "Improved Drag and Drop functionality",
+    "Archive testing to detect corruption"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users who work with a variety of archive formats and require advanced archiving capabilities",
+  "pricing": "Lifetime License",
+  "faqs": [
+    {
+      "question": "How do I get Arclite Pro?",
+      "answer": "You can purchase Arclite Pro directly from the Etheriar Store. It comes with a Lifetime License."
+    },
+    {
+      "question": "How do I upgrade to Arclite Pro 2.0 if I already own Arclite Pro?",
+      "answer": "If you already own Arclite Pro, you'll get the 2.0 update for free. Just open Arclite Pro and choose 'Check for Updates' from the main menu, or download it again from the download page."
+    },
+    {
+      "question": "Will Arclite Pro be available on the Mac App Store?",
+      "answer": "Yes, it will be available on the Mac App Store, but with some feature limitations. Special offers will only be available through direct purchase."
+    },
+    {
+      "question": "What archive formats are supported by Arclite Pro?",
+      "answer": "Arclite Pro supports various archive formats for both opening and creating, including ZIP, 7z, XZ, BZIP2, GZIP, TAR, WIM, and many more. It also supports opening only formats like RAR, RPM, VHD, VHDX, and more."
+    },
+    {
+      "question": "How can I suggest a missing feature or an archive format for Arclite Pro?",
+      "answer": "You can suggest missing features or archive formats on the Roadmap page. The team welcomes feedback and carefully considers all suggestions."
+    }
+  ],
+  "url": "https://etheriar.com/arclite-pro"
+}

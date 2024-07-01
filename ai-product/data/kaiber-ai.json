@@ -1,0 +1,31 @@
+{
+  "description": "AI Video Generation",
+  "title": "Kaiber",
+  "introduction": "Kaiber is a creative platform that allows users to turn text, videos, photos, and music into stunning videos using an advanced AI generation engine. It offers different pricing plans to cater to the needs of various users, from individual creators to teams and companies. Kaiber aims to support musicians by providing specialized pricing to help bring their art to life. The platform encourages limitless creativity and aims to connect like-minded artists in a creative revolution.",
+  "category": "AI Detector",
+  "features": [
+    "Audioreactivity: Upload a song, add artistic style, and let audio analysis technology bring beats to life.",
+    "Transform: Effortlessly transform uploaded videos into new styles and aesthetics.",
+    "Animation: Frame-by-frame animation style for creating with timeless creativity.",
+    "Motion: Smooth animation style that transforms prompts into visual experiences with fluidity.",
+    "Flipbook: Animation style where one layer evolves based on another for creative expression."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individual creators, teams, companies, and musicians",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Kaiber?",
+      "answer": "Kaiber is a creative platform that uses AI to turn text, videos, photos, and music into stunning videos."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a 7-day free trial with 100 credits for the Explorer plan."
+    },
+    {
+      "question": "How can musicians benefit from Kaiber?",
+      "answer": "Kaiber offers specialized pricing for musicians to support them in bringing their art to life."
+    }
+  ],
+  "url": "https://kaiber.ai/"
+}

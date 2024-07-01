@@ -1,0 +1,34 @@
+{
+  "description": "Colossyan Creator makes video creation simple and stress-free. Discover our AI video generator with real actors. Create AI videos in less than 5 minutes.",
+  "title": "Colossyan Creator - AI Video Generator",
+  "introduction": "Colossyan is an AI video platform designed for workplace learning. It allows users to create videos from text with AI avatars, drive outcomes with interactivity, and translate content into multiple languages with ease. The platform offers a range of features to streamline video production and enhance learning outcomes.",
+  "features": [
+    "Create videos from text with AI avatars",
+    "Drive outcomes with interactivity",
+    "Translate content into 70+ languages",
+    "Remove Colossyan watermark",
+    "Videos with avatar conversations",
+    "Dedicated customer success manager",
+    "Collaboration & Publishing",
+    "Save your own team templates",
+    "Video download resolution up to Ultra HD (4k)",
+    "Upload your own images and videos"
+  ],
+  "pricing": "Custom pricing plans available for Starter, Pro, and Enterprise levels with varying features and scene limits. The Enterprise plan offers unlimited scenes and customization options.",
+  "faqs": [
+    {
+      "question": "What should your AI avatar say?",
+      "answer": "Users can input text for their AI avatar to speak, making it customizable for various purposes such as learning & training or corporate communications."
+    },
+    {
+      "question": "How does the platform help reduce production costs?",
+      "answer": "Colossyan enables users to produce studio-quality video content from text, eliminating the need for expensive investments in traditional video production."
+    },
+    {
+      "question": "What are the benefits of using AI avatars for training videos?",
+      "answer": "AI avatars can help create engaging and interactive training videos, improving learning outcomes and employee understanding of topics."
+    }
+  ],
+  "category": "Video",
+  "url": "https://www.colossyan.com/"
+}

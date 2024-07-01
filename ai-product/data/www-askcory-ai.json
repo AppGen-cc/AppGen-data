@@ -1,0 +1,31 @@
+{
+  "description": "Elevate your marketing strategy with AskCory.ai, the AI-driven platform that empowers you to craft tailored plans, and access benchmarks in minutes.",
+  "title": "AskCory - Marketing Strategy and Tactics",
+  "introduction": "AskCory.ai is an AI-powered marketing assistant that helps users generate strategic tactics, action plans, and content assets in a fraction of the time. It aims to streamline marketing processes and provide personalized marketing strategies based on industry benchmarks.",
+  "features": [
+    "Generate strategic tactics, action plans, and content assets",
+    "Personalized marketing strategies based on industry benchmarks",
+    "AI-generated actions and requirements",
+    "SEO-optimized blog post creation",
+    "Social media post generation"
+  ],
+  "pricing": "Start for free, pay as you go, or subscribe with options like Starter ($19.70/month) for startups and SMEs, Professional ($57.50/month) for marketing consultants and freelancers, and Custom plan for agencies and enterprises.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Marketers, startups, SMEs, marketing consultants, freelancers, agencies, and enterprises",
+  "faqs": [
+    {
+      "question": "What are the pricing options available?",
+      "answer": "Users can choose from a free trial, pay as you go, or subscription plans like Starter, Professional, and Custom."
+    },
+    {
+      "question": "Who can benefit from AskCory.ai?",
+      "answer": "AskCory.ai is beneficial for marketers, startups, SMEs, marketing consultants, freelancers, agencies, and enterprises looking to streamline their marketing processes and improve ROI."
+    },
+    {
+      "question": "What features does AskCory.ai offer?",
+      "answer": "AskCory.ai offers features such as generating strategic tactics, personalized marketing strategies, AI-generated actions, SEO-optimized blog post creation, and social media post generation."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.askcory.ai/"
+}

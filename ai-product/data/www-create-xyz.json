@@ -1,0 +1,21 @@
+{
+  "description": "Create lets you code using plain text and images. Use it to build components, sites, designs, prototypes, products, tools and more.",
+  "title": "Create - free-to-use AI app builder",
+  "introduction": "Turn your words into sites, components, and tools built with code. Add GPT-4 and 40+ integrations in an instant.",
+  "category": "Code&IT",
+  "features": [
+    "20 projects",
+    "Unlimited iterations",
+    "Unlimited collaborators",
+    "Build for free with GPT-4-Turbo",
+    "Screenshot to code with GPT-4 Vision",
+    "AI integrations with rate limits",
+    "Copy and paste code outputs",
+    "Publish public projects"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Teams and individuals looking to build components, sites, prototypes, tools, and apps easily",
+  "pricing": "Subscription",
+  "faqs": [],
+  "url": "https://www.create.xyz/"
+}

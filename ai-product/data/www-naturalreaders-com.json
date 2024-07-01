@@ -1,0 +1,31 @@
+{
+  "description": "NaturalReader: Free Text to Speech for Online, Mobile App, Commercial license and Education with AI voices.",
+  "title": "AI Voices - NaturalReader Home",
+  "keywords": "",
+  "introduction": "NaturalReader is an AI Text to Speech tool trusted by 10 million users. It offers features like AI Text to Speech, Voice Cloning, and supports PDF and 20+ formats. The tool provides 50+ languages and 200+ AI voices, including multi-lingual voices powered by Large Language Models (LLM). It also includes enhanced assistive technology and content-aware AI voices for a more natural delivery.",
+  "features": [
+    "AI Text to Speech",
+    "LLM multi-lingual voices",
+    "Voice Cloning",
+    "Support for 50+ languages and 200+ AI voices",
+    "Enhanced assistive technology",
+    "Content-aware AI voices"
+  ],
+  "pricing": "Free trial available",
+  "faqs": [
+    {
+      "question": "What is NaturalReader?",
+      "answer": "NaturalReader is an AI Text to Speech tool that allows any type of text to be read aloud with natural AI voices."
+    },
+    {
+      "question": "How many languages and voices does NaturalReader support?",
+      "answer": "NaturalReader supports 50+ languages and 200+ AI voices, including multi-lingual voices powered by Large Language Models (LLM)."
+    },
+    {
+      "question": "Is there a free trial available for NaturalReader?",
+      "answer": "Yes, there is a free trial available for NaturalReader."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://www.naturalreaders.com/"
+}

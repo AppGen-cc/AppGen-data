@@ -1,0 +1,38 @@
+{
+  "description": "Elevate your social media game with SocialDude: AI-powered content creation for impactful, brand-consistent messaging. Save time, boost engagement, and amplify your online presence effortlessly.",
+  "title": "SocialDude.ai - Revolutionize Your Social Media Strategy | SocialDudeEnglishEnglish",
+  "keywords": "Social Media,Community Management,Generative AI",
+  "introduction": "SocialDude is an AI-powered platform that helps users generate targeted content quickly and efficiently. It offers features like AI-driven content generation, brand-aligned messaging, and a user-friendly interface.",
+  "features": [
+    "AI-Driven Generation",
+    "Brand-Aligned Content",
+    "User-Friendly Interface"
+  ],
+  "pricing": "SocialDude offers a free plan with basic features, a lifetime access plan for 69€, and an annual plan for 39€.",
+  "faqs": [
+    {
+      "question": "How does SocialDude tailor content to match my brand's voice and style?",
+      "answer": "SocialDude employs an advanced brand voice generator, alongside your specified preferences, to create content that reflects your unique tone, voice, and style."
+    },
+    {
+      "question": "How will SocialDude help increase my social media engagement?",
+      "answer": "SocialDude delivers high-quality content designed to captivate and engage your audience, encouraging interaction and amplifying your social media presence."
+    },
+    {
+      "question": "What upcoming features can I expect from SocialDude?",
+      "answer": "Upcoming features include social media integration for direct publishing, insightful analytics dashboards, and AI-powered visual content creation to enhance your social media content strategy."
+    },
+    {
+      "question": "What does the lifetime offer include, and how can I avail of it?",
+      "answer": "The lifetime offer grants VIP access to all features, current and future, for a one-time payment. It includes unlimited creations, priority support, and a voice in future updates."
+    },
+    {
+      "question": "Why do the price and the number of spots for the limited lifetime offer vary?",
+      "answer": "The variations in price and spots are based on data and user feedback. The goal is to adjust the offer to reflect the value of SocialDude while meeting user needs."
+    }
+  ],
+  "category": "Marketing",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators and businesses looking to streamline content generation and enhance their social media presence.",
+  "url": "https://socialdude.ai/"
+}

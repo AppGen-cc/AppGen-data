@@ -1,0 +1,26 @@
+{
+  "description": "Experience effortless video creation with Vidalgo! Our platform empowers you to produce stunning vertical videos for TikTok, YouTube Shorts, and Instagram Reels in just one click. Start creating today and make your content stand out!",
+  "title": "Vidalgo - One-Click Vertical Video Creation",
+  "introduction": "Vidalgo is an AI-powered tool that helps users create viral content on TikTok effortlessly, without requiring any technical skills. It is used by over 1000 content creators and offers a simplified interface to unleash creativity.",
+  "features": [
+    "Turn ideas into captivating videos",
+    "Artificial intelligence at the heart of creativity",
+    "Quantifiable performance metrics",
+    "Time saved on editing",
+    "Increased virality and engagement",
+    "Enhanced visibility for AI videos"
+  ],
+  "pricing": "Free trial available (No credit card required)",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available with no credit card required."
+    },
+    {
+      "question": "How many content creators use Vidalgo?",
+      "answer": "Vidalgo is used by over 1000 content creators."
+    }
+  ],
+  "category": "[\"AI Detector\"]",
+  "url": "https://www.vidalgo.tech/"
+}

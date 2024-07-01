@@ -1,0 +1,47 @@
+{
+  "description": "Explore CapCut’s creative suite online. Enjoy video editing, graphic design, smart AI-powered tools, team collaboration, and more.",
+  "title": "CapCut creative suite for video editing, graphic design, and more",
+  "introduction": "CapCut is an online creative suite designed for everyone to create stunning videos. It offers a complete package that includes graphic design, team collaboration, and advanced AI technology to enhance the creative journey.",
+  "category": "Video",
+  "features": [
+    "Online video editor",
+    "Online image editor",
+    "Rich library of royalty-free music and sound effects",
+    "Edit with unlimited video, audio, image, and text tracks",
+    "Crop, trim, split, and resize videos without compromising quality",
+    "Huge selection of stock footage and templates for videos, images, and graphics",
+    "Next-generation AI technology",
+    "Creative cloud and team collaboration",
+    "Team management with different roles and access",
+    "Cloud backup",
+    "File management",
+    "Share videos as presentations",
+    "Share videos for review"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, social media managers, fitness trainers, small business owners, event organizers, travel enthusiasts",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is CapCut?",
+      "answer": "CapCut is an online creative suite designed for creating stunning videos, including features for graphic design, team collaboration, and advanced AI technology."
+    },
+    {
+      "question": "What features does CapCut offer?",
+      "answer": "CapCut offers an online video editor, online image editor, royalty-free music and sound effects, unlimited video/audio/image/text tracks, crop/trim/split/resize tools, stock footage and templates, AI technology, creative cloud, team collaboration, team management, cloud backup, file management, and video sharing options."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, CapCut offers a free trial."
+    },
+    {
+      "question": "Who can benefit from using CapCut?",
+      "answer": "Content creators, social media managers, fitness trainers, small business owners, event organizers, and travel enthusiasts can benefit from using CapCut."
+    },
+    {
+      "question": "What is the pricing strategy for CapCut?",
+      "answer": "CapCut uses a subscription-based pricing strategy."
+    }
+  ],
+  "url": "https://www.capcut.com/creative-suite"
+}

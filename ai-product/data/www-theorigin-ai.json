@@ -1,0 +1,40 @@
+{
+  "title": "OriginAI - Build custom enterprise software using GenAI",
+  "introduction": "Origin is a platform that allows users to build custom CRMs and deploy them into production environments using simple business language prompts. It is particularly tailored for the pharmaceutical industry.",
+  "category": "Business",
+  "features": [
+    "Build custom CRMs",
+    "Deploy into production environments",
+    "Simple business language prompts",
+    "Tailored for the pharmaceutical industry",
+    "Deploy entire websites",
+    "Create bespoke web applications",
+    "Set up associated production infrastructure"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Businesses in the pharmaceutical industry",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What can Origin be used for?",
+      "answer": "Origin can be used to build custom CRMs, deploy entire websites, create bespoke web applications, and set up associated production infrastructure."
+    },
+    {
+      "question": "How does Origin work?",
+      "answer": "Origin uses simple business language prompts to build and deploy custom CRMs and other web applications."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "The website does not mention a free trial."
+    },
+    {
+      "question": "Who is the target audience for Origin?",
+      "answer": "The platform is particularly tailored for businesses in the pharmaceutical industry."
+    },
+    {
+      "question": "How can I start using Origin?",
+      "answer": "You can sign up for an invite to their alpha program and specify your use case to get bumped up the list."
+    }
+  ],
+  "url": "https://www.theorigin.ai/"
+}

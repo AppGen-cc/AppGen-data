@@ -1,0 +1,42 @@
+{
+  "description": "AI Undetect:Best free AI Detection Remover, AI Humanizer that humanize AI text into undetectable AI. And we have integrated all the major AI detectors.",
+  "title": "AI Undetect: Undetectable AI, AI Humanizer, Anti AI Detector",
+  "keywords": "AI anti-detection, ai undetectable content, ai undetect, ai detection, ai detector, ai checker, gptzero",
+  "introduction": "AI Undetect is a freemium AI detection remover and humanizer tool that evaluates AI-generated content and offers a 'Humanize' option for human rewriting to bypass AI detection.",
+  "category": "AI Detector",
+  "features": [
+    "AI detection and humanization of AI-generated content",
+    "Integration with multiple AI detection tools like GPTZERO, COPYLEAK, Turnitin, etc.",
+    "No login or credit card required for initial use",
+    "Detailed AI detection reports",
+    "Enhanced model for better paraphrasing quality",
+    "Error-free rewritten content",
+    "Subscription plans with different levels of service"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Office workers, students, SEO content creators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Who can benefit from Undetectable AI Humanizer?",
+      "answer": "Office workers, students, and SEO content creators can benefit from using AI Undetect to humanize AI-generated text and bypass AI detection."
+    },
+    {
+      "question": "Does AI Undetect successfully humanize AI text and bypass AI Detection?",
+      "answer": "Yes, AI Undetect successfully humanizes AI text and ensures it bypasses AI detection."
+    },
+    {
+      "question": "How is the pricing for AI Undetect structured?",
+      "answer": "AI Undetect offers subscription plans: Basic Plan at $6/month, Standard Plan at $12/month, and Pro Plan at $24/month, all billed annually with a 50% discount."
+    },
+    {
+      "question": "What should I do if I exhaust my rewrite word limit?",
+      "answer": "You can upgrade to a higher subscription plan to get more rewritten words."
+    },
+    {
+      "question": "What is the difference between AI Undetect and stealth writer, word AI?",
+      "answer": "AI Undetect offers a unique anti-detection model trained with a 1B tokens corpus, providing better paraphrasing quality and integration with multiple AI detection tools."
+    }
+  ],
+  "url": "https://www.aiundetect.com/"
+}

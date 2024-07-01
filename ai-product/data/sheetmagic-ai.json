@@ -1,0 +1,84 @@
+{
+  "description": "Use ChatGPT in Google Sheets! Unlimited AI prompts and do unlimited scraping with our Google Sheet Extension!",
+  "title": "Google Sheets AI with Unlimited Web Scraping - SheetMagic",
+  "introduction": "SheetMagic is an AI and web scraping tool designed to work within Google Sheets. It allows users to generate AI content, scrape web data, analyze and clean data, and automate various tasks directly within their spreadsheets.",
+  "category": "Productivity",
+  "features": [
+    "Use AI in Google Sheets",
+    "Scrape websites in Google Sheets",
+    "Unlimited usage",
+    "Team access & collaboration",
+    "Unlimited users",
+    "Use GPT-3.5 Turbo",
+    "Use GPT-4 Turbo",
+    "Use GPT-4",
+    "Use GPT-Vision",
+    "Use DALL-E 3 for AI Images",
+    "Connect multiple cells & prompts",
+    "Scrape entire webpages",
+    "Scrape SERPs",
+    "Scrape headings",
+    "Scrape meta titles",
+    "Scrape meta descriptions",
+    "Scrape paragraph tags",
+    "Scrape full page data",
+    "Prompt library",
+    "User management",
+    "Basic email support",
+    "Priority email support"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "SEO professionals, marketers, sales teams, data analysts, and anyone who uses Google Sheets for data management and automation.",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What AI models does SheetMagic use?",
+      "answer": "You can use GPT-3.5 Turbo, GPT-4, GPT-4 Turbo, Dall-E 3, and GPT-Vision. We will also include all new AI models in your plan as OpenAI new machine learning models."
+    },
+    {
+      "question": "Do I need to attach my own OpenAI API Key?",
+      "answer": "Yes, this is required. By using your own OpenAI API key, you can ensure you're getting the best price on usage and not paying silly markup fees. It also allows us to offer you unlimited AI usage and unlimited formula creation."
+    },
+    {
+      "question": "Is there a setup guide after purchase?",
+      "answer": "Yes. There's a quick set-up guide for advanced users and a detailed, step-by-step guide for beginners who are newer to AI and automation. Setup takes ~3 minutes and includes a template document for you to get started with the add-on."
+    },
+    {
+      "question": "How do I automate repetitive tasks and use this AI tool?",
+      "answer": "With SheetMagic it is simple to use AI on Sheets to replace needing to do manual tasks. Just replace the prompt & type this into any cell: ...and once you click enter, you'll get your response back from the formula. You can also reference other cells in the prompt and use AI on your own existing spreadsheet data."
+    },
+    {
+      "question": "Do you offer refunds?",
+      "answer": "After you've got access to the SheetMagic, you can immediately start using AI in sheets and cannot be refunded. But rest assured, users of SheetMagic typically save a few hours in their first use of SheetMagic and can be canceled at any time directly in your account portal."
+    },
+    {
+      "question": "How is this Sheets add-on unlimited?",
+      "answer": "For AI, you can use this an unlimited amount by attaching your own OpenAI key. This means you will pay for API usage to OpenAI, but it is extremely affordable and you can set spending limits through their platform. For scraping, you can scrape unlimited amount and it does not cost anything additional."
+    },
+    {
+      "question": "If I pay for ChatGPT plus, will I still need an OpenAI API key?",
+      "answer": "Yes. ChatGPT plus is separate from their API product, so you will need to get a key and pay for any API usage."
+    },
+    {
+      "question": "Does the scraping use any OpenAI tokens?",
+      "answer": "No, it does not use the Open AI API at all and will not cost you anything additional."
+    },
+    {
+      "question": "What scraping features does SheetMagic offer?",
+      "answer": "Here's a list of our scraping functions: =visit('URL') Visits a URL and returns all of the content on that page (which you can then interact with using AI) =serp('SEARCH QUERY') This will return the top 20 search results from DuckDuckGo in a table with the URL, meta title, and meta description. =bulkserp('SEARCH QUERY') Gets top 5 search results from DDG and puts them horizontally. =getMetaTitle('URL') This will return the meta title for a given URL =getMetaDescription('URL') This will return the meta description for a given URL =getH1('URL') This will return the H1 for a given URL. =getH2('URL') This will return any H2s on a page for a given URL. =getHeadings('URL') This will return all the headings on a page for a given URL. =getp('URL') This will return all paragraphs wrapped in a <p> tag for a given URL. =pagedata('URL1', 'URL2') This will get a lot of the page data listed above for a list of URLs and put it into an organized table for you."
+    },
+    {
+      "question": "What's the difference between you and [x] AI tool?",
+      "answer": "Usually the biggest difference is that we offer unlimited scraping and unlimited AI usage. Most other tools for AI in Google Sheets don't offer scraping at all and a lot of other options limit you in features/outputs/etc. unless you upgrade to a higher plan. With SheetMagic, you get every feature with unlimited usage, all in one plan."
+    },
+    {
+      "question": "How do I add more users to my account?",
+      "answer": "Give them your SheetMagic license key and when they use it on Google Sheets, they will automatically be added into your account and fill up a slot on your team."
+    },
+    {
+      "question": "What all can I do in SheetMagic?",
+      "answer": "There are tons of ways you can use AI in Google Sheets and truly it is up to your own creativity. Here's a few ideas: Write bulk product descriptions, Analyze bulk data and summarize it, Write content for SEO, Create a dataset for programmatic SEO purposes, Summarize and analyze customer feedback, Scrape search results & webpages, Do anything you would repeatedly do in ChatGPT. The options are endless."
+    }
+  ],
+  "url": "https://sheetmagic.ai/"
+}

@@ -1,0 +1,47 @@
+{
+  "description": "Generate SEO-optimized articles, product descriptions, and more in your brand voice with Hypotenuse's AI writing generator. Try it free today!",
+  "title": "Hypotenuse AI: AI Writing Assistant & Text Generator",
+  "introduction": "Hypotenuse is an AI-powered content creation tool that offers various plans tailored for different user needs, from hobby projects to enterprise-grade solutions. It provides features like AI editor, SEO optimization, real-time research, and more. The tool also includes HypoChat for real-time web research and document uploads.",
+  "features": [
+    "AI editor",
+    "SEO optimization",
+    "Real-time research",
+    "Automatic internal and external linking",
+    "Bulk content generation",
+    "Custom AI voices",
+    "Plagiarism checking",
+    "Bulk workflows",
+    "Team collaboration"
+  ],
+  "pricing": "Subscription based with plans starting from $19/month for Entry plan to $2000/month for Ecommerce Custom plan.",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Hobbyists, freelancers, small teams, SEO teams, ecommerce sites, and large teams with complex workflows.",
+  "faqs": [
+    {
+      "question": "What is an AI text generator, exactly?",
+      "answer": "An AI text generator is a tool that uses artificial intelligence to automatically generate written content based on input parameters and data."
+    },
+    {
+      "question": "How does an AI text generator work?",
+      "answer": "AI text generators work by analyzing patterns in existing text data and using machine learning algorithms to generate new content that mimics the style and tone of the input data."
+    },
+    {
+      "question": "What can an AI writing generator do for me?",
+      "answer": "An AI writing generator can help you create content faster, optimize for SEO, maintain brand voice consistency, and streamline content creation workflows."
+    },
+    {
+      "question": "Will content writing be fully automated by AI writing generator?",
+      "answer": "While AI writing generators can automate many aspects of content creation, human oversight and editing are still necessary for quality control and ensuring brand alignment."
+    },
+    {
+      "question": "How much does an AI writing assistant cost?",
+      "answer": "The cost of an AI writing assistant varies depending on the provider and the features included, with pricing typically based on subscription plans or usage levels."
+    },
+    {
+      "question": "What languages do you support with AI writing?",
+      "answer": "Hypotenuse supports multiple languages for AI writing, allowing users to generate content in different languages to cater to diverse audiences."
+    }
+  ],
+  "category": "Marketing",
+  "url": "https://www.hypotenuse.ai/"
+}

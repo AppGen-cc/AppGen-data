@@ -1,0 +1,55 @@
+{
+  "description": "Generate personalized and unique date night plans with the power of AI. Tailored to suit your interests and preferences, make every night unforgettable with My Spicy Vanilla.",
+  "title": "Spice-up Your Relationship | My Spicy Vanilla",
+  "introduction": "My Spicy Vanilla is a platform designed exclusively for crafting detailed romantic fantasies. It offers users control over their story's characters, realistic illustrations, and a smooth user interface. The platform specializes in providing roleplay scenarios for couples.",
+  "category": "Design&Art",
+  "features": [
+    "Crafting detailed romantic fantasies",
+    "Control over story's characters",
+    "Realistic illustrations",
+    "Smooth user interface",
+    "Roleplay scenarios for couples"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Couples",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Why do generations sometimes take so long?",
+      "answer": "The process of story generation at My Spicy Vanilla takes longer because each creation is verified and refined to ensure the highest quality and uniqueness."
+    },
+    {
+      "question": "Who can see my generations?",
+      "answer": "Content generated without an account may be visible to other users. Creating an account ensures that your generations remain private and secure, accessible only to you."
+    },
+    {
+      "question": "What types of content are prohibited on My Spicy Vanilla?",
+      "answer": "Prohibited content includes involving minors, promoting incest, non-consensual acts, self-harm, discrimination, hate, violence, necrophilia, coprophilia, unlawful actions, representations of celebrities, and copyrighted characters without authorization."
+    },
+    {
+      "question": "Is my data and privacy secure with My Spicy Vanilla?",
+      "answer": "My Spicy Vanilla prioritizes privacy and data security, ensuring all interactions are encrypted and personal information is not shared with third parties."
+    },
+    {
+      "question": "Does my subscription cover usage on multiple devices?",
+      "answer": "Yes, a subscription to My Spicy Vanilla allows usage on unlimited devices without the need for additional licenses."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "Subscriptions can be canceled at any time by logging into your account and accessing the 'Manage Payments' section. The subscription remains active until the end of the current billing cycle."
+    },
+    {
+      "question": "Can I get a refund for my subscription?",
+      "answer": "Refunds are available for users who have made fewer than three generations with their account within the first 30 days of subscription. Contact support with your account details to initiate the refund process."
+    },
+    {
+      "question": "Can I delete my data from My Spicy Vanilla?",
+      "answer": "Yes, you can delete your account at any time, and it can be restored within 24 hours of deletion. After this period, the account and associated data are permanently removed from the database."
+    },
+    {
+      "question": "Can I request a feature?",
+      "answer": "Users can request new features by reaching out via email with their ideas. The platform values user input and is committed to enhancing the user experience based on suggestions."
+    }
+  ],
+  "url": "https://myspicyvanilla.com/ai-date-idea-generator/"
+}

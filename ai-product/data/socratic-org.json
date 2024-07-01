@@ -1,0 +1,23 @@
+{
+  "description": "Take a photo of your homework question and get answers, math solvers, explanations, and videos. Works for Math, Science, History, English, and more.",
+  "title": "Get unstuck. Learn better. | Socratic",
+  "introduction": "Socratic is an educational app designed to support Science, Math, Literature, Social Studies, and more. It provides visual explanations of important concepts in each subject with the help of teachers and is powered by Google AI for text and speech recognition.",
+  "features": [
+    "Supports Science, Math, Literature, Social Studies, and more",
+    "Provides visual explanations of important concepts",
+    "Powered by Google AI for text and speech recognition"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Who is the target user of Socratic?",
+      "answer": "Socratic is designed for students and teachers in subjects like Science, Math, Literature, and Social Studies."
+    },
+    {
+      "question": "Is there a free trial available for Socratic?",
+      "answer": "Yes, Socratic is free to use."
+    }
+  ],
+  "category": "Education",
+  "url": "https://socratic.org/"
+}

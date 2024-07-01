@@ -1,0 +1,35 @@
+{
+  "description": "Introducing Stratup.ai, a brand new AI-powered tool that helps you generate unique and innovative startup and business ideas in seconds.",
+  "title": "Stratup.ai | AI-powered startup idea generator",
+  "keywords": "Business idea generator,AI business idea generator,idea generator,ai idea generator,Stratup ai,Startup ai,startup ideas,business ideas,ai business ideas,ideation tool,ai ideation tool,startup ideation tool,ai startup ideas,Ai generated buisness plans,AI generated startup ideas,AI generated business ideas,Best AI Startup Tools",
+  "introduction": "Stratup.ai is an AI-powered platform that offers startup ideas and tools to fuel entrepreneurial journeys. It provides features like idea generation, solution exploration, detailed reports, and a vast database of startup ideas. The platform aims to empower entrepreneurs with innovative concepts and insights.",
+  "features": [
+    "Generate ideas: Break free from traditional brainstorming with AI-generated startup ideas.",
+    "Explore solutions: Turn concepts into success stories with tailored recommendations.",
+    "Generate reports: Access detailed reports for informed decision-making and strategy development.",
+    "Search all ideas: Instantly explore a vast database of startup ideas with search feature."
+  ],
+  "pricing": "Subscription-based pricing with options like Free, Pro, Pro Plus, Pro Plus Lifetime, and À la carte. Prices range from $0/month to $49/month for subscriptions and one-time purchases available.",
+  "faqs": [
+    {
+      "question": "Can I try the product for free?",
+      "answer": "Yes, there is a Free plan available."
+    },
+    {
+      "question": "Can I cancel my subscription at any time?",
+      "answer": "Yes, you can cancel your subscription anytime."
+    },
+    {
+      "question": "Can I upgrade later to ProPlus after subscribing to the Pro plan?",
+      "answer": "Yes, you can upgrade to ProPlus after subscribing to the Pro plan."
+    },
+    {
+      "question": "Do paid plan credits accumulate each month?",
+      "answer": "Yes, paid plan credits accumulate monthly."
+    }
+  ],
+  "category": "[\"AI Detector\"]",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Entrepreneurs",
+  "url": "https://stratup.ai/"
+}

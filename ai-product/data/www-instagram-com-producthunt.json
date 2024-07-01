@@ -1,0 +1,20 @@
+{
+  "title": "Instagram",
+  "introduction": "Instagram is a popular social media platform owned by Meta. It allows users to share photos and videos with their followers.",
+  "category": "Image",
+  "features": [],
+  "hasFreeTrial": "No",
+  "targetPeople": "Social media users",
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "What is Instagram?",
+      "answer": "Instagram is a social media platform where users can share photos and videos with their followers."
+    },
+    {
+      "question": "Who owns Instagram?",
+      "answer": "Instagram is owned by Meta."
+    }
+  ],
+  "url": "https://www.instagram.com/producthunt"
+}

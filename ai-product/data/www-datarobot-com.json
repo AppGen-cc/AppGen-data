@@ -1,0 +1,63 @@
+{
+  "description": "Open. Flexible. Built to adapt to your team’s AI needs. DataRobot brings all your generative and predictive workflows together into one powerful platform. Quickly deliver AI that your business needs,, govern all your assets, and tap into world-class AI experts.",
+  "title": "DataRobot AI Platform | Deliver Value from AI",
+  "introduction": "DataRobot AI Platform is a comprehensive solution that offers a wide range of features for organizations to leverage AI effectively. It is available through annual subscription plans and can be customized to meet specific business goals. The platform provides tools for interactive notebooks, no-code data prep, automated feature discovery, deep learning, and more.",
+  "features": [
+    "Workbench",
+    "Interactive notebooks",
+    "No-Code data prep",
+    "Automated Feature Discovery",
+    "Automated deep learning",
+    "Multilabel classification",
+    "Multi-model clustering",
+    "Advanced tuning",
+    "Composable ML",
+    "Segmented modeling",
+    "No-Code apps",
+    "Sharing permissions",
+    "Custom inference models",
+    "Service health monitoring",
+    "Drift monitoring",
+    "Real-time predictions",
+    "Data connections",
+    "CI/CD",
+    "Scoring code export",
+    "Deploy to external environments",
+    "Manage and monitor external models",
+    "Usage reports",
+    "Bias and fairness",
+    "Approval workflows",
+    "Automated compliance documentation",
+    "Multi-Tenant SaaS",
+    "Single-Tenant SaaS",
+    "Self-Managed VPC",
+    "Self-Managed On-premise"
+  ],
+  "pricing": "The DataRobot AI Platform is priced as an annual subscription, allowing organizations to tailor their solution to meet their specific needs and business objectives. It can be purchased directly through DataRobot, via authorized partners, or on popular cloud marketplaces like Azure, AWS, or Google Cloud.",
+  "faqs": [
+    {
+      "question": "How is the DataRobot AI Platform priced?",
+      "answer": "The DataRobot AI Platform is available as an annual subscription, and organizations can customize their solution to incorporate the functionality they need to meet their business goals."
+    },
+    {
+      "question": "What is the total cost of ownership for the DataRobot platform? What ROI can I expect?",
+      "answer": ""
+    },
+    {
+      "question": "What kind of support does DataRobot offer?",
+      "answer": ""
+    },
+    {
+      "question": "How quickly can I start using DataRobot?",
+      "answer": ""
+    },
+    {
+      "question": "How can I request a DataRobot quote?",
+      "answer": ""
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Organizations",
+  "url": "https://www.datarobot.com/"
+}

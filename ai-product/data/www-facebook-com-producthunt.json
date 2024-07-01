@@ -1,0 +1,23 @@
+{
+  "title": "Facebook",
+  "introduction": "Facebook is a social networking platform that allows users to connect with friends, family, and colleagues.",
+  "features": [
+    "Connect with friends and family",
+    "Share updates, photos, and videos",
+    "Join groups and events",
+    "Follow businesses and organizations"
+  ],
+  "pricing": "Free",
+  "faqs": [
+    {
+      "question": "Is Facebook free to use?",
+      "answer": "Yes, Facebook is free to use."
+    },
+    {
+      "question": "Can I create a new account on Facebook?",
+      "answer": "Yes, you can create a new account on Facebook."
+    }
+  ],
+  "category": "Category: Chatbot",
+  "url": "https://www.facebook.com/producthunt"
+}

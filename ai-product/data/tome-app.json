@@ -1,0 +1,61 @@
+{
+  "description": "Spend more time with customers, less time making slides. Tome's AI speeds up client research & deck customization for more effective presentations.",
+  "title": "Tome — More effective business presentationsTomeChevronChevronArrowStytchCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkCheckmarkFeature: Layout AutomationFeature: Engagement AnalyticsFeature: Generative PresentationsFeature: Interactive EmbedsFeature: AI TextFeature: AI PersonalizationFeature: Import & ImproveFeature: Custom BrandingFeature: Charts & DrawingFeature: AI Image GenerationSemaforForbesFortuneSemaforForbesFortuneArrow",
+  "introduction": "Tome is the leading AI-native research and presentation platform for sales and marketing teams, designed to help high-performance GTM teams create persuasive, personalized pitches quickly and efficiently.",
+  "category": "Business",
+  "features": [
+    "Ultra fast, bulletproof editing",
+    "Instantly personalize with AI and video",
+    "Embed interactive prototypes, media, and more",
+    "Mobile-responsive",
+    "Easy link sharing",
+    "Layout automation",
+    "Engagement analytics",
+    "Generative presentations",
+    "Interactive embeds",
+    "AI text generation",
+    "AI personalization",
+    "Import & improve",
+    "Custom branding",
+    "Charts & drawing",
+    "AI image generation"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Sales and marketing teams, high-performance GTM teams",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Tome?",
+      "answer": "Tome is an AI-native research and presentation platform designed for sales and marketing teams to create persuasive, personalized pitches quickly and efficiently."
+    },
+    {
+      "question": "What features are included in the Basic plan?",
+      "answer": "The Basic plan includes manual editing, browsing templates, and unlimited sharing."
+    },
+    {
+      "question": "What additional features are available in the Professional plan?",
+      "answer": "The Professional plan includes everything in Basic, plus AI generation & design tools, engagement analytics, customized branding, building from 100+ templates, and export to PDF."
+    },
+    {
+      "question": "What does the Enterprise plan offer?",
+      "answer": "The Enterprise plan includes everything in Professional, plus AI research & personalization, custom AI output tuning, custom data integrations, import company templates, and whiteglove setup & support."
+    },
+    {
+      "question": "Is Tome mobile-responsive?",
+      "answer": "Yes, Tome's mobile-responsive layout system ensures that slides adjust perfectly to fit screens of any size, from desktop monitors to smartphones."
+    },
+    {
+      "question": "Can I embed interactive content in my presentations?",
+      "answer": "Yes, you can incorporate Figma files, YouTube videos, live dashboards, and more into your presentations."
+    },
+    {
+      "question": "Does Tome offer AI text generation?",
+      "answer": "Yes, Tome offers AI text generation for making small tweaks or big updates, allowing you to quickly generate new text, edit it, or ask for rewrites in a specific style."
+    },
+    {
+      "question": "What is the pricing strategy for Tome?",
+      "answer": "Tome uses a subscription-based pricing strategy with different plans: Basic (free), Professional ($16 per month), and Enterprise (contact sales for pricing)."
+    }
+  ],
+  "url": "https://tome.app/"
+}

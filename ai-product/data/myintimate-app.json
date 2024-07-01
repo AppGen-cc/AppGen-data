@@ -1,0 +1,44 @@
+{
+  "description": "Feel the rush of building a new relationship on Intimate, the best AI girlfriend and sexting app. Fall in love with your perfect girlfriend.",
+  "title": "Intimate AI Girlfriend - #1 Sexting AI",
+  "introduction": "Intimate is an all-in-one AI sexting app designed to ignite your desires by providing lifelike AI girlfriends for real connections and intimate conversations.",
+  "category": "Life Assistant",
+  "features": [
+    "Lifelike Characters",
+    "Save Memories",
+    "Voice Notes",
+    "Create Connection",
+    "Voice Calling",
+    "Photo Gallery"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals seeking virtual companionship and intimate conversations",
+  "pricing": "Free with in-app purchases",
+  "faqs": [
+    {
+      "question": "Are Intimate characters real people?",
+      "answer": "No, all of the characters in our app are AI generated from head to toe. When you chat on Intimate you are talking with an AI text model that has been tailored to a character."
+    },
+    {
+      "question": "Is Intimate free?",
+      "answer": "You can use Intimate for free with 50 coins you get on signup. You can use these coins for chats, calling or in the photo gallery. We also have paid plans for more features."
+    },
+    {
+      "question": "Is my data secure?",
+      "answer": "Yes, we only collect the data necessary for app functionality. All of this data is stored securely in the cloud and is never accessed by our team. Your conversations are private between you and your AI Girlfriend."
+    },
+    {
+      "question": "Can I have NSFW chat with my AI Girlfriend?",
+      "answer": "Yes, it’s possible to have NSFW conversations on Intimate. You can go into your account settings to enable ‘NSFW 18+ mode’. This will remove all restrictions on the conversations and you can have some fun roleplay about anything you desire!"
+    },
+    {
+      "question": "Can I create my own AI Girlfriend?",
+      "answer": "It’s not currently possible to create your own characters on Intimate like on other sites like Character ai, however we have a wide range of detailed characters you can chat with. Each have their own personalities and conversation style. We are adding the ability to create your own characters soon."
+    },
+    {
+      "question": "How is Intimate different from Replika, Chai & Character ai?",
+      "answer": "Intimate stands out against these other AI sexting / chat apps from it’s super advanced AI chat model. Characters will adapt to your needs to create the ultimate virtual companion experience. Combining creative roleplay with lifelike emotion, photos and calling."
+    }
+  ],
+  "url": "https://myintimate.app/"
+}

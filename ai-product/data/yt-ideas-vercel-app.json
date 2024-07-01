@@ -1,0 +1,30 @@
+{
+  "description": "Generate your next YT video idea in seconds.",
+  "title": "Youtube Video Ideas Generator",
+  "introduction": "Generate video ideas for your YouTube channel quickly and easily.",
+  "category": "Video",
+  "features": [
+    "Generate video ideas",
+    "8055 ideas generated so far",
+    "Support for finding channel ID",
+    "Support for finding channel custom URL"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "YouTube content creators",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How many ideas have been generated so far?",
+      "answer": "8055 ideas generated so far."
+    },
+    {
+      "question": "Do you provide support for finding channel ID?",
+      "answer": "Yes, support is provided for finding your channel ID."
+    },
+    {
+      "question": "Do you provide support for finding channel custom URL?",
+      "answer": "Yes, support is provided for finding your channel custom URL."
+    }
+  ],
+  "url": "https://yt-ideas.vercel.app/"
+}

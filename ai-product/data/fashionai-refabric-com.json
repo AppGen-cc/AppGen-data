@@ -1,0 +1,25 @@
+{
+  "description": "Refabric AI Fashion Design Assistant; Discover the power of AI in fashion design. Create designs with generative AI beyond the future.",
+  "title": "Refabric: AI Powered Fashion Solutions",
+  "introduction": "Professional website analyst providing website content analysis services",
+  "category": "Business",
+  "features": [
+    "Extract and summarize website content",
+    "Identify introduction, features, pricing strategy, and FAQs",
+    "Categorize website content"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Website owners, marketers, content creators",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What services do you offer?",
+      "answer": "I offer website content analysis services including extracting and summarizing website content, identifying key sections like introduction, features, pricing strategy, and FAQs, and categorizing website content."
+    },
+    {
+      "question": "Who can benefit from your services?",
+      "answer": "My services are beneficial for website owners, marketers, and content creators who need help in analyzing and optimizing their website content."
+    }
+  ],
+  "url": "https://fashionai.refabric.com/"
+}

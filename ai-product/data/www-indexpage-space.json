@@ -1,0 +1,28 @@
+{
+  "title": "Indexpage",
+  "introduction": "An all-in-one solution for web presence, storytelling, and audience engagement. Easily create professional webpages, share blog posts, optimize for SEO, and grow your email list.",
+  "category": "Marketing",
+  "features": [
+    "Effortless Webpage Creation",
+    "Intuitive Blog Posting",
+    "SEO Optimization",
+    "Responsive Design",
+    "Grow your Email List",
+    "Stellar Customer Support",
+    "Customizable Themes"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators and solopreneurs",
+  "pricing": "One-time payment",
+  "faqs": [
+    {
+      "question": "Is coding required to create webpages?",
+      "answer": "No, coding is not required to create professional webpages."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a 7-day free trial available."
+    }
+  ],
+  "url": "https://www.indexpage.space/"
+}

@@ -1,0 +1,48 @@
+{
+  "description": "AI-powered formula generation, SQL query generation, vba script generation and regex generation combined into one tool.",
+  "title": "GPT Excel - AI Powered Excel formula Generator",
+  "keywords": "generate excel formula, excel formula bot, excel formulator, ai formula generator, excel formula generator, gptexcel, gpt excel, excel gpt, google sheets formula generation, ai google sheets generation,ai formula writer, ai excel formula maker, chatgpt excel, ai excel, VBA automation, Apps Script automation, SQL queries",
+  "introduction": "GPTExcel is an AI-powered tool designed to streamline spreadsheet processes for individuals and businesses. It offers features such as generating Excel formulas, Apps Scripts, VBA Scripts, SQL queries, regular expressions, and table templates for Excel and Google Sheets. The tool supports 50+ languages and provides a free tier with limited features.",
+  "category": "Code&IT",
+  "features": [
+    "Generate Excel and Google Sheets formulas",
+    "Generate Apps Script, VBA Script, and Airtable Script",
+    "Generate SQL queries",
+    "Generate regular expressions",
+    "Generate table templates for Excel and Google Sheets"
+  ],
+  "hasFreeTrial": "Free",
+  "targetPeople": "Individuals and businesses looking to streamline spreadsheet processes",
+  "pricing": "Free tier with limited features, Pro plan with up to 100 requests per day and priority customer support",
+  "faqs": [
+    {
+      "question": "What can I use GPTExcel for?",
+      "answer": "You can use GPTExcel to generate spreadsheet formulas, SQL queries, Apps Script, and VBA Scripts easily with the power of AI."
+    },
+    {
+      "question": "What languages are supported?",
+      "answer": "GPTExcel supports 50+ languages including English, Spanish, Chinese, French, Russian, and Hindi."
+    },
+    {
+      "question": "Can I use GPTExcel without a credit card?",
+      "answer": "Yes, you can sign up and use GPTExcel for free with 4 free requests per day."
+    },
+    {
+      "question": "Will I get an invoice for my purchase?",
+      "answer": "Yes, you will immediately receive an invoice via email after completing your purchase, and you will receive an invoice every month for your subscription. You can also download your invoice from your account billing page at any time."
+    },
+    {
+      "question": "How do I cancel my account subscription?",
+      "answer": "You can easily cancel your GPTExcel subscription at any time from your Billing page. If you need assistance, you can contact customer support for help."
+    },
+    {
+      "question": "What happens when I cancel my subscription?",
+      "answer": "Your GPTExcel subscription plan will remain active until the end of your billing cycle. After that, your account will revert back to the Free plan."
+    },
+    {
+      "question": "What AI tools does GPTExcel offer?",
+      "answer": "GPTExcel offers Excel formula generator and explainer, SQL query generator and explainer, Apps Script and VBA Scripts generator and explainer, regex generator and explainer, and Excel template generator."
+    }
+  ],
+  "url": "https://gptexcel.uk/"
+}

@@ -1,0 +1,40 @@
+{
+  "description": "Join Glambase – the cutting-edge platform revolutionizing digital influence. Create, customize, and monetize your AI-driven virtual influencer today. Elevate your online presence with our easy-to-use Character Face Generator.",
+  "title": "Glambase - AI Influencer Creation Platform | Virtual Persona Generator",
+  "keywords": "Glambase,AI Influencer,Virtual Influencer,Digital Persona,Influencer Creation,AI Technology,Social Media,Character Generator,Online Monetization",
+  "introduction": "Glambase is a platform that allows users to create AI influencers, enabling them to earn money and gain freedom by letting their AI characters take center stage.",
+  "category": "Business",
+  "features": [
+    "Design Your Character: Choose from a wide range of physical attributes and personality traits to create a unique digital persona.",
+    "Generate Content: Utilize user-friendly tools to craft posts, images, and videos effortlessly.",
+    "Make Profit: Your AI influencer will chat and sell exclusive content autonomously.",
+    "Spread the Word: Share your digital persona across social media platforms and online communities.",
+    "Watch Your Earnings Climb: Monitor financial progress with a straightforward dashboard featuring real-time analytics and multiple cash-out options."
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals looking to create and monetize AI influencers.",
+  "pricing": "Pre-order with increasing price per sale",
+  "faqs": [
+    {
+      "question": "What is Glambase?",
+      "answer": "Glambase is a platform that allows users to create AI influencers to earn money and gain freedom."
+    },
+    {
+      "question": "How do I create an AI influencer?",
+      "answer": "You can design your character by choosing from a wide range of physical attributes and personality traits, and then generate content using user-friendly tools."
+    },
+    {
+      "question": "How does the AI influencer make money?",
+      "answer": "The AI influencer will chat and sell exclusive content autonomously, allowing you to earn money even when you're not around."
+    },
+    {
+      "question": "What are the benefits of early access?",
+      "answer": "Early access benefits include a unique badge and number, private Discord server access, exclusive rewards, priority access to new features, a lifetime fee reduction, and access to a faster content generation queue."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available."
+    }
+  ],
+  "url": "https://glambase.app/"
+}

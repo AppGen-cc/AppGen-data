@@ -1,0 +1,34 @@
+{
+  "description": "Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.",
+  "title": "Topaz Labs | Professional-grade photo and video editing powered by AI.",
+  "introduction": "Topaz Labs offers AI-powered software for photo editing and enhancement. Their products include Photo AI, Gigapixel, Video AI, and a bundle of DeNoise AI, Gigapixel AI, and Sharpen AI. Users can buy any Topaz product once and own the version for life, with one year of free upgrades. Additionally, there is an option to purchase upgrade licenses for individual products.",
+  "category": "Code&IT",
+  "features": [
+    "Photo AI 3: Fine-tune details, upscale, de-noise, and sharpen photos",
+    "Gigapixel 7: Achieve impeccable image quality and scale images to almost any size",
+    "Video AI 5: Enhance videos with AI technology",
+    "Bundle: Includes DeNoise AI, Gigapixel AI, and Sharpen AI with unlimited upgrades"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Photographers, professionals, and individuals interested in photo and video editing",
+  "pricing": "One-time payment for product purchase, option to purchase upgrade licenses for individual products",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "No, there is no free trial available for Topaz Labs products."
+    },
+    {
+      "question": "What is the pricing strategy for Topaz Labs products?",
+      "answer": "Users can buy any Topaz product once and own the version for life, with one year of free upgrades. There is also an option to purchase upgrade licenses for individual products."
+    },
+    {
+      "question": "What is included in the bundle offer?",
+      "answer": "The bundle offer includes DeNoise AI, Gigapixel AI, and Sharpen AI with one year of unlimited upgrades."
+    },
+    {
+      "question": "Is there a satisfaction guarantee?",
+      "answer": "Yes, if users are not satisfied with their Topaz app for any reason, they can contact Topaz Labs within 30 days for a full refund."
+    }
+  ],
+  "url": "https://www.topazlabs.com/"
+}

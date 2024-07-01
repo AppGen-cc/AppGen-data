@@ -1,0 +1,39 @@
+{
+  "description": "Perfect marketing strategy for your product in 5 minutes. Done by AI for busy Solopreneurs. Updated for 2024.",
+  "title": "Marketing Strategy Generator — Done in 5 minutes by AI",
+  "introduction": "FounderPal is an AI marketing platform designed specifically for solopreneurs. It helps users understand their ideal customers, sharpen product positioning, and generate personalized marketing ideas quickly.",
+  "category": "Marketing",
+  "features": [
+    "User Persona generator",
+    "Positioning generator",
+    "Brand marketing generator",
+    "Market Analysis generator",
+    "Sales Offer generator",
+    "Pricing Strategies generator",
+    "Landing Page Audit generator",
+    "Marketing Ideas generator",
+    "Content Ideas generator",
+    "Action Plan generator",
+    "Supports 50+ languages",
+    "Personalized strategy",
+    "Shareable strategy in PDF or public link"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Solopreneurs, Indie Hackers, Digital Creators, Agency owners, Founders or marketers in small bootstrapped teams",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How does the free demo work?",
+      "answer": "The free demo provides a preview of how the platform can generate a marketing strategy for your business."
+    },
+    {
+      "question": "How will this marketing strategy help my business?",
+      "answer": "The marketing strategy will help by providing specific recommendations to make your marketing funnel consistent and actionable ideas to grow your revenue."
+    },
+    {
+      "question": "What does it mean you only focus on Solopreneurs?",
+      "answer": "FounderPal is tailored specifically for solopreneurs, meaning it focuses on the unique needs and challenges faced by individuals running their own businesses."
+    }
+  ],
+  "url": "https://founderpal.ai/marketing-strategy-generator"
+}

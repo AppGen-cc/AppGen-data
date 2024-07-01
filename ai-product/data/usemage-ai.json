@@ -1,0 +1,42 @@
+{
+  "title": "MAGE - GPT Web App Generator ✨",
+  "introduction": "A blogging platform with posts and post comments. Users can create, edit, and delete their own posts and comments, which are saved in the database. All posts and comments are visible to everyone.",
+  "category": "Text&Writing",
+  "features": [
+    "Home page lists all posts with titles and authors",
+    "View post page shows post details and comments",
+    "New post page for creating new posts (logged in users only)",
+    "Edit post page for editing posts (post owner only)",
+    "Form for creating new comments (logged in users only)"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Bloggers, writers, and content creators",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "Who can see all posts and comments?",
+      "answer": "Everybody can see all posts and comments."
+    },
+    {
+      "question": "Who can create, edit, or delete posts?",
+      "answer": "Only the owner of the posts can create, edit, or delete them."
+    },
+    {
+      "question": "Who can create new comments?",
+      "answer": "Only logged in users can create new comments."
+    },
+    {
+      "question": "What pages are accessible by anybody?",
+      "answer": "The 'Home' page and 'View post' page are accessible by anybody."
+    },
+    {
+      "question": "What pages are accessible only by logged in users?",
+      "answer": "The 'New post' page and the form for creating new comments are accessible only by logged in users."
+    },
+    {
+      "question": "What page is accessible only by the post owner?",
+      "answer": "The 'Edit post' page is accessible only by the post owner."
+    }
+  ],
+  "url": "https://usemage.ai/"
+}

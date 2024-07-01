@@ -1,0 +1,36 @@
+{
+  "description": "Your personal supercharged AI - Remembers and adapts with every chat",
+  "title": "OwnAI",
+  "introduction": "OwnAI is a personal, evolving, supercharged AI that remembers and tailors itself to you over time. It acts as a companion that gets to know you through continuous interactions.",
+  "category": "Chatbot",
+  "features": [
+    "Personal AI that evolves with every interaction",
+    "State-of-the-art image generation",
+    "GPT with memory for personalized experiences",
+    "Supercharged tools like humanization and web search",
+    "Multi-modal communication capabilities",
+    "Complete control over your data with transparent settings"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Individuals looking for a personalized AI companion",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How do I manage my subscription?",
+      "answer": "Not specified"
+    },
+    {
+      "question": "What are the built-in tools?",
+      "answer": "Not specified"
+    },
+    {
+      "question": "Can OwnAI remember past conversations?",
+      "answer": "Yes, OwnAI can remember and learn from past interactions."
+    },
+    {
+      "question": "How does OwnAI differ from other chatbots?",
+      "answer": "OwnAI evolves with every interaction and offers a personalized experience through its memory system and supercharged tools."
+    }
+  ],
+  "url": "https://www.dept.me/welcome"
+}

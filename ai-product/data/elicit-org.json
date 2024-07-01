@@ -1,0 +1,38 @@
+{
+  "description": "Use AI to search, summarize, extract data from, and chat with over 125 million papers. Used by over 2 million researchers in academia and industry.",
+  "title": "Elicit: The AI Research Assistant",
+  "introduction": "Elicit is a tool designed to help researchers analyze research papers quickly and efficiently. It automates time-consuming tasks such as summarizing papers, extracting data, and synthesizing findings. Researchers can search for relevant papers, extract details into organized tables, find themes across multiple papers, and save time in literature review.",
+  "features": [
+    "Search for research papers with one-sentence abstract summaries",
+    "Select relevant papers and search for similar ones",
+    "Extract details from papers into organized tables",
+    "Find themes and concepts across many papers"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "How do researchers use Elicit?",
+      "answer": "Researchers commonly use Elicit to speed up literature review, find papers they couldn't find elsewhere, automate systematic reviews and meta-analyses, and learn about new domains."
+    },
+    {
+      "question": "What is Elicit not a good fit for?",
+      "answer": "Elicit is not suitable for answering questions or surfacing information not written about in academic papers. It may work less effectively for identifying facts or theoretical/non-empirical domains."
+    },
+    {
+      "question": "What types of data can Elicit search over?",
+      "answer": "Elicit searches across 125 million academic papers from the Semantic Scholar corpus, covering all academic disciplines. It uses full text or abstracts for data extraction."
+    },
+    {
+      "question": "How accurate are the answers in Elicit?",
+      "answer": "Approximately 90% of the information in Elicit is assumed to be accurate. Users are encouraged to verify the information closely, and sources are identified for generated information."
+    },
+    {
+      "question": "What is Elicit Plus?",
+      "answer": "Elicit Plus is a subscription offering with additional features and monthly credits. Users can use up to 12,000 credits per month, and unused credits do not carry forward."
+    }
+  ],
+  "category": "AI Detector",
+  "hasFreeTrial": "No",
+  "targetPeople": "Researchers",
+  "url": "https://elicit.org/"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "MarsCode provides an IDE with a built-in AI Assistant and extensions that support over 100 languages and mainstream IDEs.",
+  "title": "MarsCode - Code and Innovate Faster with Al",
+  "introduction": "MarsCode is a platform that offers a suite of tools for developers to enhance their coding experience.",
+  "features": [
+    "Code editing with syntax highlighting",
+    "Collaboration tools for team projects",
+    "Version control integration",
+    "Code debugging capabilities"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available for new users."
+    },
+    {
+      "question": "What is the target user of MarsCode?",
+      "answer": "MarsCode is designed for developers and coding enthusiasts who want to streamline their coding process."
+    }
+  ],
+  "category": "Code&IT",
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers and coding enthusiasts",
+  "url": "https://marscode.com/"
+}

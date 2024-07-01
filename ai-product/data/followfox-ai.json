@@ -1,0 +1,18 @@
+{
+  "description": "Generate AI art in seconds",
+  "title": "FollowFox",
+  "keywords": "Generative AI art",
+  "introduction": "Our AI text-to-image generator allows you to transform your imagination into visual reality, bridging the gap between thought and visual expression. Simply describe your vision in words, and our AI will interpret and create a stunning, high-quality image, catering to a wide range of artistic styles and preferences.",
+  "category": "Image",
+  "features": [
+    "Transform imagination into visual reality",
+    "Interpret and create high-quality images from text descriptions",
+    "Cater to a wide range of artistic styles and preferences",
+    "Seamless and intuitive platform for creative exploration"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Artists, designers, and anyone who wants to bring their imaginative concepts to life",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://followfox.ai/"
+}

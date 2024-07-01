@@ -1,0 +1,50 @@
+{
+  "description": "From quick queries, to deep-dive analyses, to beautiful interactive data apps – all in one collaborative, AI-powered workspace.",
+  "title": "Bring everyone together with data | Hex ",
+  "keywords": "hex,hex technologies,notebooks,analyzing,analysis,collaborating,collaboration,building,data,jupyter,explore,analyze,share,sharing,App Builder,python,sql",
+  "introduction": "Hex is a collaborative, AI-powered workspace that allows users to go end-to-end from quick queries to deep-dive analyses to beautiful interactive data apps. It offers features such as data exploration superpowers, magical AI capabilities, teamwork tools, interactive apps and reporting, and more. Hex helps thousands of teams do more with their data by providing out-of-the-box connections, flexible APIs, and enterprise-grade security. Users can choose from different deployment models and authentication options to suit their needs.",
+  "features": [
+    "Up to 100 Magic actions per Editor/month",
+    "Embed visualizations or code cells anywhere",
+    "Configure workspace data connections",
+    "Save personal components (reusable groups of cells)",
+    "Define user groups to manage permissions",
+    "Share components (reusable groups of cells)",
+    "Integrate with GitHub, GitLab, Airflow, Dagster & dbt",
+    "Restore projects from unlimited version history",
+    "Customize project organization and branding",
+    "Automate unlimited scheduled runs w/ screenshot notifications",
+    "Fully configure compute profiles",
+    "Integrate with Okta or any OIDC SSO provider",
+    "Single tenant, EU multi-tenant, and HIPAA multi-tenant",
+    "Configure custom Docker images",
+    "Build, troubleshoot and plan with dedicated support"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Data analysts, data scientists, teams working with data",
+  "pricing": "Usage-based model for compute profiles after beta phase",
+  "faqs": [
+    {
+      "question": "How does the free trial work?",
+      "answer": "Anyone can try the Hex Team plan free for 14 days, no payment card required. At the end of your trial you can choose to continue on a paid plan. If you do nothing, you'll be downgraded to the free Community plan and lose access to premium features."
+    },
+    {
+      "question": "How do I cancel or change my plan?",
+      "answer": "Professional and Team customers can cancel or change their plan anytime from Settings > Manage Plan. If you cancel, you will still have access to your paid plan until the end of your billing period. If you upgrade or downgrade, the change will apply right away and you’ll be charged or credited for the remainder of your billing cycle. Enterprise customers can manage renewals and cancellations with their account representative."
+    },
+    {
+      "question": "How do you handle security and compliance?",
+      "answer": "We are audited annually for SOC 2 Type II and HIPAA compliance and are dedicated to safeguarding your data. Learn more [here](https://trust.hex.tech/)."
+    },
+    {
+      "question": "Do you have a discount for students and educators?",
+      "answer": "Yes! Students and educators at universities and bootcamps can access the Hex Professional Plan for free. Contact [support@hex.tech](mailto:support@hex.tech) for details."
+    },
+    {
+      "question": "Do you have a discount for non-profits?",
+      "answer": "Yes! We are happy to offer Hex for free to qualified non-profit organizations. Contact [support@hex.tech](mailto:support@hex.tech) for details."
+    }
+  ],
+  "category": "AI Detector",
+  "url": "https://hex.tech/"
+}

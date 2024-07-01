@@ -1,0 +1,26 @@
+{
+  "description": "Let AI-powered logo maker generate your new logo and create a brand identity design you love.",
+  "title": "Design A New Logo & Brand Identity You Love! - LogoAI.com",
+  "keywords": "new logo, brand identity design, brand logo design",
+  "introduction": "LogoAI is an AI-powered logo maker that allows users to generate logos, create matching stationery, and design a brand they love. It offers a one-time payment pricing model where designing a logo is free, and users only pay to download the logo they want to use. New users can avail a special discount, while return customers can get at least a 40% discount using the code 'LOGOPRO'. LogoAI has helped over 3 million businesses create brand logos.",
+  "category": "Business",
+  "features": [
+    "SMART AI engine for unique designs",
+    "PROFESSIONAL design sizes and formats available 24x7",
+    "AUTOMATED brand identity and social content creation"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Businesses and individuals looking to create professional logos and brand identities.",
+  "pricing": "One-Time Payment",
+  "faqs": [
+    {
+      "question": "Is designing a logo free?",
+      "answer": "Yes, designing a logo is free on LogoAI. Users only pay to download the logo they want to use."
+    },
+    {
+      "question": "Are there any discounts available for return customers?",
+      "answer": "Yes, return customers can get at least a 40% discount by using the code 'LOGOPRO'."
+    }
+  ],
+  "url": "https://www.logoai.com/"
+}

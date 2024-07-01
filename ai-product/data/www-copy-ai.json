@@ -1,0 +1,31 @@
+{
+  "description": "Introducing the first-ever GTM AI platform. Automate hundreds of tedious, repetitive tasks and empower your team to scale success like never before.",
+  "title": "Future proof your business with GTM AI",
+  "introduction": "Copy.ai is a platform that helps users create engaging and consistent content across multiple platforms by analyzing input copy examples and generating content in the selected brand voice. It also allows users to store information about their brand for accurate content creation.",
+  "features": [
+    "Input copy examples selection",
+    "Brand voice analysis",
+    "Content generation in selected brand voice"
+  ],
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What type of information can be stored in Infobase?",
+      "answer": "Infobase allows you to store information such as brand guidelines, value propositions, and positioning documents."
+    },
+    {
+      "question": "How does Infobase improve content generation?",
+      "answer": "Infobase enhances content generation by pulling information from the stored data, making the generated content more relevant and accurate."
+    },
+    {
+      "question": "How many Infobase items can I create?",
+      "answer": "You can add unlimited Infobase items with a Pro account."
+    },
+    {
+      "question": "Does Infobase handle private company information?",
+      "answer": "Yes, Copy.ai ensures the safety and confidentiality of all user inputs, including private company information."
+    }
+  ],
+  "category": "Category: AI Detector",
+  "url": "https://www.copy.ai/"
+}

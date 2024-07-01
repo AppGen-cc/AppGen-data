@@ -1,0 +1,43 @@
+{
+  "title": "Test your Skill Level on Any Topic - SmartLifeSkills.AI",
+  "introduction": "Experience the future of learning with the transformative power of Artificial Intelligence (AI), where your aspirations are not just dreams, but milestones waiting to be reached. Unlock your potential, expand your knowledge, and transform your life with Smart Skills Passport.",
+  "category": "Education",
+  "features": [
+    "550 Skills Learning Portal",
+    "Lessons include downloadable Audio",
+    "Interactive AI Chat",
+    "SEO Article Builder",
+    "Custom Quiz Maker",
+    "Complex Text Explainer",
+    "Motivation Mode",
+    "Custom Video Generator",
+    "Language Learning Tools",
+    "Multilingual Text-to-Speech Generator"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Individuals looking to expand their knowledge and skills using AI-powered tools",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Smart Skills Passport?",
+      "answer": "Smart Skills Passport is a learning platform that uses AI to help you unlock your potential, expand your knowledge, and transform your life by offering 550 high-value skills."
+    },
+    {
+      "question": "What features does Smart Skills Passport offer?",
+      "answer": "It offers a 550 Skills Learning Portal, downloadable audio lessons, interactive AI chat, SEO article builder, custom quiz maker, complex text explainer, motivation mode, custom video generator, language learning tools, and a multilingual text-to-speech generator."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, there is a free trial available."
+    },
+    {
+      "question": "Who is the target audience for Smart Skills Passport?",
+      "answer": "The target audience is individuals looking to expand their knowledge and skills using AI-powered tools."
+    },
+    {
+      "question": "What is the pricing strategy for Smart Skills Passport?",
+      "answer": "The pricing strategy is subscription-based."
+    }
+  ],
+  "url": "https://smartlifeskills.ai/"
+}

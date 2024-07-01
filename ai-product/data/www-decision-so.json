@@ -1,0 +1,29 @@
+{
+  "description": "The platform where better, faster decisions happen ✓ Assisted decisions ✓ Async teamwork ✓ Accessible choices.",
+  "title": "Decision: What if decisions were easy?",
+  "introduction": "Decision is a platform that aims to help teams and individuals save time and make better decisions. It offers AI-powered assistance for decision-making, creativity sparking, understanding, and prediction. The platform also provides proven frameworks, integrations with various tools, organized communication channels, asynchronous decision-making, and traceable history of decisions.",
+  "features": [
+    "AI-powered decision-making assistance",
+    "Creativity sparking with Decision AI",
+    "Fast understanding of previous decisions",
+    "Prediction of future decisions",
+    "Proven decision-making frameworks",
+    "Integration with various tools",
+    "Organized communication channels",
+    "Asynchronous decision-making",
+    "Traceable history of decisions"
+  ],
+  "pricing": "Free trial available",
+  "faqs": [
+    {
+      "question": "What does Decision offer?",
+      "answer": "Decision offers AI-powered assistance for decision-making, creativity sparking, understanding, prediction, proven frameworks, integrations, organized communication, asynchronous decision-making, and traceable history of decisions."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, Decision offers a free trial for users to experience the platform before committing to a subscription."
+    }
+  ],
+  "category": "Business",
+  "url": "https://www.decision.so/"
+}

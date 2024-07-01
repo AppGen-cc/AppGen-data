@@ -1,0 +1,40 @@
+{
+  "description": "Your LinkedIn posts 10x faster, 10x better. No more hours spent on average publications. With Magic Post, enjoy exceptional quality thanks to the power of GPT-4 AI combined with the MagicPost algorithm.",
+  "title": "MagicPost | LinkedIn™ Post Generator with AI",
+  "introduction": "MagicPost is an AI-powered LinkedIn post generator designed to help users create high-quality, engaging content quickly and efficiently. It leverages GPT-4 and an internal algorithm to turn ideas, YouTube videos, and blog URLs into well-crafted LinkedIn posts.",
+  "category": "Marketing",
+  "features": [
+    "Generate LinkedIn posts quickly",
+    "Convert YouTube content into written text",
+    "Find unlimited post ideas",
+    "Schedule posts for later",
+    "Ergonomic and practical design",
+    "Craft posts that resonate with your audience"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "LinkedIn content creators, professionals looking to enhance their LinkedIn presence, and individuals seeking to save time on content creation",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is MagicPost?",
+      "answer": "MagicPost is an AI-powered LinkedIn post generator that helps users create high-quality, engaging content quickly and efficiently."
+    },
+    {
+      "question": "How does MagicPost work?",
+      "answer": "MagicPost uses GPT-4 and an internal algorithm to turn ideas, YouTube videos, and blog URLs into well-crafted LinkedIn posts."
+    },
+    {
+      "question": "Who can benefit from using MagicPost?",
+      "answer": "LinkedIn content creators, professionals looking to enhance their LinkedIn presence, and individuals seeking to save time on content creation."
+    },
+    {
+      "question": "Can I schedule posts with MagicPost?",
+      "answer": "Yes, you can publish your posts right away or schedule them for later."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Not mentioned."
+    }
+  ],
+  "url": "https://magicpost.in/"
+}

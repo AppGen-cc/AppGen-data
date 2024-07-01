@@ -1,0 +1,40 @@
+{
+  "description": "Generate your next illustration on Tess, knowing that you directly benefit the artists who have created the underlying models. Train a private model on your own art, and make it public to start earning whenever its used. Tess is the first AI image generator that pays artists.",
+  "title": "Tess — The First AI Image Generator that Pays Artists",
+  "introduction": "Tess is the first AI image generator that pays artists. It offers a variety of subscription plans for individuals and teams, and a revenue sharing program for artists who contribute to Tess.",
+  "category": "Image",
+  "features": [
+    "AI image generation",
+    "Subscription plans for individuals and teams",
+    "Revenue sharing program for contributing artists",
+    "Custom enterprise plans",
+    "Private model training for teams"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Creators, artists, and creative teams",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is the Starter plan?",
+      "answer": "The Starter plan is for creators wanting to try out Tess for the first time. It includes 50 generations per month for $20 USD per month."
+    },
+    {
+      "question": "What is the Pro plan?",
+      "answer": "The Pro plan is for customers who want to generate illustrations for personal or commercial projects. It includes 200 generations per month for $40 USD per month."
+    },
+    {
+      "question": "What is the Premium plan?",
+      "answer": "The Premium plan is for customers and teams who need to generate even more illustrations for their projects. It includes 600 generations per month for $80 USD per month."
+    },
+    {
+      "question": "Are there custom plans for teams?",
+      "answer": "Yes, Tess offers custom enterprise plans for creative teams looking to create a larger quantity of images over the course of a year. Teams can also pay for a custom, private model trained on their own artwork or illustrations."
+    },
+    {
+      "question": "How are artists compensated?",
+      "answer": "Artists who contribute to Tess are compensated through a revenue sharing program. When users generate images with an artist's style, Tess pays out a royalty from the generation fees directly to the artist."
+    }
+  ],
+  "url": "https://www.tess.design/",
+  "screenshot": "https://storage.googleapis.com/reader-6b7dc.appspot.com/instant-screenshots/17d8663a-ed13-45e4-9fee-870a27544e48?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=563569098173-compute%40developer.gserviceaccount.com%2F20240609%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240609T142023Z&X-Goog-Expires=14400&X-Goog-SignedHeaders=host&X-Goog-Signature=0bfc3327e10a5ed385dc45052519431bce4caca9aeac76d6c2d2936d59a43c512e616cdd8bc35906a6b80eee9fcd7c34751af0b5037307b62a1dce72ba2b839f4b7995f4adf5f034af24b2865d5c0d14e2666fa1cca0b8a6d5bce4443eb1785f11c5437776566f01ad7e5f29ee0b3dd3e4c154eb20f714878f5a29aae8f8ff36c39979b6fa15b62449e49203710d2b4d249501f7470d08df66ce0a307f0ad3bf662e8f32058fd0ac33551d6ab1ee99612d54990c64edc64008b77ada53311e97bbdc20959e4fc585a05a3ca280c0535b562fb31d4bfb4e567b8771a98abdba0da3a990d1cc21f65671247b650e2faaf4b80d8754f8c7ce2408bb1c9925a897f7"
+}

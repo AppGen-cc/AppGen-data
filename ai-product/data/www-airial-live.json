@@ -1,0 +1,38 @@
+{
+  "description": "Effortless Flight Booking: Meet Your Personal AI-Powered Travel Agent",
+  "title": "AiRial FlightsReact App",
+  "introduction": "AiRial is an AI-powered flight booking assistant that helps users book flights by describing their trip details. It simplifies the process of finding and booking flights based on user preferences.",
+  "category": "Life Assistant",
+  "features": [
+    "AI-powered travel agent",
+    "Suggests airports and itineraries",
+    "Handles complex multi-destination trips",
+    "Customizable travel dates and times"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Travelers looking for personalized flight booking assistance",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "What is AiRial?",
+      "answer": "AiRial is an AI-powered flight booking assistant that helps users book flights by describing their trip details."
+    },
+    {
+      "question": "How does AiRial work?",
+      "answer": "Users describe their trip details, and AiRial suggests airports and itineraries to help book flights."
+    },
+    {
+      "question": "Can AiRial handle multi-destination trips?",
+      "answer": "Yes, AiRial can handle complex multi-destination trips."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Not mentioned."
+    },
+    {
+      "question": "Who is AiRial for?",
+      "answer": "AiRial is for travelers looking for personalized flight booking assistance."
+    }
+  ],
+  "url": "https://www.airial.live/"
+}

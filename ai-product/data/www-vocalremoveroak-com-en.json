@@ -1,0 +1,42 @@
+{
+  "description": "KTGfTT",
+  "title": "Vocal Remover Online",
+  "introduction": "Vocal Remover Oak is a free online tool that uses deep learning technology to separate vocals and accompaniment from any audio or video file. Users can upload files or provide YouTube or SunoAI links to experience fast processing and high-quality output. The tool offers lossless audio quality and supports multiple formats.",
+  "category": "AI Detector",
+  "features": [
+    "Deep learning-based sound separation",
+    "Flexible file input methods",
+    "Lossless audio output quality",
+    "Multi-format compatibility"
+  ],
+  "hasFreeTrial": "Free",
+  "targetPeople": "Users looking to separate vocals and background music from audio or video files",
+  "pricing": "Free basic audio separation services, advanced features and batch processing may require a fee",
+  "faqs": [
+    {
+      "question": "What types of files can I upload to your website?",
+      "answer": "We support a variety of audio and video formats, including MP3, WAV, and MP4. Users can upload files directly or provide YouTube video links, Suna.com links."
+    },
+    {
+      "question": "Do I need to pay for using your service?",
+      "answer": "Basic audio separation services are free. Advanced features and batch processing may have a fee. Refer to the pricing page for specific details."
+    },
+    {
+      "question": "How long does it take to separate the audio?",
+      "answer": "The separation process usually takes a few minutes, depending on the file size and server load. Efforts are made to provide results promptly."
+    },
+    {
+      "question": "How is the quality of the separated tracks?",
+      "answer": "Advanced AI technology ensures high-quality track separation, maintaining clear and original sound quality for vocals and accompaniment."
+    },
+    {
+      "question": "Can I delete the files I uploaded?",
+      "answer": "By default, separated audio files are saved and publicly shared. Users can choose to delete their files after separation, ensuring immediate permanent deletion from the server."
+    },
+    {
+      "question": "What should I do if I'm not satisfied with the separation results?",
+      "answer": "If unsatisfied, users can re-upload the file with different settings or contact customer service for assistance to ensure the best service experience."
+    }
+  ],
+  "url": "https://www.vocalremoveroak.com/en/"
+}

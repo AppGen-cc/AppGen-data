@@ -1,0 +1,15 @@
+{
+  "description": "Chat with multiple AIs in one app. Powered by ChatGPT, Google Gemini, Claude AI, Mistral AI, Cohere AI and Dall-E 3",
+  "title": "Multi AI Chat - Ask any AI anything",
+  "introduction": "Multi AI Chat allows users to chat with multiple AIs in one app, including ChatGPT, Google Gemini, Claude AI, Mistral AI, Cohere AI, and Dall-E 3.",
+  "category": "Chatbot",
+  "features": [
+    "Chat with multiple AIs in one app",
+    "Powered by ChatGPT, Google Gemini, Claude AI, Mistral AI, Cohere AI, and Dall-E 3"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Anyone looking to interact with various AI models",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://multi-ai-chat-app.vercel.app/"
+}

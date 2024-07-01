@@ -1,0 +1,29 @@
+{
+  "description": "Experience unparalleled accuracy in astrology and tarot readings with Tarot Master. Chat with your personal expert astrologers and tarot readers, each in-tune with your unique astrological data for highly personalized insights.",
+  "title": "Tarot Master | Chat With Your Personal AI Psychic",
+  "introduction": "Tarot Master offers AI-enhanced tarot readings that provide expert guidance at an affordable price. The readings are tailored to each individual's astrological profile, offering personalized insights anytime, anywhere.",
+  "category": "Productivity",
+  "features": [
+    "Enhanced tarot readings with AI technology",
+    "Tailored insights based on astrological data",
+    "Instant access to guidance"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Individuals interested in tarot and astrology seeking personalized guidance",
+  "pricing": "Subscription-based pricing with no additional costs",
+  "faqs": [
+    {
+      "question": "Can I use your app if I'm new to tarot or astrology?",
+      "answer": "Yes, our app is designed for users of all levels, including beginners in tarot and astrology."
+    },
+    {
+      "question": "How do you ensure the privacy and confidentiality of my readings?",
+      "answer": "We prioritize the privacy of our users and ensure that all readings are confidential and secure."
+    },
+    {
+      "question": "What is the pricing structure for your readings? Are there additional costs?",
+      "answer": "Our pricing is subscription-based with no additional costs. Users can access all features with their subscription."
+    }
+  ],
+  "url": "https://tarotmaster.ai/"
+}

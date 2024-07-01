@@ -1,0 +1,33 @@
+{
+  "description": "Turn your business idea into reality! We use GPT-3.5 and GPT-4 to generate an analysis of your business idea and give you feedback on how to make it successful.",
+  "title": "VenturusAI - Instant feedback on your business ideas",
+  "keywords": "VenturusAI,business idea validator,business feedback,business analysis,business reports,GPT business reports",
+  "introduction": "VenturusAI is a tool that uses GPT-3.5 and GPT-4 to generate in-depth business analysis tailored to proposed ventures, including SWOT, PESTEL, and Porter's Five Forces assessments. It also provides insights into target audience identification, customized business strategies, marketing and branding guidance, innovative ideas and opportunities, and a user-friendly interface.",
+  "category": "AI Detector",
+  "features": [
+    "In-depth business analysis with SWOT, PESTEL, and Porter's Five Forces assessments",
+    "Target audience identification with user stories and demographic data",
+    "Customized business strategies and recommendations",
+    "Marketing and branding guidance including slogan ideas and social media post examples",
+    "Generation of innovative ideas and identification of additional revenue streams",
+    "User-friendly interface for a seamless user experience"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Business owners, entrepreneurs, and individuals looking to analyze and improve their business ideas",
+  "pricing": "Not specified",
+  "faqs": [
+    {
+      "question": "What type of analysis does VenturusAI provide?",
+      "answer": "VenturusAI provides in-depth business analysis including SWOT, PESTEL, and Porter's Five Forces assessments tailored to proposed ventures."
+    },
+    {
+      "question": "Who can benefit from VenturusAI?",
+      "answer": "VenturusAI is beneficial for business owners, entrepreneurs, and individuals seeking to enhance their business ideas and strategies."
+    },
+    {
+      "question": "Does VenturusAI offer marketing guidance?",
+      "answer": "Yes, VenturusAI offers marketing and branding guidance, including slogan ideas and social media post examples."
+    }
+  ],
+  "url": "https://venturusai.com/"
+}

@@ -1,0 +1,41 @@
+{
+  "description": "No need to go through documentations and logs, just one click to solve the problem.",
+  "title": "Zeabur AI",
+  "introduction": "Zeabur offers a range of plans designed to help you deploy static websites, serverless functions, and containerized services efficiently, saving you time and money.",
+  "category": "Code&IT",
+  "features": [
+    "Deploy static and Serverless functions",
+    "Free and automatic SSL certificates",
+    "CI/CD out of the box",
+    "Community support",
+    "Deploy containerized services",
+    "Up to 4 vCPU and 16GB memory for each container",
+    "Backup services and data",
+    "Deploy prebuilt images",
+    "Priority technical support",
+    "Priority builds and deployments",
+    "Dedicated support team contact group"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Developers and teams looking to deploy static websites, serverless functions, and containerized services",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Zeabur AI?",
+      "answer": "You need to login to join the waitlist."
+    },
+    {
+      "question": "Why not just use ChatGPT?",
+      "answer": "You need to login to join the waitlist."
+    },
+    {
+      "question": "What model is Zeabur AI based on?",
+      "answer": "You need to login to join the waitlist."
+    },
+    {
+      "question": "When will Zeabur AI be available?",
+      "answer": "You need to login to join the waitlist."
+    }
+  ],
+  "url": "https://zeabur.com/ai"
+}

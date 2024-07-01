@@ -1,0 +1,43 @@
+{
+  "description": "Your In-House AI Video Marketing Agency Discover Trending Content Ideas, Write Viral Video Scripts, Create, Edit, & Publish Videos To Your Social Media. 5",
+  "title": "Home - Syllaby.io",
+  "introduction": "Syllaby is an AI-powered tool that streamlines the process of creating viral social media videos for businesses by assisting with ideation, content scheduling, outline and script generation, and even avatar-based video creation. It offers a systematic workflow tailored to various industries, along with features like an organizational content calendar and in-tool tutorials, making video marketing more accessible and efficient.",
+  "category": "[\"Video\"]",
+  "features": [
+    "Customization Options",
+    "AI Generated Avatar",
+    "DIY Content Creation",
+    "Consistent Social Media Presence",
+    "Save 10x of time and 100x money"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses, marketers, sales agents, content creators, professionals in various industries",
+  "pricing": "Fair pricing to save you thousands of dollars and hours of your time. Cancel any time.",
+  "faqs": [
+    {
+      "question": "Who can use Syllaby?",
+      "answer": "Syllaby can be used by businesses, marketers, sales agents, content creators, and professionals in various industries looking to create and run successful video marketing campaigns on social media."
+    },
+    {
+      "question": "Is customization possible with Syllaby?",
+      "answer": "Yes! You can select your preferred style, tone, and script length, and our AI will generate a script that fits your specifications."
+    },
+    {
+      "question": "Is data secure with Syllaby?",
+      "answer": "Absolutely! We adhere to strict privacy policies and use encryption to ensure your data is secure."
+    },
+    {
+      "question": "Is there a free trial available?",
+      "answer": "Yes, we offer a free trial period for you to explore our tool and see if it’s the right fit for you. You can cancel anytime during the trial period without any obligation."
+    },
+    {
+      "question": "How can I get support with Syllaby?",
+      "answer": "We have a dedicated support team available via email, and one-on-one user interview/ tutorial to assist you with any questions or issues."
+    },
+    {
+      "question": "Can I export and share videos created with Syllaby?",
+      "answer": "Yes, you can export the videos in different formats and share them directly to social media platforms or with a shareable link."
+    }
+  ],
+  "url": "https://syllaby.io/"
+}

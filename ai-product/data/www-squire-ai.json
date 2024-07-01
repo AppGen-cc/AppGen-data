@@ -1,0 +1,16 @@
+{
+  "description": "Squire is a context aware agent who works with you to write pull request descriptions, review PRs.",
+  "title": "Squire AI - Never code alone",
+  "introduction": "Squire is a context aware agent that assists in writing pull request descriptions, reviewing PRs, and learning how users prefer their code to be reviewed. It helps in improving code quality and getting PRs into production.",
+  "category": "Code&IT",
+  "features": [
+    "Automated pull request descriptions",
+    "Code review assistance",
+    "Learning user code review preferences"
+  ],
+  "hasFreeTrial": "Not specified",
+  "targetPeople": "Developers, Software Engineers",
+  "pricing": "Not specified",
+  "faqs": [],
+  "url": "https://www.squire.ai/"
+}

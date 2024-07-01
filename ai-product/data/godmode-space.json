@@ -1,0 +1,25 @@
+{
+  "description": "Explore the Power of Generative AI Agents on Godmode. Inspired by Auto-GPT and BabyAGI. Supports GPT-3.5 & GPT-4.",
+  "title": "Godmode AI - Unlock the power of AI Agents",
+  "keywords": "Godmode, AI, LLM, Agents",
+  "introduction": "Godmode is a web platform that provides access to the automation powers of autoGPT and babyAGI. It enables users to tap into autonomous AI agents like GPT-3.5 & GPT-4.",
+  "category": "AI Detector",
+  "features": [
+    "Access to autoGPT and babyAGI automation powers",
+    "Support for GPT-3.5 & GPT-4"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Users interested in leveraging AI agents",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "Who is behind Godmode?",
+      "answer": "Godmode is a project by @_Lonis_ and @emilahlback."
+    },
+    {
+      "question": "How can I get help or discuss the project?",
+      "answer": "You can join the Discord server at https://discord.gg/vSzCcDDwz3 to get help, discuss the project, and receive updates."
+    }
+  ],
+  "url": "https://godmode.space/"
+}

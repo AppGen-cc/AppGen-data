@@ -1,0 +1,38 @@
+{
+  "description": "Coverse helps teams streamline their daily operations and manage them in one single process.",
+  "title": "All your team materials and content are in one place | Coverse",
+  "keywords": "align team,annotate,brainstorm,brainstorming,collaboration,consolidate content,digital workspace,ideate,manage tasks,meeting,mind mapping,mood boards,notes,online meetings,online whiteboard,organize content visually,plan ideas,post-its,productive meetings,productivity,project collaboration,project management,projects,remote collaboration,remote whiteboard,task management,tasks,team alignment,team collaboration,teamwork,unify content,video call,video chat,visual collaboration,visual flows,visual planning,visual thinking,web conferencing,whiteboard,work together,write notes",
+  "introduction": "Coverse is a collaborative platform that helps teams organize documents, streamline workflows, and improve productivity. It offers features such as real-time collaboration, task management, and visualizing files in a workflow. The platform provides security measures like encryption and GDPR compliance to protect user data.",
+  "features": [
+    "Consolidate tools and manage files in one place",
+    "Visualize files in workflow",
+    "Automate routine tasks with AI teammate",
+    "Comment and markup documents in real-time",
+    "Built-in video chat for team collaboration",
+    "Task management and deadline tracking",
+    "Integration with existing technology"
+  ],
+  "pricing": "Pay per month or annually, and cancel anytime. Monthly: Free, Pro $4.75 per month billed annually, Enterprise contact for pricing.",
+  "faqs": [
+    {
+      "question": "Can I choose to pay monthly or yearly?",
+      "answer": "Yes, you can choose to pay monthly or annually by selecting one of the options above the subscription plans. You will save 20% when subscribing annually."
+    },
+    {
+      "question": "Can I change my plan at anytime?",
+      "answer": "Whether you are on Free or Pro, our plans are flexible and you can change your plan at any time."
+    },
+    {
+      "question": "How can I pay for Coverse?",
+      "answer": "You can pay for your subscription using a credit card or bank transfer payments."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "You can cancel your subscription at any time. If you want to temporarily pause your subscription, contact us."
+    }
+  ],
+  "category": "Productivity",
+  "hasFreeTrial": "Free",
+  "targetPeople": "Teams, clients, and individuals",
+  "url": "https://coverse.one/"
+}

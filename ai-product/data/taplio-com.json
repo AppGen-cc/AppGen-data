@@ -1,0 +1,53 @@
+{
+  "description": "Join 6000+ LinkedIn pros using the all-in-one, AI-powered LinkedIn tool. Content creation, scheduling, engaging, analytics and more.",
+  "title": "Grow Your Personal Brand On LinkedIn",
+  "introduction": "Taplio is an all-in-one LinkedIn tool that helps users grow their audience on LinkedIn and build relationships that lead to business opportunities. It offers features for content creation, engagement, lead generation, and performance measurement. The tool is trusted by over 6,000 creators and companies and is known for its focus on personal branding and relationship building on LinkedIn.",
+  "category": "Business",
+  "features": [
+    "Access to over 4M viral posts on every topic",
+    "Advanced content scheduling with features like @mentions, carousels, and auto-comments",
+    "Personal analytics dashboard for tracking impressions, engagement, and profile visits",
+    "AI-powered content creation and Chat Assistant for saving time on content creation and engagement",
+    "Relationship Builder for identifying and nurturing new relationships on LinkedIn",
+    "Team Features for creating content for team members or clients and measuring their performance on LinkedIn",
+    "Lead Database access for outreach needs and higher limits on relationship-building and AI-generation features"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Content creators, freelancers, founders, teams, agencies",
+  "pricing": "Subscription",
+  "faqs": [
+    {
+      "question": "What is Taplio?",
+      "answer": "Taplio is an all-in-one LinkedIn tool that helps users grow their audience on LinkedIn and build relationships that lead to business opportunities. It is trusted by over 6,000 creators and companies and focuses on creating impactful LinkedIn content faster, engaging with the right people, finding and converting leads, and measuring results."
+    },
+    {
+      "question": "What makes Taplio different from other tools?",
+      "answer": "Taplio focuses on building a personal brand on LinkedIn through content creation and engagement, unlike other tools that mainly focus on lead generation and automation. It integrates with various tools for cold outreach and provides features like AI technology, viral post database, and relationship building."
+    },
+    {
+      "question": "Who is Taplio for?",
+      "answer": "Taplio is for individuals and companies looking to build personal brands for business purposes. It is suitable for content creators, freelancers, founders, teams, and agencies who want to shine on LinkedIn and attract business opportunities."
+    },
+    {
+      "question": "How do the free trial and refund policy work?",
+      "answer": "Taplio offers a 7-day free trial upon creating an account and selecting a plan. Users can cancel the trial at any time. If users continue after the trial, they will be charged for the first month or year, with a 30-day refund policy on the first payment."
+    },
+    {
+      "question": "Which plan is right for me?",
+      "answer": "The right plan depends on individual needs. The Starter plan is suitable for those who don't need help with content creation. The Standard plan is popular for those who want assistance with content and engagement. The Pro plan is ideal for LinkedIn power users seeking higher limits and access to the lead database."
+    },
+    {
+      "question": "Can I cancel anytime? How?",
+      "answer": "Yes, users can cancel anytime by accessing the Settings section of Taplio and navigating to the Billing tab, where they can upgrade, downgrade, or cancel their subscription."
+    },
+    {
+      "question": "Is Taplio safe to use?",
+      "answer": "Taplio provides features to enhance LinkedIn usage without positioning itself as an automation tool. It uses AI technology, viral post database, and relationship-building tools to create content and build relationships. Some features require the Taplio Chrome Extension, but most features work without it, ensuring account safety."
+    },
+    {
+      "question": "How does Taplio work for teams and agencies?",
+      "answer": "Taplio offers team features for adding team members and clients to leverage LinkedIn for business purposes. Agencies providing LinkedIn-related services can add clients to their account and access multiple Taplio accounts within the organization. A single invoice is provided monthly for smoother accounting processes."
+    }
+  ],
+  "url": "https://taplio.com/"
+}

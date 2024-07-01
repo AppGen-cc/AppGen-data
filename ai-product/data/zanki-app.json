@@ -1,0 +1,30 @@
+{
+  "title": "\nZanki\n     · Have fun learning to readApp screenshotSound outStickersStories",
+  "introduction": "Zanki is a flashcard-based learning tool designed to help busy parents teach their children to read in just 5-10 minutes a day. The platform adjusts the review schedule based on missed days and the child's progress.",
+  "category": "Education",
+  "features": [
+    "Quick 5-10 minute sessions",
+    "Algorithm-adjusted review schedule",
+    "Mix of new and review cards",
+    "Parent prompts on each card",
+    "Reward system with stickers"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Busy parents with young children learning to read",
+  "pricing": "Not mentioned",
+  "faqs": [
+    {
+      "question": "How long are the Zanki sessions?",
+      "answer": "Zanki flashcard sessions are designed to be quick and engaging, lasting just 5-10 minutes each day."
+    },
+    {
+      "question": "What happens if we miss a day?",
+      "answer": "If you miss a day (or three), Zanki's algorithm adjusts the review schedule accordingly."
+    },
+    {
+      "question": "How does Zanki keep my child engaged?",
+      "answer": "Zanki rewards your child with a sticker after each review session. There are thousands of stickers to choose from, or you can create your own."
+    }
+  ],
+  "url": "https://zanki.app/"
+}

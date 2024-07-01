@@ -1,0 +1,30 @@
+{
+  "description": "The world's only customer-led conversational platform for enterprise.",
+  "title": "Home - PolyAI",
+  "introduction": "PolyAI offers a voice assistant solution that helps businesses answer FAQs and provide customer support through natural conversations. The platform integrates with existing technology and aims to improve customer experience while reducing call volume and increasing revenue. PolyAI is designed for enterprise use, with a focus on security, integrations, and real-time analytics.",
+  "category": "AI Detector",
+  "features": [
+    "Answer FAQs through natural conversations",
+    "Integrate with existing technology easily",
+    "Improve customer experience and increase revenue",
+    "Real-time analytics for insights and performance monitoring"
+  ],
+  "hasFreeTrial": "No",
+  "targetPeople": "Businesses looking to enhance customer support and automate FAQ responses",
+  "pricing": "Priced on a per-minute basis with included support, data security, uptime SLA, and system upgrades",
+  "faqs": [
+    {
+      "question": "What is PolyAI for FAQs?",
+      "answer": "PolyAI helps businesses answer FAQs before they're escalated to an agent by understanding complex queries, offering personalized responses, and integrating with various systems."
+    },
+    {
+      "question": "What can a customer-led voice assistant do for FAQs?",
+      "answer": "A customer-led voice assistant can understand complex queries, offer personalized responses, send digital resources via SMS, and hand over information to agent desktops for faster resolution."
+    },
+    {
+      "question": "How does PolyAI help businesses improve customer experience?",
+      "answer": "PolyAI allows customers to speak naturally, interrupt, and change topics during conversations, providing a personalized touch while delivering automated service."
+    }
+  ],
+  "url": "https://poly.ai/"
+}

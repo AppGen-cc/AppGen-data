@@ -1,0 +1,21 @@
+{
+  "description": "WisdomPlan is an AI-powered, community-driven learning platform that guides adult learners to skill mastery and career growth with personalized learning pathways and robust learning support.",
+  "title": "WisdomPlan: Your AI-Powered Learning Companion",
+  "introduction": "WisdomPlan is an AI-powered platform designed to create tailored learning plans quickly and efficiently. It helps users plan, schedule, and sequence their learning tasks, centralize resources, and adapt tasks as they progress.",
+  "category": "Education",
+  "features": [
+    "Intelligent planning, scheduling, and sequencing",
+    "Centralize courses, docs, and webpages in one plan",
+    "Adapt your learning tasks as you go",
+    "Take notes when learning in one convenient place",
+    "Calendar and email reminders for consistent learning",
+    "Analytics dashboard to help you track progress",
+    "Sharing your plans with classmates and friends",
+    "Access to 100+ learning plans from the community"
+  ],
+  "hasFreeTrial": "Not mentioned",
+  "targetPeople": "Learners seeking efficient and personalized learning plans",
+  "pricing": "Not mentioned",
+  "faqs": [],
+  "url": "https://wisdomplan.ai/"
+}

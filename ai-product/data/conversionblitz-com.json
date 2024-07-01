@@ -1,0 +1,42 @@
+{
+  "description": "Boost your sales pipeline with AI lead generation software. Automate prospecting, enhance targeting, and increase conversion rates. Discover more now!",
+  "title": "AI Lead Generation Software and Sales Automation Software | Conversion Blitz - Conversion Blitz",
+  "introduction": "Our platform provides a suite of lead generation tools designed to help you grow your company. You can find leads, send targeted emails, create a chatbot, and more, all within our comprehensive suite of products. These tools are tailored to enhance your marketing strategies and support your lead generation efforts effectively.",
+  "category": "Marketing",
+  "features": [
+    "Email address, phone & social media extractor from a list of websites",
+    "Find new domains registered today with leads information",
+    "AI chatbot solution to capture and convert visitors into leads",
+    "Online review management software to get more online reviews",
+    "AI email marketing software for sales sequence and newsletter campaigns",
+    "API to prevent fake emails registration on your service",
+    "Social proof notification widget to increase credibility on your website",
+    "Extract B2B emails from B2B social media and build targeted lists"
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Businesses looking to enhance their lead generation efforts and drive meaningful results",
+  "pricing": "Subscription (Monthly and Yearly)",
+  "faqs": [
+    {
+      "question": "What is included in the suite?",
+      "answer": "The package encompasses a comprehensive suite of tools and features designed to optimize your lead generation efforts. It includes efficient data extraction, one-click lead discovery, tailored list creation, precision targeting, and time and resource savings."
+    },
+    {
+      "question": "How quickly can customer service resolve issues?",
+      "answer": "Our dedicated customer service teams are always ready to resolve any issues you encounter quickly. Depending on the complexity, resolutions typically take only minutes or hours."
+    },
+    {
+      "question": "How can I manage my subscription?",
+      "answer": "Managing your subscription is effortless through your dashboard. You can pause your subscription, remove your credit card information, or cancel your subscription at any time."
+    },
+    {
+      "question": "How are invoices handled?",
+      "answer": "Invoices are automatically generated whenever you upgrade your plan or when your subscription renews each month, ensuring you always have a clear and timely record of your payments."
+    },
+    {
+      "question": "Can I suggest new features?",
+      "answer": "If you have specific needs or suggestions, please reach out to us. If your suggestion adds value, we may incorporate it into our product, although implementing new features may take some time."
+    }
+  ],
+  "url": "https://conversionblitz.com/"
+}

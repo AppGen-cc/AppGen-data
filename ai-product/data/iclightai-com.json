@@ -1,0 +1,46 @@
+{
+  "description": "Use IC Light AI to easily control the light and shadow of your images to create the best photos. Explore different lighting to inspire your creations!",
+  "title": "IC Light AI: Free Online AI Images Imposing Consistent Light",
+  "introduction": "ICLightAI.com is an AI tool powered by IC Light AI technology, aimed at transforming image lighting. It helps alter portrait lighting, enabling effortless manipulation and control of image illumination, effortlessly enhancing portrait photos.",
+  "category": "Design&Art",
+  "features": [
+    "IC Light AI utilizes advanced deep learning techniques to revolutionize portrait relighting through text-conditioned and background-conditioned relighting methods.",
+    "IC Light AI is versatile, catering to a range of demand scenarios in portrait photography for professional photographers, social media enthusiasts, e-commerce, family photography, and professional post-processing.",
+    "IC Light AI supports image widths of [256, 320, 384, 448, 512, 576, 640, 704, 768, 832, 896, 960, 1024] and heights of [256, 320, 384, 448, 512, 576, 640, 704, 768, 832, 896, 960, 1024].",
+    "IC Light AI currently supports the following lighting options: Left Light, Right Light, Top Light, Bottom Light. Additional options will be added in the future."
+  ],
+  "hasFreeTrial": "Yes",
+  "targetPeople": "Professional photographers, social media enthusiasts, e-commerce platforms, family photographers, and individuals seeking high-quality portrait lighting enhancements.",
+  "pricing": "Credits purchase required for enhanced support services. Free trials available.",
+  "faqs": [
+    {
+      "question": "Do I get free credits?",
+      "answer": "Yes, currently every user automatically receives 5 free credits."
+    },
+    {
+      "question": "Does generating an image consume credits?",
+      "answer": "Yes, generating an image consumes credits. Currently, creating one image requires one credit."
+    },
+    {
+      "question": "Can I download and share the images I generate?",
+      "answer": "Yes, you can download the generated images to your computer and share them on social media platforms like Facebook, Twitter, and Instagram."
+    },
+    {
+      "question": "What is the quality of images?",
+      "answer": "All images generated on the platform are high-resolution with a standard size of 1024x1024 pixels, ensuring sharp and clear images suitable for digital use and prints."
+    },
+    {
+      "question": "Can I get a refund?",
+      "answer": "Regrettably, due to the significant resources required for image processing, refunds are not offered."
+    },
+    {
+      "question": "Is the payment service secure?",
+      "answer": "Yes, the payment service is secure, with financial processing handled by Lemonsqueezy with high security standards."
+    },
+    {
+      "question": "How to Handle NSFW or Adult Content?",
+      "answer": "Creation of NSFW or adult content is prohibited on the website, and any such content discovered will be deleted with possible punitive actions."
+    }
+  ],
+  "url": "https://iclightai.com/"
+}
